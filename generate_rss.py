@@ -48,20 +48,20 @@ def fetch_feed(url):
 
 def parse_date(entry):
     """Konvertiert verschiedene Datumsformate in datetime"""
-    from datetime import timezone
-    
     date_fields = ['published', 'updated', 'created']
     
     for field in date_fields:
         if hasattr(entry, field):
             try:
-                parsed_date = date_parser.parse(getattr(entry, field))
-                # Stelle sicher, dass alle Datumsangaben timezone-aware sind
-                if parsed_date.tzinfo is None:
-                    parsed_date = parsed_date.replace(tzinfo=timezone.utc)
-                return parsed_date
-            except:
-                pass
+                date_string = getattr(entry, field)
+                if date_string:  # Nur wenn nicht leer
+                    parsed_date = date_parser.parse(date_string)
+                    # Stelle sicher, dass alle Datumsangaben timezone-aware sind
+                    if parsed_date.tzinfo is None:
+                        parsed_date = parsed_date.replace(tzinfo=timezone.utc)
+                    return parsed_date
+            except Exception as e:
+                continue
     
     # Fallback auf aktuelles Datum (timezone-aware)
     return datetime.now(timezone.utc)
@@ -97,10 +97,25 @@ def create_rss_feed(entries, max_entries=100):
     atom_link.set('type', 'application/rss+xml')
     
     # Sortiere Einträge nach Datum (neueste zuerst)
-    entries.sort(key=lambda x: x['date'], reverse=True)
+    # Filtere erst alle Einträge mit ungültigen Daten heraus
+    valid_entries = []
+    for entry in entries:
+        try:
+            # Teste ob das Datum sortierbar ist
+            if entry.get('date') and isinstance(entry['date'], datetime):
+                # Stelle sicher, dass das Datum timezone-aware ist
+                if entry['date'].tzinfo is None:
+                    entry['date'] = entry['date'].replace(tzinfo=timezone.utc)
+                valid_entries.append(entry)
+        except Exception as e:
+            print(f"Warnung: Überspringe Entry mit ungültigem Datum: {e}")
+            continue
+    
+    # Jetzt sortieren
+    valid_entries.sort(key=lambda x: x['date'], reverse=True)
     
     # Füge Items hinzu (begrenzt auf max_entries)
-    for entry_data in entries[:max_entries]:
+    for entry_data in valid_entries[:max_entries]:
         item = ET.SubElement(channel, 'item')
         
         ET.SubElement(item, 'title').text = entry_data['title']
