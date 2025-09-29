@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import feedparser
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from dateutil import parser as date_parser
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -48,17 +48,23 @@ def fetch_feed(url):
 
 def parse_date(entry):
     """Konvertiert verschiedene Datumsformate in datetime"""
+    from datetime import timezone
+    
     date_fields = ['published', 'updated', 'created']
     
     for field in date_fields:
         if hasattr(entry, field):
             try:
-                return date_parser.parse(getattr(entry, field))
+                parsed_date = date_parser.parse(getattr(entry, field))
+                # Stelle sicher, dass alle Datumsangaben timezone-aware sind
+                if parsed_date.tzinfo is None:
+                    parsed_date = parsed_date.replace(tzinfo=timezone.utc)
+                return parsed_date
             except:
                 pass
     
-    # Fallback auf aktuelles Datum
-    return datetime.now()
+    # Fallback auf aktuelles Datum (timezone-aware)
+    return datetime.now(timezone.utc)
 
 def sanitize_text(text):
     """Bereinigt Text für XML"""
@@ -81,7 +87,7 @@ def create_rss_feed(entries, max_entries=100):
     ET.SubElement(channel, 'link').text = 'https://github.com/your-username/your-repo'
     ET.SubElement(channel, 'description').text = 'Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen'
     ET.SubElement(channel, 'language').text = 'de'
-    ET.SubElement(channel, 'lastBuildDate').text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S %z')
+    ET.SubElement(channel, 'lastBuildDate').text = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
     ET.SubElement(channel, 'generator').text = 'RSS-Aggregator Script'
     
     # Atom Self-Link
