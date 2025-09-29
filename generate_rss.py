@@ -84,7 +84,7 @@ def create_rss_feed(entries, max_entries=100):
     
     # Feed Metadaten
     ET.SubElement(channel, 'title').text = 'IT-Security & Privacy News Aggregator'
-    ET.SubElement(channel, 'link').text = 'https://github.com/your-username/your-repo'
+    ET.SubElement(channel, 'link').text = 'https://github.com/unChained-int/security-test'
     ET.SubElement(channel, 'description').text = 'Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen'
     ET.SubElement(channel, 'language').text = 'de'
     ET.SubElement(channel, 'lastBuildDate').text = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
@@ -92,7 +92,7 @@ def create_rss_feed(entries, max_entries=100):
     
     # Atom Self-Link
     atom_link = ET.SubElement(channel, 'atom:link')
-    atom_link.set('href', 'https://raw.githubusercontent.com/your-username/your-repo/main/feed.xml')
+    atom_link.set('href', 'https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml')
     atom_link.set('rel', 'self')
     atom_link.set('type', 'application/rss+xml')
     
