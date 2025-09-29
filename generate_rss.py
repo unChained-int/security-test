@@ -101,19 +101,21 @@ def create_rss_feed(entries, max_entries=100):
     valid_entries = []
     for entry in entries:
         try:
-            # Teste ob das Datum sortierbar ist
+            # Prüfe, ob ein Datum existiert und es ein datetime-Objekt ist
             if entry.get('date') and isinstance(entry['date'], datetime):
-                # Stelle sicher, dass das Datum timezone-aware ist
+                # Wenn keine Zeitzone vorhanden ist, setze UTC
                 if entry['date'].tzinfo is None:
                     entry['date'] = entry['date'].replace(tzinfo=timezone.utc)
                 valid_entries.append(entry)
+            else:
+                print("Warnung: Kein gültiges Datum gefunden.")
         except Exception as e:
             print(f"Warnung: Überspringe Entry mit ungültigem Datum: {e}")
             continue
     
-    # Jetzt sortieren
+    # Sortiere die Einträge absteigend nach Datum
     valid_entries.sort(key=lambda x: x['date'], reverse=True)
-    
+        
     # Füge Items hinzu (begrenzt auf max_entries)
     for entry_data in valid_entries[:max_entries]:
         item = ET.SubElement(channel, 'item')
