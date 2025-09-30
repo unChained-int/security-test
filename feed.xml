@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 30 Sep 2025 01:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 06:28:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Thu, 13 Nov 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems</title>
+      <link>https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical security flaw impacting the Sudo command-line utility for Linux and Unix-like operating systems to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+The vulnerability in question is CVE-2025-32463 (CVSS score: 9.3), which affects Sudo versions prior to</description>
+      <pubDate>Tue, 30 Sep 2025 11:11:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>IoT Security Flounders Amid Churning Risk</title>
@@ -1019,25 +1029,6 @@ This week’s recap explores the trends driving that constant churn: how threat<
       <guid isPermaLink="true">https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Details About Chinese Surveillance and Propaganda Companies</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/details-about-chinese-surveillance-and-propaganda-companies.html</link>
-      <description>&amp;lt;p&amp;gt;Details from &amp;lt;a href=&amp;quot;https://www.wired.com/story/made-in-china-how-chinas-surveillance-industry-actually-works/&amp;quot;&amp;gt;leaked documents&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;While people often look at China’s Great Firewall as a single, all-powerful government system unique to China, the actual process of developing and maintaining it works the same way as surveillance technology in the West. Geedge collaborates with academic institutions on research and development, adapts its business strategy to fit different clients’ needs, and even repurposes leftover infrastructure from its competitors.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The parallels with the West are hard to miss. A number of American surveillance and propaganda firms also started as academic projects before they were spun out into startups and grew by chasing government contracts. The difference is that in China, these companies operate with far less transparency. Their work comes to light only when a trove of documents slips onto the internet...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 22 Sep 2025 11:03:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/09/details-about-chinese-surveillance-and-propaganda-companies.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>censorship</category>
-      <category>China</category>
-      <category>leaks</category>
-      <category>privacy</category>
-      <category>propaganda</category>
-      <category>surveillance</category>
     </item>
   </channel>
 </rss>
