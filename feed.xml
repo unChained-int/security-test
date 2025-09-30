@@ -2,18 +2,45 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>IT-Security &amp; Privacy News Aggregator</title>
-    <link>https://github.com/your-username/your-repo</link>
+    <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 29 Sep 2025 18:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 01:21:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
-    <atom:link href="https://raw.githubusercontent.com/your-username/your-repo/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[Dark Reading Virtual Event] Know Your Enemy: How cybercriminals and nation-state hackers operate</title>
       <link>https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</link>
       <description/>
       <pubDate>Thu, 13 Nov 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>IoT Security Flounders Amid Churning Risk</title>
+      <link>https://www.darkreading.com/iot/iot-security-flounders-amid-churning-risk</link>
+      <description>The Internet of Things (IoT) has made everything more interconnected than ever, but an important US government security initiative is stuck in limbo even as threat actors step up attacks on everything from medical gear to printers.</description>
+      <pubDate>Mon, 29 Sep 2025 21:45:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/iot/iot-security-flounders-amid-churning-risk</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Sneaky, Malicious MCP Server Exfiltrates Secrets via BCC</title>
+      <link>https://www.darkreading.com/application-security/malicious-mcp-server-exfiltrates-secrets-bcc</link>
+      <description>The first known malicious MCP server is an AI integration tool that automatically sends email such as those related to password resets, account confirmations, security alerts, invoices, and receipts to threat actors.</description>
+      <pubDate>Mon, 29 Sep 2025 21:13:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/malicious-mcp-server-exfiltrates-secrets-bcc</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Akira Hits SonicWall VPNs in Broad Ransomware Campaign</title>
+      <link>https://www.darkreading.com/application-security/akira-sonicwall-vpns-broad-ransomware-campaign</link>
+      <description>Akira ransomware actors are currently targeting SonicWall firewall customers vulnerable to a bug discovered last year.</description>
+      <pubDate>Mon, 29 Sep 2025 20:53:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/akira-sonicwall-vpns-broad-ransomware-campaign</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -466,7 +493,7 @@ The vulnerability has been codenamed ForcedLeak (CVSS score: 9.4) by Noma Securi
     <item>
       <title>How Cloud Service Disruptions Are Making Resilience Critical for Developers</title>
       <link>https://www.darkreading.com/application-security/cloud-service-disruptions-make-resilience-critical-developers</link>
-      <description>Outages affecting DevOps tools threaten to leave developers coding like it&amp;apos;s 1999. How serious is the threat and what can companies do?</description>
+      <description>Outages affecting DevOps tools threaten to leave developers coding like it&amp;apos;s 1999. How serious is the threat — and what can companies do?</description>
       <pubDate>Thu, 25 Sep 2025 13:39:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/cloud-service-disruptions-make-resilience-critical-developers</guid>
       <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
@@ -1011,35 +1038,6 @@ This week’s recap explores the trends driving that constant churn: how threat<
       <category>privacy</category>
       <category>propaganda</category>
       <category>surveillance</category>
-    </item>
-    <item>
-      <title>How to Gain Control of AI Agents and Non-Human Identities</title>
-      <link>https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html</link>
-      <description>We hear this a lot:
-“We’ve got hundreds of service accounts and AI agents running in the background. We didn’t create most of them. We don’t know who owns them. How are we supposed to secure them?”
-Every enterprise today runs on more than users. Behind the scenes, thousands of non-human identities, from service accounts to API tokens to AI agents, access systems, move data, and execute tasks</description>
-      <pubDate>Mon, 22 Sep 2025 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants</title>
-      <link>https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html</link>
-      <description>A critical token validation failure in Microsoft Entra ID (previously Azure Active Directory) could have allowed attackers to impersonate any user, including Global Administrators, across any tenant.
-The vulnerability, tracked as CVE-2025-55241, has been assigned the maximum CVSS score of 10.0. It has been described by Microsoft as a privilege escalation flaw in Azure Entra. There is no</description>
-      <pubDate>Mon, 22 Sep 2025 11:17:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Solving CISOs’ Toughest Security Challenges with CRPM | UpGuard</title>
-      <link>https://www.upguard.com/blog/solving-toughest-security-challenges-crpm</link>
-      <description>Feeling the pressure of leading your security team? You’re not alone. Learn how CRPM reduces risk and automates compliance to prove your security posture.</description>
-      <pubDate>Mon, 22 Sep 2025 04:24:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/solving-toughest-security-challenges-crpm</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
