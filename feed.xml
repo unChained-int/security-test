@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 30 Sep 2025 18:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 01:28:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,52 @@
       <pubDate>Thu, 13 Nov 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China Imposes One-Hour Reporting Rule for Major Cyber Incidents</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/china-one-hour-reporting-rule-major-cyber-incidents</link>
+      <description>The sweeping new regulations show that China&amp;apos;s serious about hardening its own networks after launching widespread attacks on global networks.</description>
+      <pubDate>Wed, 01 Oct 2025 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/china-one-hour-reporting-rule-major-cyber-incidents</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New China APT Strikes With Precision and Persistence</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/new-china-apt-strikes-precision-persistence</link>
+      <description>Phantom Taurus demonstrates a deep understanding of Windows environments, including advanced components like IIServerCore, a fileless backdoor that executes in memory to evade detection.</description>
+      <pubDate>Tue, 30 Sep 2025 21:09:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/new-china-apt-strikes-precision-persistence</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;Klopatra&amp;apos; Trojan Makes Bank Transfers While You Sleep</title>
+      <link>https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep</link>
+      <description>A sophisticated new banking malware is hard to detect, capable of stealing lots of money, and infecting thousands of people in Italy and Spain.</description>
+      <pubDate>Tue, 30 Sep 2025 20:28:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/klopatra-trojan-bank-transfers-sleep</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China Exploited New VMware Bug for Nearly a Year</title>
+      <link>https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly</link>
+      <description>A seemingly benign privilege-escalation process in VMware and other software has likely benefited attackers and other malware strains for years, researchers noted.</description>
+      <pubDate>Tue, 30 Sep 2025 19:41:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/china-exploited-new-vmware-bug-nearly</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections</title>
+      <link>https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</link>
+      <description>A group of academics from KU Leuven and the University of Birmingham has demonstrated a new vulnerability called Battering RAM to bypass the latest defenses on Intel and AMD cloud processors.
+&amp;quot;We built a simple, $50 interposer that sits quietly in the memory path, behaving transparently during startup and passing all trust checks,&amp;quot; researchers Jesse De Meulemeester, David Oswald, Ingrid</description>
+      <pubDate>Wed, 01 Oct 2025 00:12:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware</title>
@@ -988,53 +1034,6 @@ The vulnerability, tracked as CVE-2025-59689, carries a CVSS score of 6.1, indic
       <guid isPermaLink="true">https://www.darkreading.com/application-security/github-secure-supply-chain-npm-hacks-ramp-up</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Exposed Docker Daemons Fuel DDoS Botnet</title>
-      <link>https://www.darkreading.com/cyber-risk/exposed-docker-daemons-fuel-ddos-botnet</link>
-      <description>The for-hire platform leverages legitimate cloud-native tools to make detection and disruption harder for defenders and SOC analysts.</description>
-      <pubDate>Tue, 23 Sep 2025 20:35:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/exposed-docker-daemons-fuel-ddos-botnet</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>From FBI to CISO: Unconventional Paths to Cybersecurity Success</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/fbi-ciso-unconventional-paths-cybersecurity-success</link>
-      <description>Cybersecurity leader Jason Manar shares insights on diverse career paths, essential skills, and practical advice for entering and thriving in the high-stress yet rewarding field of cybersecurity.</description>
-      <pubDate>Tue, 23 Sep 2025 20:30:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/fbi-ciso-unconventional-paths-cybersecurity-success</guid>
-      <dc:creator>Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Dark Reading Confidential: Battle Space: Cyber Pros Land on the Front Lines of Protecting US Critical Infrastructure</title>
-      <link>https://www.darkreading.com/cyber-risk/dark-reading-confidential-battle-space-cyber-pros-land-on-the-front-lines-of-protecting-us-critical-infrastructure</link>
-      <description>Dark Reading Confidential Episode 10: It’s past time for a comprehensive plan to protect vital US systems from nation-state cyberattacks, and increasingly, that responsibility is falling to asset owners across a vast swath of organizations, who likely never bargained for an international cyber conflict playing out in their environments. But here we are. And here&amp;apos;s what comes next, according to Frank Cilluffo from the McCrary Institute and Booz Allen&amp;apos;s Dave Forbes.</description>
-      <pubDate>Tue, 23 Sep 2025 18:41:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/dark-reading-confidential-battle-space-cyber-pros-land-on-the-front-lines-of-protecting-us-critical-infrastructure</guid>
-      <dc:creator>Dark Reading Staff</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security</title>
-      <link>https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html</link>
-      <description>Cybersecurity researchers have disclosed details of two security vulnerabilities impacting Supermicro Baseboard Management Controller (BMC) firmware that could potentially allow attackers to bypass crucial verification steps and update the system with a specially crafted image.
-The medium-severity vulnerabilities, both of which stem from improper verification of a cryptographic signature, are</description>
-      <pubDate>Tue, 23 Sep 2025 23:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Eurojust Arrests 5 in €100M Cryptocurrency Investment Fraud Spanning 23 Countries</title>
-      <link>https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html</link>
-      <description>Law enforcement authorities in Europe have arrested five suspects in connection with an &amp;quot;elaborate&amp;quot; online investment fraud scheme that stole more than €100 million ($118 million) from over 100 victims in France, Germany, Italy, and Spain.
-According to Eurojust, the coordinated action saw searches in five places across Spain and Portugal, as well as in Italy, Romania and Bulgaria. Bank accounts</description>
-      <pubDate>Tue, 23 Sep 2025 22:43:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/eurojust-arrests-5-in-100m.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
