@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Oct 2025 12:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 18:26:22 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,104 @@
       <pubDate>Thu, 13 Nov 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer</title>
+      <link>https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html</link>
+      <description>In yet another piece of research, academics from Georgia Institute of Technology and Purdue University have demonstrated that the security guarantees offered by Intel&amp;apos;s Software Guard eXtensions (SGX) can be bypassed on DDR4 systems to passively decrypt sensitive data.
+SGX is designed as a hardware feature in Intel server processors that allows applications to be run in a Trusted Execution</description>
+      <pubDate>Wed, 01 Oct 2025 22:50:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Broadcom Issues Patches for VMware NSX and vCenter Security Flaws</title>
+      <link>https://www.infosecurity-magazine.com/news/broadcom-patches-vmware-nsx-vcenter/</link>
+      <description>Broadcom has released security patches for critical flaws affecting several VMware products</description>
+      <pubDate>Wed, 01 Oct 2025 15:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/broadcom-patches-vmware-nsx-vcenter/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Shortcut-based Credential Lures Deliver DLL Implants</title>
+      <link>https://www.infosecurity-magazine.com/news/shortcut-credential-lures-deliver/</link>
+      <description>A new campaign has been observed using malicious Windows shortcuts in credential-themed ZIP files to deploy PowerShell script</description>
+      <pubDate>Wed, 01 Oct 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shortcut-credential-lures-deliver/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>A $50 &amp;apos;Battering RAM&amp;apos; Can Bust Confidential Computing</title>
+      <link>https://www.darkreading.com/cloud-security/50-battering-ram-bust-confidential-computing</link>
+      <description>Researchers have demonstrated an attack that can break through modern Intel and AMD processor technologies that protect encrypted data stored in memory.</description>
+      <pubDate>Wed, 01 Oct 2025 14:54:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/50-battering-ram-bust-confidential-computing</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The AI Exchange: Innovators in Payment Security Featuring Elavon Inc.</title>
+      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-elavon-inc</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-elavon-inc&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring Elavon Inc.&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Candice%20Pressinger%20800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 01 Oct 2025 14:38:56 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-elavon-inc</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Community Meetings</category>
+      <category>Awareness</category>
+      <category>Interview</category>
+      <category>Artificial Intelligence (AI)</category>
+    </item>
+    <item>
+      <title>Undead Operating Systems Haunt Enterprise Security Networks</title>
+      <link>https://www.darkreading.com/endpoint-security/undead-operating-systems-haunt-enterprise-security-networks</link>
+      <description>Windows 10 reaches end-of-life on Oct. 14, which will triple the number of vulnerable enterprise systems and create a massive attack surface for cybercriminals.</description>
+      <pubDate>Wed, 01 Oct 2025 13:59:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/undead-operating-systems-haunt-enterprise-security-networks</guid>
+      <dc:creator>Fahmida Y. Rashid</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Key Vendor Risk Assessment Criteria and How to Apply Them | UpGuard</title>
+      <link>https://www.upguard.com/blog/vendor-risk-assessment-criteria</link>
+      <description>Learn how to apply vendor risk assessment criteria effectively. Use automation, scoring tools, and checklists to reduce third-party risk.</description>
+      <pubDate>Wed, 01 Oct 2025 13:35:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-assessment-criteria</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps</title>
+      <link>https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html</link>
+      <description>A high-severity security flaw has been disclosed in the One Identity OneLogin Identity and Access Management (IAM) solution that, if successfully exploited, could expose sensitive OpenID Connect (OIDC) application client secrets under certain circumstances.
+The vulnerability, tracked as CVE-2025-59363, has been assigned a CVSS score of 7.7 out of 10.0. It has been described as a case of</description>
+      <pubDate>Wed, 01 Oct 2025 18:57:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Learn How Leading Security Teams Blend AI + Human Workflows (Free Webinar)</title>
+      <link>https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html</link>
+      <description>AI is changing automation—but not always for the better. That’s why we’re hosting a new webinar, &amp;quot;Workflow Clarity: Where AI Fits in Modern Automation,&amp;quot; with Thomas Kinsella, Co-founder &amp;amp;amp; Chief Customer Officer at Tines, to explore how leading teams are cutting through the hype and building workflows that actually deliver.The rise of AI has changed how organizations think about automation.</description>
+      <pubDate>Wed, 01 Oct 2025 18:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover</title>
+      <link>https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html</link>
+      <description>A severe security flaw has been disclosed in the Red Hat OpenShift AI service that could allow attackers to escalate privileges and take control of the complete infrastructure under certain conditions.
+OpenShift AI is a platform for managing the lifecycle of predictive and generative artificial intelligence (GenAI) models at scale and across hybrid cloud environments. It also facilitates data</description>
+      <pubDate>Wed, 01 Oct 2025 18:06:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Use of Generative AI in Scams</title>
@@ -248,8 +346,7 @@ The activity, observed in September 2025, has been attributed to a threat cluste
       <title>Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake</title>
       <link>https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html</link>
       <description>Microsoft on Tuesday unveiled the expansion of its Sentinel Security Incidents and Event Management solution (SIEM) as a unified agentic platform with the general availability of the Sentinel data lake.
-In addition, the tech giant said it&amp;apos;s also releasing a public preview of Sentinel Graph and Sentinel Model Context Protocol (MCP) server.
-&amp;quot;With graph-based context, semantic access, and agentic</description>
+In addition, the tech giant said it&amp;apos;s also releasing a public preview of Sentinel Graph and Sentinel Model Context Protocol (MCP) server to turn telemetry into a security graph and allow AI</description>
       <pubDate>Tue, 30 Sep 2025 18:30:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -448,22 +545,6 @@ According to Trend Micro, the campaign is using productivity or AI-enhanced tool
       <guid isPermaLink="true">https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Dutch Authorities Arrest Teens in Foreign Interference Case</title>
-      <link>https://www.infosecurity-magazine.com/news/dutch-teens-arrested/</link>
-      <description>While the exact suspicion was yet to be revealed it is linked to &amp;quot;foreign interference&amp;quot;</description>
-      <pubDate>Mon, 29 Sep 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/dutch-teens-arrested/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI-Generated Code Used in Phishing Campaign Blocked by Microsoft</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-generated-code-phishing/</link>
-      <description>Microsoft Threat Intelligence stopped an AI-driven credential phishing campaign using SVG files disguised as PDFs</description>
-      <pubDate>Mon, 29 Sep 2025 15:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-generated-code-phishing/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Ukrainian Cops Spoofed in Fileless Phishing Attacks on Kyiv</title>
@@ -929,130 +1010,6 @@ The company said the vulnerability, CVE-2025-20352 (CVSS score: 7.7), has been e
 Recorded Future, which was tracking the activity under the moniker TAG-100, has now graduated it to a hacking group dubbed RedNovember.</description>
       <pubDate>Wed, 24 Sep 2025 22:06:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/09/chinese-hackers-rednovember-target.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UNC5221 Uses BRICKSTORM Backdoor to Infiltrate U.S. Legal and Technology Sectors</title>
-      <link>https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html</link>
-      <description>Companies in the legal services, software-as-a-service (SaaS) providers, Business Process Outsourcers (BPOs), and technology sectors in the U.S. have been targeted by a suspected China-nexus cyber espionage group to deliver a known backdoor referred to as BRICKSTORM.
-The activity, attributed to UNC5221 and closely related, suspected China-nexus threat clusters, is designed to facilitate</description>
-      <pubDate>Wed, 24 Sep 2025 20:03:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/unc5221-uses-brickstorm-backdoor-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models</title>
-      <link>https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html</link>
-      <description>Cybersecurity researchers have disclosed two security flaws in Wondershare RepairIt that exposed private user data and potentially exposed the system to artificial intelligence (AI) model tampering and supply chain risks.
-The critical-rated vulnerabilities in question, discovered by Trend Micro, are listed below -
-
-CVE-2025-10643 (CVSS score: 9.1) - An authentication bypass vulnerability that</description>
-      <pubDate>Wed, 24 Sep 2025 19:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Threat Actor Deploys &amp;apos;OVERSTEP&amp;apos; Backdoor in Ongoing SonicWall SMA Attacks</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/threat-actor-deploys-overstep-backdoor-in-ongoing-sonicwall-sma-attacks</link>
-      <description>Hackers tracked as UNC6148 are attacking SonicWall security devices by installing hidden software, allowing them to control systems, steal passwords, and hide their activities.</description>
-      <pubDate>Wed, 24 Sep 2025 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/threat-actor-deploys-overstep-backdoor-in-ongoing-sonicwall-sma-attacks</guid>
-      <dc:creator>Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>How One Bad Password Ended a 158-Year-Old Business</title>
-      <link>https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html</link>
-      <description>Most businesses don&amp;apos;t make it past their fifth birthday - studies show that&amp;amp;nbsp;roughly 50% of small businesses fail within the first five years. So when&amp;amp;nbsp;KNP Logistics Group (formerly Knights of Old) celebrated more than a century and a half of operations, it had mastered the art of survival. For 158 years, KNP adapted and endured, building a transport business that operated 500 trucks</description>
-      <pubDate>Wed, 24 Sep 2025 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms</title>
-      <link>https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/</link>
-      <description>U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for extorting at least $115 million in ransom payments from victims. The charges came as Jubair and an alleged co-conspirator appeared in a London court to face accusations of hacking into and extorting several large U.K. retailers, the London transit system, and healthcare providers in the United States.</description>
-      <pubDate>Wed, 24 Sep 2025 11:48:31 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Data Breaches</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>Ransomware</category>
-      <category>Allison Nixon</category>
-      <category>ALPHV</category>
-      <category>Amtrak</category>
-      <category>Asyntax</category>
-      <category>BlackCat</category>
-      <category>Caesars Entertainment</category>
-      <category>Com</category>
-      <category>EarthtoStar</category>
-      <category>Everlynn</category>
-      <category>Flashpoint</category>
-      <category>Harrods</category>
-      <category>Infinity Recursion</category>
-      <category>Lopiu</category>
-      <category>Marks &amp;amp; Spencer</category>
-      <category>MGM Resorts</category>
-      <category>microsoft</category>
-      <category>Noah Michael Urban</category>
-      <category>NVIDIA</category>
-      <category>Okta</category>
-      <category>Owen David Flowers</category>
-      <category>RocketAce</category>
-      <category>Rockstar Games</category>
-      <category>Samsung</category>
-      <category>Scattered Spider</category>
-      <category>Star Chat</category>
-      <category>Star Sanctuary</category>
-      <category>T-Mobile</category>
-      <category>Thalha Jubair</category>
-      <category>Transport for London</category>
-      <category>Uber</category>
-      <category>Unit 221B</category>
-    </item>
-    <item>
-      <title>New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus</title>
-      <link>https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new malware family dubbed YiBackdoor that has been found to share &amp;quot;significant&amp;quot; source code overlaps with IcedID and Latrodectus.
-&amp;quot;The exact connection to YiBackdoor is not yet clear, but it may be used in conjunction with Latrodectus and IcedID during attacks,&amp;quot; Zscaler ThreatLabz said in a Tuesday report. &amp;quot;YiBackdoor is able to execute</description>
-      <pubDate>Wed, 24 Sep 2025 16:58:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>US Disrupts Massive Cell Phone Array in New York</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html</link>
-      <description>&amp;lt;p&amp;gt;This is a &amp;lt;a href=&amp;quot;https://www.bbc.com/news/articles/cn4w0d8zz22o&amp;quot;&amp;gt;weird story&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The US Secret Service disrupted a network of telecommunications devices that could have shut down cellular systems as leaders gather for the United Nations General Assembly in New York City.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The agency said on Tuesday that last month it found more than 300 SIM servers and 100,000 SIM cards that could have been used for telecom attacks within the area encompassing parts of New York, New Jersey and Connecticut.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;amp;#8220;This network had the power to disable cell phone towers and essentially shut down the cellular network in New York City,&amp;amp;#8221; said special agent in charge Matt McCool...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 24 Sep 2025 11:09:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cell phones</category>
-      <category>cyberattack</category>
-      <category>denial of service</category>
-      <category>infrastructure</category>
-      <category>telecom</category>
-    </item>
-    <item>
-      <title>iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks</title>
-      <link>https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html</link>
-      <description>Think payment iframes are secure by design? Think again. Sophisticated attackers have quietly evolved malicious overlay techniques to exploit checkout pages and steal credit card data by bypassing the very security policies designed to stop them.
-Download the complete iframe security guide here.&amp;amp;nbsp;
-TL;DR: iframe Security Exposed
-Payment iframes are being actively exploited by attackers using</description>
-      <pubDate>Wed, 24 Sep 2025 16:33:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
