@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 04 Oct 2025 06:24:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 12:33:10 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Thu, 13 Nov 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day</title>
+      <link>https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html</link>
+      <description>Threat intelligence firm GreyNoise disclosed on Friday that it has observed a spike in scanning activity targeting Palo Alto Networks login portals.
+The company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and aimed</description>
+      <pubDate>Sat, 04 Oct 2025 16:09:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Salesforce Extortion Accelerates With New Leak Site | UpGuard</title>
@@ -955,16 +965,6 @@ The vulnerability in question is CVE-2025-32463 (CVSS score: 9.3), which affects
       <guid isPermaLink="true">https://www.darkreading.com/application-security/akira-sonicwall-vpns-broad-ransomware-campaign</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations</title>
-      <link>https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html</link>
-      <description>Threat actors have been observed using seemingly legitimate artificial intelligence (AI) tools and software to sneakily slip malware for future attacks on organizations worldwide.
-According to Trend Micro, the campaign is using productivity or AI-enhanced tools to deliver malware targeting various regions, including Europe, the Americas, and the Asia, Middle East, and Africa (AMEA) region.</description>
-      <pubDate>Mon, 29 Sep 2025 22:06:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
