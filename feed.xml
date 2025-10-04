@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 04 Oct 2025 12:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 18:23:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Thu, 13 Nov 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CometJacking: One Click Can Turn Perplexity’s Comet AI Browser Into a Data Thief</title>
+      <link>https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity&amp;apos;s agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar.
+The sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the</description>
+      <pubDate>Sat, 04 Oct 2025 20:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day</title>
@@ -955,15 +965,6 @@ The vulnerability in question is CVE-2025-32463 (CVSS score: 9.3), which affects
       <pubDate>Mon, 29 Sep 2025 21:13:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/malicious-mcp-server-exfiltrates-secrets-bcc</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Akira Hits SonicWall VPNs in Broad Ransomware Campaign</title>
-      <link>https://www.darkreading.com/application-security/akira-sonicwall-vpns-broad-ransomware-campaign</link>
-      <description>Akira ransomware actors are currently targeting SonicWall firewall customers vulnerable to a bug discovered last year.</description>
-      <pubDate>Mon, 29 Sep 2025 20:53:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/akira-sonicwall-vpns-broad-ransomware-campaign</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
