@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 07 Oct 2025 01:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 06:27:52 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What is Compliance Management in Cybersecurity?  | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-compliance-management</link>
+      <description>Intelligent compliance management ensures you comply with relevant regulations while strengthening your resilience against cyberattacks.</description>
+      <pubDate>Tue, 07 Oct 2025 05:46:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-compliance-management</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks</title>
+      <link>https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html</link>
+      <description>CrowdStrike on Monday said it&amp;apos;s attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.
+The exploitation involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that facilitates</description>
+      <pubDate>Tue, 07 Oct 2025 10:42:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Salesforce Extortion Accelerates With New Leak Site | UpGuard</title>
       <link>https://www.upguard.com/blog/salesforce-leak-extortion-scatterered-lapsus-hunters</link>
@@ -107,7 +125,7 @@ This recap cuts through the noise to share what really matters—key trends, war
     <item>
       <title>Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks</title>
       <link>https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</link>
-      <description>Oracle has released an emergency update to address a critical security flaw in its E-Business Suite that it said has been exploited in the recent wave of Cl0p data theft attacks.
+      <description>Oracle has released an emergency update to address a critical security flaw in its E-Business Suite software that it said has been exploited in the recent wave of Cl0p data theft attacks.
 The vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle</description>
       <pubDate>Mon, 06 Oct 2025 17:07:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</guid>
@@ -941,25 +959,6 @@ The activity, observed in September 2025, has been attributed to a threat cluste
 In addition, the tech giant said it&amp;apos;s also releasing a public preview of Sentinel Graph and Sentinel Model Context Protocol (MCP) server to turn telemetry into a security graph and allow AI</description>
       <pubDate>Tue, 30 Sep 2025 18:30:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Sharpening the Focus on Product Requirements and Cybersecurity Risks: Updating Foundational Activities for IoT Product Manufacturers</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/sharpening-focus-product-requirements-and-cybersecurity-risks-updating</link>
-      <description>Over the past few months, NIST has been revising and updating Foundational Activities for IoT Product Manufacturers (NIST IR 8259 Revision 1 Initial Public Draft), which describes recommended pre-market and post-market activities for manufacturers to develop products that meet their customers’ cybersecurity needs and expectations. Thank you so much for the thoughtful comments and feedback throughout this process; 400+ participants across industry, consumer organizations, academia, federal agencies, and researchers shared feedback in both the December 2024 and March 2025 workshops—as well as</description>
-      <pubDate>Tue, 30 Sep 2025 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nist.gov/blogs/cybersecurity-insights/sharpening-focus-product-requirements-and-cybersecurity-risks-updating</guid>
-      <dc:creator>Barbara Cuthill, Michael Fagan</dc:creator>
-      <source url="https://www.nist.gov/blogs/cybersecurity-insights/rss.xml">Cybersecurity Insights</source>
-    </item>
-    <item>
-      <title>Stop Alert Chaos: Context Is the Key to Effective Incident Response</title>
-      <link>https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html</link>
-      <description>The Problem: Legacy SOCs and Endless Alert Noise
-Every SOC leader knows the feeling: hundreds of alerts pouring in, dashboards lighting up like a slot machine, analysts scrambling to keep pace. The harder they try to scale people or buy new tools, the faster the chaos multiplies. The problem is not just volume; it is the model itself. Traditional SOCs start with rules, wait for alerts to fire,</description>
-      <pubDate>Tue, 30 Sep 2025 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
