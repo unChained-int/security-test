@@ -5,9 +5,35 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Oct 2025 01:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 06:29:44 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Rust-Based Malware &amp;quot;ChaosBot&amp;quot; Uses Discord Channels to Control Victims&amp;apos; PCs</title>
+      <link>https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.
+&amp;quot;Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, &amp;apos;serviceaccount,&amp;apos;&amp;quot; eSentire said in a technical report published</description>
+      <pubDate>Mon, 13 Oct 2025 10:42:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Attack Surface Reduction: Best Practices and Examples | UpGuard</title>
+      <link>https://www.upguard.com/blog/attack-surface-reduction-examples</link>
+      <description>Learn practical strategies and best practices to reduce your organization&amp;apos;s attack surface, minimize vulnerabilities, and enhance cybersecurity.</description>
+      <pubDate>Mon, 13 Oct 2025 04:50:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/attack-surface-reduction-examples</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What Is Shadow IT? Risks, Benefits, and How to Manage It | UpGuard</title>
+      <link>https://www.upguard.com/blog/shadow-it</link>
+      <description>Learn what shadow IT is, why it’s risky, and how to detect, assess, and manage it with automated discovery, risk scoring, policy controls, and playbooks.</description>
+      <pubDate>Mon, 13 Oct 2025 04:50:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-it</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login</title>
       <link>https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html</link>
@@ -235,14 +261,6 @@ The company said it began its investigation on September 11 following a &amp;quo
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Attack Surface Reduction: Best Practices and Examples | UpGuard</title>
-      <link>https://www.upguard.com/blog/attack-surface-reduction-examples</link>
-      <description>Learn practical strategies and best practices to reduce your organization&amp;apos;s attack surface, minimize vulnerabilities, and enhance cybersecurity.</description>
-      <pubDate>Fri, 10 Oct 2025 11:32:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/attack-surface-reduction-examples</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Google Launches AI Bug Bounty with $30,000 Top Reward</title>
       <link>https://www.infosecurity-magazine.com/news/google-launches-ai-bug-bounty/</link>
       <description>Google has introduced a new AI Vulnerability Reward Program offering up to $30,000 for bug discoveries in its AI products</description>
@@ -286,14 +304,6 @@ The packages have been collectively downloaded 26,000 times, acting as an infras
       <guid isPermaLink="true">https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>What Is Shadow IT? Risks, Benefits, and How to Manage It | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-it</link>
-      <description>Learn what shadow IT is, why it’s risky, and how to detect, assess, and manage it with automated discovery, risk scoring, policy controls, and playbooks.</description>
-      <pubDate>Fri, 10 Oct 2025 10:18:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-it</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Google: Clop Accessed “Significant Amount” of Data in Oracle EBS Exploit</title>
@@ -1018,16 +1028,6 @@ This recap cuts through the noise to share what really matters—key trends, war
       <description>In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help</description>
       <pubDate>Mon, 06 Oct 2025 17:08:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks</title>
-      <link>https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</link>
-      <description>Oracle has released an emergency update to address a critical security flaw in its E-Business Suite software that it said has been exploited in the recent wave of Cl0p data theft attacks.
-The vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle</description>
-      <pubDate>Mon, 06 Oct 2025 17:07:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
