@@ -5,23 +5,118 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Oct 2025 06:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:39:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Attackers Bypass Synced Passkeys</title>
+      <link>https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</link>
+      <description>TLDR
+Even if you take nothing else away from this piece, if your organization is evaluating passkey deployments, it is insecure to deploy synced passkeys.
+
+Synced passkeys inherit the risk of the cloud accounts and recovery processes that protect them, which creates material enterprise exposure.
+Adversary-in-the-middle (AiTM) kits can force authentication fallbacks that circumvent strong</description>
+      <pubDate>Wed, 15 Oct 2025 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple’s Bug Bounty Program</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</link>
+      <description>&amp;lt;p&amp;gt;Apple is now offering a &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/&amp;quot;&amp;gt;$2M&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.csoonline.com/article/4071044/apple-bumps-rce-bug-bounties-to-2m-to-counter-commercial-spyware-vendors.html&amp;quot;&amp;gt;bounty&amp;lt;/a&amp;gt; for a zero-click exploit. According to &amp;lt;a href=&amp;quot;https://security.apple.com/blog/apple-security-bounty-evolved/&amp;quot;&amp;gt;the Apple website&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Today we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.&amp;lt;/p&amp;gt;
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;We’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.
+...&amp;lt;/li&amp;gt;&amp;lt;/ol&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 15 Oct 2025 11:02:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Apple</category>
+      <category>exploits</category>
+      <category>spyware</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>A CISO&amp;apos;s Guide to the Business Risks of AI Development Platforms | UpGuard</title>
+      <link>https://www.upguard.com/blog/the-vibe-coding-paradox</link>
+      <description>This guide provides a strategic framework for understanding and mitigating the new wave of threats emerging from this AI-driven ecosystem.</description>
+      <pubDate>Wed, 15 Oct 2025 10:52:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/the-vibe-coding-paradox</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Last Windows 10 Patch Tuesday Features Six Zero-Days</title>
+      <link>https://www.infosecurity-magazine.com/news/last-windows-10-patch-tuesday-six/</link>
+      <description>Microsoft has fixed over 170 CVEs in October’s Patch Tuesday, including six zero-day vulnerabilities</description>
+      <pubDate>Wed, 15 Oct 2025 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/last-windows-10-patch-tuesday-six/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped</title>
+      <link>https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</link>
+      <description>Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.
+Of the 183 vulnerabilities, eight of them are non-Microsoft</description>
+      <pubDate>Wed, 15 Oct 2025 14:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Capita Fined £14m After 2023 Breach that Hit 6.6 Million People</title>
+      <link>https://www.infosecurity-magazine.com/news/capita-fined-14m-2023-breach-66/</link>
+      <description>Outsourcing giant Capita has been fined £14m by the ICO after a major data breach in 2023</description>
+      <pubDate>Wed, 15 Oct 2025 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/capita-fined-14m-2023-breach-66/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>UK, US Sanction Southeast Asia-Based Online Scam Network</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-us-sanction-online-scam-network/</link>
+      <description>Investigations found that the network operates scam centers in Cambodia, Myanmar and across Southeast Asia</description>
+      <pubDate>Wed, 15 Oct 2025 08:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-us-sanction-online-scam-network/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Africa Remains Top Global Target, Even as Attacks Decline</title>
+      <link>https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline</link>
+      <description>Organizations across the continent saw 10% fewer attacks in September, but Africa remains the most attacked region in the world, leading the Global South.</description>
+      <pubDate>Wed, 15 Oct 2025 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control</title>
+      <link>https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</link>
+      <description>Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.
+The shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.
+&amp;quot;The vulnerabilities affect Red Lion SixTRAK and VersaTRAK</description>
+      <pubDate>Wed, 15 Oct 2025 12:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access</title>
+      <link>https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</link>
+      <description>Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.
+The vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center</description>
+      <pubDate>Wed, 15 Oct 2025 11:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>A CISO’s Guide to the DoW&amp;apos;s New CSRMC Framework | UpGuard</title>
       <link>https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</link>
       <description>The new CSRMC framework makes static security obsolete. This guide offers actionable steps to modernize your SOC with continuous assurance.</description>
       <pubDate>Wed, 15 Oct 2025 06:12:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A CISO&amp;apos;s Guide to the Business Risks of AI Development Platforms | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-vibe-coding-paradox</link>
-      <description>This guide provides a strategic framework for understanding and mitigating the new wave of threats emerging from this AI-driven ecosystem.</description>
-      <pubDate>Wed, 15 Oct 2025 06:12:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-vibe-coding-paradox</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
@@ -399,14 +494,6 @@ The activity, described as akin to an &amp;quot;exploit shotgun&amp;quot; approa
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Apple Bug Bounty Payouts Can Now Top $5m</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-bug-bounty-payouts-can-now/</link>
-      <description>Apple has doubled its top bug bounty reward to $2m but with bonuses it could reach $5m</description>
-      <pubDate>Mon, 13 Oct 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apple-bug-bounty-payouts-can-now/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Wearable Device Policy</title>
       <link>https://www.techrepublic.com/resource-library/it-policy/wearable-device/</link>
       <description>&amp;lt;p&amp;gt;This policy is designed to protect company data and staff by outlining the acceptable use of all wearable devices. Customizable Document — Use it as-is or make minor edits. Boost Your Business — This 10-page document covers the different types, procurement, and more. Expertise Guaranteed — Created by Scott Matteson through 20 hours of research, ...&amp;lt;/p&amp;gt;
@@ -417,14 +504,6 @@ The activity, described as akin to an &amp;quot;exploit shotgun&amp;quot; approa
       <category>Cybersecurity</category>
       <category>IT Resources</category>
       <category>Tech &amp;amp; Work</category>
-    </item>
-    <item>
-      <title>FBI and French Police Shutter BreachForums Domain Again</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-french-police-shutter/</link>
-      <description>The infamous BreachForums site has been taken offline again to disrupt Scattered Lapsus$ Hunters</description>
-      <pubDate>Mon, 13 Oct 2025 08:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fbi-french-police-shutter/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns</title>
@@ -687,14 +766,6 @@ The company said it began its investigation on September 11 following a &amp;quo
       <guid isPermaLink="true">https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Launches AI Bug Bounty with $30,000 Top Reward</title>
-      <link>https://www.infosecurity-magazine.com/news/google-launches-ai-bug-bounty/</link>
-      <description>Google has introduced a new AI Vulnerability Reward Program offering up to $30,000 for bug discoveries in its AI products</description>
-      <pubDate>Fri, 10 Oct 2025 11:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-launches-ai-bug-bounty/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Autonomous AI Hacking and the Future of Cybersecurity</title>
@@ -991,65 +1062,6 @@ The website security company</description>
       <category>Events</category>
       <category>Community Meetings</category>
       <category>Participation</category>
-    </item>
-    <item>
-      <title>China-Nexus Actors Weaponize &amp;apos;Nezha&amp;apos; Open Source Tool</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-nezha-open-source-tool</link>
-      <description>A threat actor is putting a spin on classic remote monitoring and management (RMM) attacks, using a Chinese open source tool instead.</description>
-      <pubDate>Wed, 08 Oct 2025 14:02:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-nezha-open-source-tool</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave</title>
-      <link>https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html</link>
-      <description>Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets.
-The activity, observed by cybersecurity company Huntress in August 2025, is characterized by the use of an unusual technique called log poisoning (aka log injection) to plant a web shell on a web</description>
-      <pubDate>Wed, 08 Oct 2025 19:26:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Calling All Influencers: Spear-Phishers Dangle Tesla, Red Bull Jobs</title>
-      <link>https://www.darkreading.com/remote-workforce/influencers-phishers-tesla-red-bull-jobs</link>
-      <description>Wanna work for a hot brand? Cyberattackers continue to evolve lures for job seekers in an impersonation campaign aimed at stealing résumés from social media pros.</description>
-      <pubDate>Wed, 08 Oct 2025 13:48:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/influencers-phishers-tesla-red-bull-jobs</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Step Into the Password Graveyard… If You Dare (and Join the Live Session)</title>
-      <link>https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html</link>
-      <description>Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.
-Attackers don’t need advanced tools; they just need one careless login.
-For IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.
-This Halloween, The Hacker News and Specops Software invite you to a live webinar: “</description>
-      <pubDate>Wed, 08 Oct 2025 17:38:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Threat Exposure Management Framework Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/adopting-a-cyber-threat-exposure-management-approach</link>
-      <description>Learn how threat exposure management (TEM) and CTEM work, how to implement them, and align these strategies with cybersecurity frameworks and tools.</description>
-      <pubDate>Wed, 08 Oct 2025 12:05:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/adopting-a-cyber-threat-exposure-management-approach</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem</title>
-      <link>https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html</link>
-      <description>Three prominent ransomware groups DragonForce, LockBit, and Qilin have announced a new strategic ransomware alliance, once underscoring continued shifts in the cyber threat landscape.
-The coalition is seen as an attempt on the part of the financially motivated threat actors to conduct more effective ransomware attacks, ReliaQuest said in a report shared with The Hacker News.
-&amp;quot;Announced shortly</description>
-      <pubDate>Wed, 08 Oct 2025 17:34:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
