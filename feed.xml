@@ -5,9 +5,57 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Oct 2025 18:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 01:22:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patch Tuesday, October 2025 ‘End of 10’ Edition</title>
+      <link>https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</link>
+      <description>Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October&amp;apos;s Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you&amp;apos;re running a Windows 10 PC and you&amp;apos;re unable or unwilling to migrate to Windows 11, read on for other options.</description>
+      <pubDate>Tue, 14 Oct 2025 22:57:38 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Time to Patch</category>
+      <category>CVE-2025-24990</category>
+      <category>CVE-2025-59227</category>
+      <category>CVE-2025-59230</category>
+      <category>CVE-2025-59234</category>
+      <category>CVE-2025-59287</category>
+      <category>Immersive</category>
+      <category>Kev Breen</category>
+      <category>Microsoft Office</category>
+      <category>Microsoft Patch Tuesday October 2025</category>
+      <category>Satnam Narang</category>
+      <category>Tenable</category>
+    </item>
+    <item>
+      <title>Microsoft Drops Terrifyingly Large October Patch Update</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update</link>
+      <description>October 2025&amp;apos;s enormous Patch Tuesday offers plenty of nightmares for admins, including actively exploited zero-days and insidious high-severity privilege-escalation bugs — and it spells curtains for Windows 10 updates.</description>
+      <pubDate>Tue, 14 Oct 2025 21:53:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China&amp;apos;s Flax Typhoon Turns Geo-Mapping Server into a Backdoor</title>
+      <link>https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor</link>
+      <description>Chinese APT threat actors compromised an organization&amp;apos;s ArcGIS server, modifying the widely used geospatial mapping software for stealth access.</description>
+      <pubDate>Tue, 14 Oct 2025 21:12:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Pixnapping Attack Lets Attackers Steal 2FA on Android</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android</link>
+      <description>The proof-of-concept exploit allows an attacker to steal sensitive data from Gmail, Google Accounts, Google Authenticator, Google Maps, Signal, and Venmo.</description>
+      <pubDate>Tue, 14 Oct 2025 20:27:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year</title>
       <link>https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html</link>
@@ -1001,41 +1049,6 @@ The vulnerability, tracked as CVE-2025-53967 (CVSS score: 7.5), is a command inj
       <description>Learn how subdomain takeovers happen, how to prevent them, and what steps to take if your subdomain is compromised. Includes real-world examples and tools.</description>
       <pubDate>Wed, 08 Oct 2025 08:31:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/protect-your-website-from-subdomain-takeovers</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks</title>
-      <link>https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html</link>
-      <description>OpenAI on Tuesday said it disrupted three activity clusters for misusing its ChatGPT artificial intelligence (AI) tool to facilitate malware development.
-This includes a Russian‑language threat actor, who is said to have used the chatbot to help develop and refine a remote access trojan (RAT), a credential stealer with an aim to evade detection. The operator also used several ChatGPT accounts to</description>
-      <pubDate>Wed, 08 Oct 2025 12:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cyberattack Leads to Beer Shortage as Asahi Recovers</title>
-      <link>https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers</link>
-      <description>A ransomware last week left the Asahi brewery in Japan struggling to take orders and deliver its products domestically, as manufacturers become a favored target.</description>
-      <pubDate>Wed, 08 Oct 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>A Guide to NIST&amp;apos;s AI Risk Management Framework | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-nist-ai-risk-management-framework</link>
-      <description>Explore the NIST AI Risk Management Framework, its core functions, and learn how organizations can implement it to manage AI-related risks effectively.</description>
-      <pubDate>Tue, 07 Oct 2025 23:20:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-nist-ai-risk-management-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Digital Risk Protection Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/digital-risk-protection</link>
-      <description>Learn about digital risk protection, how to implement it with a step-by-step framework, and how to safeguard your organization from modern digital threats.</description>
-      <pubDate>Tue, 07 Oct 2025 23:20:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/digital-risk-protection</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
