@@ -5,9 +5,64 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Oct 2025 12:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 18:27:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>China Hackers Test AI-Optimized Attack Chains in Taiwan</title>
+      <link>https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan</link>
+      <description>AI might help some threat actors in certain respects, but one group is proving that its use for cyberattacks has its limits.</description>
+      <pubDate>Thu, 16 Oct 2025 17:02:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Rootkit Campaign Exploits Cisco SNMP Flaw to Gain Persistence</title>
+      <link>https://www.infosecurity-magazine.com/news/rootkit-campaign-exploits-cisco/</link>
+      <description>Trend Micro have reported a campaign exploiting a flaw in Cisco SNMP to install Linux rootkits on devices</description>
+      <pubDate>Thu, 16 Oct 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rootkit-campaign-exploits-cisco/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts</title>
+      <link>https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html</link>
+      <description>A threat actor with ties to the Democratic People&amp;apos;s Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method.
+The activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,</description>
+      <pubDate>Thu, 16 Oct 2025 20:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites</title>
+      <link>https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html</link>
+      <description>A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.
+&amp;quot;UNC5142 is characterized by its use of compromised WordPress websites and &amp;apos;EtherHiding,&amp;apos; a technique used</description>
+      <pubDate>Thu, 16 Oct 2025 20:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets</title>
+      <link>https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html</link>
+      <description>An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.
+&amp;quot;This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely</description>
+      <pubDate>Thu, 16 Oct 2025 19:58:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Attacks Surge as Microsoft Process 100 Trillion Signals Daily</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-process-100-trillion/</link>
+      <description>Microsoft systems analyze over 100 trillion daily signals, suggesting dramatically increasing AI-driven cyber-threats</description>
+      <pubDate>Thu, 16 Oct 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-process-100-trillion/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>LastPass Warns Customers It Has Not Been Hacked Amid Phishing Email Scam</title>
       <link>https://www.infosecurity-magazine.com/news/lastpass-not-hacked-phishing-email/</link>
@@ -15,6 +70,26 @@
       <pubDate>Thu, 16 Oct 2025 12:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lastpass-not-hacked-phishing-email/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform</title>
+      <link>https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html</link>
+      <description>Scaling the SOC with AI - Why now?&amp;amp;nbsp;
+Security Operations Centers (SOCs) are under unprecedented pressure. According to SACR’s AI-SOC Market Landscape 2025, the average organization now faces around 960 alerts per day, while large enterprises manage more than 3,000 alerts daily from an average of 28 different tools. Nearly 40% of those alerts go uninvestigated, and 61% of security teams admit</description>
+      <pubDate>Thu, 16 Oct 2025 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in &amp;quot;Zero Disco&amp;apos; Attacks</title>
+      <link>https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new campaign that exploited a recently disclosed security flaw impacting Cisco IOS Software and IOS XE Software to deploy Linux rootkits on older, unprotected systems.
+The activity, codenamed Operation Zero Disco by Trend Micro, involves the weaponization of CVE-2025-20352 (CVSS score: 7.7), a stack overflow vulnerability in the Simple</description>
+      <pubDate>Thu, 16 Oct 2025 17:08:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Cryptocurrency ATMs</title>
@@ -106,7 +181,7 @@ The vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-se
     <item>
       <title>LevelBlue Announces Plans to Acquire XDR Provider Cybereason</title>
       <link>https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason</link>
-      <description>The deal, which builds on LevelBlue’s recent acquisition of Trustwave and Aon, aims to provide customers with a broad portfolio of extended detection and response (XDR), managed detection and response (MDR), and forensic services.</description>
+      <description>The deal, which builds on LevelBlue&amp;apos;s recent acquisition of Trustwave and Aon, aims to provide customers with a broad portfolio of extended detection and response, managed detection and response, and forensic services.</description>
       <pubDate>Wed, 15 Oct 2025 23:45:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason</guid>
       <dc:creator>Jeffrey Schwartz</dc:creator>
@@ -394,22 +469,6 @@ The activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hack
       <description>A newly identified cybercrime group TA585 is running an advanced cyber operation distributing MonsterV2 malware</description>
       <pubDate>Tue, 14 Oct 2025 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ta585-advanced-attack/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Senior Execs Falling Short on Cyber-Attack Preparedness, NCSC Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/execs-falling-short-cyber/</link>
-      <description>In a joint warning letter, UK ministers urged FTSE 350 CEOs to bolster cyber defenses</description>
-      <pubDate>Tue, 14 Oct 2025 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/execs-falling-short-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Chinese Hackers Use Trusted ArcGIS App For Year-Long Persistence</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-hackers-use-trusted-arcgis/</link>
-      <description>ReliaQuest report reveals Flax Typhoon attackers maintained year-long access to an ArcGIS system</description>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinese-hackers-use-trusted-arcgis/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
@@ -986,65 +1045,6 @@ The zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an u
 &amp;quot;The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely</description>
       <pubDate>Thu, 09 Oct 2025 22:49:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fastly CISO: Using Major Incidents as Career Catalysts</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/fastly-ciso-major-incidents-career-catalysts</link>
-      <description>Marshall Erwin shares how crisis leadership shaped his path from CIA analyst to the US Congress to protecting global Web traffic at Fastly.</description>
-      <pubDate>Thu, 09 Oct 2025 15:33:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/fastly-ciso-major-incidents-career-catalysts</guid>
-      <dc:creator>Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps</title>
-      <link>https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html</link>
-      <description>A rapidly evolving Android spyware campaign called ClayRat has targeted users in Russia using a mix of Telegram channels and lookalike phishing websites by impersonating popular apps like WhatsApp, Google Photos, TikTok, and YouTube as lures to install them.
-&amp;quot;Once active, the spyware can exfiltrate SMS messages, call logs, notifications, and device information; taking photos with the front</description>
-      <pubDate>Thu, 09 Oct 2025 21:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Take Note: Cyber-Risks With AI Notetakers</title>
-      <link>https://www.darkreading.com/cyber-risk/take-note-cyber-risks-with-ai-notetakers</link>
-      <description>Transcription applications are joining your online meetings. Here&amp;apos;s how to create policies for ensuring compliance and security of your information.</description>
-      <pubDate>Thu, 09 Oct 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/take-note-cyber-risks-with-ai-notetakers</guid>
-      <dc:creator>Gadi Evron, Joe Sullivan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks</title>
-      <link>https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html</link>
-      <description>SonicWall on Wednesday disclosed that an unauthorized party accessed firewall configuration backup files for all customers who have used the cloud backup service.
-&amp;quot;The files contain encrypted credentials and configuration data; while encryption remains in place, possession of these files could increase the risk of targeted attacks,&amp;quot; the company said.
-It also noted that it&amp;apos;s working to notify all</description>
-      <pubDate>Thu, 09 Oct 2025 19:18:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe &amp;amp; More</title>
-      <link>https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html</link>
-      <description>Cyber threats are evolving faster than ever. Attackers now combine social engineering, AI-driven manipulation, and cloud exploitation to breach targets once considered secure. From communication platforms to connected devices, every system that enhances convenience also expands the attack surface.
-This edition of ThreatsDay Bulletin explores these converging risks and the safeguards that help</description>
-      <pubDate>Thu, 09 Oct 2025 17:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SaaS Breaches Start with Tokens - What Security Teams Must Watch</title>
-      <link>https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html</link>
-      <description>Token theft is a leading cause of SaaS breaches. Discover why OAuth and API tokens are often overlooked and how security teams can strengthen token hygiene to prevent attacks.
-Most companies in 2025 rely on a whole range of software-as-a-service (SaaS) applications to run their operations. However, the security of these applications depends on small pieces of data called tokens. Tokens, like</description>
-      <pubDate>Thu, 09 Oct 2025 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
