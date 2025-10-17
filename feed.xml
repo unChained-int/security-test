@@ -5,9 +5,107 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 17 Oct 2025 06:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 12:38:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Email Bombs Exploit Lax Authentication in Zendesk</title>
+      <link>https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/</link>
+      <description>Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing messages that come from hundreds of Zendesk corporate customers simultaneously.</description>
+      <pubDate>Fri, 17 Oct 2025 11:26:27 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Web Fraud 2.0</category>
+      <category>CapCom</category>
+      <category>Carolyn Camoens</category>
+      <category>CompTIA</category>
+      <category>Discord</category>
+      <category>GMAC</category>
+      <category>NordVPN</category>
+      <category>The Washington Post</category>
+      <category>Tinder</category>
+      <category>Zendesk</category>
+    </item>
+    <item>
+      <title>A Surprising Amount of Satellite Traffic Is Unencrypted</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html</link>
+      <description>&amp;lt;p&amp;gt;Here&amp;amp;#8217;s the &amp;lt;a href=&amp;quot;https://satcom.sysnet.ucsd.edu/&amp;quot;&amp;gt;summary&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;We pointed a commercial-off-the-shelf satellite dish at the sky and carried out the most comprehensive public study to date of geostationary satellite communication. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens&amp;amp;#8217; voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks. This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 17 Oct 2025 11:03:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>cell phones</category>
+      <category>data protection</category>
+      <category>eavesdropping</category>
+      <category>encryption</category>
+      <category>infrastructure</category>
+    </item>
+    <item>
+      <title>Identity Security: Your First and Last Line of Defense</title>
+      <link>https://thehackernews.com/2025/10/identity-security-your-first-and-last.html</link>
+      <description>The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.
+This isn&amp;apos;t some dystopian fantasy—it&amp;apos;s Tuesday at the office now. We&amp;apos;ve entered a new phase where autonomous AI agents act with serious system privileges. They</description>
+      <pubDate>Fri, 17 Oct 2025 16:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/identity-security-your-first-and-last.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Prosper Data Breach Exposes 17 Million Customers&amp;apos; Personal Info</title>
+      <link>https://www.infosecurity-magazine.com/news/prosper-data-breach-exposes-17/</link>
+      <description>The US lending platform said early investigations found no evidence of unauthorized account access or fund theft</description>
+      <pubDate>Fri, 17 Oct 2025 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/prosper-data-breach-exposes-17/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices</title>
+      <link>https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html</link>
+      <description>Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.
+The vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including</description>
+      <pubDate>Fri, 17 Oct 2025 14:55:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Security Teams Must Deploy Anti-Infostealer Defenses Now</title>
+      <link>https://www.infosecurity-magazine.com/news/deploy-antiinfostealer-defenses/</link>
+      <description>At ISACA Europe 2025, cybersecurity consultant Tony Gee shared some technical measures security teams could implement to fight against the infostealer scourge</description>
+      <pubDate>Fri, 17 Oct 2025 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/deploy-antiinfostealer-defenses/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Securing Windows Policy</title>
+      <link>https://www.techrepublic.com/resource-library/it-policy/securing-windows/</link>
+      <description>&amp;lt;p&amp;gt;Organizations can use this policy for securing Windows on computers used to conduct company business. Customizable Document — Use it as-is or make minor edits. Enhance Your Security — This eight-page document covers system/user roles, security settings, and more. Expertise Guaranteed — Created by Scott Matteson through 16 hours of research, writing, and editing. This ...&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/it-policy/securing-windows/&amp;quot;&amp;gt;Securing Windows Policy&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 17 Oct 2025 07:44:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/it-policy/securing-windows/</guid>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>IT Resources</category>
+      <category>Software</category>
+    </item>
+    <item>
+      <title>Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign</title>
+      <link>https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html</link>
+      <description>Microsoft on Thursday disclosed that it revoked more than 200 certificates used by a threat actor it tracks as Vanilla Tempest to fraudulently sign malicious binaries in ransomware attacks.
+The certificates were &amp;quot;used in fake Teams setup files to deliver the Oyster backdoor and ultimately deploy Rhysida ransomware,&amp;quot; the Microsoft Threat Intelligence team said in a post shared on X.
+The tech</description>
+      <pubDate>Fri, 17 Oct 2025 11:33:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Cyberattackers Target LastPass, Top Password Managers</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers</link>
@@ -472,22 +570,6 @@ The activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hack
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>Schneier news</category>
-    </item>
-    <item>
-      <title>Legacy Windows Protocols Still Expose Networks to Credential Theft</title>
-      <link>https://www.infosecurity-magazine.com/news/legacy-windows-protocols-expose/</link>
-      <description>Legacy Windows protocols are still exposing organizations to credential theft, Resecurity found</description>
-      <pubDate>Tue, 14 Oct 2025 15:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/legacy-windows-protocols-expose/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Hacker Group TA585 Emerges With Advanced Attack Infrastructure</title>
-      <link>https://www.infosecurity-magazine.com/news/ta585-advanced-attack/</link>
-      <description>A newly identified cybercrime group TA585 is running an advanced cyber operation distributing MonsterV2 malware</description>
-      <pubDate>Tue, 14 Oct 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ta585-advanced-attack/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Moving Beyond Awareness: How Threat Hunting Builds Readiness</title>
@@ -991,61 +1073,6 @@ From prompt-dependent copilots to autonomous, multi-agent systems, the current m
       <guid isPermaLink="true">https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html</link>
-      <description>Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign.
-The packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy</description>
-      <pubDate>Fri, 10 Oct 2025 16:15:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability</title>
-      <link>https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html</link>
-      <description>Cybersecurity company Huntress said it has observed active in-the-wild exploitation of an unpatched security flaw impacting Gladinet CentreStack and TrioFox products.
-The zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an unauthenticated local file inclusion bug that allows unintended disclosure of system files. It impacts all versions of the software prior to and</description>
-      <pubDate>Fri, 10 Oct 2025 15:04:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cybersecurity Risk Assessment Platforms Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/cybersecurity-risk-assessment-tools</link>
-      <description>Discover leading cybersecurity risk assessment tools that help organizations identify vulnerabilities, manage threats, and enhance their security posture.​</description>
-      <pubDate>Fri, 10 Oct 2025 08:37:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-risk-assessment-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw</title>
-      <link>https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html</link>
-      <description>Dozens of organizations may have been impacted following the zero-day exploitation of a security flaw in Oracle&amp;apos;s E-Business Suite (EBS) software since August 9, 2025, Google Threat Intelligence Group (GTIG) and Mandiant said in a new report released Thursday.
-&amp;quot;We&amp;apos;re still assessing the scope of this incident, but we believe it affected dozens of organizations,&amp;quot; John Hultquist, chief analyst of</description>
-      <pubDate>Fri, 10 Oct 2025 12:11:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Top Tools to Mitigate Supply Chain Risks | UpGuard</title>
-      <link>https://www.upguard.com/blog/supply-chain-management-tool-categories</link>
-      <description>Learn about the top supply chain risk management tools designed to help businesses identify, assess, and mitigate risks within their supply chains.​</description>
-      <pubDate>Fri, 10 Oct 2025 05:56:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/supply-chain-management-tool-categories</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>GitHub Copilot &amp;apos;CamoLeak&amp;apos; AI Attack Exfiltrates Data</title>
-      <link>https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data</link>
-      <description>While GitHub has advanced protections for its built-in AI agent, a researcher came up with a creative proof-of-concept (PoC) attack for exfiltrating code and secrets via Copilot.</description>
-      <pubDate>Thu, 09 Oct 2025 19:56:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
