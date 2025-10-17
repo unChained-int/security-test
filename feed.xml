@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Oct 2025 18:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 01:21:59 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cyberattackers Target LastPass, Top Password Managers</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers</link>
+      <description>Be aware: a rash of phishing campaigns are leveraging the anxiety and trust employees have in password vaults securing all of their credentials.</description>
+      <pubDate>Thu, 16 Oct 2025 20:33:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Leaks in Microsoft VS Code Marketplace Put Supply Chain at Risk</title>
+      <link>https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks</link>
+      <description>Researchers discovered more than 550 unique secrets exposed in Visual Studio Code marketplaces, prompting Microsoft to bolster security measures.</description>
+      <pubDate>Thu, 16 Oct 2025 19:54:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>China Hackers Test AI-Optimized Attack Chains in Taiwan</title>
       <link>https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan</link>
@@ -1028,25 +1046,6 @@ The zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an u
       <guid isPermaLink="true">https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SonicWall: 100% of Firewall Backups Were Breached</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached</link>
-      <description>SonicWall said a breach it disclosed last month affected firewall configuration files for all customers who have used SonicWall’s cloud backup service — up from its previous 5% estimate.</description>
-      <pubDate>Thu, 09 Oct 2025 19:10:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>From HealthKick to GOVERSHELL: The Evolution of UTA0388&amp;apos;s Espionage Malware</title>
-      <link>https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html</link>
-      <description>A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL.
-&amp;quot;The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely</description>
-      <pubDate>Thu, 09 Oct 2025 22:49:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
