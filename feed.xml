@@ -5,9 +5,29 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 18 Oct 2025 06:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 12:34:23 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs</title>
+      <link>https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html</link>
+      <description>Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.
+According to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company&amp;apos;s analysis is based on the ZIP</description>
+      <pubDate>Sat, 18 Oct 2025 17:11:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT</title>
+      <link>https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html</link>
+      <description>The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).
+&amp;quot;The campaign relied on phishing emails with PDFs that contained embedded malicious links,&amp;quot; Pei Han Liao, researcher with Fortinet&amp;apos;s FortiGuard</description>
+      <pubDate>Sat, 18 Oct 2025 12:21:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Squid Inks Philippines Fisherman</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html</link>
@@ -1046,25 +1066,6 @@ The threat actor&amp;apos;s use of the security utility was documented by Sophos
       <category>enterprise AI risks</category>
       <category>generative AI compliance</category>
       <category>shadow AI threats</category>
-    </item>
-    <item>
-      <title>Deepfake Awareness High at Orgs, But Cyber Defenses Badly Lag</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/deepfake-awareness-high-cyber-defenses-lag</link>
-      <description>The vast majority of organizations are encountering AI-augmented threats, but remain confident in their defenses, despite inadequate detection investment and more than half falling to successful attacks.</description>
-      <pubDate>Fri, 10 Oct 2025 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/deepfake-awareness-high-cyber-defenses-lag</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers</title>
-      <link>https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html</link>
-      <description>Cybersecurity researchers have disclosed details of an active malware campaign called Stealit that has leveraged Node.js&amp;apos; Single Executable Application (SEA) feature as a way to distribute its payloads.
-According to Fortinet FortiGuard Labs, select iterations have also employed the open-source Electron framework to deliver the malware. It&amp;apos;s assessed that the malware is being propagated through</description>
-      <pubDate>Fri, 10 Oct 2025 19:55:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
