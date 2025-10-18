@@ -5,9 +5,40 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 17 Oct 2025 18:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 01:17:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Squid Inks Philippines Fisherman</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html</link>
+      <description>&amp;lt;p&amp;gt;Good &amp;lt;a href=&amp;quot;https://www.foxweather.com/earth-space/philippines-fisherman-face-full-squid-ink&amp;quot;&amp;gt;video&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 17 Oct 2025 21:02:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+      <category>video</category>
+    </item>
+    <item>
+      <title>How to Prevent Data Leaks | UpGuard</title>
+      <link>https://www.upguard.com/blog/data-leak-prevention-tips</link>
+      <description>Protect your organization from data leaks with UpGuard’s best practices and tools. Learn how to prevent sensitive information from being exposed or stolen.</description>
+      <pubDate>Fri, 17 Oct 2025 18:26:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/data-leak-prevention-tips</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Microsoft Disrupts Ransomware Campaign Abusing Azure Certificates</title>
+      <link>https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates</link>
+      <description>Microsoft revoked more than 200 digital certificates that threat actors used to sign fake Teams binaries that set the stage for Rhysida ransomware attacks.</description>
+      <pubDate>Fri, 17 Oct 2025 18:00:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>AI Agent Security: Whose Responsibility Is It?</title>
       <link>https://www.darkreading.com/cybersecurity-operations/ai-agent-security-awareness-responsibility</link>
@@ -18,9 +49,9 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>AI Chat Data Is History’s Most Thorough Record of Enterprise Secrets, Secure it Wisely</title>
+      <title>AI Chat Data Is History&amp;apos;s Most Thorough Record of Enterprise Secrets. Secure It Wisely</title>
       <link>https://www.darkreading.com/application-security/ai-chat-data-is-history-s-most-thorough-record-of-enterprise-secrets-secure-it-accordingly</link>
-      <description>AI interactions are becoming one of the most revealing records of human thinking; and we&amp;apos;re only beginning to understand what that means for law enforcement, accountability, and privacy.</description>
+      <description>AI interactions are becoming one of the most revealing records of human thinking, and we&amp;apos;re only beginning to understand what that means for law enforcement, accountability, and privacy.</description>
       <pubDate>Fri, 17 Oct 2025 15:41:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-chat-data-is-history-s-most-thorough-record-of-enterprise-secrets-secure-it-accordingly</guid>
       <dc:creator>Rob T. Lee</dc:creator>
@@ -43,14 +74,6 @@ That&amp;apos;s according to new findings from Cisco Talos, which said recent ca
       <guid isPermaLink="true">https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How to Prevent Data Leaks | UpGuard</title>
-      <link>https://www.upguard.com/blog/data-leak-prevention-tips</link>
-      <description>Protect your organization from data leaks with UpGuard’s best practices and tools. Learn how to prevent sensitive information from being exposed or stolen.</description>
-      <pubDate>Fri, 17 Oct 2025 13:15:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/data-leak-prevention-tips</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>North Korean Hackers Use EtherHiding to Steal Crypto</title>
@@ -345,6 +368,14 @@ The vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-se
       <guid isPermaLink="true">https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cybersecurity Study Shows Patient Care at Risk of Attacks</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks</link>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 00:33:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
       <title>LevelBlue Announces Plans to Acquire XDR Provider Cybereason</title>
@@ -1034,33 +1065,6 @@ According to Fortinet FortiGuard Labs, select iterations have also employed the 
       <guid isPermaLink="true">https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Commentary Section Launches New, More Opinionated Era</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era</link>
-      <description>Dark Reading is looking for leading industry experts with a point of view they want to share with the rest of the cybersecurity community for our new Commentary section.</description>
-      <pubDate>Fri, 10 Oct 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries</title>
-      <link>https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html</link>
-      <description>A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts.
-&amp;quot;Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,&amp;quot; the</description>
-      <pubDate>Fri, 10 Oct 2025 19:01:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Comprehensive Guide to Conducting Effective Supplier Risk Assessments | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-perform-a-supplier-risk-assessment</link>
-      <description>Learn how to assess supplier risk, improve compliance, and reduce disruptions with a practical framework for vendor evaluation and ongoing risk monitoring.</description>
-      <pubDate>Fri, 10 Oct 2025 13:05:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-perform-a-supplier-risk-assessment</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
