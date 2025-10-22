@@ -5,9 +5,21 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Oct 2025 01:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 06:29:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution</title>
+      <link>https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html</link>
+      <description>TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.
+The vulnerabilities in question are listed below -
+
+CVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management</description>
+      <pubDate>Wed, 22 Oct 2025 10:08:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>NIST 800-53 Compliance Checklist and Security Controls Guide | UpGuard</title>
       <link>https://www.upguard.com/blog/nist-800-53-compliance-checklist</link>
@@ -1004,17 +1016,6 @@ The attack has been codenamed Pixnapping by a group of academics from the Univer
       <pubDate>Tue, 14 Oct 2025 08:24:41 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-management</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Quick Glossary: Cybersecurity Attacks</title>
-      <link>https://www.techrepublic.com/resource-library/glossary/cybersecurity-attacks/</link>
-      <description>&amp;lt;p&amp;gt;This quick glossary explains the terminology behind the most common cybersecurity attacks. Constantly Updated — The download contains the latest and most accurate details. Boost Your Knowledge — This nine-page PDF explains clickjacking, hashing, and more. Expert Guidance — Written by Mark W. Kaelin through 18 hours of research, writing, editing, and design. This resource ...&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/glossary/cybersecurity-attacks/&amp;quot;&amp;gt;Quick Glossary: Cybersecurity Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 14 Oct 2025 07:54:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/glossary/cybersecurity-attacks/</guid>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>IT Resources</category>
     </item>
   </channel>
 </rss>
