@@ -5,9 +5,47 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Oct 2025 01:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 06:28:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mideast, African Hackers Target Gov&amp;apos;ts, Banks, Small Retailers</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers</link>
+      <description>In the hotly political Middle East, you&amp;apos;d expect hacktivism and disruption of services. But retail attacks?</description>
+      <pubDate>Thu, 23 Oct 2025 06:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw</title>
+      <link>https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html</link>
+      <description>E-commerce security company Sansec has warned that threat actors have begun to exploit a recently disclosed security vulnerability in Adobe Commerce and Magento Open Source platforms, with more than 250 attack attempts recorded against multiple stores over the past 24 hours.
+The vulnerability in question is CVE-2025-54236 (CVSS score: 9.1), a critical improper input validation flaw that could be</description>
+      <pubDate>Thu, 23 Oct 2025 11:17:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms</title>
+      <link>https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Motex Lanscope Endpoint Manager to its Known Exploited Vulnerabilities (KEV) catalog, stating it has been actively exploited in the wild.
+The vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises versions of Lanscope Endpoint Manager, specifically Client</description>
+      <pubDate>Thu, 23 Oct 2025 11:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Lazarus Group Hunts European Drone Manufacturing Data</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data</link>
+      <description>The campaign is the latest effort by the North Korean threat actor to collect data of strategic interest to Pyongyang.</description>
+      <pubDate>Thu, 23 Oct 2025 04:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>NIST compliance in 2025: A complete implementation guide | UpGuard</title>
       <link>https://www.upguard.com/blog/nist-compliance</link>
@@ -958,57 +996,6 @@ It attributed the activity to a &amp;quot;highly sophisticated nation-state thre
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/harvard-breached-oracle-zero-day-attack</guid>
       <dc:creator>Kristina Beek</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks</title>
-      <link>https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html</link>
-      <description>New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.
-&amp;quot;A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,&amp;quot;</description>
-      <pubDate>Wed, 15 Oct 2025 19:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How Attackers Bypass Synced Passkeys</title>
-      <link>https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</link>
-      <description>TLDR
-Even if you take nothing else away from this piece, if your organization is evaluating passkey deployments, it is insecure to deploy synced passkeys.
-
-Synced passkeys inherit the risk of the cloud accounts and recovery processes that protect them, which creates material enterprise exposure.
-Adversary-in-the-middle (AiTM) kits can force authentication fallbacks that circumvent strong</description>
-      <pubDate>Wed, 15 Oct 2025 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Apple’s Bug Bounty Program</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</link>
-      <description>&amp;lt;p&amp;gt;Apple is now offering a &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/&amp;quot;&amp;gt;$2M&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.csoonline.com/article/4071044/apple-bumps-rce-bug-bounties-to-2m-to-counter-commercial-spyware-vendors.html&amp;quot;&amp;gt;bounty&amp;lt;/a&amp;gt; for a zero-click exploit. According to &amp;lt;a href=&amp;quot;https://security.apple.com/blog/apple-security-bounty-evolved/&amp;quot;&amp;gt;the Apple website&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Today we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.&amp;lt;/p&amp;gt;
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;We’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.
-...&amp;lt;/li&amp;gt;&amp;lt;/ol&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 15 Oct 2025 11:02:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Apple</category>
-      <category>exploits</category>
-      <category>spyware</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped</title>
-      <link>https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</link>
-      <description>Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.
-Of the 183 vulnerabilities, eight of them are non-Microsoft</description>
-      <pubDate>Wed, 15 Oct 2025 14:53:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
