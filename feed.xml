@@ -5,9 +5,43 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Oct 2025 18:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 01:23:11 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NIST compliance in 2025: A complete implementation guide | UpGuard</title>
+      <link>https://www.upguard.com/blog/nist-compliance</link>
+      <description>NIST compliance ensures alignment with leading cybersecurity frameworks. Explore how the NIST standards can safeguard sensitive data and manage third-party</description>
+      <pubDate>Wed, 22 Oct 2025 23:45:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/nist-compliance</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Choosing the Right Attack Surface Visibility Software | UpGuard</title>
+      <link>https://www.upguard.com/blog/choosing-attack-surface-visibility-software</link>
+      <description>Explore the top features of attack surface visibility software, why it matters for cybersecurity, and how to choose the right tool for your organization.</description>
+      <pubDate>Wed, 22 Oct 2025 23:35:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-attack-surface-visibility-software</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>It Takes Only 250 Documents to Poison Any AI Model</title>
+      <link>https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model</link>
+      <description>Researchers find it takes far less to manipulate a large language model&amp;apos;s (LLM) behavior than anyone previously assumed.</description>
+      <pubDate>Wed, 22 Oct 2025 20:33:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Too Many Secrets: Attackers Pounce on Sensitive Data Sprawl</title>
+      <link>https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl</link>
+      <description>Hardcoded credentials, access tokens, and API keys are ending up in the darnedest places, prompting a call for organizations to stop over-privileging secrets.</description>
+      <pubDate>Wed, 22 Oct 2025 20:07:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>WhatsApp Secures Ban on NSO Group After 6-Year Legal Battle</title>
       <link>https://www.darkreading.com/cyber-risk/whatsapp-ban-nso-group-legal-battle</link>
@@ -203,6 +237,15 @@ CVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerab
       <guid isPermaLink="true">https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Asian Nations Ramp Up Pressure on Cybercrime &amp;apos;Scam Factories&amp;apos;</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories</link>
+      <description>After a particularly gruesome murder, South Korea issues &amp;amp;quot;code black&amp;amp;quot; travel ban for several regions in Cambodia, while other nations urge more raids.</description>
+      <pubDate>Wed, 22 Oct 2025 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>NIST 800-53 Compliance Checklist and Security Controls Guide | UpGuard</title>
@@ -966,52 +1009,6 @@ Of the 183 vulnerabilities, eight of them are non-Microsoft</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Africa Remains Top Global Target, Even as Attacks Decline</title>
-      <link>https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline</link>
-      <description>Organizations across the continent saw 10% fewer attacks in September, but Africa remains the most attacked region in the world, leading the Global South.</description>
-      <pubDate>Wed, 15 Oct 2025 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control</title>
-      <link>https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</link>
-      <description>Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.
-The shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.
-&amp;quot;The vulnerabilities affect Red Lion SixTRAK and VersaTRAK</description>
-      <pubDate>Wed, 15 Oct 2025 12:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access</title>
-      <link>https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</link>
-      <description>Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.
-The vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center</description>
-      <pubDate>Wed, 15 Oct 2025 11:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How to Perform a Cybersecurity Risk Assessment | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-perform-a-cybersecurity-risk-assessment</link>
-      <description>Follow a step-by-step guide to cybersecurity risk assessments, including real-world examples, frameworks, and practical tools to help protect your organiza</description>
-      <pubDate>Wed, 15 Oct 2025 06:12:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-perform-a-cybersecurity-risk-assessment</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Top Cybersecurity Metrics and KPIs for 2025 | UpGuard</title>
-      <link>https://www.upguard.com/blog/cybersecurity-metrics</link>
-      <description>Discover the most important cybersecurity metrics and KPIs to monitor your risk posture, track performance, and meet compliance goals.</description>
-      <pubDate>Wed, 15 Oct 2025 06:12:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-metrics</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
