@@ -5,9 +5,64 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Oct 2025 12:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 18:27:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Downstream Data: Investigating AI Data Leaks in Flowise | UpGuard</title>
+      <link>https://www.upguard.com/blog/downstream-data-investigating-ai-data-leaks-in-flowise</link>
+      <description>A thousand Flowise instances are exposed to the internet, many of them leaking confidential business data, passwords, and more.</description>
+      <pubDate>Thu, 23 Oct 2025 16:39:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/downstream-data-investigating-ai-data-leaks-in-flowise</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Pakistani-Linked Hacker Group Targets Indian Government</title>
+      <link>https://www.infosecurity-magazine.com/news/pakistani-hacker-group-targets/</link>
+      <description>A cyber-espionage campaign by Pakistan’s TransparentTribe has been identified, targeting Indian government systems using DeskRAT</description>
+      <pubDate>Thu, 23 Oct 2025 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/pakistani-hacker-group-targets/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets</title>
+      <link>https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html</link>
+      <description>Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.
+&amp;quot;Some of these [companies&amp;apos; are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea&amp;apos;s current efforts to scale up its</description>
+      <pubDate>Thu, 23 Oct 2025 20:59:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Lazarus Group’s Operation DreamJob Targets European Defense Firms</title>
+      <link>https://www.infosecurity-magazine.com/news/lazarus-groups-operation-dreamjob/</link>
+      <description>Cyber-attacks by North Korea’s Lazarus Group target European defense firms in drone development</description>
+      <pubDate>Thu, 23 Oct 2025 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lazarus-groups-operation-dreamjob/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Secure AI at Scale and Speed — Learn the Framework in this Free Webinar</title>
+      <link>https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html</link>
+      <description>AI is everywhere—and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you&amp;apos;re in security, that excitement often comes with a sinking feeling.
+Because while everyone else is racing ahead, you&amp;apos;re left trying to manage a growing web of AI agents you didn’t create, can’t fully see, and weren’t designed to control.
+Join our upcoming webinar and learn how to make AI</description>
+      <pubDate>Thu, 23 Oct 2025 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack &amp;amp; More</title>
+      <link>https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html</link>
+      <description>Criminals don&amp;amp;rsquo;t need to be clever all the time; they just follow the easiest path in: trick users, exploit stale components, or abuse trusted systems like OAuth and package registries. If your stack or habits make any of those easy, you&amp;amp;rsquo;re already a target.
+This week&amp;amp;rsquo;s ThreatsDay highlights show exactly how those weak points are being exploited &amp;amp;mdash; from overlooked</description>
+      <pubDate>Thu, 23 Oct 2025 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Major Vulnerabilities Found in TP-Link VPN Routers</title>
       <link>https://www.infosecurity-magazine.com/news/vulnerabilities-tplink-vpn-routers/</link>
@@ -117,7 +172,7 @@ The vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises vers
     <item>
       <title>Pwn2Own Underscores Secure Development Concerns</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns</link>
-      <description>Pwn2Own Ireland kicked off on Oct. 21 and what researchers found continued to highlight how secure development practices are lacking across the industry.</description>
+      <description>Pwn2Own Ireland kicked off on Oct. 21. What researchers found continues to highlight how secure development practices are lacking across the industry.</description>
       <pubDate>Wed, 22 Oct 2025 22:30:53 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns</guid>
       <dc:creator>Arielle Waldman</dc:creator>
@@ -484,14 +539,6 @@ Every organization experimenting with AI in</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Lumma Stealer Developers Doxxed in Underground Rival Cybercrime Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/lumma-stealer-developers-doxxed/</link>
-      <description>Lumma Stealer operators allegedly exposed in underground doxxing campaign, with sensitive details leaked by rival cybercriminals, according to Trend Micro</description>
-      <pubDate>Tue, 21 Oct 2025 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lumma-stealer-developers-doxxed/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Patch Management Policy</title>
       <link>https://www.techrepublic.com/resource-library/it-policy/patch-management-policy/</link>
       <description>&amp;lt;p&amp;gt;Organizations can use this policy to help with the critical patching of operating systems, applications, and devices. Customizable Document — Use it as-is or make minor edits. Boost Your Security — This six-page document will ensure secure company operations and reduce downtime and technical support headaches. Expertise Guaranteed — Created by Scott Matteson through 12 ...&amp;lt;/p&amp;gt;
@@ -585,14 +632,6 @@ The security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has b
       <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Experian Fined €2.7m For GDPR Breach in Netherlands</title>
-      <link>https://www.infosecurity-magazine.com/news/experian-fined-gdpr-breach/</link>
-      <description>The Dutch Data Protection Authority issued Experian a €2.7m for GDPR violations including excessive collection of personal data</description>
-      <pubDate>Mon, 20 Oct 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/experian-fined-gdpr-breach/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Self-Propagating GlassWorm Attacks VS Code Supply Chain</title>
@@ -968,41 +1007,6 @@ Hackers don’t always break systems anymore — they use them. They hide inside
       <pubDate>Thu, 16 Oct 2025 05:03:13 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A CISO&amp;apos;s Guide to the Business Risks of AI Development Platforms | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-vibe-coding-paradox</link>
-      <description>This guide provides a strategic framework for understanding and mitigating the new wave of threats emerging from this AI-driven ecosystem.</description>
-      <pubDate>Thu, 16 Oct 2025 05:02:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-vibe-coding-paradox</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack</title>
-      <link>https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.</description>
-      <pubDate>Thu, 16 Oct 2025 09:56:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cybersecurity Study Shows Patient Care at Risk of Attacks</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks</link>
-      <description/>
-      <pubDate>Thu, 16 Oct 2025 00:33:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>LevelBlue Announces Plans to Acquire XDR Provider Cybereason</title>
-      <link>https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason</link>
-      <description>The deal, which builds on LevelBlue&amp;apos;s recent acquisition of Trustwave and Aon, aims to provide customers with a broad portfolio of extended detection and response, managed detection and response, and forensic services.</description>
-      <pubDate>Wed, 15 Oct 2025 23:45:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
