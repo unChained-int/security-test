@@ -5,9 +5,61 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Oct 2025 06:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:40:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Major Vulnerabilities Found in TP-Link VPN Routers</title>
+      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-tplink-vpn-routers/</link>
+      <description>Forescout researchers discovered critical and high-severity vulnerabilities in several TP-Link VPN routers</description>
+      <pubDate>Thu, 23 Oct 2025 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/vulnerabilities-tplink-vpn-routers/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Serious F5 Breach</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/&amp;quot;&amp;gt;This&amp;lt;/a&amp;gt; is bad:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;F5, a Seattle-based maker of networking software, &amp;lt;a href=&amp;quot;https://my.f5.com/manage/s/article/K000154696&amp;quot;&amp;gt;disclosed the breach&amp;lt;/a&amp;gt; on Wednesday. F5 said a &amp;amp;#8220;sophisticated&amp;amp;#8221; threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a &amp;amp;#8220;long-term.&amp;amp;#8221; Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network &amp;lt;a href=&amp;quot;https://cyberplace.social/@GossiTheDog/115378445416288653&amp;quot;&amp;gt;for years&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;During that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 23 Oct 2025 11:04:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/serious-f5-breach.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>breaches</category>
+      <category>disclosure</category>
+      <category>network security</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Why Organizations Are Abandoning Static Secrets for Managed Identities</title>
+      <link>https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html</link>
+      <description>As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.
+For decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security</description>
+      <pubDate>Thu, 23 Oct 2025 16:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Lumma Stealer Vacuum Filled by Upgraded Vidar 2.0 Infostealer, Researchers Say</title>
+      <link>https://www.infosecurity-magazine.com/news/lumma-stealer-vacuum-filled-vidar-2/</link>
+      <description>Trend Micro believe security teams should anticipate increased Vidar 2.0 prevalence in campaigns through Q4 2025</description>
+      <pubDate>Thu, 23 Oct 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lumma-stealer-vacuum-filled-vidar-2/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
+      <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
+      <description>Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.
+&amp;quot;Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,&amp;quot; Palo Alto Networks Unit 42 researchers</description>
+      <pubDate>Thu, 23 Oct 2025 13:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Mideast, African Hackers Target Gov&amp;apos;ts, Banks, Small Retailers</title>
       <link>https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers</link>
@@ -61,6 +113,24 @@ The vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises vers
       <pubDate>Wed, 22 Oct 2025 23:35:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/choosing-attack-surface-visibility-software</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Pwn2Own Underscores Secure Development Concerns</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns</link>
+      <description>Pwn2Own Ireland kicked off on Oct. 21 and what researchers found continued to highlight how secure development practices are lacking across the industry.</description>
+      <pubDate>Wed, 22 Oct 2025 22:30:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The Best End User Security Awareness Programs Aren&amp;apos;t About Awareness Anymore</title>
+      <link>https://www.darkreading.com/cyber-risk/best-end-user-security-awareness-programs-arent-about-awareness-anymore</link>
+      <description>The goal is to apply psychology principles to security training to change behaviors and security outcomes.</description>
+      <pubDate>Wed, 22 Oct 2025 22:00:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/best-end-user-security-awareness-programs-arent-about-awareness-anymore</guid>
+      <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>It Takes Only 250 Documents to Poison Any AI Model</title>
@@ -534,14 +604,6 @@ The security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has b
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>AI-Driven Social Engineering Top Cyber Threat for 2026, ISACA Survey Reveals</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-social-engineering-top-cyber/</link>
-      <description>Only one in ten IT and cybersecurity professionals feels “very prepared” to manage generative AI risks</description>
-      <pubDate>Mon, 20 Oct 2025 13:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-social-engineering-top-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp;amp; More</title>
       <link>https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html</link>
       <description>It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.
@@ -550,14 +612,6 @@ Here’s a quick look at this week’s top threats, new tactics, and security st
       <guid isPermaLink="true">https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Salt Typhoon Uses Citrix Flaw in Global Cyber-Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/salt-typhoon-citrix-flaw-cyber/</link>
-      <description>A cyber intrusion by China-linked group Salt Typhoon has been observed targeting global infrastructure via DLL sideloading</description>
-      <pubDate>Mon, 20 Oct 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/salt-typhoon-citrix-flaw-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches</title>
@@ -948,53 +1002,6 @@ The vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-se
       <pubDate>Wed, 15 Oct 2025 23:45:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason</guid>
       <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>&amp;apos;Mysterious Elephant&amp;apos; Moves Beyond Recycled Malware</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware</link>
-      <description>The cyber-espionage group has been using sophisticated custom tools to target government and diplomatic entities in South Asia since early 2025.</description>
-      <pubDate>Wed, 15 Oct 2025 20:55:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>F5 BIG-IP Environment Breached by Nation-State Actor</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/f5-big-ip-environment-breached-nation-state-actor</link>
-      <description>F5 disclosed a breach this week that included zero-day bugs, source code, and some customer information.</description>
-      <pubDate>Wed, 15 Oct 2025 19:08:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/f5-big-ip-environment-breached-nation-state-actor</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Chinese Threat Group &amp;apos;Jewelbug&amp;apos; Quietly Infiltrated Russian IT Network for Months</title>
-      <link>https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html</link>
-      <description>A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group&amp;apos;s expansion to the country beyond Southeast Asia and South America.
-The activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with</description>
-      <pubDate>Wed, 15 Oct 2025 22:58:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion</title>
-      <link>https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html</link>
-      <description>U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP&amp;apos;s source code and information related to undisclosed vulnerabilities in the product.
-It attributed the activity to a &amp;quot;highly sophisticated nation-state threat actor,&amp;quot; adding the adversary maintained long-term, persistent access to its network. The</description>
-      <pubDate>Wed, 15 Oct 2025 21:36:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Harvard University Breached in Oracle Zero-Day Attack</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/harvard-breached-oracle-zero-day-attack</link>
-      <description>The Clop ransomware group claimed responsibility for stealing the university&amp;apos;s data as part of a broader campaign against Oracle customers.</description>
-      <pubDate>Wed, 15 Oct 2025 15:13:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/harvard-breached-oracle-zero-day-attack</guid>
-      <dc:creator>Kristina Beek</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
