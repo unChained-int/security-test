@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Oct 2025 18:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 01:19:38 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -116,15 +116,6 @@ For decades, organizations have relied on static secrets, such as API keys, pass
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Mideast, African Hackers Target Gov&amp;apos;ts, Banks, Small Retailers</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers</link>
-      <description>In the hotly political Middle East, you&amp;apos;d expect hacktivism and disruption of services. But retail attacks?</description>
-      <pubDate>Thu, 23 Oct 2025 06:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw</title>
       <link>https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html</link>
       <description>E-commerce security company Sansec has warned that threat actors have begun to exploit a recently disclosed security vulnerability in Adobe Commerce and Magento Open Source platforms, with more than 250 attack attempts recorded against multiple stores over the past 24 hours.
@@ -145,15 +136,6 @@ The vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises vers
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Lazarus Group Hunts European Drone Manufacturing Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data</link>
-      <description>The campaign is the latest effort by the North Korean threat actor to collect data of strategic interest to Pyongyang.</description>
-      <pubDate>Thu, 23 Oct 2025 04:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>NIST compliance in 2025: A complete implementation guide | UpGuard</title>
       <link>https://www.upguard.com/blog/nist-compliance</link>
       <description>NIST compliance ensures alignment with leading cybersecurity frameworks. Explore how the NIST standards can safeguard sensitive data and manage third-party</description>
@@ -168,51 +150,6 @@ The vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises vers
       <pubDate>Wed, 22 Oct 2025 23:35:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/choosing-attack-surface-visibility-software</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Pwn2Own Underscores Secure Development Concerns</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns</link>
-      <description>Pwn2Own Ireland kicked off on Oct. 21. What researchers found continues to highlight how secure development practices are lacking across the industry.</description>
-      <pubDate>Wed, 22 Oct 2025 22:30:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>The Best End User Security Awareness Programs Aren&amp;apos;t About Awareness Anymore</title>
-      <link>https://www.darkreading.com/cyber-risk/best-end-user-security-awareness-programs-arent-about-awareness-anymore</link>
-      <description>The goal is to apply psychology principles to security training to change behaviors and security outcomes.</description>
-      <pubDate>Wed, 22 Oct 2025 22:00:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/best-end-user-security-awareness-programs-arent-about-awareness-anymore</guid>
-      <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>It Takes Only 250 Documents to Poison Any AI Model</title>
-      <link>https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model</link>
-      <description>Researchers find it takes far less to manipulate a large language model&amp;apos;s (LLM) behavior than anyone previously assumed.</description>
-      <pubDate>Wed, 22 Oct 2025 20:33:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Too Many Secrets: Attackers Pounce on Sensitive Data Sprawl</title>
-      <link>https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl</link>
-      <description>Hardcoded credentials, access tokens, and API keys are ending up in the darnedest places, prompting a call for organizations to stop over-privileging secrets.</description>
-      <pubDate>Wed, 22 Oct 2025 20:07:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>WhatsApp Secures Ban on NSO Group After 6-Year Legal Battle</title>
-      <link>https://www.darkreading.com/cyber-risk/whatsapp-ban-nso-group-legal-battle</link>
-      <description>NSO Group must pay $4 million in damages and is permanently prohibited from reverse-engineering WhatsApp or creating new accounts after targeting users with spyware.</description>
-      <pubDate>Wed, 22 Oct 2025 17:45:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/whatsapp-ban-nso-group-legal-battle</guid>
-      <dc:creator>Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Canada Fines Cybercrime Friendly Cryptomus $176M</title>
@@ -273,24 +210,6 @@ The activity, which took place on October 8, 2025, targeted individual members o
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Russia Pivots, Cracks Down on Resident Hackers</title>
-      <link>https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers</link>
-      <description>Thanks to improving cybersecurity and law enforcement action from the West, Russia&amp;apos;s government is reevaluating which cybercriminals it wants to give safe haven from the law.</description>
-      <pubDate>Wed, 22 Oct 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>MuddyWater Targets 100+ Gov Entities in MEA With Phoenix Backdoor</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor</link>
-      <description>The Iranian threat group is using a compromised mailbox accessed through NordVPN to send phishing emails that prompt recipients to enable macros.</description>
-      <pubDate>Wed, 22 Oct 2025 13:17:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft&amp;apos;s July Patch</title>
       <link>https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html</link>
       <description>Threat actors with ties to China exploited the ToolShell security vulnerability in Microsoft SharePoint to breach a telecommunications company in the Middle East after it was publicly disclosed and patched in July 2025.
@@ -344,15 +263,6 @@ The package, Netherеum.All, has been found to harbor functionality to decode a 
       <category>identification</category>
     </item>
     <item>
-      <title>Verizon: Mobile Blindspot Leads to Needless Data Breaches</title>
-      <link>https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches</link>
-      <description>People habitually ignore cybersecurity on their phones. Instead of compensating for that, organizations are falling into the very same trap, even though available security options could cut smishing success and breaches in half.</description>
-      <pubDate>Wed, 22 Oct 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Why You Should Swap Passwords for Passphrases</title>
       <link>https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html</link>
       <description>The advice didn&amp;apos;t change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create</description>
@@ -402,15 +312,6 @@ CVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerab
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Asian Nations Ramp Up Pressure on Cybercrime &amp;apos;Scam Factories&amp;apos;</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories</link>
-      <description>After a particularly gruesome murder, South Korea issues &amp;amp;quot;code black&amp;amp;quot; travel ban for several regions in Cambodia, while other nations urge more raids.</description>
-      <pubDate>Wed, 22 Oct 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>NIST 800-53 Compliance Checklist and Security Controls Guide | UpGuard</title>
       <link>https://www.upguard.com/blog/nist-800-53-compliance-checklist</link>
       <description>Access a comprehensive NIST 800-53 compliance checklist to understand and implement the necessary security controls for federal information systems.</description>
@@ -425,15 +326,6 @@ CVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerab
       <pubDate>Wed, 22 Oct 2025 00:55:47 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/what-is-iso-27001</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Electronic Warfare Puts Commercial GPS Users on Notice</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice</link>
-      <description>Interference with the global positioning system (GPS) isn&amp;apos;t just a problem for airlines, but for shipping, trucking, car navigation, agriculture, and even the financial sector.</description>
-      <pubDate>Tue, 21 Oct 2025 20:42:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams</title>
@@ -464,15 +356,6 @@ The TLS-based ELF implant, at its core, is designed to monitor</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Streaming Fraud Campaigns Rely on AI Tools, Bots</title>
-      <link>https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots</link>
-      <description>Fraudsters are using generative AI to generate fake music and boost the popularity of the fake content.</description>
-      <pubDate>Tue, 21 Oct 2025 13:32:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots</guid>
-      <dc:creator>Fahmida Y. Rashid</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Ransomware Payouts Surge to $3.6m Amid Evolving Tactics</title>
@@ -522,15 +405,6 @@ Every organization experimenting with AI in</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs</link>
-      <description>A persistent cyber-espionage campaign focused on SQL servers is targeting government, industrial, and financial sectors across Asia, Africa, and Latin America.</description>
-      <pubDate>Tue, 21 Oct 2025 10:27:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Russian Coldriver Hackers Deploy New &amp;apos;NoRobot&amp;apos; Malware</title>
       <link>https://www.infosecurity-magazine.com/news/russian-coldriver-hackers-new/</link>
       <description>The Coldriver hacking group reportedly shifted its operation quickly after the May 2025 public disclosure of its LostKeys malware</description>
@@ -571,33 +445,6 @@ Salt Typhoon, also known as Earth Estries, FamousSparrow,</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>ColdRiver Drops Fresh Malware on Targets</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/coldriver-drops-fresh-malware-targets</link>
-      <description>The Russia-backed threat actor&amp;apos;s latest cyber spying campaign is a classic example of how quickly sophisticated hacking groups can pivot when exposed.</description>
-      <pubDate>Mon, 20 Oct 2025 21:27:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/coldriver-drops-fresh-malware-targets</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>International Sting Takes Down SIM Box Criminal Network</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network</link>
-      <description>The operation took down a massive SIM card fraud network that provided fake phone numbers from more than 80 countries to criminals.</description>
-      <pubDate>Mon, 20 Oct 2025 21:02:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network</guid>
-      <dc:creator>Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Is Your Car a BYOD Risk? Researchers Demonstrate How</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/car-byod-risk</link>
-      <description>If an employee&amp;apos;s phone connects to their car and then their corporate network, an attack against the car can reach the company.</description>
-      <pubDate>Mon, 20 Oct 2025 20:38:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/car-byod-risk</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>ISO 27001 Audit: How to prepare and the critical next steps | UpGuard</title>
       <link>https://www.upguard.com/blog/iso-27001-audit-next-steps</link>
       <description>Step-by-step guidance on ISO 27001 audit preperation, handling nonconformities, next steps, and tools that simplify certification.</description>
@@ -614,33 +461,6 @@ The security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has b
       <guid isPermaLink="true">https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Flawed Vendor Guidance Exposes Enterprises to Avoidable Risk</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack</link>
-      <description>Oracle E-Business Suite customers received conflicting deployment guidance, leaving enterprises exposed a recent zero-day flaw, Andrew argues.</description>
-      <pubDate>Mon, 20 Oct 2025 18:19:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack</guid>
-      <dc:creator>Dan Andrew</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge</title>
-      <link>https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks</link>
-      <description>Hardware attacks using lasers against silicon chips are difficult but possible. A fresh microchip protection approach aims to make it harder.</description>
-      <pubDate>Mon, 20 Oct 2025 15:28:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Self-Propagating GlassWorm Attacks VS Code Supply Chain</title>
-      <link>https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain</link>
-      <description>The sophisticated worm — which uses invisible code to steal credentials and turn developer systems into criminal proxies — has so far infected nearly 36k machines.</description>
-      <pubDate>Mon, 20 Oct 2025 14:39:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp;amp; More</title>
@@ -719,15 +539,6 @@ According to Seqrite Labs, the attack chain involves distributing phishing email
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Cyber Academy Founder Champions Digital Safety for All</title>
-      <link>https://www.darkreading.com/cybersecurity-careers/cyber-academy-founder-champions-digital-safety-for-all</link>
-      <description>Aliyu Ibrahim Usman, founder of the Cyber Cadet Academy in Nigeria, shares his passion for raising cybersecurity awareness in the wake of mounting security concerns worldwide.</description>
-      <pubDate>Sat, 18 Oct 2025 08:00:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-careers/cyber-academy-founder-champions-digital-safety-for-all</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT</title>
       <link>https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html</link>
       <description>The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).
@@ -758,33 +569,6 @@ According to Seqrite Labs, the attack chain involves distributing phishing email
       <pubDate>Fri, 17 Oct 2025 18:26:51 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/data-leak-prevention-tips</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Microsoft Disrupts Ransomware Campaign Abusing Azure Certificates</title>
-      <link>https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates</link>
-      <description>Microsoft revoked more than 200 digital certificates that threat actors used to sign fake Teams binaries that set the stage for Rhysida ransomware attacks.</description>
-      <pubDate>Fri, 17 Oct 2025 18:00:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Agent Security: Whose Responsibility Is It?</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/ai-agent-security-awareness-responsibility</link>
-      <description>The shared responsibility model of data security, familiar from cloud deployments, is key to agentic services, but cybersecurity teams and corporate users often struggle with awareness and managing that risk.</description>
-      <pubDate>Fri, 17 Oct 2025 16:23:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-agent-security-awareness-responsibility</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Chat Data Is History&amp;apos;s Most Thorough Record of Enterprise Secrets. Secure It Wisely</title>
-      <link>https://www.darkreading.com/application-security/ai-chat-data-is-history-s-most-thorough-record-of-enterprise-secrets-secure-it-accordingly</link>
-      <description>AI interactions are becoming one of the most revealing records of human thinking, and we&amp;apos;re only beginning to understand what that means for law enforcement, accountability, and privacy.</description>
-      <pubDate>Fri, 17 Oct 2025 15:41:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-chat-data-is-history-s-most-thorough-record-of-enterprise-secrets-secure-it-accordingly</guid>
-      <dc:creator>Rob T. Lee</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware</title>
@@ -877,33 +661,6 @@ The tech</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cyberattackers Target LastPass, Top Password Managers</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers</link>
-      <description>Be aware: a rash of phishing campaigns are leveraging the anxiety and trust employees have in password vaults securing all of their credentials.</description>
-      <pubDate>Thu, 16 Oct 2025 20:33:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Leaks in Microsoft VS Code Marketplace Put Supply Chain at Risk</title>
-      <link>https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks</link>
-      <description>Researchers discovered more than 550 unique secrets exposed in Visual Studio Code marketplaces, prompting Microsoft to bolster security measures.</description>
-      <pubDate>Thu, 16 Oct 2025 19:54:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>China Hackers Test AI-Optimized Attack Chains in Taiwan</title>
-      <link>https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan</link>
-      <description>AI might help some threat actors in certain respects, but one group is proving that its use for cyberattacks has its limits.</description>
-      <pubDate>Thu, 16 Oct 2025 17:02:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts</title>
@@ -1006,6 +763,337 @@ Hackers don’t always break systems anymore — they use them. They hide inside
       <description>The new CSRMC framework makes static security obsolete. This guide offers actionable steps to modernize your SOC with continuous assurance.</description>
       <pubDate>Thu, 16 Oct 2025 05:03:13 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>A CISO&amp;apos;s Guide to the Business Risks of AI Development Platforms | UpGuard</title>
+      <link>https://www.upguard.com/blog/the-vibe-coding-paradox</link>
+      <description>This guide provides a strategic framework for understanding and mitigating the new wave of threats emerging from this AI-driven ecosystem.</description>
+      <pubDate>Thu, 16 Oct 2025 05:02:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/the-vibe-coding-paradox</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>CISA Flags Adobe AEM Flaw with Perfect 10.0 Score — Already Under Active Attack</title>
+      <link>https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.</description>
+      <pubDate>Thu, 16 Oct 2025 09:56:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cybersecurity Study Shows Patient Care at Risk of Attacks</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks</link>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 00:33:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/cybersecurity-study-shows-patient-care-risk-attacks</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
+      <title>Chinese Threat Group &amp;apos;Jewelbug&amp;apos; Quietly Infiltrated Russian IT Network for Months</title>
+      <link>https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html</link>
+      <description>A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group&amp;apos;s expansion to the country beyond Southeast Asia and South America.
+The activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with</description>
+      <pubDate>Wed, 15 Oct 2025 22:58:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion</title>
+      <link>https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html</link>
+      <description>U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP&amp;apos;s source code and information related to undisclosed vulnerabilities in the product.
+It attributed the activity to a &amp;quot;highly sophisticated nation-state threat actor,&amp;quot; adding the adversary maintained long-term, persistent access to its network. The</description>
+      <pubDate>Wed, 15 Oct 2025 21:36:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks</title>
+      <link>https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html</link>
+      <description>New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.
+&amp;quot;A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,&amp;quot;</description>
+      <pubDate>Wed, 15 Oct 2025 19:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>How Attackers Bypass Synced Passkeys</title>
+      <link>https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</link>
+      <description>TLDR
+Even if you take nothing else away from this piece, if your organization is evaluating passkey deployments, it is insecure to deploy synced passkeys.
+
+Synced passkeys inherit the risk of the cloud accounts and recovery processes that protect them, which creates material enterprise exposure.
+Adversary-in-the-middle (AiTM) kits can force authentication fallbacks that circumvent strong</description>
+      <pubDate>Wed, 15 Oct 2025 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple’s Bug Bounty Program</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</link>
+      <description>&amp;lt;p&amp;gt;Apple is now offering a &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/&amp;quot;&amp;gt;$2M&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.csoonline.com/article/4071044/apple-bumps-rce-bug-bounties-to-2m-to-counter-commercial-spyware-vendors.html&amp;quot;&amp;gt;bounty&amp;lt;/a&amp;gt; for a zero-click exploit. According to &amp;lt;a href=&amp;quot;https://security.apple.com/blog/apple-security-bounty-evolved/&amp;quot;&amp;gt;the Apple website&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Today we’re announcing the next major chapter for Apple Security Bounty, featuring the industry’s highest rewards, expanded research categories, and a flag system for researchers to objectively demonstrate vulnerabilities and obtain accelerated awards.&amp;lt;/p&amp;gt;
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;We’re doubling our top award to $2 million for exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks. This is an unprecedented amount in the industry and the largest payout offered by any bounty program we’re aware of ­ and our bonus system, providing additional rewards for Lockdown Mode bypasses and vulnerabilities discovered in beta software, can more than double this reward, with a maximum payout in excess of $5 million. We’re also doubling or significantly increasing rewards in many other categories to encourage more intensive research. This includes $100,000 for a complete Gatekeeper bypass, and $1 million for broad unauthorized iCloud access, as no successful exploit has been demonstrated to date in either category.
+...&amp;lt;/li&amp;gt;&amp;lt;/ol&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 15 Oct 2025 11:02:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Apple</category>
+      <category>exploits</category>
+      <category>spyware</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped</title>
+      <link>https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</link>
+      <description>Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.
+Of the 183 vulnerabilities, eight of them are non-Microsoft</description>
+      <pubDate>Wed, 15 Oct 2025 14:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control</title>
+      <link>https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</link>
+      <description>Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.
+The shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.
+&amp;quot;The vulnerabilities affect Red Lion SixTRAK and VersaTRAK</description>
+      <pubDate>Wed, 15 Oct 2025 12:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access</title>
+      <link>https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</link>
+      <description>Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.
+The vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center</description>
+      <pubDate>Wed, 15 Oct 2025 11:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>How to Perform a Cybersecurity Risk Assessment | UpGuard</title>
+      <link>https://www.upguard.com/blog/how-to-perform-a-cybersecurity-risk-assessment</link>
+      <description>Follow a step-by-step guide to cybersecurity risk assessments, including real-world examples, frameworks, and practical tools to help protect your organiza</description>
+      <pubDate>Wed, 15 Oct 2025 06:12:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-perform-a-cybersecurity-risk-assessment</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Top Cybersecurity Metrics and KPIs for 2025 | UpGuard</title>
+      <link>https://www.upguard.com/blog/cybersecurity-metrics</link>
+      <description>Discover the most important cybersecurity metrics and KPIs to monitor your risk posture, track performance, and meet compliance goals.</description>
+      <pubDate>Wed, 15 Oct 2025 06:12:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-metrics</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login</title>
+      <link>https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html</link>
+      <description>SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.
+The vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.
+&amp;quot;Due to a deserialization vulnerability in SAP NetWeaver, an</description>
+      <pubDate>Wed, 15 Oct 2025 11:06:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Patch Tuesday, October 2025 ‘End of 10’ Edition</title>
+      <link>https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</link>
+      <description>Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October&amp;apos;s Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you&amp;apos;re running a Windows 10 PC and you&amp;apos;re unable or unwilling to migrate to Windows 11, read on for other options.</description>
+      <pubDate>Tue, 14 Oct 2025 22:57:38 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Time to Patch</category>
+      <category>CVE-2025-24990</category>
+      <category>CVE-2025-59227</category>
+      <category>CVE-2025-59230</category>
+      <category>CVE-2025-59234</category>
+      <category>CVE-2025-59287</category>
+      <category>Immersive</category>
+      <category>Kev Breen</category>
+      <category>Microsoft Office</category>
+      <category>Microsoft Patch Tuesday October 2025</category>
+      <category>Satnam Narang</category>
+      <category>Tenable</category>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year</title>
+      <link>https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html</link>
+      <description>Threat actors with ties to China have been attributed to a novel campaign that compromised an ArcGIS system and turned it into a backdoor for more than a year.
+The activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hacking group called Flax Typhoon, which is also tracked as Ethereal Panda and RedJuliett. According to the U.S. government, it&amp;apos;s assessed to be a publicly-traded</description>
+      <pubDate>Tue, 14 Oct 2025 22:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/upcoming-speaking-engagements-49.html</link>
+      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Nathan E. Sanders and I will be giving a &amp;lt;a href=&amp;quot;https://ash.harvard.edu/events/in-person-book-talk-rewiring-democracy-how-ai-will-transform-our-politics-government-and-citizenship/&amp;quot;&amp;gt;book talk&amp;lt;/a&amp;gt; on &amp;lt;em&amp;gt;Rewiring Democracy&amp;lt;/em&amp;gt; at the Harvard Kennedy School’s Ash Center in Cambridge, Massachusetts, USA, on October 22, 2025, at noon ET.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Nathan E. Sanders and I will be speaking and signing books at the &amp;lt;a href=&amp;quot;https://www.harvard.com/event/schneier-sanders&amp;quot;&amp;gt;Cambridge Public Library&amp;lt;/a&amp;gt; in Cambridge, Massachusetts, USA, on October 22, 2025, at 6:00 PM ET. The event is sponsored by Harvard Bookstore.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Nathan E. Sanders and I will give a &amp;lt;a href=&amp;quot;https://datasociety.net/events/a-roadmap-for-rewiring-democracy-in-the-age-of-ai/&amp;quot;&amp;gt;virtual talk&amp;lt;/a&amp;gt; about our book &amp;lt;em&amp;gt;Rewiring Democracy&amp;lt;/em&amp;gt; on October 23, 2025, at 1:00 PM ET. The event is hosted by Data &amp;amp;#38; Society...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
+      <pubDate>Tue, 14 Oct 2025 16:01:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/upcoming-speaking-engagements-49.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Schneier news</category>
+    </item>
+    <item>
+      <title>The Trump Administration’s Increased Use of Social Media Surveillance</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html</link>
+      <description>&amp;lt;p&amp;gt;This chilling paragraph is in a comprehensive &amp;lt;a href=&amp;quot;https://www.brookings.edu/articles/how-tech-powers-immigration-enforcement/&amp;quot;&amp;gt;Brookings report&amp;lt;/a&amp;gt; about the use of tech to deport people from the US:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The administration has also adapted its methods of social media surveillance. Though agencies like &amp;lt;a href=&amp;quot;https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government&amp;quot;&amp;gt;the State Department&amp;lt;/a&amp;gt; have gathered millions of handles and monitored political discussions online, the Trump administration has been more explicit in who it&amp;amp;#8217;s targeting. Secretary of State Marco Rubio announced a new, zero-tolerance &amp;lt;a href=&amp;quot;https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas&amp;quot;&amp;gt;&amp;amp;#8220;Catch and Revoke&amp;amp;#8221; strategy,&amp;lt;/a&amp;gt; which uses AI to monitor the public speech of foreign nationals and &amp;lt;a href=&amp;quot;https://www.forbes.com/sites/stuartanderson/2025/05/05/rubio-makes-immigration-threat-to-revoke-student-h-1b-and-other-visas/&amp;quot;&amp;gt;revoke visas...&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 14 Oct 2025 11:09:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>activism</category>
+      <category>AI</category>
+      <category>privacy</category>
+      <category>reports</category>
+      <category>social media</category>
+      <category>surveillance</category>
+    </item>
+    <item>
+      <title>Understanding NIST SP 800-171 Compliance | UpGuard</title>
+      <link>https://www.upguard.com/blog/nist-sp-800-171</link>
+      <description>Learn about NIST SP 800-171 compliance, key requirements, and steps for implementation to protect Controlled Unclassified Information (CUI) effectively.</description>
+      <pubDate>Tue, 14 Oct 2025 10:00:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/nist-sp-800-171</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Vendor Risk Management: Strategies for Protecting Your Business | UpGuard</title>
+      <link>https://www.upguard.com/blog/vendor-risk-management</link>
+      <description>Explore the fundamentals of vendor risk management, including strategies, best practices, and tools to safeguard your organization from third-party risks.</description>
+      <pubDate>Tue, 14 Oct 2025 08:24:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-management</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Quick Glossary: Cybersecurity Attacks</title>
+      <link>https://www.techrepublic.com/resource-library/glossary/cybersecurity-attacks/</link>
+      <description>&amp;lt;p&amp;gt;This quick glossary explains the terminology behind the most common cybersecurity attacks. Constantly Updated — The download contains the latest and most accurate details. Boost Your Knowledge — This nine-page PDF explains clickjacking, hashing, and more. Expert Guidance — Written by Mark W. Kaelin through 18 hours of research, writing, editing, and design. This resource ...&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/glossary/cybersecurity-attacks/&amp;quot;&amp;gt;Quick Glossary: Cybersecurity Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Oct 2025 07:54:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/glossary/cybersecurity-attacks/</guid>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>IT Resources</category>
+    </item>
+    <item>
+      <title>Wearable Device Policy</title>
+      <link>https://www.techrepublic.com/resource-library/it-policy/wearable-device/</link>
+      <description>&amp;lt;p&amp;gt;This policy is designed to protect company data and staff by outlining the acceptable use of all wearable devices. Customizable Document — Use it as-is or make minor edits. Boost Your Business — This 10-page document covers the different types, procurement, and more. Expertise Guaranteed — Created by Scott Matteson through 20 hours of research, ...&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/it-policy/wearable-device/&amp;quot;&amp;gt;Wearable Device Policy&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 13 Oct 2025 09:25:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/it-policy/wearable-device/</guid>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>IT Resources</category>
+      <category>Tech &amp;amp; Work</category>
+    </item>
+    <item>
+      <title>Attack Surface Reduction: Best Practices and Examples | UpGuard</title>
+      <link>https://www.upguard.com/blog/attack-surface-reduction-examples</link>
+      <description>Learn practical strategies and best practices to reduce your organization&amp;apos;s attack surface, minimize vulnerabilities, and enhance cybersecurity.</description>
+      <pubDate>Mon, 13 Oct 2025 04:50:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/attack-surface-reduction-examples</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What Is Shadow IT? Risks, Benefits, and How to Manage It | UpGuard</title>
+      <link>https://www.upguard.com/blog/shadow-it</link>
+      <description>Learn what shadow IT is, why it’s risky, and how to detect, assess, and manage it with automated discovery, risk scoring, policy controls, and playbooks.</description>
+      <pubDate>Mon, 13 Oct 2025 04:50:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-it</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>DDoS Botnet Aisuru Blankets US ISPs in Record DDoS</title>
+      <link>https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</link>
+      <description>The world&amp;apos;s largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&amp;amp;#038;T, Comcast and Verizon, new evidence suggests. Experts say the heavy concentration of infected devices at U.S. providers is complicating efforts to limit collateral damage from the botnet&amp;apos;s attacks, which shattered previous records this week with a brief traffic flood that clocked in at nearly 30 trillion bits of data per second.</description>
+      <pubDate>Fri, 10 Oct 2025 16:10:43 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>DDoS-for-Hire</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Web Fraud 2.0</category>
+      <category>9gigsofram</category>
+      <category>Aisuru</category>
+      <category>AT&amp;amp;T</category>
+      <category>Botshield</category>
+      <category>Charter Communications</category>
+      <category>Comcast</category>
+      <category>Cosmic</category>
+      <category>DDoS</category>
+      <category>ddos-for-hire</category>
+      <category>Erik Buckingham</category>
+      <category>Forky</category>
+      <category>Global Secure Layer</category>
+      <category>Minecraft</category>
+      <category>mirai</category>
+      <category>NETSCOUT</category>
+      <category>OVH</category>
+      <category>Project Shield</category>
+      <category>ProxyPipe</category>
+      <category>Rapper Bot</category>
+      <category>Robert Coelho</category>
+      <category>roland dobbins</category>
+      <category>Steven Ferguson</category>
+      <category>T-Mobile</category>
+      <category>TCPShield</category>
+      <category>Totolink</category>
+      <category>U.S. Department of Justice</category>
+      <category>Verizon</category>
+      <category>XLab</category>
+    </item>
+    <item>
+      <title>77% of Employees Share Company Secrets on ChatGPT, Report Warns</title>
+      <link>https://www.techrepublic.com/article/news-employees-share-company-secrets-on-chatgpt/</link>
+      <description>&amp;lt;p&amp;gt;New report reveals 77% of employees share sensitive company data through ChatGPT and AI tools, creating major security and compliance risks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-employees-share-company-secrets-on-chatgpt/&amp;quot;&amp;gt;77% of Employees Share Company Secrets on ChatGPT, Report Warns&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 10 Oct 2025 14:43:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-employees-share-company-secrets-on-chatgpt/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>AI data security</category>
+      <category>ChatGPT data leaks</category>
+      <category>enterprise AI risks</category>
+      <category>generative AI compliance</category>
+      <category>shadow AI threats</category>
+    </item>
+    <item>
+      <title>Comprehensive Guide to Conducting Effective Supplier Risk Assessments | UpGuard</title>
+      <link>https://www.upguard.com/blog/how-to-perform-a-supplier-risk-assessment</link>
+      <description>Learn how to assess supplier risk, improve compliance, and reduce disruptions with a practical framework for vendor evaluation and ongoing risk monitoring.</description>
+      <pubDate>Fri, 10 Oct 2025 13:05:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-perform-a-supplier-risk-assessment</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
