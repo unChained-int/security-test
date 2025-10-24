@@ -5,9 +5,37 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Oct 2025 12:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 18:26:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability</title>
+      <link>https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</link>
+      <description>Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.
+The vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant</description>
+      <pubDate>Fri, 24 Oct 2025 22:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New LockBit Ransomware Victims Identified by Security Researchers</title>
+      <link>https://www.infosecurity-magazine.com/news/new-lockbit-ransomware-victims/</link>
+      <description>Check Point has identified a dozen attacks in September that bore the LockBit stamp, with half of them attributed to the group’s new ransomware version</description>
+      <pubDate>Fri, 24 Oct 2025 15:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-lockbit-ransomware-victims/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign</title>
+      <link>https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</link>
+      <description>A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.
+The activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior</description>
+      <pubDate>Fri, 24 Oct 2025 19:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Blitz Spear Phishing Campaign Targets NGOs Supporting Ukraine</title>
       <link>https://www.infosecurity-magazine.com/news/blitz-spear-phishing-ngos-ukraine/</link>
@@ -232,7 +260,7 @@ For decades, organizations have relied on static secrets, such as API keys, pass
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
+      <title>&amp;apos;Jingle Thief&amp;apos; Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
       <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
       <description>Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.
 &amp;quot;Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,&amp;quot; Palo Alto Networks Unit 42 researchers</description>
@@ -599,14 +627,6 @@ The TLS-based ELF implant, at its core, is designed to monitor</description>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots</guid>
       <dc:creator>Fahmida Y. Rashid</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Ransomware Payouts Surge to $3.6m Amid Evolving Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-payouts-surge-dollar36m/</link>
-      <description>According to ExtraHop’s latest threat landscape report, average ransomware payments surged 44% to $3.6m in 2025 despite fewer incidents</description>
-      <pubDate>Tue, 21 Oct 2025 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-payouts-surge-dollar36m/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Proofpoint Named a Leader for the Second Consecutive Time in 2025 Gartner® Magic Quadrant™ for Digital Communications Governance and Archiving Solutions</title>
@@ -976,26 +996,6 @@ The vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as a
       <category>Cybersecurity</category>
       <category>IT Resources</category>
       <category>Software</category>
-    </item>
-    <item>
-      <title>Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign</title>
-      <link>https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html</link>
-      <description>Microsoft on Thursday disclosed that it revoked more than 200 certificates used by a threat actor it tracks as Vanilla Tempest to fraudulently sign malicious binaries in ransomware attacks.
-The certificates were &amp;quot;used in fake Teams setup files to deliver the Oyster backdoor and ultimately deploy Rhysida ransomware,&amp;quot; the Microsoft Threat Intelligence team said in a post shared on X.
-The tech</description>
-      <pubDate>Fri, 17 Oct 2025 11:33:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cyberattackers Target LastPass, Top Password Managers</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers</link>
-      <description>Be aware: a rash of phishing campaigns are leveraging the anxiety and trust employees have in password vaults securing all of their credentials.</description>
-      <pubDate>Thu, 16 Oct 2025 20:33:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
