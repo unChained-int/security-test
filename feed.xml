@@ -5,9 +5,56 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Oct 2025 06:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 12:38:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Social Engineering People’s Credit Card Details</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link>
+      <description>&amp;lt;p&amp;gt;Good &amp;lt;i&amp;gt;Wall Street Journal&amp;lt;/i&amp;gt; &amp;lt;a href=&amp;quot;https://www.wsj.com/tech/cybersecurity/url-scam-texts-china-gangs-68e96097?st=XcjCtr&amp;amp;#038;reflink=desktopwebshare_permalink&amp;amp;#038;utm_source=substack&amp;amp;#038;utm_medium=email&amp;quot;&amp;gt;article&amp;lt;/a&amp;gt; on criminal gangs that scam people out of their credit card information:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 28 Oct 2025 11:01:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>China</category>
+      <category>credit cards</category>
+      <category>fraud</category>
+      <category>scams</category>
+      <category>social engineering</category>
+    </item>
+    <item>
+      <title>Is Your Google Workspace as Secure as You Think it is?</title>
+      <link>https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</link>
+      <description>The New Reality for Lean Security Teams
+If you’re the first security or IT hire at a fast-growing startup, you’ve likely inherited a mandate that’s both simple and maddeningly complex: secure the business without slowing it down.
+Most organizations using Google Workspace start with an environment built for collaboration, not resilience. Shared drives, permissive settings, and constant</description>
+      <pubDate>Tue, 28 Oct 2025 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Actively Exploited WSUS Bug Added to CISA KEV List</title>
+      <link>https://www.infosecurity-magazine.com/news/actively-exploited-wsus-bug-cisa/</link>
+      <description>Sysadmins are urged to patch WSUS vulnerability CVE-2025-59287 as soon as possible, with federal agencies required to update by November 14</description>
+      <pubDate>Tue, 28 Oct 2025 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/actively-exploited-wsus-bug-cisa/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Chrome Zero-Day Exploited to Deliver Italian Memento Labs&amp;apos; LeetAgent Spyware</title>
+      <link>https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html</link>
+      <description>The zero-day exploitation of a now-patched security flaw in Google Chrome led to the distribution of an espionage-related tool from Italian information technology and services provider Memento Labs, according to new findings from Kaspersky.
+The vulnerability in question is CVE-2025-2783 (CVSS score: 8.3), a case of sandbox escape which the company disclosed in March 2025 as having come under</description>
+      <pubDate>Tue, 28 Oct 2025 13:52:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats</title>
       <link>https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html</link>
@@ -496,14 +543,6 @@ For decades, organizations have relied on static secrets, such as API keys, pass
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Lumma Stealer Vacuum Filled by Upgraded Vidar 2.0 Infostealer, Researchers Say</title>
-      <link>https://www.infosecurity-magazine.com/news/lumma-stealer-vacuum-filled-vidar-2/</link>
-      <description>Trend Micro believe security teams should anticipate increased Vidar 2.0 prevalence in campaigns through Q4 2025</description>
-      <pubDate>Thu, 23 Oct 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lumma-stealer-vacuum-filled-vidar-2/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>&amp;apos;Jingle Thief&amp;apos; Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
       <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
       <description>Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.
@@ -967,34 +1006,6 @@ The security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has b
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack</guid>
       <dc:creator>Dan Andrew</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge</title>
-      <link>https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks</link>
-      <description>Hardware attacks using lasers against silicon chips are difficult but possible. A fresh microchip protection approach aims to make it harder.</description>
-      <pubDate>Mon, 20 Oct 2025 15:28:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Self-Propagating GlassWorm Attacks VS Code Supply Chain</title>
-      <link>https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain</link>
-      <description>The sophisticated worm — which uses invisible code to steal credentials and turn developer systems into criminal proxies — has so far infected nearly 36k machines.</description>
-      <pubDate>Mon, 20 Oct 2025 14:39:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding &amp;amp; More</title>
-      <link>https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html</link>
-      <description>It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.
-Here’s a quick look at this week’s top threats, new tactics, and security stories shaping</description>
-      <pubDate>Mon, 20 Oct 2025 17:57:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
