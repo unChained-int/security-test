@@ -5,9 +5,123 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 29 Oct 2025 06:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 12:40:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Discover Practical AI Tactics for GRC — Join the Free Expert Webinar</title>
+      <link>https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html</link>
+      <description>Artificial Intelligence (AI) is rapidly transforming Governance, Risk, and Compliance (GRC). It&amp;apos;s no longer a future concept—it&amp;apos;s here, and it&amp;apos;s already reshaping how teams operate.
+AI&amp;apos;s capabilities are profound: it&amp;apos;s speeding up audits, flagging critical risks faster, and drastically cutting down on time-consuming manual work. This leads to greater efficiency, higher accuracy, and a more</description>
+      <pubDate>Wed, 29 Oct 2025 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Preparing for the Digital Battlefield of 2026: Ghost Identities, Poisoned Accounts, &amp;amp; AI Agent Havoc</title>
+      <link>https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html</link>
+      <description>BeyondTrust’s annual cybersecurity predictions point to a year where old defenses will fail quietly, and new attack vectors will surge.
+Introduction
+The next major breach won’t be a phished password. It will be the result of a massive, unmanaged identity debt. This debt takes many forms: it’s the “ghost” identity from a 2015 breach lurking in your IAM, the privilege sprawl from thousands of new</description>
+      <pubDate>Wed, 29 Oct 2025 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Russian Hackers Target Ukrainian Organizations Using Stealthy Living-Off-the-Land Tactics</title>
+      <link>https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html</link>
+      <description>Organizations in Ukraine have been targeted by threat actors of Russian origin with an aim to siphon sensitive data and maintain persistent access to compromised networks.
+The activity, according to a new report from the Symantec and Carbon Black Threat Hunter Team, targeted a large business services organization for two months and a local government entity in the country for a week.
+The attacks</description>
+      <pubDate>Wed, 29 Oct 2025 17:21:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New Atroposia RAT Surfaces on Dark Web</title>
+      <link>https://www.infosecurity-magazine.com/news/new-atroposia-rat-surfaces-on-dark/</link>
+      <description>Atroposia is a newly discovered modular RAT that uses encrypted channels and advanced theft capabilities to target credentials and crypto wallets</description>
+      <pubDate>Wed, 29 Oct 2025 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-atroposia-rat-surfaces-on-dark/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Signal’s Post-Quantum Cryptographic Implementation</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html</link>
+      <description>&amp;lt;p&amp;gt;Signal has &amp;lt;a href=&amp;quot;https://signal.org/blog/spqr/&amp;quot;&amp;gt;just rolled out&amp;lt;/a&amp;gt; its quantum-safe cryptographic implementation.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;i&amp;gt;Ars Technica&amp;lt;/i&amp;gt; has a &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/&amp;quot;&amp;gt;really good article&amp;lt;/a&amp;gt; with details:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Ultimately, the architects settled on a creative solution. Rather than bolt KEM onto the existing double ratchet, they allowed it to remain more or less the same as it had been. Then they used the new quantum-safe ratchet to implement a parallel secure messaging system.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Now, when the protocol encrypts a message, it sources encryption keys from both the classic Double Ratchet and the new ratchet. It then mixes the two keys together (using a cryptographic key derivation function) to get a new encryption key that has all of the security of the classical Double Ratchet but now has quantum security, too...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 29 Oct 2025 11:09:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>cryptography</category>
+      <category>encryption</category>
+      <category>quantum computing</category>
+      <category>Signal</category>
+    </item>
+    <item>
+      <title>Open Source “b3” Benchmark to Boost LLM Security for Agents</title>
+      <link>https://www.infosecurity-magazine.com/news/open-source-b3-benchmark-security/</link>
+      <description>The backbone breaker benchmark (b3) has been launched to enhance the security of LLMs within AI agents</description>
+      <pubDate>Wed, 29 Oct 2025 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/open-source-b3-benchmark-security/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>BSI Warns of Looming AI Governance Crisis</title>
+      <link>https://www.infosecurity-magazine.com/news/bsi-warns-of-looming-ai-governance/</link>
+      <description>The British Standards Institution claims business leaders aren’t focused enough on managing AI risk</description>
+      <pubDate>Wed, 29 Oct 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bsi-warns-of-looming-ai-governance/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Lookalike Domain Attacks Explained | UpGuard</title>
+      <link>https://www.upguard.com/blog/lookalike-domain-attacks-explained</link>
+      <description>Learn about lookalike domain attacks, why they’re on the rise, and how to prevent them using automated monitoring and layered cybersecurity defenses.</description>
+      <pubDate>Wed, 29 Oct 2025 09:43:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/lookalike-domain-attacks-explained</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux</title>
+      <link>https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html</link>
+      <description>Cybersecurity researchers have discovered a set of 10 malicious npm packages that are designed to deliver an information stealer targeting Windows, Linux, and macOS systems.
+&amp;quot;The malware uses four layers of obfuscation to hide its payload, displays a fake CAPTCHA to appear legitimate, fingerprints victims by IP address, and downloads a 24MB PyInstaller-packaged information stealer that harvests</description>
+      <pubDate>Wed, 29 Oct 2025 14:04:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Quick Glossary: Encryption</title>
+      <link>https://www.techrepublic.com/resource-library/glossary/encryption/</link>
+      <description>&amp;lt;p&amp;gt;This glossary covers encryption vocabulary and helps you make sense of this essential security infrastructure. Constantly Updated — The download contains the latest and most accurate details. Boost Your Knowledge — This seven-page PDF explains hash function, SSL, and more. Expert Guidance — Written by Mark W. Kaelin through 14 hours of research, writing, editing, ...&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/glossary/encryption/&amp;quot;&amp;gt;Quick Glossary: Encryption&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 29 Oct 2025 08:33:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/glossary/encryption/</guid>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>IT Resources</category>
+    </item>
+    <item>
+      <title>Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack</title>
+      <link>https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html</link>
+      <description>Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and VulnCheck.
+The vulnerabilities are listed below -
+
+CVE-2025-6204 (CVSS score: 8.0) - A code injection vulnerability in Dassault Systèmes DELMIA Apriso that could allow an attacker to</description>
+      <pubDate>Wed, 29 Oct 2025 13:14:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Cybersecurity Firms See Surge in AI-Powered Attacks Across Africa</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-firms-see-surge-in-ai-powered-attacks-across-africa</link>
@@ -24,6 +138,15 @@
       <pubDate>Wed, 29 Oct 2025 05:45:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/the-vibe-coding-paradox</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>AI-Generated Code Poses Security, Bloat Challenges</title>
+      <link>https://www.darkreading.com/application-security/ai-generated-code-leading-expanded-technical-security-debt</link>
+      <description>Development teams that fail to create processes around AI-generated code face more technical and security debt, as vulnerabilities get replicated.</description>
+      <pubDate>Wed, 29 Oct 2025 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-generated-code-leading-expanded-technical-security-debt</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Aisuru Botnet Shifts from DDoS to Residential Proxies</title>
@@ -82,6 +205,15 @@
       <pubDate>Tue, 28 Oct 2025 22:56:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/writing-audit-proof-risk-assessments</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Inside the Data on Insider Threats: What 1,000 Real Cases Reveal About Hidden Risk</title>
+      <link>https://www.darkreading.com/insider-threats/inside-the-data-on-insider-threats-what-1000-real-cases-reveal-about-hidden-risk</link>
+      <description>Security analyst Michael Robinson spent 14 months mining thousands of legal filings to uncover who malicious insiders really are, how they operate, and why traditional detection models keep missing them.</description>
+      <pubDate>Tue, 28 Oct 2025 22:38:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/insider-threats/inside-the-data-on-insider-threats-what-1000-real-cases-reveal-about-hidden-risk</guid>
+      <dc:creator>Joan Goodchild</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership</title>
@@ -413,14 +545,6 @@ Here’s how that false sense of security</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Critical WordPress Plugin Bugs Exploited En Masse</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-wordpress-plugin-bugs/</link>
-      <description>Wordfence says threat actors are trying to exploit three critical vulnerabilities from 2024</description>
-      <pubDate>Mon, 27 Oct 2025 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/critical-wordpress-plugin-bugs/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack</title>
       <link>https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html</link>
       <description>The ransomware group known as Qilin (aka Agenda, Gold Feather, and Water Galura) has claimed more than 40 victims every month since the start of 2025, barring January, with the number of postings on its data leak site touching a high of 100 cases in June.
@@ -509,14 +633,6 @@ The vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>New LockBit Ransomware Victims Identified by Security Researchers</title>
-      <link>https://www.infosecurity-magazine.com/news/new-lockbit-ransomware-victims/</link>
-      <description>Check Point has identified a dozen attacks in September that bore the LockBit stamp, with half of them attributed to the group’s new ransomware version</description>
-      <pubDate>Fri, 24 Oct 2025 15:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-lockbit-ransomware-victims/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign</title>
       <link>https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</link>
       <description>A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.
@@ -525,14 +641,6 @@ The activity, observed in August and September 2025 by Sekoia, has been attribut
       <guid isPermaLink="true">https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Blitz Spear Phishing Campaign Targets NGOs Supporting Ukraine</title>
-      <link>https://www.infosecurity-magazine.com/news/blitz-spear-phishing-ngos-ukraine/</link>
-      <description>A spear phishing campaign dubbed PhantomCaptcha targeted Ukraine’s war relief efforts and  regional government administrations for a single day in October</description>
-      <pubDate>Fri, 24 Oct 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/blitz-spear-phishing-ngos-ukraine/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Part Four of The Kryptos Sculpture</title>
@@ -934,103 +1042,6 @@ The package, Netherеum.All, has been found to harbor functionality to decode a 
       <guid isPermaLink="true">https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware</title>
-      <link>https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html</link>
-      <description>Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.
-The cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using</description>
-      <pubDate>Wed, 22 Oct 2025 14:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html</link>
-      <description>Cybersecurity researchers have disclosed details of a high-severity flaw impacting the popular async-tar Rust library and its forks, including tokio-tar, that could result in remote code execution under certain conditions.
-The vulnerability, tracked as CVE-2025-62518 (CVSS score: 8.1), has been codenamed TARmageddon by Edera, which discovered the issue in late August 2025. It impacts several</description>
-      <pubDate>Wed, 22 Oct 2025 12:35:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution</title>
-      <link>https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html</link>
-      <description>TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.
-The vulnerabilities in question are listed below -
-
-CVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management</description>
-      <pubDate>Wed, 22 Oct 2025 10:08:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Asian Nations Ramp Up Pressure on Cybercrime &amp;apos;Scam Factories&amp;apos;</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories</link>
-      <description>After a particularly gruesome murder, South Korea issues &amp;amp;quot;code black&amp;amp;quot; travel ban for several regions in Cambodia, while other nations urge more raids.</description>
-      <pubDate>Wed, 22 Oct 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>NIST 800-53 Compliance Checklist and Security Controls Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/nist-800-53-compliance-checklist</link>
-      <description>Access a comprehensive NIST 800-53 compliance checklist to understand and implement the necessary security controls for federal information systems.</description>
-      <pubDate>Wed, 22 Oct 2025 00:55:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/nist-800-53-compliance-checklist</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>ISO 27001 Explained: Key Concepts and Benefits | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-iso-27001</link>
-      <description>ISO 27001: Learn about the leading international standard for ISMS, its key components, and benefits for robust data protection.</description>
-      <pubDate>Wed, 22 Oct 2025 00:55:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-iso-27001</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Electronic Warfare Puts Commercial GPS Users on Notice</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice</link>
-      <description>Interference with the global positioning system (GPS) isn&amp;apos;t just a problem for airlines, but for shipping, trucking, car navigation, agriculture, and even the financial sector.</description>
-      <pubDate>Tue, 21 Oct 2025 20:42:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams</title>
-      <link>https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html</link>
-      <description>Meta on Tuesday said it&amp;apos;s launching new tools to protect Messenger and WhatsApp users from potential scams.
-To that end, the company said it&amp;apos;s introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.
-On Messenger, users can opt to</description>
-      <pubDate>Tue, 21 Oct 2025 20:33:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign</title>
-      <link>https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html</link>
-      <description>Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.
-PolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose.
-The TLS-based ELF implant, at its core, is designed to monitor</description>
-      <pubDate>Tue, 21 Oct 2025 19:17:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Streaming Fraud Campaigns Rely on AI Tools, Bots</title>
-      <link>https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots</link>
-      <description>Fraudsters are using generative AI to generate fake music and boost the popularity of the fake content.</description>
-      <pubDate>Tue, 21 Oct 2025 13:32:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots</guid>
-      <dc:creator>Fahmida Y. Rashid</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
