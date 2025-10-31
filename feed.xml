@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Oct 2025 18:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 01:24:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical Claroty Authentication Bypass Flaw Opened OT to Attack</title>
+      <link>https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw</link>
+      <description>CVE-2025-54603 gave attackers an opening to disrupt critical operational technology (OT) environments and critical infrastructure, plus steal data from them.</description>
+      <pubDate>Thu, 30 Oct 2025 20:29:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>LotL Attack Hides Malware in Windows Native AI Stack</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack</link>
+      <description>Security programs trust AI data files, but they shouldn&amp;apos;t: they can conceal malware more stealthily than most file types.</description>
+      <pubDate>Thu, 30 Oct 2025 19:47:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Request for Comments: PCI PTS HSM v5.0</title>
       <link>https://blog.pcisecuritystandards.org/request-for-comments-pci-pts-hsm-v5.0</link>
@@ -154,9 +172,9 @@ The campaign has been codenamed PhantomRaven by Koi Security. The activity is as
       <category>IT Resources</category>
     </item>
     <item>
-      <title>Data Leak Outs Students of Iran&amp;apos;s MOIS Training Academy</title>
+      <title>Data Leak Outs Hacker Students of Iran&amp;apos;s MOIS Training Academy</title>
       <link>https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy</link>
-      <description>A school for the Iranian state hackers of tomorrow has itself, ironically, been hacked.</description>
+      <description>Ravin Academy, a school for the Iranian state hackers of tomorrow, has itself, ironically, been hacked.</description>
       <pubDate>Thu, 30 Oct 2025 06:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
@@ -491,6 +509,15 @@ CVE-2025-6204 (CVSS score: 8.0) - A code injection vulnerability in Dassault Sys
       <pubDate>Tue, 28 Oct 2025 20:51:11 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/chef-ciso-empathy-first-cybersecurity-leadership</guid>
       <dc:creator>Kristina Beek</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The AI Trust Paradox: Why Security Teams Fear Automated Remediation</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-trust-paradox-security-teams-fear-automated-remediation</link>
+      <description>Security teams invest in AI for automated remediation but hesitate to trust it fully due to fears of unintended consequences and lack of transparency.</description>
+      <pubDate>Tue, 28 Oct 2025 20:38:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-trust-paradox-security-teams-fear-automated-remediation</guid>
+      <dc:creator>Tyler Shields</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1013,35 +1040,6 @@ For decades, organizations have relied on static secrets, such as API keys, pass
 &amp;quot;Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,&amp;quot; Palo Alto Networks Unit 42 researchers</description>
       <pubDate>Thu, 23 Oct 2025 13:22:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mideast, African Hackers Target Gov&amp;apos;ts, Banks, Small Retailers</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers</link>
-      <description>In the hotly political Middle East, you&amp;apos;d expect hacktivism and disruption of services. But retail attacks?</description>
-      <pubDate>Thu, 23 Oct 2025 06:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw</title>
-      <link>https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html</link>
-      <description>E-commerce security company Sansec has warned that threat actors have begun to exploit a recently disclosed security vulnerability in Adobe Commerce and Magento Open Source platforms, with more than 250 attack attempts recorded against multiple stores over the past 24 hours.
-The vulnerability in question is CVE-2025-54236 (CVSS score: 9.1), a critical improper input validation flaw that could be</description>
-      <pubDate>Thu, 23 Oct 2025 11:17:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms</title>
-      <link>https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Motex Lanscope Endpoint Manager to its Known Exploited Vulnerabilities (KEV) catalog, stating it has been actively exploited in the wild.
-The vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises versions of Lanscope Endpoint Manager, specifically Client</description>
-      <pubDate>Thu, 23 Oct 2025 11:07:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
