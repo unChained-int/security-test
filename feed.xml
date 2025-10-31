@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 31 Oct 2025 01:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 06:28:51 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do</title>
+      <link>https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html</link>
+      <description>A design firm is editing a new campaign video on a MacBook Pro. The creative director opens a collaboration app that quietly requests microphone and camera permissions. MacOS is supposed to flag that, but in this case, the checks are loose. The app gets access anyway.
+On another Mac in the same office, file sharing is enabled through an old protocol called SMB version one. It’s fast and</description>
+      <pubDate>Fri, 31 Oct 2025 09:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Salesforce Extortion Accelerates With New Leak Site | UpGuard</title>
+      <link>https://www.upguard.com/blog/salesforce-leak-extortion-scatterered-lapsus-hunters</link>
+      <description>The hacker collective Scattered Lapsus$ Hunters has launched a new leak site threatening to release data stolen from Salesforce instances.</description>
+      <pubDate>Fri, 31 Oct 2025 01:53:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/salesforce-leak-extortion-scatterered-lapsus-hunters</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>Critical Claroty Authentication Bypass Flaw Opened OT to Attack</title>
       <link>https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw</link>
@@ -1022,26 +1040,6 @@ This week&amp;amp;rsquo;s ThreatsDay highlights show exactly how those weak poin
       <category>disclosure</category>
       <category>network security</category>
       <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Why Organizations Are Abandoning Static Secrets for Managed Identities</title>
-      <link>https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html</link>
-      <description>As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.
-For decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security</description>
-      <pubDate>Thu, 23 Oct 2025 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>&amp;apos;Jingle Thief&amp;apos; Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards</title>
-      <link>https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</link>
-      <description>Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.
-&amp;quot;Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,&amp;quot; Palo Alto Networks Unit 42 researchers</description>
-      <pubDate>Thu, 23 Oct 2025 13:22:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
