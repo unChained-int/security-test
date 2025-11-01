@@ -5,9 +5,50 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 31 Oct 2025 18:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 01:28:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Giant Squid at the Smithsonian</title>
+      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</link>
+      <description>&amp;lt;p&amp;gt;I can&amp;amp;#8217;t believe that I haven&amp;amp;#8217;t yet posted &amp;lt;a href=&amp;quot;https://naturalhistory.si.edu/explore/giant-squid&amp;quot;&amp;gt;this picture&amp;lt;/a&amp;gt; of a giant squid at the Smithsonian.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 31 Oct 2025 21:06:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>UNC6384 Targets European Diplomatic Entities With Windows Exploit</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows</link>
+      <description>The spear-phishing campaign uses fake European Commission and NATO-themed lures to trick diplomatic personnel into clicking malicious links.</description>
+      <pubDate>Fri, 31 Oct 2025 20:07:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows</guid>
+      <dc:creator>Kristina Beek</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Ribbon Communications Breach Marks Latest Telecom Attack</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack</link>
+      <description>The US telecom company disclosed that suspected nation-state actors first gained access to its network in December of last year, though it&amp;apos;s unclear if attackers obtained sensitive data.</description>
+      <pubDate>Fri, 31 Oct 2025 19:47:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically</title>
+      <link>https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html</link>
+      <description>OpenAI has announced the launch of an &amp;quot;agentic security researcher&amp;quot; that&amp;apos;s powered by its GPT-5 large language model (LLM) and is programmed to emulate a human expert capable of scanning, understanding, and patching code.
+Called Aardvark, the artificial intelligence (AI) company said the autonomous agent is designed to help developers and security teams flag and fix security vulnerabilities at</description>
+      <pubDate>Fri, 31 Oct 2025 22:49:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack</title>
       <link>https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html</link>
@@ -1010,44 +1051,6 @@ The development comes as the ransomware-as-a-service (RaaS) operation has emerge
 &amp;quot;Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is</description>
       <pubDate>Sat, 25 Oct 2025 00:05:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How CISA Layoffs Weaken Civilian Cyber Defense</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense</link>
-      <description>Cyber teams need to get to work backfilling diminishing federal resources, according to Alexander Garcia-Tobar, who shares clear steps on a path forward for protecting enterprises with less CISA help.</description>
-      <pubDate>Fri, 24 Oct 2025 17:41:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense</guid>
-      <dc:creator>Alexander García-Tobar</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation</title>
-      <link>https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</link>
-      <description>Microsoft on Thursday released out-of-band security updates to patch a&amp;amp;nbsp;critical-severity Windows Server Update Services (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.
-The vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech</description>
-      <pubDate>Fri, 24 Oct 2025 22:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Shutdown Sparks 85% Increase in US Government Cyberattacks</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/shutdown-increase-us-government-cyberattacks</link>
-      <description>Attackers are pouncing on financially strapped US government agencies and furloughed employees. And the effects of this period might be felt for a long time hereafter.</description>
-      <pubDate>Fri, 24 Oct 2025 16:23:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/shutdown-increase-us-government-cyberattacks</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign</title>
-      <link>https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</link>
-      <description>A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.
-The activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior</description>
-      <pubDate>Fri, 24 Oct 2025 19:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
