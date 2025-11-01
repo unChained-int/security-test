@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 01 Nov 2025 12:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 18:23:59 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability</title>
+      <link>https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html</link>
+      <description>The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.
+The activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an</description>
+      <pubDate>Sat, 01 Nov 2025 19:13:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Giant Squid at the Smithsonian</title>
       <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</link>
@@ -1043,16 +1053,6 @@ The development comes as the ransomware-as-a-service (RaaS) operation has emerge
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation</title>
-      <link>https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html</link>
-      <description>The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.
-&amp;quot;Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is</description>
-      <pubDate>Sat, 25 Oct 2025 00:05:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
