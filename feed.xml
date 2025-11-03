@@ -5,9 +5,97 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Nov 2025 06:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 12:40:09 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Summarization Optimization</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/ai-summarization-optimization.html</link>
+      <description>&amp;lt;p&amp;gt;These days, the most important meeting attendee isn’t a person: It’s the AI notetaker.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This system assigns action items and determines the importance of what is said. If it becomes necessary to revisit the facts of the meeting, its summary is treated as impartial evidence.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;But clever meeting attendees can manipulate this system’s record by speaking more to what the underlying AI weights for summarization and importance than to their colleagues. As a result, you can expect some meeting attendees to use language more likely to be captured in summaries, timing their interventions strategically, repeating key points, and employing formulaic phrasing that AI models are more likely to pick up on. Welcome to the world of AI summarization optimization (AISO)...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 03 Nov 2025 12:05:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/ai-summarization-optimization.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>hacking</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>Government Agencies Issue Emergency Guidance for Microsoft Exchange Server</title>
+      <link>https://www.techrepublic.com/article/news-guidance-microsoft-exchange-server/</link>
+      <description>&amp;lt;p&amp;gt;The NSA, CISA, Australia&amp;apos;s Cyber Security Centre, and Canada&amp;apos;s Cyber Centre jointly released comprehensive security practices for Exchange hardening. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-guidance-microsoft-exchange-server/&amp;quot;&amp;gt;Government Agencies Issue Emergency Guidance for Microsoft Exchange Server&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 03 Nov 2025 11:56:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-guidance-microsoft-exchange-server/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>cybersecurity</category>
+      <category>Microsoft Exchange Server</category>
+    </item>
+    <item>
+      <title>Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data</title>
+      <link>https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html</link>
+      <description>Cybersecurity researchers have shed light on two different Android trojans called BankBot-YNRK and DeliveryRAT that are capable of harvesting sensitive data from compromised devices.
+According to CYFIRMA, which analyzed three different samples of BankBot-YNRK, the malware incorporates features to sidestep analysis efforts by first checking its running within a virtualized or emulated environment</description>
+      <pubDate>Mon, 03 Nov 2025 16:44:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea</title>
+      <link>https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html</link>
+      <description>The North Korea-linked threat actor known as Kimsuky has distributed a previously undocumented backdoor codenamed HttpTroy as part of a likely spear-phishing attack targeting a single victim in South Korea.
+Gen Digital, which disclosed details of the activity, did not reveal any details on when the incident occurred, but noted that the phishing email contained a ZIP file (&amp;quot;250908_A_HK이노션</description>
+      <pubDate>Mon, 03 Nov 2025 16:12:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Conti Suspect in Court After Extradition From Ireland</title>
+      <link>https://www.infosecurity-magazine.com/news/conti-suspect-court-extradition/</link>
+      <description>Ukrainian national Oleksii Oleksiyovych Lytvynenko has appeared in a US court in connection with Conti ransomware charges</description>
+      <pubDate>Mon, 03 Nov 2025 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/conti-suspect-court-extradition/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Leak Site Ransomware Victims Spike 13% in a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/leak-site-ransomware-victims-spike/</link>
+      <description>CrowdStrike data reveals a 13% annual increase in the number of European ransomware victims in 2025</description>
+      <pubDate>Mon, 03 Nov 2025 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/leak-site-ransomware-victims-spike/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download</title>
+      <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar/</link>
+      <description>&amp;lt;p&amp;gt;TechRepublic Premium content helps you solve your toughest IT issues and jump-start your career or next project.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar/&amp;quot;&amp;gt;TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 03 Nov 2025 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Big Data</category>
+      <category>Cloud</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>Enterprise Software</category>
+      <category>Hardware</category>
+      <category>Project Management</category>
+      <category>Software</category>
+      <category>Tech &amp;amp; Work</category>
+      <category>TechRepublic Premium</category>
+      <category>techrepublic premium</category>
+    </item>
     <item>
       <title>Lookalike Domain Attacks Explained | UpGuard</title>
       <link>https://www.upguard.com/blog/lookalike-domain-attacks-explained</link>
@@ -570,14 +658,6 @@ In the attack devised by AI security company SPLX, a bad actor can set up websit
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>PHP Servers and IoT Devices Face Growing Cyber-Attack Risks</title>
-      <link>https://www.infosecurity-magazine.com/news/php-servers-and-iot-devices-cyber/</link>
-      <description>A rise in attacks on PHP servers, IoT devices and cloud gateways is linked to botnets exploiting flaws, according to new research published by Qualys</description>
-      <pubDate>Wed, 29 Oct 2025 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/php-servers-and-iot-devices-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>From Power Users to Protective Stewards: How to Tune Security Training for Specialized Employees</title>
       <link>https://www.darkreading.com/cybersecurity-operations/power-users-protective-stewards-how-tune-security-training-specialized-employees</link>
       <description>The best security training programs build strong security culture by focusing on high-risk groups, including developers, executives, and finance pros.</description>
@@ -617,14 +697,6 @@ The attacks</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Atroposia RAT Surfaces on Dark Web</title>
-      <link>https://www.infosecurity-magazine.com/news/new-atroposia-rat-surfaces-on-dark/</link>
-      <description>Atroposia is a newly discovered modular RAT that uses encrypted channels and advanced theft capabilities to target credentials and crypto wallets</description>
-      <pubDate>Wed, 29 Oct 2025 11:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-atroposia-rat-surfaces-on-dark/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Signal’s Post-Quantum Cryptographic Implementation</title>
@@ -937,6 +1009,14 @@ The activity &amp;quot;reveals a notable evolution in SideWinder&amp;apos;s TTPs
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Your AI Agent Is Now a Target for Email Phishing</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing</link>
+      <description/>
+      <pubDate>Mon, 27 Oct 2025 20:15:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/your-ai-agent-now-target-email-phishing</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
       <title>Memento Spyware Tied to Chrome Zero-Day Attacks</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/memento-spyware-chrome-zero-day-attacks</link>
       <description>While investigating the cyberattacks, researchers uncovered a new spyware product from Memento Labs, the successor to the infamous Hacking Team.</description>
@@ -1007,74 +1087,6 @@ To that end, users are being asked to complete the re-enrollment, either using t
       <guid isPermaLink="true">https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens</title>
-      <link>https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html</link>
-      <description>Security, trust, and stability — once the pillars of our digital world — are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior.
-Each new breach proves a harsh truth: in cybersecurity, feeling safe can be far more dangerous than being alert.
-Here’s how that false sense of security</description>
-      <pubDate>Mon, 27 Oct 2025 18:21:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>First Wap: A Surveillance Computer You’ve Never Heard Of</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;i&amp;gt;Mother Jones&amp;lt;/i&amp;gt; has a &amp;lt;a href=&amp;quot;https://www.motherjones.com/politics/2025/10/firstwap-altamides-phone-tracking-surveillance-secrets-assad-erik-prince-jared-leto-anne-wojcicki/&amp;quot;&amp;gt;long article&amp;lt;/a&amp;gt; on surveillance arms manufacturers, their wares, and how they avoid export control laws:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Operating from their base in Jakarta, where permissive export laws have allowed their surveillance business to flourish, First Wap&amp;amp;#8217;s European founders and executives have quietly built a phone-tracking empire, with a footprint extending from the Vatican to the Middle East to Silicon Valley.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;It calls its proprietary system Altamides, which it describes in promotional materials as &amp;amp;#8220;a unified platform to covertly locate the whereabouts of single or multiple suspects in real-time, to detect movement patterns, and to detect whether suspects are in close vicinity with each other.&amp;amp;#8221;...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 27 Oct 2025 11:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cell phones</category>
-      <category>privacy</category>
-      <category>surveillance</category>
-      <category>tracking</category>
-    </item>
-    <item>
-      <title>Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack</title>
-      <link>https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html</link>
-      <description>The ransomware group known as Qilin (aka Agenda, Gold Feather, and Water Galura) has claimed more than 40 victims every month since the start of 2025, barring January, with the number of postings on its data leak site touching a high of 100 cases in June.
-The development comes as the ransomware-as-a-service (RaaS) operation has emerged as one of the most active ransomware groups, accounting for</description>
-      <pubDate>Mon, 27 Oct 2025 14:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands</title>
-      <link>https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html</link>
-      <description>The newly released OpenAI ChatGPT Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.
-&amp;quot;The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,&amp;quot; NeuralTrust said in a report</description>
-      <pubDate>Mon, 27 Oct 2025 12:59:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why Infostealer Malware Demands a New Defense Strategy | UpGuard</title>
-      <link>https://www.upguard.com/blog/why-infostealer-malware-demands-a-new-defense-strategy</link>
-      <description>This guide explains why simply resetting a password is a dangerously flawed response and outlines a new, identity-centric defense framework.</description>
-      <pubDate>Mon, 27 Oct 2025 01:15:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/why-infostealer-malware-demands-a-new-defense-strategy</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: “El Pulpo The Squid”</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html</link>
-      <description>&amp;lt;p&amp;gt;There is a &amp;lt;a href=&amp;quot;https://halfwheel.com/el-pulpo-the-squid/455265/&amp;quot;&amp;gt;new cigar&amp;lt;/a&amp;gt; named &amp;amp;#8220;&amp;lt;i&amp;gt;El Pulpo&amp;lt;/i&amp;gt; The Squid.&amp;amp;#8221; Yes, that means &amp;amp;#8220;The Octopus The Squid.&amp;amp;#8221;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 24 Oct 2025 21:07:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>squid</category>
     </item>
   </channel>
 </rss>
