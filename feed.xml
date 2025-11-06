@@ -5,9 +5,60 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Nov 2025 01:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 06:29:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A CISO&amp;apos;s Guide to Defending Against Social Media Impersonation | UpGuard</title>
+      <link>https://www.upguard.com/blog/defending-against-social-media-impersonation</link>
+      <description>This guide provides a strategic framework for understanding and mitigating the explosive growth of social media-based brand impersonation attacks.</description>
+      <pubDate>Thu, 06 Nov 2025 05:40:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/defending-against-social-media-impersonation</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach</title>
+      <link>https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html</link>
+      <description>SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files.
+&amp;quot;The malicious activity – carried out by a state-sponsored threat actor - was isolated to the unauthorized access of cloud backup files from a specific cloud environment using an API call,&amp;quot; the company said in a</description>
+      <pubDate>Thu, 06 Nov 2025 11:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cloudflare Scrubs Aisuru Botnet from Top Domains List</title>
+      <link>https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/</link>
+      <description>For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare&amp;apos;s public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru&amp;apos;s overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company&amp;apos;s domain name system (DNS) service.</description>
+      <pubDate>Thu, 06 Nov 2025 02:04:36 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>DDoS-for-Hire</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Web Fraud 2.0</category>
+      <category>Aisuru</category>
+      <category>Alex Greenland</category>
+      <category>Amazon</category>
+      <category>CloudFlare</category>
+      <category>Cloudflare Radar</category>
+      <category>Epi</category>
+      <category>Google Apple</category>
+      <category>Infoblox</category>
+      <category>Matthew Prince</category>
+      <category>microsoft</category>
+      <category>Renee Burton</category>
+    </item>
+    <item>
+      <title>APT &amp;apos;Bronze Butler&amp;apos; Exploits Zero-Day to Root Japan Orgs</title>
+      <link>https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan</link>
+      <description>A critical security issue in a popular endpoint manager (CVE-2025-61932) allowed Chinese state-sponsored attackers to backdoor Japanese businesses.</description>
+      <pubDate>Thu, 06 Nov 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Nikkei Suffers Breach Via Slack Compromise</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/nikkei-suffers-breach-slack-compromise</link>
@@ -46,7 +97,7 @@
       <title>Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly</title>
       <link>https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html</link>
       <description>Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.
-&amp;quot;PROMPTFLUX is written in VBScript and interacts with Gemini&amp;apos;s API to request specific VBScript obfuscation and</description>
+&amp;quot;PROMPTFLUX is written in VB Script and interacts with Gemini&amp;apos;s API to request specific VBScript obfuscation and</description>
       <pubDate>Wed, 05 Nov 2025 21:03:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1015,52 +1066,6 @@ Security researcher Jose Pino, who disclosed details of the flaw, has codenamed 
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/cloud-outages-highlight-need-resilient-secure-infrastructure-recovery</guid>
       <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>The Death of the Security Checkbox: BAS Is the Power Behind Real Defense</title>
-      <link>https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html</link>
-      <description>Security doesn’t fail at the point of breach. It fails at the point of impact.&amp;amp;nbsp;
-That line set the tone for this year’s Picus Breach and Simulation (BAS) Summit, where researchers, practitioners, and CISOs all echoed the same theme: cyber defense is no longer about prediction. It&amp;apos;s about proof.
-When a new exploit drops, scanners scour the internet in minutes. Once attackers gain a foothold,</description>
-      <pubDate>Thu, 30 Oct 2025 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The AI-Designed Bioweapon Arms Race</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html</link>
-      <description>&amp;lt;p&amp;gt;Interesting &amp;lt;a href=&amp;quot;https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/&amp;quot;&amp;gt;article&amp;lt;/a&amp;gt; about the arms race between AI systems that invent/design new biological pathogens, and AI systems that detect them before they&amp;amp;#8217;re created:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The team started with a basic test: use AI tools to design variants of the toxin ricin, then test them against the software that is used to screen DNA orders. The results of the test suggested there was a risk of dangerous protein variants slipping past existing screening software, so the situation was treated like the equivalent of a zero-day vulnerability.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Details of that original test are ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 30 Oct 2025 11:05:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/the-ai-designed-bioweapon-arms-race.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>biological warfare</category>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising</title>
-      <link>https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html</link>
-      <description>The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots — from spoofed messages to large-scale social engineering.
-This week’s findings show how that shrinking margin of safety is redrawing the threat landscape. Here’s what’s making headlines.</description>
-      <pubDate>Thu, 30 Oct 2025 16:24:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs</title>
-      <link>https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html</link>
-      <description>Cybersecurity researchers have uncovered yet another active software supply chain attack campaign targeting the npm registry with over 100 malicious packages that can steal authentication tokens, CI/CD secrets, and GitHub credentials from developers&amp;apos; machines.
-The campaign has been codenamed PhantomRaven by Koi Security. The activity is assessed to have begun in August 2025, when the first</description>
-      <pubDate>Thu, 30 Oct 2025 15:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
