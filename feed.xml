@@ -5,9 +5,56 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Nov 2025 12:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 18:27:04 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp</title>
+      <link>https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html</link>
+      <description>A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a &amp;quot;commercial-grade&amp;quot; Android spyware dubbed LANDFALL in targeted attacks in the Middle East.
+The activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the &amp;quot;libimagecodec.quram.so&amp;quot; component that could allow remote attackers to execute arbitrary</description>
+      <pubDate>Fri, 07 Nov 2025 23:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools</title>
+      <link>https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html</link>
+      <description>A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues.
+The organization, according to a report from Broadcom&amp;apos;s Symantec and Carbon Black teams, is &amp;quot;active in attempting to influence U.S. government</description>
+      <pubDate>Fri, 07 Nov 2025 21:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Agents Are Going Rogue: Here&amp;apos;s How to Rein Them In</title>
+      <link>https://www.darkreading.com/cyber-risk/ai-agents-going-rogue</link>
+      <description>Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.</description>
+      <pubDate>Fri, 07 Nov 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-agents-going-rogue</guid>
+      <dc:creator>Art Poghosyan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Security Agents Get Personas to Make Them More Appealing</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing</link>
+      <description>New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security.</description>
+      <pubDate>Fri, 07 Nov 2025 14:29:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Ollama, Nvidia Flaws Put AI Infrastructure at Risk</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/ollama-nvidia-flaws-ai-infrastructure-risk</link>
+      <description>Security researchers discovered multiple vulnerabilities in AI infrastructure products, including one capable of remote code execution.</description>
+      <pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/ollama-nvidia-flaws-ai-infrastructure-risk</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Russian Hacking Group Sandworm Deploys New Wiper Malware in Ukraine</title>
       <link>https://www.infosecurity-magazine.com/news/russian-sandworm-new-wiper-ukraine/</link>
@@ -30,6 +77,16 @@
       <category>AI</category>
       <category>forgery</category>
       <category>fraud</category>
+    </item>
+    <item>
+      <title>Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation</title>
+      <link>https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html</link>
+      <description>A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.
+According to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named &amp;quot;shanhai666&amp;quot; and are designed to run malicious code after specific trigger dates in August 2027 and</description>
+      <pubDate>Fri, 07 Nov 2025 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Enterprise Credentials at Risk – Same Old, Same Old?</title>
@@ -327,21 +384,21 @@ The seven vulnerabilities and attack techniques, according to Tenable, were foun
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Risk &amp;apos;Comparable&amp;apos; to SolarWinds Incident Lurks in Popular Software Update Tool</title>
-      <link>https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</link>
-      <description>Some of the world&amp;apos;s biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there&amp;apos;s an easy fix.</description>
-      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Closing the AI Execution Gap in Cybersecurity — A CISO Framework</title>
       <link>https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</link>
       <description>CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.</description>
       <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</guid>
       <dc:creator>Adam Etherington, Rik Turner</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Risk &amp;apos;Comparable&amp;apos; to SolarWinds Incident Lurks in Popular Software Update Tool</title>
+      <link>https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</link>
+      <description>Some of the world&amp;apos;s biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there&amp;apos;s an easy fix.</description>
+      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1008,70 +1065,6 @@ Palo Alto Networks Unit 42 said it&amp;apos;s tracking the cluster under the mon
       <category>hacktivist attacks</category>
       <category>ICS security</category>
       <category>industrial control systems</category>
-    </item>
-    <item>
-      <title>Government Approach to Disrupt Cyber Scams is &amp;apos;Fragmented&amp;apos;</title>
-      <link>https://www.darkreading.com/cyber-risk/government-approach-to-disrupt-cyber-scams-is-fragmented-</link>
-      <description>Users contend with cybersecurity scams throughout their day; a new Cyber Civic Engagement program wants to provide them with the skills to fight back.</description>
-      <pubDate>Fri, 31 Oct 2025 15:34:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/government-approach-to-disrupt-cyber-scams-is-fragmented-</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats</title>
-      <link>https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html</link>
-      <description>A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities between September and October 2025.
-The activity targeted diplomatic organizations in Hungary, Belgium, Italy, and the Netherlands, as well as government agencies in Serbia, Arctic Wolf said in a</description>
-      <pubDate>Fri, 31 Oct 2025 19:27:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems</title>
-      <link>https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html</link>
-      <description>The exploitation of a recently disclosed critical security flaw in Motex Lanscope Endpoint Manager has been attributed to a cyber espionage group known as Tick.
-The vulnerability, tracked as CVE-2025-61932 (CVSS score: 9.3), allows remote attackers to execute arbitrary commands with SYSTEM privileges on on-premise versions of the program. JPCERT/CC, in an alert issued this month, said that it</description>
-      <pubDate>Fri, 31 Oct 2025 18:56:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The MSP Cybersecurity Readiness Guide: Turning Security into Growth</title>
-      <link>https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html</link>
-      <description>MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensive protection without taking on the burden of managing security themselves.
-This shift represents a major growth opportunity. By delivering advanced cybersecurity and compliance</description>
-      <pubDate>Fri, 31 Oct 2025 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Will AI Strengthen or Undermine Democracy?</title>
-      <link>https://www.schneier.com/blog/archives/2025/10/will-ai-strengthen-or-undermine-democracy.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://nextbigideaclub.com/magazine/will-ai-strengthen-undermine-democracy-bookbite/57574/&amp;quot;&amp;gt;Listen to the Audio on NextBigIdeaClub.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Below, co-authors Bruce Schneier and Nathan E. Sanders share five key insights from their new book, &amp;lt;em&amp;gt;Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship&amp;lt;/em&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;h3&amp;gt;What&amp;amp;#8217;s the big idea?&amp;lt;/h3&amp;gt;
-&amp;lt;p&amp;gt;AI can be used both for and against the public interest within democracies. It is already being used in the governing of nations around the world, and there is no escaping its continued use in the future by leaders, policy makers, and legal enforcers. How we wire AI into democracy today will determine if it becomes a tool of oppression or empowerment...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 31 Oct 2025 11:08:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/10/will-ai-strengthen-or-undermine-democracy.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>democracy</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>This month in security with Tony Anscombe – October 2025 edition</title>
-      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2025/</link>
-      <description>From the end of Windows 10 support to scams on TikTok and state-aligned hackers wielding AI, October&amp;apos;s headlines offer a glimpse of what&amp;apos;s shaping cybersecurity right now</description>
-      <pubDate>Fri, 31 Oct 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2025/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Video</category>
     </item>
   </channel>
 </rss>
