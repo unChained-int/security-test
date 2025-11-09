@@ -5,9 +5,31 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 09 Nov 2025 12:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 18:24:09 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Drilling Down on Uncle Sam’s Proposed TP-Link Ban</title>
+      <link>https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/</link>
+      <description>The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link&amp;apos;s ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.</description>
+      <pubDate>Sun, 09 Nov 2025 18:14:40 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Camaro Dragon</category>
+      <category>Check Point Research</category>
+      <category>DD-WRT</category>
+      <category>microsoft</category>
+      <category>OpenWrt</category>
+      <category>The Washington Post</category>
+      <category>TP-Link Systems</category>
+      <category>U.S. Department of Commerce</category>
+      <category>wired</category>
+    </item>
     <item>
       <title>Microsoft Uncovers &amp;apos;Whisper Leak&amp;apos; Attack That Identifies AI Chat Topics in Encrypted Traffic</title>
       <link>https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html</link>
@@ -451,21 +473,21 @@ The seven vulnerabilities and attack techniques, according to Tenable, were foun
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Closing the AI Execution Gap in Cybersecurity — A CISO Framework</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</link>
-      <description>CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.</description>
-      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</guid>
-      <dc:creator>Adam Etherington, Rik Turner</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Risk &amp;apos;Comparable&amp;apos; to SolarWinds Incident Lurks in Popular Software Update Tool</title>
       <link>https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</link>
       <description>Some of the world&amp;apos;s biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there&amp;apos;s an easy fix.</description>
       <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Closing the AI Execution Gap in Cybersecurity — A CISO Framework</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</link>
+      <description>CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.</description>
+      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</guid>
+      <dc:creator>Adam Etherington, Rik Turner</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1021,37 +1043,6 @@ Gen Digital, which disclosed details of the activity, did not reveal any details
       <pubDate>Mon, 03 Nov 2025 02:33:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/lookalike-domain-attacks-explained</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody</title>
-      <link>https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/</link>
-      <description>A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned.
-
-Sources close to the investigation say Yuriy Igorevich Rybtsov, a 41-year-old from the Russia-controlled city of Donetsk, Ukraine, was previously referenced in U.S. federal charging documents only by his online handle &amp;quot;MrICQ.&amp;quot; According to a 13-year-old indictment filed by prosecutors in Nebraska, MrICQ was a developer for a cybercrime group known as &amp;quot;Jabber Zeus.&amp;quot;</description>
-      <pubDate>Sun, 02 Nov 2025 20:37:24 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>Target: Small Businesses</category>
-      <category>aqua</category>
-      <category>BBC</category>
-      <category>Bugat</category>
-      <category>Dridex</category>
-      <category>Evgeniy Mikhailovich Bogachev</category>
-      <category>Evil Corp.</category>
-      <category>Federal Bureau of Investigation</category>
-      <category>Jabber Zeus</category>
-      <category>Jim Craig</category>
-      <category>Lawrence Baldwin</category>
-      <category>Leprechaun</category>
-      <category>Maksim Yakubets</category>
-      <category>MrICQ</category>
-      <category>U.S. Department of Justice</category>
-      <category>vyacheslav &amp;quot;tank&amp;quot; penchukov</category>
-      <category>Yuriy Igorevich Rybtsov</category>
-      <category>ZeuS Trojan</category>
     </item>
   </channel>
 </rss>
