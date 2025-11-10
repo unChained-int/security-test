@@ -5,9 +5,63 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Nov 2025 06:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 12:40:27 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Attacks Against Secure Enclaves</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html</link>
+      <description>&amp;lt;p&amp;gt;Encryption can protect data at rest and data in transit, but does nothing for data in use. What we have are secure enclaves. I&amp;amp;#8217;ve &amp;lt;a href=&amp;quot;https://www.schneier.com/academic/archives/2023/12/decoupling-for-security.html&amp;quot;&amp;gt;written about&amp;lt;/a&amp;gt; this before:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Almost all cloud services have to perform some computation on our data. Even the simplest storage provider has code to copy bytes from an internal storage system and deliver them to the user. End-to-end encryption is sufficient in such a narrow context. But often we want our cloud providers to be able to perform computation on our raw data: search, analysis, AI model training or fine-tuning, and more. Without expensive, esoteric techniques, such as secure multiparty computation protocols or homomorphic encryption techniques that can perform calculations on encrypted data, cloud servers require access to the unencrypted data to do anything useful...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 10 Nov 2025 12:04:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>cloud computing</category>
+      <category>data protection</category>
+      <category>hardware</category>
+      <category>physical security</category>
+    </item>
+    <item>
+      <title>New NCA Campaign Warns Men Off Crypto Investment Scams</title>
+      <link>https://www.infosecurity-magazine.com/news/nca-campaign-men-crypto-investment/</link>
+      <description>The UK’s National Crime Agency is warning men under 45 that crypto dreams can soon become a scam nightmare</description>
+      <pubDate>Mon, 10 Nov 2025 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nca-campaign-men-crypto-investment/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>NCSC Set to Retire Web Check and Mail Check Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-retire-web-check-mail-check/</link>
+      <description>The UK’s National Cyber Security Centre has urged users of its Web Check and Mail Check services to find alternatives</description>
+      <pubDate>Mon, 10 Nov 2025 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-retire-web-check-mail-check/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware</title>
+      <link>https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html</link>
+      <description>Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT.
+&amp;quot;The attacker&amp;apos;s modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,&amp;quot; Sekoia said. &amp;quot;This campaign</description>
+      <pubDate>Mon, 10 Nov 2025 14:41:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs</title>
+      <link>https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html</link>
+      <description>Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Code (VS Code) ecosystem.
+The extensions in question, which are still available for download, are listed below -
+
+ai-driven-dev.ai-driven-dev (3,402 downloads)
+adhamu.history-in-sublime-merge (4,057</description>
+      <pubDate>Mon, 10 Nov 2025 14:21:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Drilling Down on Uncle Sam’s Proposed TP-Link Ban</title>
       <link>https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/</link>
@@ -473,21 +527,21 @@ The seven vulnerabilities and attack techniques, according to Tenable, were foun
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Risk &amp;apos;Comparable&amp;apos; to SolarWinds Incident Lurks in Popular Software Update Tool</title>
-      <link>https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</link>
-      <description>Some of the world&amp;apos;s biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there&amp;apos;s an easy fix.</description>
-      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Closing the AI Execution Gap in Cybersecurity — A CISO Framework</title>
       <link>https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</link>
       <description>CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.</description>
       <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</guid>
       <dc:creator>Adam Etherington, Rik Turner</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Risk &amp;apos;Comparable&amp;apos; to SolarWinds Incident Lurks in Popular Software Update Tool</title>
+      <link>https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</link>
+      <description>Some of the world&amp;apos;s biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there&amp;apos;s an easy fix.</description>
+      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -600,14 +654,6 @@ Here are three practical steps every SOC can</description>
       <category>Scams</category>
     </item>
     <item>
-      <title>Hundreds of Malware-Laden Apps Downloaded 42 Million Times From Google Play</title>
-      <link>https://www.infosecurity-magazine.com/news/apps-download-41-million-times/</link>
-      <description>Zscaler estimates 239 malicious Android apps made it onto the official Play store over the past year</description>
-      <pubDate>Wed, 05 Nov 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apps-download-41-million-times/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence</title>
       <link>https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html</link>
       <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
@@ -691,14 +737,6 @@ According to a statement released by Eurojust today, the action took place betwe
       <guid isPermaLink="true">https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>French Police Seize €1.6m Amid Crypto Scam Network Crackdown</title>
-      <link>https://www.infosecurity-magazine.com/news/french-police-seize-16m-euros/</link>
-      <description>Nine alleged crypto scammers arrested in Cyprus, Germany and Spain</description>
-      <pubDate>Tue, 04 Nov 2025 15:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/french-police-seize-16m-euros/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>SesameOp Backdoor Uses OpenAI API for Covert C2</title>
@@ -1005,44 +1043,6 @@ Gen Digital, which disclosed details of the activity, did not reveal any details
       <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Business Security</category>
-    </item>
-    <item>
-      <title>TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download</title>
-      <link>https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar/</link>
-      <description>&amp;lt;p&amp;gt;TechRepublic Premium content helps you solve your toughest IT issues and jump-start your career or next project.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar/&amp;quot;&amp;gt;TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 03 Nov 2025 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/techrepublic-premium-editorial-calendar/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Big Data</category>
-      <category>Cloud</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>Enterprise Software</category>
-      <category>Hardware</category>
-      <category>Project Management</category>
-      <category>Software</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>TechRepublic Premium</category>
-      <category>techrepublic premium</category>
-    </item>
-    <item>
-      <title>Proofpoint Named Official Cybersecurity Partner of TGL Presented by SoFi</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi</link>
-      <description/>
-      <pubDate>Mon, 03 Nov 2025 05:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-named-official-cybersecurity-partner-tgl-presented-sofi</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Lookalike Domain Attacks Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/lookalike-domain-attacks-explained</link>
-      <description>Learn about lookalike domain attacks, why they’re on the rise, and how to prevent them using automated monitoring and layered cybersecurity defenses.</description>
-      <pubDate>Mon, 03 Nov 2025 02:33:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/lookalike-domain-attacks-explained</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
