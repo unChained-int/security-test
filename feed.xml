@@ -5,9 +5,52 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Nov 2025 12:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 18:27:46 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uncovering the Shadow AI Paradox | UpGuard</title>
+      <link>https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</link>
+      <description>Our research into the motives of shadow AI user led to surprising discoveries.</description>
+      <pubDate>Mon, 10 Nov 2025 17:33:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>65% of Leading AI Companies Found With Verified Secrets Leaks</title>
+      <link>https://www.infosecurity-magazine.com/news/leading-ai-companies-secret-leaks/</link>
+      <description>A new study has revealed 65% of top AI firms have leaked sensitive data on GitHub, risking $400bn in assets</description>
+      <pubDate>Mon, 10 Nov 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/leading-ai-companies-secret-leaks/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>China-Aligned UTA0388 Uses AI Tools in Global Phishing Campaigns</title>
+      <link>https://www.infosecurity-magazine.com/news/china-aligned-uta0388-ai-tools/</link>
+      <description>Volexity has linked spear phishing operations to China-aligned UTA0388 in new campaigns using advanced tactics and LLMs</description>
+      <pubDate>Mon, 10 Nov 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-aligned-uta0388-ai-tools/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks</link>
+      <description>Attackers compromise hospitality providers with an infostealer and RAT malware and then use stolen data to launch phishing attacks against customers via both email and WhatsApp.</description>
+      <pubDate>Mon, 10 Nov 2025 15:16:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More</title>
+      <link>https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html</link>
+      <description>Cyber threats didn’t slow down last week—and attackers are getting smarter. We’re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.
+But that’s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week’s roundup highlights a clear shift: cybercrime is evolving fast</description>
+      <pubDate>Mon, 10 Nov 2025 18:21:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>New Attacks Against Secure Enclaves</title>
       <link>https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html</link>
@@ -22,6 +65,16 @@
       <category>data protection</category>
       <category>hardware</category>
       <category>physical security</category>
+    </item>
+    <item>
+      <title>New Browser Security Report Reveals Emerging Threats for Enterprises</title>
+      <link>https://thehackernews.com/2025/11/new-browser-security-report-reveals.html</link>
+      <description>According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user’s browser. Yet traditional controls like DLP, EDR, and SSE still operate one layer too low.
+What’s emerging isn’t just a blindspot. It’s a parallel threat surface: unmanaged extensions acting like supply chain implants, GenAI</description>
+      <pubDate>Mon, 10 Nov 2025 17:28:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/new-browser-security-report-reveals.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>New NCA Campaign Warns Men Off Crypto Investment Scams</title>
@@ -108,7 +161,7 @@ This leakage of data exchanged between humans and streaming-mode language mode
       <category>squid</category>
     </item>
     <item>
-      <title>&amp;apos;Landfall&amp;apos; Malware Targeted Samsung Galaxy Users</title>
+      <title>&amp;apos;Landfall&amp;apos; Malware Targets Samsung Galaxy Users</title>
       <link>https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users</link>
       <description>The tool let its operators secretly record conversations, track device locations, capture photos, collect contacts, and perform other surveillance on compromised devices.</description>
       <pubDate>Fri, 07 Nov 2025 21:15:29 +0000</pubDate>
@@ -620,22 +673,6 @@ Here are three practical steps every SOC can</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Claude Desktop Extensions Vulnerable to Web-Based Prompt Injection</title>
-      <link>https://www.infosecurity-magazine.com/news/claude-desktop-extensions-prompt/</link>
-      <description>Three of Anthropic’s Claude Desktop extensions were vulnerable to command injection – flaws that have now been fixed</description>
-      <pubDate>Wed, 05 Nov 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/claude-desktop-extensions-prompt/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>SMS Fraud Losses Set to Decline 11% in 2026</title>
-      <link>https://www.infosecurity-magazine.com/news/sms-fraud-losses-set-to-decline-11/</link>
-      <description>Juniper Research predicts a $9bn drop in losses to SMS fraud next year</description>
-      <pubDate>Wed, 05 Nov 2025 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/sms-fraud-losses-set-to-decline-11/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Iran&amp;apos;s Elusive &amp;amp;quot;SmudgedSerpent&amp;apos; APT Phishes Influential US Policy Wonks</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks</link>
       <description>Iran is spying on American foreign policy influencers. But exactly which of its government&amp;apos;s APTs is responsible remains a mystery.</description>
@@ -1005,44 +1042,6 @@ From spying and fake job scams to strong ransomware and tricky phishing, the att
       <guid isPermaLink="true">https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data</title>
-      <link>https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html</link>
-      <description>Cybersecurity researchers have shed light on two different Android trojans called BankBot-YNRK and DeliveryRAT that are capable of harvesting sensitive data from compromised devices.
-According to CYFIRMA, which analyzed three different samples of BankBot-YNRK, the malware incorporates features to sidestep analysis efforts by first checking its running within a virtualized or emulated environment</description>
-      <pubDate>Mon, 03 Nov 2025 16:44:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>&amp;apos;TruffleNet&amp;apos; Attack Wields Stolen Credentials Against AWS</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws</link>
-      <description>Reconnaissance and BEC are among the malicious activities attackers commit after compromising cloud accounts, using a framework based on the TruffleHog tool.</description>
-      <pubDate>Mon, 03 Nov 2025 10:59:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea</title>
-      <link>https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html</link>
-      <description>The North Korea-linked threat actor known as Kimsuky has distributed a previously undocumented backdoor codenamed HttpTroy as part of a likely spear-phishing attack targeting a single victim in South Korea.
-Gen Digital, which disclosed details of the activity, did not reveal any details on when the incident occurred, but noted that the phishing email contained a ZIP file (&amp;quot;250908_A_HK이노션</description>
-      <pubDate>Mon, 03 Nov 2025 16:12:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ground zero: 5 things to do after discovering a cyberattack</title>
-      <link>https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/</link>
-      <description>When every minute counts, preparation and precision can mean the difference between disruption and disaster</description>
-      <pubDate>Mon, 03 Nov 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
     </item>
   </channel>
 </rss>
