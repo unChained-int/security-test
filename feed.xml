@@ -5,9 +5,95 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 11 Nov 2025 06:29:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 12:39:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hackers Exploit Critical Flaw in Gladinet&amp;apos;s Triofox File Sharing Product</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-exploit-critical-flaw/</link>
+      <description>Threat actors were exploiting vulnerable versions of Triofox after a patched version was released, said Google Cloud researchers</description>
+      <pubDate>Tue, 11 Nov 2025 12:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-exploit-critical-flaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Prompt Injection in AI Browsers</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/&amp;quot;&amp;gt;This&amp;lt;/a&amp;gt; is why AIs are not ready to be personal assistants:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;A new attack called &amp;amp;#8216;CometJacking&amp;amp;#8217; exploits URL parameters to pass to Perplexity&amp;amp;#8217;s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;In a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;CometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the &amp;amp;#8216;collection&amp;amp;#8217; parameter of the URL...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 11 Nov 2025 12:08:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>browsers</category>
+      <category>cyberattack</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>CISO&amp;apos;s Expert Guide To AI Supply Chain Attacks</title>
+      <link>https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html</link>
+      <description>AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations.
+Download the full CISO&amp;amp;rsquo;s expert guide to AI Supply chain attacks here.&amp;amp;nbsp;
+TL;DR
+
+AI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in</description>
+      <pubDate>Tue, 11 Nov 2025 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories</title>
+      <link>https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html</link>
+      <description>Cybersecurity researchers have discovered a malicious npm package named &amp;quot;@acitons/artifact&amp;quot; that typosquats the legitimate &amp;quot;@actions/artifact&amp;quot; package with the intent to target GitHub-owned repositories.
+&amp;quot;We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish</description>
+      <pubDate>Tue, 11 Nov 2025 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Android Trojan &amp;apos;Fantasy Hub&amp;apos; Malware Service Turns Telegram Into a Hub for Hackers</title>
+      <link>https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that&amp;apos;s sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.
+According to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,</description>
+      <pubDate>Tue, 11 Nov 2025 17:14:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Adds Zero-Day Bug Used in Spyware Attacks to KEV</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-zeroday-bugspyware-attacks-kev/</link>
+      <description>CISA has demanded federal agencies patch a zero-day vulnerability affecting Samsung devices used in LandFall spyware attacks</description>
+      <pubDate>Tue, 11 Nov 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-zeroday-bugspyware-attacks-kev/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Quantum Route Redirect Phishing Kit Democratizes Cyber-Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/quantum-route-redirect-phishing/</link>
+      <description>KnowBe4 claims the new Quantum Route Redirect kit is supercharging phishing attacks on Microsoft365 users</description>
+      <pubDate>Tue, 11 Nov 2025 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/quantum-route-redirect-phishing/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Quick Glossary: Malware</title>
+      <link>https://www.techrepublic.com/resource-library/glossary/malware/</link>
+      <description>&amp;lt;p&amp;gt;To prevent and counteract malware, it’s important to know the terminology surrounding it. Constantly Updated — The download contains the latest and most accurate details. Enhance Your Knowledge — This eight-page PDF explains grayware, logic bomb, and more. Expert Guidance — Written by Mark W. Kaelin through 16 hours of research, writing, editing, and design. ...&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/glossary/malware/&amp;quot;&amp;gt;Quick Glossary: Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 11 Nov 2025 07:33:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/glossary/malware/</guid>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>IT Resources</category>
+    </item>
     <item>
       <title>Vendor Risk Management: Strategies for Protecting Your Business | UpGuard</title>
       <link>https://www.upguard.com/blog/vendor-risk-management</link>
@@ -502,14 +588,6 @@ The result is a global system where every digital weakness can be turned into ph
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Google Forecasts Rise of Cyber-Physical Attacks Targeting Europe in 2026</title>
-      <link>https://www.infosecurity-magazine.com/news/google-cyberphysical-attacks/</link>
-      <description>Europe will likely face a combination of heightened cyber-physical attacks and information operations coming from nation-state groups in 2026</description>
-      <pubDate>Thu, 06 Nov 2025 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-cyberphysical-attacks/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection</title>
       <link>https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html</link>
       <description>The threat actor known as Curly COMrades has been observed exploiting virtualization technologies as a way to bypass security solutions and execute custom malware.
@@ -571,22 +649,6 @@ According to a new report from Bitdefender, the adversary is said to have enable
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/nikkei-suffers-breach-slack-compromise</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Operation Chargeback Uncovers €300m Fraud Scheme in 193 Countries</title>
-      <link>https://www.infosecurity-magazine.com/news/operation-chargeback-uncovers/</link>
-      <description>Operation “Chargeback” has dismantled global fraud networks misusing stolen card data from more than 4.3 million victims</description>
-      <pubDate>Wed, 05 Nov 2025 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/operation-chargeback-uncovers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>UNK_SmudgedSerpent Targets Academics With Political Lures</title>
-      <link>https://www.infosecurity-magazine.com/news/unksmudgedserpent-targets-academics/</link>
-      <description>A previously unknown cyber actor UNK_SmudgedSerpent has been observed targeting academics with phishing and malware, merging techniques from Iranian groups</description>
-      <pubDate>Wed, 05 Nov 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/unksmudgedserpent-targets-academics/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Operational Technology Security Poses Inherent Risks for Manufacturers</title>
@@ -962,60 +1024,6 @@ Ryan Clifford Goldberg, Kevin Tyler Martin, and an unnamed co–conspirator (aka
       <guid isPermaLink="true">https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Android Malware Mutes Alerts, Drains Crypto Wallets</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets</link>
-      <description>Android/BankBot-YNRK is currently targeting users in Indonesia by masquerading as legitimate applications.</description>
-      <pubDate>Mon, 03 Nov 2025 22:19:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>On the Road Again: Hackers Hijack Physical Cargo Freight</title>
-      <link>https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight</link>
-      <description>In a new cyber threat campaign, attackers are using remote monitoring and management tools to actually steal physical cargo out of the trucking and freight supply chain.</description>
-      <pubDate>Mon, 03 Nov 2025 19:01:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Malicious VSX Extension &amp;quot;SleepyDuck&amp;quot; Uses Ethereum to Keep Its Command Server Alive</title>
-      <link>https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html</link>
-      <description>Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.
-According to Secure Annex&amp;apos;s John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to</description>
-      <pubDate>Mon, 03 Nov 2025 23:38:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The AI Exchange: Innovators in Payment Security Featuring Block, Inc.</title>
-      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-block-inc</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-block-inc&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring Block, Inc.&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Jacob%20Ansari%20800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 03 Nov 2025 15:46:20 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-block-inc</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Community Meetings</category>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Artificial Intelligence (AI)</category>
-    </item>
-    <item>
-      <title>Let&amp;apos;s Get Physical: A New Convergence for Electrical Grid Security</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity</link>
-      <description>The power grid is being attacked online and IRL. Increasingly, regulators and industry experts agree: Security teams need to focus on both cyber and physical threats, together.</description>
-      <pubDate>Mon, 03 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
