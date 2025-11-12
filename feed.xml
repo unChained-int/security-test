@@ -5,9 +5,36 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 11 Nov 2025 18:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 01:25:53 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vendor Risk Management: Strategies for Protecting Your Business | UpGuard</title>
+      <link>https://www.upguard.com/blog/vendor-risk-management</link>
+      <description>Explore the fundamentals of vendor risk management, including strategies, best practices, and tools to safeguard your organization from third-party risks.</description>
+      <pubDate>Tue, 11 Nov 2025 22:00:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-management</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Patch Now: Microsoft Flags Zero-Day &amp;amp;amp; Critical Zero-Click Bugs</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/patch-now-microsoft-zero-day-critical-zero-click-bugs</link>
+      <description>Security teams may have a less burdensome rollout in November after October&amp;apos;s Goliath Patch Tuesday, but shouldn&amp;apos;t wait on a few top-priority fixes.</description>
+      <pubDate>Tue, 11 Nov 2025 20:23:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/patch-now-microsoft-zero-day-critical-zero-click-bugs</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>WhatsApp Malware &amp;apos;Maverick&amp;apos; Hijacks Browser Sessions to Target Brazil&amp;apos;s Biggest Banks</title>
+      <link>https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html</link>
+      <description>Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp.
+According to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications.</description>
+      <pubDate>Wed, 12 Nov 2025 00:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Android Devices Targeted By KONNI APT in Find Hub Exploitation</title>
       <link>https://www.infosecurity-magazine.com/news/android-devices-targeted-konni-apt/</link>
@@ -147,14 +174,6 @@ According to its seller, the malware enables device control and espionage, allow
       <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
       <category>Cybersecurity</category>
       <category>IT Resources</category>
-    </item>
-    <item>
-      <title>Vendor Risk Management: Strategies for Protecting Your Business | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-risk-management</link>
-      <description>Explore the fundamentals of vendor risk management, including strategies, best practices, and tools to safeguard your organization from third-party risks.</description>
-      <pubDate>Tue, 11 Nov 2025 05:50:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Uncovering the Shadow AI Paradox | UpGuard</title>
@@ -1000,27 +1019,6 @@ A ransomware attack typically begins when the malware infiltrates a system throu
 According to multiple reports from Cyble and Seqrite Labs, the campaign is designed to deploy a persistent backdoor on compromised hosts that uses OpenSSH in conjunction with a customized Tor hidden service that employs obfs4 for</description>
       <pubDate>Tue, 04 Nov 2025 16:19:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How social engineering works | Unlocked 403 cybersecurity podcast (S2E6)</title>
-      <link>https://www.welivesecurity.com/en/videos/how-social-engineering-works-unlocked-403-cybersecurity-podcast-s2e6/</link>
-      <description>Think you could never fall for an online scam? Think again. Here&amp;apos;s how scammers could exploit psychology to deceive you – and what you can do to stay one step ahead</description>
-      <pubDate>Tue, 04 Nov 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/how-social-engineering-works-unlocked-403-cybersecurity-podcast-s2e6/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Video</category>
-    </item>
-    <item>
-      <title>Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit</title>
-      <link>https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html</link>
-      <description>Google&amp;apos;s artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.
-The list of vulnerabilities is as follows -
-
-CVE-2025-43429 - A buffer overflow</description>
-      <pubDate>Tue, 04 Nov 2025 13:40:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
