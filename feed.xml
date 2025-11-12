@@ -5,9 +5,80 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 12 Nov 2025 06:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 12:40:22 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>On Hacking Back</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html</link>
+      <description>&amp;lt;p&amp;gt;Former DoJ attorney John Carlin &amp;lt;a href=&amp;quot;https://www.aspendigital.org/blog/so-you-want-to-hack-back/&amp;quot;&amp;gt;writes&amp;lt;/a&amp;gt; about hackback, which he defines thus: &amp;amp;#8220;A hack back is a type of cyber response that incorporates a counterattack designed to proactively engage with, disable, or collect evidence about an attacker. Although hack backs can take on various forms, they are&amp;amp;#8212;­by definition­&amp;amp;#8212;not passive defensive measures.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;His conclusion:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;As the law currently stands, specific forms of purely defense measures are authorized so long as they affect only the victim’s system or data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;At the other end of the spectrum, offensive measures that involve accessing or otherwise causing damage or loss to the hacker’s systems are likely prohibited, absent government oversight or authorization. And even then parties should proceed with caution in light of the heightened risks of misattribution, collateral damage, and retaliation...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 12 Nov 2025 12:01:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>hackback</category>
+      <category>laws</category>
+    </item>
+    <item>
+      <title>[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR</title>
+      <link>https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html</link>
+      <description>Every day, security teams face the same problem—too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you’re always one step behind.
+But what if there was a smarter way to stay ahead—without adding more work or stress?
+Join The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack</description>
+      <pubDate>Wed, 12 Nov 2025 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security</title>
+      <link>https://thehackernews.com/2025/11/active-directory-under-siege-why.html</link>
+      <description>Active Directory remains the authentication backbone for&amp;amp;nbsp;over 90% of Fortune 1000 companies. AD&amp;apos;s importance has grown as companies adopt hybrid and cloud infrastructure, but so has its complexity. Every application, user, and device traces back to AD for authentication and authorization, making it the ultimate target. For attackers, it represents the holy grail: compromise Active</description>
+      <pubDate>Wed, 12 Nov 2025 16:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/active-directory-under-siege-why.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack</title>
+      <link>https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html</link>
+      <description>Microsoft on Tuesday released patches for 63 new security vulnerabilities identified in its software, including one that has come under active exploitation in the wild.
+Of the 63 flaws, four are rated Critical and 59 are rated Important in severity. Twenty-nine of these vulnerabilities are related to privilege escalation, followed by 16 remote code execution, 11 information disclosure, three</description>
+      <pubDate>Wed, 12 Nov 2025 15:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Fixes Windows Kernel Zero Day in November Patch Tuesday</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-windows-kernel-zero-day/</link>
+      <description>Microsoft has patched a zero-day vulnerability in the Windows Kernel under active exploitation by threat actors</description>
+      <pubDate>Wed, 12 Nov 2025 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-windows-kernel-zero-day/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>UK Government Finally Introduces Cyber Security and Resilience Bill</title>
+      <link>https://www.infosecurity-magazine.com/news/government-cyber-security/</link>
+      <description>The UK government is overhauling cybersecurity laws for the first time since 2018 with the Cyber Security and Resilience Bill</description>
+      <pubDate>Wed, 12 Nov 2025 09:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/government-cyber-security/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Launches &amp;apos;Private AI Compute&amp;apos; — Secure AI Processing with On-Device-Level Privacy</title>
+      <link>https://thehackernews.com/2025/11/google-launches-private-ai-compute.html</link>
+      <description>Google on Tuesday unveiled a new privacy-enhancing technology called Private AI Compute to process artificial intelligence (AI) queries in a secure platform in the cloud.
+The company said it has built Private AI Compute to &amp;quot;unlock the full speed and power of Gemini cloud models for AI experiences, while ensuring your personal data stays private to you and is not accessible to anyone else, not</description>
+      <pubDate>Wed, 12 Nov 2025 14:05:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/google-launches-private-ai-compute.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Become an Ethical Hacker for Only $40</title>
       <link>https://www.techrepublic.com/article/ethical-hacking-bundle-for-beginners/</link>
@@ -135,7 +206,7 @@ AI-enabled supply chain attacks are exploding in scale and sophistication - Mali
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories</title>
+      <title>Npm Package Targeting GitHub-Owned Repositories Flagged as Red Team Exercise</title>
       <link>https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html</link>
       <description>Cybersecurity researchers have discovered a malicious npm package named &amp;quot;@acitons/artifact&amp;quot; that typosquats the legitimate &amp;quot;@actions/artifact&amp;quot; package with the intent to target GitHub-owned repositories.
 &amp;quot;We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish</description>
@@ -561,14 +632,6 @@ Secure Annex researcher John Tuckner, who flagged the extension &amp;quot;susvse
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>“I Paid Twice” Phishing Campaign Targets Booking.com</title>
-      <link>https://www.infosecurity-magazine.com/news/i-paid-twice-phishing-campaign/</link>
-      <description>Experts have uncovered large-scale phishing exploiting Booking.com, Airbnb and Expedia accounts, targeting hotels and customers</description>
-      <pubDate>Thu, 06 Nov 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/i-paid-twice-phishing-campaign/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine</title>
       <link>https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html</link>
       <description>A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.
@@ -578,14 +641,6 @@ The campaign, detected in May 2025, is tracked by the security outfit under the 
       <guid isPermaLink="true">https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Multi-Turn Attacks Expose Weaknesses in Open-Weight LLM Models</title>
-      <link>https://www.infosecurity-magazine.com/news/multi-turn-attacks-llm-models/</link>
-      <description>A new Cisco report exposed large language models to multi-turn adversarial attacks with 90% success rates</description>
-      <pubDate>Thu, 06 Nov 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/multi-turn-attacks-llm-models/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362</title>
@@ -761,21 +816,21 @@ The seven vulnerabilities and attack techniques, according to Tenable, were foun
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Closing the AI Execution Gap in Cybersecurity — A CISO Framework</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</link>
-      <description>CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.</description>
-      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</guid>
-      <dc:creator>Adam Etherington, Rik Turner</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Risk &amp;apos;Comparable&amp;apos; to SolarWinds Incident Lurks in Popular Software Update Tool</title>
       <link>https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</link>
       <description>Some of the world&amp;apos;s biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there&amp;apos;s an easy fix.</description>
       <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Closing the AI Execution Gap in Cybersecurity — A CISO Framework</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</link>
+      <description>CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.</description>
+      <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework</guid>
+      <dc:creator>Adam Etherington, Rik Turner</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -972,60 +1027,6 @@ According to a statement released by Eurojust today, the action took place betwe
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/sesameop-backdoor-openai-api-covert-c2</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks</title>
-      <link>https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html</link>
-      <description>Details have emerged about a now-patched critical security flaw in the popular &amp;quot;@react-native-community/cli&amp;quot; npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.
-&amp;quot;The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli&amp;apos;s</description>
-      <pubDate>Tue, 04 Nov 2025 19:54:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed</title>
-      <link>https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html</link>
-      <description>Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.
-The vulnerabilities &amp;quot;allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,&amp;quot; Check Point said in a report shared with The Hacker News.
-Following responsible disclosure in March</description>
-      <pubDate>Tue, 04 Nov 2025 19:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How crooks use IT to enable cargo theft</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/how-crooks-use-it-enable-cargo-theft</link>
-      <description/>
-      <pubDate>Tue, 04 Nov 2025 13:43:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/how-crooks-use-it-enable-cargo-theft</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Cybercriminals Targeting Payroll Sites</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html</link>
-      <description>&amp;lt;p&amp;gt;Microsoft is &amp;lt;a href=&amp;quot;https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html?_m=3n%2e009a%2e3796%2ebx0ao08q8s%2e2u1l&amp;quot;&amp;gt;warning&amp;lt;/a&amp;gt; of a scam involving online payroll systems. Criminals use social engineering to steal people&amp;amp;#8217;s credentials, and then divert direct deposits into accounts that they control. Sometimes they do other things to make it harder for the victim to realize what is happening.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;I feel like this kind of thing is happening everywhere, with everything. As we move more of our personal and professional lives online, we enable criminals to subvert the very systems we rely on.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 04 Nov 2025 12:05:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>banking</category>
-      <category>credentials</category>
-      <category>scams</category>
-      <category>social engineering</category>
-    </item>
-    <item>
-      <title>Ransomware Defense Using the Wazuh Open Source Platform</title>
-      <link>https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html</link>
-      <description>Ransomware is malicious software designed to block access to a computer system or encrypt data until a ransom is paid. This cyberattack is one of the most prevalent and damaging threats in the digital landscape, affecting individuals, businesses, and critical infrastructure worldwide.
-A ransomware attack typically begins when the malware infiltrates a system through various vectors such as</description>
-      <pubDate>Tue, 04 Nov 2025 16:36:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
