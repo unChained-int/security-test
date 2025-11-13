@@ -5,13 +5,31 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 12 Nov 2025 18:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 01:26:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Microsoft Exchange &amp;apos;Under Imminent Threat&amp;apos;, Act Now</title>
+      <title>&amp;apos;CitrixBleed 2&amp;apos; Wreaks Havoc as Zero-Day Bug</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-cisco-zero-day-bugs</link>
+      <description>The same APT hammered critical bugs in Citrix NetScaler (CVE-2025-5777) and the Cisco Identity Service Engine (CVE-2025-20337) in a sign of growing adversary interest in identity and access management systems.</description>
+      <pubDate>Wed, 12 Nov 2025 22:30:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-cisco-zero-day-bugs</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Looks to Dim &amp;apos;Lighthouse&amp;apos; Phishing-as-a-Service Op</title>
+      <link>https://www.darkreading.com/threat-intelligence/google-dim-lighthouse-phishing-as-a-service</link>
+      <description>The phishing kit, run by a group known as the &amp;amp;quot;Smishing Triad,&amp;amp;quot; has powered massive amounts of unpaid tolls and package tracking texts.</description>
+      <pubDate>Wed, 12 Nov 2025 21:49:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/google-dim-lighthouse-phishing-as-a-service</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Exchange &amp;apos;Under Imminent Threat,&amp;apos; Act Now</title>
       <link>https://www.darkreading.com/cyber-risk/microsoft-exchange-under-imminent-threat-act-now</link>
-      <description>Threats against Microsoft Exchange continue to mount, but there are steps both organizations and Microsoft can take.</description>
+      <description>Threats against Microsoft Exchange continue to mount, but there are steps both organizations and Microsoft can take to limit them.</description>
       <pubDate>Wed, 12 Nov 2025 17:24:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/microsoft-exchange-under-imminent-threat-act-now</guid>
       <dc:creator>Arielle Waldman</dc:creator>
@@ -1017,24 +1035,6 @@ CVE-2025-11371 (CVSS score: 7.5) - A vulnerability in files or directories acces
       <pubDate>Wed, 05 Nov 2025 03:57:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/dark-web-monitoring</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users</link>
-      <description>The well-known North Korean threat group continues to improve the obfuscation and anti-analysis features of its attack toolchain.</description>
-      <pubDate>Wed, 05 Nov 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI App Spending Report: Where Are the Security Tools?</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools</link>
-      <description>An analysis of startup firms&amp;apos; spending on AI applications finds the top categories to be productivity and content-generation. Security? Not so much.</description>
-      <pubDate>Tue, 04 Nov 2025 21:59:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
