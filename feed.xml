@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 14 Nov 2025 12:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 18:27:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,50 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html</link>
+      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;My coauthor Nathan E. Sanders and I are speaking at the Rayburn House Office Building in Washington, DC at noon ET on November 17, 2025. The event is hosted by the POPVOX Foundation and the topic is “&amp;lt;a href=&amp;quot;https://www.popvox.org/events/ai-and-congress&amp;quot;&amp;gt;AI and Congress: Practical Steps to Govern and Prepare&amp;lt;/a&amp;gt;.”&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking on “Integrity and Trustworthy AI” at &amp;lt;a href=&amp;quot;https://events.vtools.ieee.org/m/462883&amp;quot;&amp;gt;North Hennepin Community College&amp;lt;/a&amp;gt; in Brooklyn Park, Minnesota, USA, on Friday, November 21, 2025, at 2:00 PM CT. The event is cohosted by the college and The Twin Cities IEEE Computer Society...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
+      <pubDate>Fri, 14 Nov 2025 17:08:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Schneier news</category>
+    </item>
+    <item>
+      <title>Identity Governance and Administration, App Proliferation, and the App Integration Chasm</title>
+      <link>https://www.darkreading.com/identity-access-management-security/identity-governance-administration-app-proliferation-app-integration-chasm</link>
+      <description>Most enterprises use more than 1,000 apps, according to ESG research, yet about half are integrated with IGA. Industry innovations enable teams to expand app coverage and get more IGA value.</description>
+      <pubDate>Fri, 14 Nov 2025 16:58:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/identity-governance-administration-app-proliferation-app-integration-chasm</guid>
+      <dc:creator>Todd Thiemann</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks</title>
+      <link>https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html</link>
+      <description>Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang.
+&amp;quot;These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python&amp;apos;s pickle deserialization,&amp;quot;</description>
+      <pubDate>Fri, 14 Nov 2025 20:50:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp;amp; Government Targets</title>
+      <link>https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html</link>
+      <description>The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign.
+The activity, detected in early September 2025 and assessed to be ongoing, has been codenamed&amp;amp;nbsp;SpearSpecter by the Israel National Digital Agency (INDA).
+&amp;quot;The</description>
+      <pubDate>Fri, 14 Nov 2025 20:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Europol Leads Major Strike on Global Cybercrime Infrastructure</title>
@@ -134,6 +178,15 @@ LockBit’s reappearance with</description>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
+      <title>How CISOs Can Best Work with CEOs and the Board: Lessons from the Field</title>
+      <link>https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field</link>
+      <description>To build an effective relationship with the CEO and the Board, CISOs must translate technical risks into business terms and position cybersecurity as a strategic business enabler rather than just a business function.</description>
+      <pubDate>Thu, 13 Nov 2025 23:40:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field</guid>
+      <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests&amp;apos; Payment Data</title>
       <link>https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html</link>
       <description>A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.
@@ -240,9 +293,9 @@ The name of the extension is &amp;quot;Safery: Ethereum Wallet,&amp;quot; with t
     <item>
       <title>Book Review: The Business of Secrets</title>
       <link>https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;The Business of Secrets: Adventures in Selling Encryption Around the World by Fred Kinch (May 24, 2024)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+      <description>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;i&amp;gt;The Business of Secrets: Adventures in Selling Encryption Around the World&amp;lt;/i&amp;gt; by Fred Kinch (May 24, 2024)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;From the vantage point of today, it&amp;amp;#8217;s surreal reading about the commercial cryptography business in the 1970s. Nobody knew anything. The manufacturers didn&amp;amp;#8217;t know whether the cryptography they sold was any good. The customers didn&amp;amp;#8217;t know whether the crypto they bought was any good. Everyone pretended to know, thought they knew, or knew better than to even try to know.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The Business of Secrets is the self-published memoirs of Fred Kinch. He was founder and vice president of&amp;amp;#8212;mostly sales&amp;amp;#8212;at a US cryptographic hardware company called Datotek, from company&amp;amp;#8217;s founding in 1969 until 1982. It&amp;amp;#8217;s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it&amp;amp;#8217;s also about encryption...&amp;lt;/p&amp;gt;</description>
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;The Business of Secrets&amp;lt;/em&amp;gt; is the self-published memoirs of Fred Kinch. He was founder and vice president of&amp;amp;#8212;mostly sales&amp;amp;#8212;at a US cryptographic hardware company called Datotek, from company&amp;amp;#8217;s founding in 1969 until 1982. It&amp;amp;#8217;s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it&amp;amp;#8217;s also about encryption...&amp;lt;/p&amp;gt;</description>
       <pubDate>Thu, 13 Nov 2025 12:09:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html</guid>
       <dc:creator>Bruce Schneier</dc:creator>
@@ -1003,60 +1056,6 @@ The campaign, detected in May 2025, is tracked by the security outfit under the 
 &amp;quot;InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link</description>
       <pubDate>Thu, 06 Nov 2025 21:01:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362</title>
-      <link>https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html</link>
-      <description>Cisco on Wednesday disclosed that it became aware of a new attack variant that&amp;apos;s designed to target devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software releases that are susceptible to CVE-2025-20333 and CVE-2025-20362.
-&amp;quot;This attack can cause unpatched devices to unexpectedly reload, leading to denial-of-service</description>
-      <pubDate>Thu, 06 Nov 2025 20:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Rigged Poker Games</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html</link>
-      <description>&amp;lt;p&amp;gt;The Department of Justice has &amp;lt;a href=&amp;quot;https://www.wsj.com/sports/nba-illegal-gambling-poker-games-3e7988e4?st=ArwBJd&amp;amp;#038;reflink=article_copyURL_share&amp;amp;#038;utm_source=substack&amp;amp;#038;utm_medium=email&amp;quot;&amp;gt;indicted&amp;lt;/a&amp;gt; thirty-one people over the high-tech rigging of high-stakes poker games.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In a typical legitimate poker game, a dealer uses a shuffling machine to shuffle the cards randomly before dealing them to all the players in a particular order.  As set forth in the indictment, the rigged games used altered shuffling machines that contained hidden technology allowing the machines to read all the cards in the deck.  Because the cards were always dealt in a particular order to the players at the table, the machines could determine which player would have the winning hand. This information was transmitted to an off-site member of the conspiracy, who then transmitted that information via cellphone back to a member of the conspiracy who was playing at the table, referred to as the &amp;amp;#8220;Quarterback&amp;amp;#8221; or &amp;amp;#8220;Driver.&amp;amp;#8221;  The Quarterback then secretly signaled this information (usually by prearranged signals like touching certain chips or other items on the table) to other co-conspirators playing at the table, who were also participants in the scheme.  Collectively, the Quarterback and other players in on the scheme (i.e., the cheating team) used this information to win poker games against unwitting victims, who sometimes lost tens or hundreds of thousands of dollars at a time. The defendants used other cheating technology as well, such as a chip tray analyzer (essentially, a poker chip tray that also secretly read all cards using hidden cameras), an x-ray table that could read cards face down on the table, and special contact lenses or eyeglasses that could read pre-marked cards. ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 06 Nov 2025 12:02:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cheating</category>
-      <category>gambling</category>
-      <category>hacking</category>
-    </item>
-    <item>
-      <title>From Tabletop to Turnkey: Building Cyber Resilience in Financial Services</title>
-      <link>https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html</link>
-      <description>Introduction
-Financial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.
-Crisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in</description>
-      <pubDate>Thu, 06 Nov 2025 17:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks &amp;amp; More</title>
-      <link>https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html</link>
-      <description>Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.
-The result is a global system where every digital weakness can be turned into physical harm, economic loss, or political leverage.</description>
-      <pubDate>Thu, 06 Nov 2025 17:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response</title>
-      <link>https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html</link>
-      <description>Bitdefender has once again been recognized as a Representative Vendor in the Gartner® Market Guide for Managed Detection and Response (MDR) — marking the fourth consecutive year of inclusion. According to Gartner, more than 600 providers globally claim to deliver MDR services, yet only a select few meet the criteria to appear in the Market Guide. While inclusion is not a ranking or comparative</description>
-      <pubDate>Thu, 06 Nov 2025 16:13:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
