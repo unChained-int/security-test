@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 15 Nov 2025 12:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 18:24:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,7 +17,17 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate 136 Companies</title>
+      <title>RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet</title>
+      <link>https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html</link>
+      <description>The botnet malware known as RondoDox has been observed targeting unpatched XWiki instances against a critical security flaw that could allow attackers to achieve arbitrary code execution.
+The vulnerability in question is CVE-2025-24893 (CVSS score: 9.8), an eval injection bug that could allow any guest user to perform arbitrary remote code execution through a request to the &amp;quot;/bin/get/Main/</description>
+      <pubDate>Sat, 15 Nov 2025 22:05:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies</title>
       <link>https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html</link>
       <description>The U.S. Department of Justice (DoJ) on Friday announced that five individuals have pleaded guilty to assisting North Korea&amp;apos;s illicit revenue generation schemes by enabling information technology (IT) worker fraud in violation of international sanctions.
 The five individuals are listed below -
@@ -1050,15 +1060,6 @@ The organization, according to a report from Broadcom&amp;apos;s Symantec and Ca
       <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/in-memoriam-david-harley/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Digital Security</category>
-    </item>
-    <item>
-      <title>The who, where, and how of APT attacks in Q2 2025–Q3 2025</title>
-      <link>https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-q2-2025-q3-2025/</link>
-      <description>ESET Chief Security Evangelist Tony Anscombe highlights some of the key findings from the latest issue of the ESET APT Activity Report</description>
-      <pubDate>Fri, 07 Nov 2025 12:34:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-q2-2025-q3-2025/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Video</category>
     </item>
   </channel>
 </rss>
