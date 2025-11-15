@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 14 Nov 2025 18:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 01:23:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,74 @@
       <description/>
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Pilot Whales Eat a Lot of Squid</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html</link>
+      <description>&amp;lt;p&amp;gt;Short-finned pilot wales (&amp;lt;i&amp;gt;Globicephala macrorhynchus&amp;lt;/i&amp;gt;) eat &amp;lt;a href=&amp;quot;https://gizmodo.com/scientists-wanted-to-know-how-many-squid-pilot-whales-eat-each-day-what-they-found-was-astounding-2000685522&amp;quot;&amp;gt;at lot&amp;lt;/a&amp;gt; of squid:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;To figure out a short-finned pilot whale&amp;amp;#8217;s caloric intake, Gough says, the team had to combine data from a variety of sources, including movement data from short-lasting tags, daily feeding rates from satellite tags, body measurements collected via aerial drones, and sifting through the stomachs of unfortunate whales that ended up stranded on land.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Once the team pulled all this data together, they estimated that a typical whale will eat between 82 and 202 squid a day. To meet their energy needs, a whale will have to consume an average of 140 squid a day. Annually, that&amp;amp;#8217;s about 74,000 squid per whale. For all the whales in the area, that amounts to about 88,000 tons of squid eaten every year...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 14 Nov 2025 23:33:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs</title>
+      <link>https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs</link>
+      <description>The Akira ransomware group has been experimenting with new tools, bugs, and attack surfaces, with demonstrated success in significant sectors.</description>
+      <pubDate>Fri, 14 Nov 2025 21:42:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Security Tools Target Growing macOS Threats</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/new-security-tools-target-growing-macos-threats</link>
+      <description>A public dataset and platform-agnostic analysis tool aim to help organizations in the fight against Apple-targeted malware, which researchers say has lacked proper attention.</description>
+      <pubDate>Fri, 14 Nov 2025 20:53:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/new-security-tools-target-growing-macos-threats</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Hardened Containers Look to Eliminate Common Source of Vulnerabilities</title>
+      <link>https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities</link>
+      <description>A kitchen-sink approach to building containers has loaded many with vulnerabilities. A handful of companies are trying to slim them down.</description>
+      <pubDate>Fri, 14 Nov 2025 20:21:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/hardened-containers-eliminate-common-source-vulnerabilities</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>150,000 Packages Flood NPM Registry in Token Farming Campaign</title>
+      <link>https://www.darkreading.com/application-security/150000-packages-flood-npm-registry-token-farming</link>
+      <description>A self-replicating attack led to a tidal wave of malicious packages in the NPM registry, targeting tokens for the tea.xyz protocol.</description>
+      <pubDate>Fri, 14 Nov 2025 20:17:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/150000-packages-flood-npm-registry-token-farming</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels</title>
+      <link>https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html</link>
+      <description>The North Korean threat actors behind the Contagious Interview campaign have once again tweaked their tactics by using JSON storage services to stage malicious payloads.
+&amp;quot;The threat actors have recently resorted to utilizing JSON storage services like JSON Keeper, JSONsilo, and npoint.io to host and deliver malware from trojanized code projects, with the lure,&amp;quot; NVISO researchers Bart Parys, Stef</description>
+      <pubDate>Fri, 14 Nov 2025 23:55:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Learning Sales Skills Can Make Security Professionals More Effective</title>
+      <link>https://www.darkreading.com/cybersecurity-careers/shadow-program-gives-aws-exec-new-security-lens</link>
+      <description>Amazon Web Services VP Sara Duffer highlights the top lessons she brought back to her security role after taking part in Amazon&amp;apos;s shadow program.</description>
+      <pubDate>Fri, 14 Nov 2025 17:09:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-careers/shadow-program-gives-aws-exec-new-security-lens</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -178,9 +246,9 @@ LockBit’s reappearance with</description>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>How CISOs Can Best Work with CEOs and the Board: Lessons from the Field</title>
+      <title>How CISOs Can Best Work With CEOs and the Board: Lessons From the Field</title>
       <link>https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field</link>
-      <description>To build an effective relationship with the CEO and the Board, CISOs must translate technical risks into business terms and position cybersecurity as a strategic business enabler rather than just a business function.</description>
+      <description>To build an effective relationship with the CEO and board, CISOs must translate technical risks into business terms and position cybersecurity as a strategic business enabler rather than just a business function.</description>
       <pubDate>Thu, 13 Nov 2025 23:40:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field</guid>
       <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
@@ -204,6 +272,14 @@ The activity, per Netcraft security researcher Andrew Brandt, is designed to tar
       <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/sso-passkeys-password-bad-habits</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Operation Endgame targets malware networks in global crackdown</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown</link>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 15:21:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/operation-endgame-targets-malware-networks-global-crackdown</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
       <title>“IndonesianFoods” npm Worm Publishes 44,000 Malicious Packages</title>
@@ -982,82 +1058,6 @@ The organization, according to a report from Broadcom&amp;apos;s Symantec and Ca
       <category>AI</category>
       <category>forgery</category>
       <category>fraud</category>
-    </item>
-    <item>
-      <title>Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation</title>
-      <link>https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html</link>
-      <description>A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.
-According to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named &amp;quot;shanhai666&amp;quot; and are designed to run malicious code after specific trigger dates in August 2027 and</description>
-      <pubDate>Fri, 07 Nov 2025 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Enterprise Credentials at Risk – Same Old, Same Old?</title>
-      <link>https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html</link>
-      <description>Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization&amp;amp;rsquo;s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she&amp;amp;rsquo;s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web</description>
-      <pubDate>Fri, 07 Nov 2025 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts</title>
-      <link>https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html</link>
-      <description>Google on Thursday said it&amp;apos;s rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments.
-The approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an</description>
-      <pubDate>Fri, 07 Nov 2025 14:45:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities</title>
-      <link>https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html</link>
-      <description>Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence – in other words, vibe-coded.
-Secure Annex researcher John Tuckner, who flagged the extension &amp;quot;susvsex,&amp;quot; said it does not attempt to hide its malicious functionality. The extension was uploaded on</description>
-      <pubDate>Fri, 07 Nov 2025 12:18:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>A CISO&amp;apos;s Guide to Defending Against Social Media Impersonation | UpGuard</title>
-      <link>https://www.upguard.com/blog/defending-against-social-media-impersonation</link>
-      <description>This guide provides a strategic framework for understanding and mitigating the explosive growth of social media-based brand impersonation attacks.</description>
-      <pubDate>Thu, 06 Nov 2025 23:29:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/defending-against-social-media-impersonation</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Sora 2 Makes Videos So Believable, Reality Checks Are Required</title>
-      <link>https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required</link>
-      <description>Threat actors will continue to abuse deepfake technology to conduct fraudulent activity, so organizations need to implement strong security protocols – even if it adds to user friction.</description>
-      <pubDate>Thu, 06 Nov 2025 21:42:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SonicWall Firewall Backups Stolen by Nation-State Actor</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor</link>
-      <description>The network security vendor said the MySonicWall breach was unrelated to the recent wave of Akira ransomware attacks targeting the company&amp;apos;s devices.</description>
-      <pubDate>Thu, 06 Nov 2025 20:51:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine</title>
-      <link>https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html</link>
-      <description>A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.
-The campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned.
-&amp;quot;InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link</description>
-      <pubDate>Thu, 06 Nov 2025 21:01:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
