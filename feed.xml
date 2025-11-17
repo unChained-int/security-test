@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 17 Nov 2025 06:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 12:40:12 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,56 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>More Prompt&amp;amp;#124;&amp;amp;#124;GTFO</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html</link>
+      <description>&amp;lt;p&amp;gt;The next three in &amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html&amp;quot;&amp;gt;this series&amp;lt;/a&amp;gt; on online events highlighting interesting uses of AI in cybersecurity are online: &amp;lt;a href=&amp;quot;https://youtube.com/playlist?list=PLXz1MhBqAGJwkLpTxQFpe4hu4sBCuUGuN&amp;amp;#038;si=cETRhpsER5rN-rOo&amp;quot;&amp;gt;#4&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://youtube.com/playlist?list=PLXz1MhBqAGJw-pySlsaAyuMv1OQKsbVtR&amp;amp;#038;si=QvqqsmJbsbCetVWi&amp;quot;&amp;gt;#5&amp;lt;/a&amp;gt;, and &amp;lt;a href=&amp;quot;https://youtube.com/playlist?list=PLXz1MhBqAGJw9nmtpC7USh-s9Ku6KiFCf&amp;amp;#038;si=FRNSy7ZMAvzu6x2F&amp;quot;&amp;gt;#6&amp;lt;/a&amp;gt;. Well worth watching.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 17 Nov 2025 12:05:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cybersecurity</category>
+      <category>videos</category>
+    </item>
+    <item>
+      <title>Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT</title>
+      <link>https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html</link>
+      <description>The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.
+The campaign, which is primarily aimed at Chinese-speaking users, employs trojanized NSIS installers masquerading as legitimate like Google Chrome and Microsoft Teams, according to Elastic Security Labs.
+&amp;quot;The</description>
+      <pubDate>Mon, 17 Nov 2025 16:50:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>US: Five Plead Guilty in North Korean IT Worker Fraud Scheme</title>
+      <link>https://www.infosecurity-magazine.com/news/us-five-plead-guilty-dprk-it/</link>
+      <description>The five defendants allegedly assisted North Korean hackers with obtaining remote IT employment with US companies</description>
+      <pubDate>Mon, 17 Nov 2025 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-five-plead-guilty-dprk-it/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Cyber-Attack Costs Carmaker JLR $258m in Q2</title>
+      <link>https://www.infosecurity-magazine.com/news/jlr-posts-639m-q2-losses/</link>
+      <description>Carmaker JLR has posted $639m Q2 losses and a one-off $258m hit after a major ransomware attack</description>
+      <pubDate>Mon, 17 Nov 2025 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jlr-posts-639m-q2-losses/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time</title>
+      <link>https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html</link>
+      <description>Google has disclosed that the company&amp;apos;s continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% of total vulnerabilities for the first time.
+&amp;quot;We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android’s C and C++ code. But the biggest surprise was</description>
+      <pubDate>Mon, 17 Nov 2025 11:32:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Supply Chain Resilience: Creating an Effective Risk Management Plan | UpGuard</title>
@@ -840,22 +890,6 @@ Of the 63 flaws, four are rated Critical and 59 are rated Important in severity.
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Microsoft Fixes Windows Kernel Zero Day in November Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-windows-kernel-zero-day/</link>
-      <description>Microsoft has patched a zero-day vulnerability in the Windows Kernel under active exploitation by threat actors</description>
-      <pubDate>Wed, 12 Nov 2025 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-windows-kernel-zero-day/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>UK Government Finally Introduces Cyber Security and Resilience Bill</title>
-      <link>https://www.infosecurity-magazine.com/news/government-cyber-security/</link>
-      <description>The UK government is overhauling cybersecurity laws for the first time since 2018 with the Cyber Security and Resilience Bill</description>
-      <pubDate>Wed, 12 Nov 2025 09:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/government-cyber-security/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Google Launches &amp;apos;Private AI Compute&amp;apos; — Secure AI Processing with On-Device-Level Privacy</title>
       <link>https://thehackernews.com/2025/11/google-launches-private-ai-compute.html</link>
       <description>Google on Tuesday unveiled a new privacy-enhancing technology called Private AI Compute to process artificial intelligence (AI) queries in a secure platform in the cloud.
@@ -995,34 +1029,6 @@ According to its seller, the malware enables device control and espionage, allow
       <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/kimsuky-apt-south-korean-androids-abuses-kakaotalk</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Why shadow AI could be your biggest security blind spot</title>
-      <link>https://www.welivesecurity.com/en/business-security/shadow-ai-security-blind-spot/</link>
-      <description>From unintentional data leakage to buggy code, here’s why you should care about unsanctioned AI use in your company</description>
-      <pubDate>Tue, 11 Nov 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/shadow-ai-security-blind-spot/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>Quick Glossary: Malware</title>
-      <link>https://www.techrepublic.com/resource-library/glossary/malware/</link>
-      <description>&amp;lt;p&amp;gt;To prevent and counteract malware, it’s important to know the terminology surrounding it. Constantly Updated — The download contains the latest and most accurate details. Enhance Your Knowledge — This eight-page PDF explains grayware, logic bomb, and more. Expert Guidance — Written by Mark W. Kaelin through 16 hours of research, writing, editing, and design. ...&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/glossary/malware/&amp;quot;&amp;gt;Quick Glossary: Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 11 Nov 2025 07:33:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/glossary/malware/</guid>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>IT Resources</category>
-    </item>
-    <item>
-      <title>Uncovering the Shadow AI Paradox | UpGuard</title>
-      <link>https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</link>
-      <description>Our research into the motives of shadow AI user led to surprising discoveries.</description>
-      <pubDate>Mon, 10 Nov 2025 23:27:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
