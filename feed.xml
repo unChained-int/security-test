@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 17 Nov 2025 18:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 01:25:50 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,24 @@
       <description/>
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Fortinet FortiWeb WAF Bug Exploited in the Wild</title>
+      <link>https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild</link>
+      <description>The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.</description>
+      <pubDate>Mon, 17 Nov 2025 21:10:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>US Citizens Plead Guilty to Aiding North Korean IT Worker Campaigns</title>
+      <link>https://www.darkreading.com/remote-workforce/us-citizens-plead-guilty-north-korean-it-worker</link>
+      <description>Four individuals admitted to assisting foreign IT workers in gaining employment at US companies by providing false identities and remote access to employer-owned laptops.</description>
+      <pubDate>Mon, 17 Nov 2025 20:50:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/us-citizens-plead-guilty-north-korean-it-worker</guid>
+      <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1000,33 +1018,6 @@ The cybersecurity company said it observed three GootLoader infections since Oct
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/grandparents-to-c-suite-elder-fraud-reveals-gaps-in-human-centered-cybersecurity</guid>
       <dc:creator>Joan Goodchild</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/military-veterans-strengthening-cybersecurity</link>
-      <description>From intelligence analysts to surface warfare officers, military veterans of all backgrounds are successfully pivoting to cybersecurity careers and strengthening the industry&amp;apos;s defense capabilities.</description>
-      <pubDate>Tue, 11 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/military-veterans-strengthening-cybersecurity</guid>
-      <dc:creator>Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Prompt Injection in AI Browsers</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/&amp;quot;&amp;gt;This&amp;lt;/a&amp;gt; is why AIs are not ready to be personal assistants:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;A new attack called &amp;amp;#8216;CometJacking&amp;amp;#8217; exploits URL parameters to pass to Perplexity&amp;amp;#8217;s Comet AI browser hidden instructions that allow access to sensitive data from connected services, like email and calendar.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;In a realistic scenario, no credentials or user interaction are required and a threat actor can leverage the attack by simply exposing a maliciously crafted URL to targeted users.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;CometJacking is a prompt-injection attack where the query string processed by the Comet AI browser contains malicious instructions added using the &amp;amp;#8216;collection&amp;amp;#8217; parameter of the URL...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 11 Nov 2025 12:08:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>browsers</category>
-      <category>cyberattack</category>
-      <category>LLM</category>
     </item>
   </channel>
 </rss>
