@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 18 Nov 2025 01:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 06:29:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,25 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Supply Chain Cybersecurity Strategies for Modern Business | UpGuard</title>
+      <link>https://www.upguard.com/blog/supply-chain-cybersecurity-strategies-modern-business</link>
+      <description>Strengthen your supply chain cybersecurity with actionable steps and best practices for reducing risks across all vendor networks. Read more here.</description>
+      <pubDate>Tue, 18 Nov 2025 06:12:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/supply-chain-cybersecurity-strategies-modern-business</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability</title>
+      <link>https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html</link>
+      <description>Google on Monday released security updates for its Chrome browser to address two security flaws, including one that has come under active exploitation in the wild.
+The vulnerability in question is CVE-2025-13223 (CVSS score: 8.8), a type confusion vulnerability in the V8 JavaScript and WebAssembly engine that could be exploited to achieve arbitrary code execution or program crashes.
+&amp;quot;Type</description>
+      <pubDate>Tue, 18 Nov 2025 10:14:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Critical Fortinet FortiWeb WAF Bug Exploited in the Wild</title>
@@ -998,26 +1017,6 @@ According to a report from CyberProof, both malware strains are written in .NET,
       <guid isPermaLink="true">https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites</title>
-      <link>https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html</link>
-      <description>The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.
-The cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection.
-&amp;quot;</description>
-      <pubDate>Tue, 11 Nov 2025 21:14:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Grandparents to C-Suite: Elder Fraud Reveals Gaps in Human-Centered Cybersecurity</title>
-      <link>https://www.darkreading.com/cyber-risk/grandparents-to-c-suite-elder-fraud-reveals-gaps-in-human-centered-cybersecurity</link>
-      <description>Cybercriminals are weaponizing AI voice cloning and publicly available data to craft social engineering scams that emotionally manipulate senior citizens—and drain billions from their savings.</description>
-      <pubDate>Tue, 11 Nov 2025 15:30:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/grandparents-to-c-suite-elder-fraud-reveals-gaps-in-human-centered-cybersecurity</guid>
-      <dc:creator>Joan Goodchild</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
