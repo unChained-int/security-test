@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 19 Nov 2025 06:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 12:40:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,75 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Legal Restrictions on Vulnerability Disclosure</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html</link>
+      <description>&amp;lt;p&amp;gt;Kendra Albert gave an &amp;lt;a href=&amp;quot;https://www.youtube.com/watch?v=lUe3uUvIyT0&amp;quot;&amp;gt;excellent talk&amp;lt;/a&amp;gt; at USENIX Security this year, pointing out that the legal agreements surrounding vulnerability disclosure muzzle researchers while allowing companies to not fix the vulnerabilities&amp;amp;#8212;exactly the opposite of what the responsible disclosure movement of the early 2000s was supposed to prevent. This is the talk.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Thirty years ago, a debate raged over whether vulnerability disclosure was good for computer security. On one side, full disclosure advocates argued that software bugs weren&amp;amp;#8217;t getting fixed and wouldn&amp;amp;#8217;t get fixed if companies that made insecure software wasn&amp;amp;#8217;t called out publicly. On the other side, companies argued that full disclosure led to exploitation of unpatched vulnerabilities, especially if they were hard to fix. After blog posts, public debates, and countless mailing list flame wars, there emerged a compromise solution: coordinated vulnerability disclosure, where vulnerabilities were disclosed after a period of confidentiality where vendors can attempt to fix things. Although full disclosure fell out of fashion, disclosure won and security through obscurity lost. We&amp;amp;#8217;ve lived happily ever after since...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 19 Nov 2025 12:04:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>courts</category>
+      <category>disclosure</category>
+      <category>video</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>PlushDaemon Hackers Unleash New Malware in China-Aligned Spy Campaigns</title>
+      <link>https://www.infosecurity-magazine.com/news/plushdaemon-new-malware-china-spy/</link>
+      <description>The cyber espionage group uses a previously undocumented network implant to drop two downloaders, LittleDaemon and DaemonLogistics, which deliver a backdoor</description>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/plushdaemon-new-malware-china-spy/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software</title>
+      <link>https://thehackernews.com/2025/11/application-containment-how-to-use.html</link>
+      <description>The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to chase threats after they have already entered the network, is fundamentally risky and contributes significantly to the half-trillion-dollar annual cost of cybercrime.
+Zero Trust fundamentally shifts</description>
+      <pubDate>Wed, 19 Nov 2025 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/application-containment-how-to-use.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>China-Linked Operation “WrtHug” Hijacks Thousands of ASUS Routers</title>
+      <link>https://www.infosecurity-magazine.com/news/chinal-operation-wrthug-thousands/</link>
+      <description>SecurityScorecard has revealed a new Chinese campaign targeting thousands of ASUS routers globally</description>
+      <pubDate>Wed, 19 Nov 2025 10:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinal-operation-wrthug-thousands/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates</title>
+      <link>https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html</link>
+      <description>The threat actor known as PlushDaemon has been observed using a previously undocumented Go-based network backdoor codenamed EdgeStepper to facilitate adversary-in-the-middle (AitM) attacks.
+EdgeStepper &amp;quot;redirects all DNS queries to an external, malicious hijacking node, effectively rerouting the traffic from legitimate infrastructure used for software updates to attacker-controlled infrastructure</description>
+      <pubDate>Wed, 19 Nov 2025 15:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts</title>
+      <link>https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html</link>
+      <description>Malicious actors can exploit default configurations in ServiceNow&amp;apos;s Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attacks.
+The second-order prompt injection, according to AppOmni, makes use of Now Assist&amp;apos;s agent-to-agent discovery to execute unauthorized actions, enabling attackers to copy and exfiltrate sensitive</description>
+      <pubDate>Wed, 19 Nov 2025 15:29:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Half of Ransomware Access Due to Hijacked VPN Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/half-ransomware-access-hijacked/</link>
+      <description>Beazley Security data finds the top cause of initial access for ransomware in Q3 was compromised VPN credentials</description>
+      <pubDate>Wed, 19 Nov 2025 09:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/half-ransomware-access-hijacked/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild</title>
@@ -223,7 +292,7 @@ Even one small mistake—like the wrong person getting access—can lead to big 
       <title>Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks</title>
       <link>https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html</link>
       <description>Suspected espionage-driven threat actors from Iran have been observed deploying backdoors like TWOSTROKE and DEEPROOT as part of continued attacks aimed at aerospace, aviation, and defense industries in the Middle East.
-The activity has been attributed by Google-owned Mandiant to a threat cluster tracked as UNC1549 (aka Nimbus Manticore or Subtle Snail), which was first documented by the threat</description>
+The activity has been attributed by Google-owned Mandiant to a threat cluster tracked as UNC1549 (aka GalaxyGato, Nimbus Manticore, or Subtle Snail), which was first documented</description>
       <pubDate>Tue, 18 Nov 2025 18:24:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -425,14 +494,6 @@ The campaign, which is primarily aimed at Chinese-speaking users, employs trojan
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>US: Five Plead Guilty in North Korean IT Worker Fraud Scheme</title>
-      <link>https://www.infosecurity-magazine.com/news/us-five-plead-guilty-dprk-it/</link>
-      <description>The five defendants allegedly assisted North Korean hackers with obtaining remote IT employment with US companies</description>
-      <pubDate>Mon, 17 Nov 2025 11:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-five-plead-guilty-dprk-it/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>What if your romantic AI chatbot can’t keep a secret?</title>
       <link>https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/</link>
       <description>Does your chatbot know too much? Think twice before you tell your AI companion everything.</description>
@@ -440,14 +501,6 @@ The campaign, which is primarily aimed at Chinese-speaking users, employs trojan
       <guid isPermaLink="true">https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Privacy</category>
-    </item>
-    <item>
-      <title>Cyber-Attack Costs Carmaker JLR $258m in Q2</title>
-      <link>https://www.infosecurity-magazine.com/news/jlr-posts-639m-q2-losses/</link>
-      <description>Carmaker JLR has posted $639m Q2 losses and a one-off $258m hit after a major ransomware attack</description>
-      <pubDate>Mon, 17 Nov 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jlr-posts-639m-q2-losses/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time</title>
@@ -825,14 +878,6 @@ The activity, detected in early September 2025 and assessed to be ongoing, has b
       <category>malware</category>
     </item>
     <item>
-      <title>Chinese Hackers Automate Cyber-Attacks With AI-Powered Claude Code</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-hackers-cyberattacks-ai/</link>
-      <description>Anthropic’s Claude Code AI assistant performed 80% to 90% of the tasks involved in a recent cyber-attack campaign, said Anthropic researchers</description>
-      <pubDate>Fri, 14 Nov 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinese-hackers-cyberattacks-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>The Role of Humans in an AI-Powered World</title>
       <link>https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html</link>
       <description>&amp;lt;p&amp;gt;As AI capabilities grow, we must delineate the roles that should remain exclusively human. The line seems to be between fact-based decisions and judgment-based decisions.&amp;lt;/p&amp;gt;
@@ -954,59 +999,6 @@ The activity, per Netcraft security researcher Andrew Brandt, is designed to tar
       <category>Silent Push</category>
       <category>Smishing Triad</category>
       <category>Tencent</category>
-    </item>
-    <item>
-      <title>Coyote, Maverick Banking Trojans Run Rampant in Brazil</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/coyote-maverick-banking-trojans-brazil</link>
-      <description>South America&amp;apos;s largest country is notorious for banking malware attacks; Maverick self-terminates if its targeted user is based outside Brazil.</description>
-      <pubDate>Thu, 13 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/coyote-maverick-banking-trojans-brazil</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain</title>
-      <link>https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html</link>
-      <description>Cybersecurity researchers have uncovered a malicious Chrome extension that poses as a legitimate Ethereum wallet but harbors functionality to exfiltrate users&amp;apos; seed phrases.
-The name of the extension is &amp;quot;Safery: Ethereum Wallet,&amp;quot; with the threat actor describing it as a &amp;quot;secure wallet for managing Ethereum cryptocurrency with flexible settings.&amp;quot; It was uploaded to the Chrome Web Store on</description>
-      <pubDate>Thu, 13 Nov 2025 18:34:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK Cyber Defense Laws Aim to Bolster NHS and Energy Infrastructure</title>
-      <link>https://www.techrepublic.com/article/news-uk-cyber-defense-laws-2025/</link>
-      <description>&amp;lt;p&amp;gt;Cyber Security and Resilience Bill represents a fundamental shift in how it defends its digital backbone against attacks now costing the nation nearly £15 billion annually.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-uk-cyber-defense-laws-2025/&amp;quot;&amp;gt;UK Cyber Defense Laws Aim to Bolster NHS and Energy Infrastructure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 13 Nov 2025 12:27:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-uk-cyber-defense-laws-2025/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Compliance</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>United Kingdom</category>
-      <category>cyber defense</category>
-      <category>Cyber Security and Resilience Bill</category>
-      <category>cybersecurity</category>
-      <category>uk</category>
-    </item>
-    <item>
-      <title>Book Review: The Business of Secrets</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;cite&amp;gt;The Business of Secrets: Adventures in Selling Encryption Around the World&amp;lt;/cite&amp;gt; by Fred Kinch (May 24, 2024)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;From the vantage point of today, it&amp;amp;#8217;s surreal reading about the commercial cryptography business in the 1970s. Nobody knew anything. The manufacturers didn&amp;amp;#8217;t know whether the cryptography they sold was any good. The customers didn&amp;amp;#8217;t know whether the crypto they bought was any good. Everyone pretended to know, thought they knew, or knew better than to even try to know.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;cite&amp;gt;The Business of Secrets&amp;lt;/cite&amp;gt; is the self-published memoirs of Fred Kinch. He was founder and vice president of&amp;amp;#8212;mostly sales&amp;amp;#8212;at a US cryptographic hardware company called Datotek, from company&amp;amp;#8217;s founding in 1969 until 1982. It&amp;amp;#8217;s mostly a disjointed collection of stories about the difficulties of selling to governments worldwide, along with descriptions of the highs and (mostly) lows of foreign airlines, foreign hotels, and foreign travel in general. But it&amp;amp;#8217;s also about encryption...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 13 Nov 2025 12:09:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/book-review-the-business-of-secrets.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>business of security</category>
-      <category>cryptography</category>
-      <category>encryption</category>
-      <category>history of cryptography</category>
     </item>
   </channel>
 </rss>
