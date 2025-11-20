@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 19 Nov 2025 18:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 01:24:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,50 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fortinet Woes Continue With Another WAF Zero-Day Flaw</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/fortinet-woes-continue-another-waf-zero-day-flaw</link>
+      <description>A second zero-day vulnerability in its web application firewall (WAF) line has come under attack, raising more questions about the vendor&amp;apos;s disclosure practices.</description>
+      <pubDate>Wed, 19 Nov 2025 22:27:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/fortinet-woes-continue-another-waf-zero-day-flaw</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Do National Data Laws Carry Cyber-Risks for Large Orgs?</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/national-data-laws-cyber-risks-large-orgs</link>
+      <description>When international corporations have to balance competing cyber laws from different countries, the result is fragmented, potentially vulnerable systems.</description>
+      <pubDate>Wed, 19 Nov 2025 22:09:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/national-data-laws-cyber-risks-large-orgs</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The AI Attack Surface: How Agents Raise the Cyber Stakes</title>
+      <link>https://www.darkreading.com/application-security/ai-attack-surface-agents-cyber-stakes</link>
+      <description>Researcher shows how agentic AI is vulnerable to hijacking to subvert an agent&amp;apos;s goals and how agent interaction can be altered to compromise whole networks.</description>
+      <pubDate>Wed, 19 Nov 2025 21:50:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-attack-surface-agents-cyber-stakes</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PCI SSC Publishes Mobile Payments on COTS (MPoC) Guidance Document</title>
+      <link>https://blog.pcisecuritystandards.org/pci-ssc-publishes-mobile-payments-on-cots-mpoc-guidance-document</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/pci-ssc-publishes-mobile-payments-on-cots-mpoc-guidance-document&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;PCI SSC Publishes Mobile Payments on COTS (MPoC) Guidance Document&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/mpoc-blog-800x444@2x.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;The PCI Security Standards Council (PCI SSC) has published a &amp;lt;em&amp;gt;Mobile Payments on Commercial Off-The-Shelf (MPoC) Guidance Document&amp;lt;/em&amp;gt;, a new resource developed to support consistent interpretation and implementation of the MPoC Standard and Program requirements across the mobile payments ecosystem. &amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 19 Nov 2025 20:20:18 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/pci-ssc-publishes-mobile-payments-on-cots-mpoc-guidance-document</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Guidance</category>
+      <category>Awareness</category>
+      <category>Mobile</category>
+      <category>Mobile - MPOC</category>
     </item>
     <item>
       <title>Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)</title>
@@ -957,66 +1001,6 @@ Erick</description>
 &amp;quot;These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python&amp;apos;s pickle deserialization,&amp;quot;</description>
       <pubDate>Fri, 14 Nov 2025 20:50:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense &amp;amp; Government Targets</title>
-      <link>https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html</link>
-      <description>The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign.
-The activity, detected in early September 2025 and assessed to be ongoing, has been codenamed&amp;amp;nbsp;SpearSpecter by the Israel National Digital Agency (INDA).
-&amp;quot;The</description>
-      <pubDate>Fri, 14 Nov 2025 20:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Europol Leads Major Strike on Global Cybercrime Infrastructure</title>
-      <link>https://www.techrepublic.com/article/news-europol-strike-cybercrime-infrastructure/</link>
-      <description>&amp;lt;p&amp;gt;Operation Endgame targeted the infostealer Rhadamanthys, the Remote Access Trojan VenomRAT, and the botnet ecosystem known as Elysium.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-europol-strike-cybercrime-infrastructure/&amp;quot;&amp;gt;Europol Leads Major Strike on Global Cybercrime Infrastructure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 14 Nov 2025 12:30:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-europol-strike-cybercrime-infrastructure/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>EU</category>
-      <category>European Union</category>
-      <category>Finance</category>
-      <category>Fintech</category>
-      <category>News</category>
-      <category>cryptocurrency</category>
-      <category>cybercrime</category>
-      <category>cybersecurity</category>
-      <category>europe</category>
-      <category>europol</category>
-      <category>malware</category>
-    </item>
-    <item>
-      <title>The Role of Humans in an AI-Powered World</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html</link>
-      <description>&amp;lt;p&amp;gt;As AI capabilities grow, we must delineate the roles that should remain exclusively human. The line seems to be between fact-based decisions and judgment-based decisions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;For example, in a medical context, if an AI was demonstrably better at reading a test result and diagnosing cancer than a human, you would take the AI in a second. You want the more accurate tool. But justice is harder because justice is inherently a human quality in a way that &amp;amp;#8220;Is this tumor cancerous?&amp;amp;#8221; is not. That&amp;amp;#8217;s a fact-based question. &amp;amp;#8220;What&amp;amp;#8217;s the right thing to do here?&amp;amp;#8221; is a human-based question...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 14 Nov 2025 12:00:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>Ransomware&amp;apos;s Fragmentation Reaches a Breaking Point While LockBit Returns</title>
-      <link>https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html</link>
-      <description>Key Takeaways:
-
-85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.
-1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.
-14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.
-LockBit’s reappearance with</description>
-      <pubDate>Fri, 14 Nov 2025 16:07:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
