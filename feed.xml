@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 20 Nov 2025 01:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 06:28:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign</title>
+      <link>https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html</link>
+      <description>Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising campaign dubbed TamperedChef.
+The end goal of the attacks is to establish persistence and deliver JavaScript malware that facilitates remote access and control, per a new report from Acronis Threat Research Unit (TRU). The campaign, per the</description>
+      <pubDate>Thu, 20 Nov 2025 09:36:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Fortinet Woes Continue With Another WAF Zero-Day Flaw</title>
@@ -144,27 +154,6 @@ The vulnerability in question is CVE-2025-11001 (CVSS score: 7.0), which allows 
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>The Cloudflare Outage May Be a Security Roadmap</title>
-      <link>https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/</link>
-      <description>An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet&amp;apos;s top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.</description>
-      <pubDate>Wed, 19 Nov 2025 14:07:03 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Aaron Turner</category>
-      <category>CloudFlare</category>
-      <category>IANS Research</category>
-      <category>Martin Greenfield</category>
-      <category>Matthew Prince</category>
-      <category>Nicole Scott</category>
-      <category>OWASP Top 10</category>
-      <category>Quod Orbis</category>
-      <category>Replica Cyber</category>
-    </item>
-    <item>
       <title>Critical Railway Braking Systems Open to Tampering</title>
       <link>https://www.darkreading.com/ics-ot-security/critical-railway-braking-systems-tampering</link>
       <description>It only takes recycled cans, copper, and cheap gadgets off the Web to trick a train conductor into doing something dangerous.</description>
@@ -262,6 +251,15 @@ The medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS sco
       <guid isPermaLink="true">https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>US Creates &amp;apos;Strike Force&amp;apos; to Take Out SE Asian Scam Centers</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/us-strike-force-southeast-asian-scam-centers</link>
+      <description>The collaborative effort combines multiple federal departments, along with private companies to reduce, if not eliminate, billions lost annually to fraud.</description>
+      <pubDate>Wed, 19 Nov 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/us-strike-force-southeast-asian-scam-centers</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Lookalike Domain Attacks Explained | UpGuard</title>
@@ -847,35 +845,6 @@ The campaign, which is primarily aimed at Chinese-speaking users, employs trojan
       <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/third-party-risk-management</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday, November 2025 Edition</title>
-      <link>https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/</link>
-      <description>Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.</description>
-      <pubDate>Sun, 16 Nov 2025 21:47:14 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Time to Patch</category>
-      <category>Action1</category>
-      <category>Alex Vovk</category>
-      <category>Azure Monitor Agent</category>
-      <category>Chris Goettl</category>
-      <category>CVE-2025-60274</category>
-      <category>CVE-2025-62199</category>
-      <category>CVE-2025-62215</category>
-      <category>GitHub Copilot</category>
-      <category>Ivanti</category>
-      <category>Johannes Ullrich</category>
-      <category>KB5071959</category>
-      <category>Microsoft Patch Tuesday November 2025</category>
-      <category>Nick Carroll</category>
-      <category>Nightwing</category>
-      <category>Office</category>
-      <category>SANS Technology Institute</category>
-      <category>Sharepoint</category>
-      <category>SQL Server</category>
-      <category>Visual Studio</category>
     </item>
     <item>
       <title>RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet</title>
