@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 21 Nov 2025 12:38:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 18:25:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,52 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cybercriminals Exploit Browser Push Notifications to Deliver Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/browser-push-notifications-deliver/</link>
+      <description>Researchers at BlackFrog have uncovered Matrix Push C2, a malicious command-and-control system that abuses web browser push notifications to deliver malware</description>
+      <pubDate>Fri, 21 Nov 2025 15:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/browser-push-notifications-deliver/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation</title>
+      <link>https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html</link>
+      <description>Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.
+The vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First</description>
+      <pubDate>Fri, 21 Nov 2025 21:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?</title>
+      <link>https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-</link>
+      <description>Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise.</description>
+      <pubDate>Fri, 21 Nov 2025 15:02:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-</guid>
+      <dc:creator>Joan Goodchild</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Switching to Offense: US Makes Cyber Strategy Changes</title>
+      <link>https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes</link>
+      <description>The US national cyber director describes the next cyber strategy as focusing &amp;amp;quot;on shaping adversary behavior,&amp;amp;quot; adding consequences and aggressive response.</description>
+      <pubDate>Fri, 21 Nov 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security</title>
+      <link>https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html</link>
+      <description>In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple&amp;apos;s equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.
+The cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand</description>
+      <pubDate>Fri, 21 Nov 2025 18:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Solving Human Risk: Close the Visibility Gap | UpGuard</title>
@@ -108,9 +154,18 @@ The cloud services firm said it has taken the step of revoking all active access
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Chinese APT Infects Routers to Hijack Software Updates</title>
+      <title>Securing the Win: What Cybersecurity Can Learn From the Paddock</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock</link>
+      <description>A Formula 1 pit crew demonstrates the basic principles of how modern security teams should work.</description>
+      <pubDate>Thu, 20 Nov 2025 23:23:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock</guid>
+      <dc:creator>Dave Lewis</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China&amp;apos;s &amp;apos;PlushDaemon&amp;apos; Hackers Infect Routers to Hijack Software Updates</title>
       <link>https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates</link>
-      <description>A unique take on the software update gambit has allowed &amp;amp;quot;PlushDaemon&amp;amp;quot; to evade attention as it mostly targets Chinese organizations.</description>
+      <description>A unique take on the software update gambit has allowed Beijing&amp;apos;s state-sponsored advanced persistent threat (APT) to evade attention as it mostly targets Chinese organizations.</description>
       <pubDate>Thu, 20 Nov 2025 21:20:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
@@ -678,14 +733,6 @@ Push Security, in a report shared with The Hacker News, said it observed the use
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>CISA 2015 Receives Extension, Offering Brief Relief for Cyber Information Sharing</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-2015-receives-extension/</link>
-      <description>One US cybersecurity leader described the short-term extension of the Cybersecurity Information Sharing Act as a “temporary patch” and called for a long-term solution</description>
-      <pubDate>Tue, 18 Nov 2025 16:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-2015-receives-extension/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year</title>
       <link>https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html</link>
       <description>Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging platform&amp;apos;s network protocol.
@@ -972,46 +1019,6 @@ The campaign, which is primarily aimed at Chinese-speaking users, employs trojan
       <description>Learn about the most important cybersecurity laws and regulations in the UK.</description>
       <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-laws-regulations-uk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What Is an Identity Breach? Recognizing Early Signs &amp;amp; Types | UpGuard</title>
-      <link>https://www.upguard.com/blog/identity-breach</link>
-      <description>Find out what an identity breach is and how to recognize early warning signs of identity theft.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/identity-breach</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>5 Ways Tech Companies Can Prevent Data Breaches | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-tech-companies-can-prevent-data-breaches</link>
-      <description>Learn why the tech industry is a high-risk data breach target and how effective security policies can drive data protection across the supply chain.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-tech-companies-can-prevent-data-breaches</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>6 Ways Finance Companies Can Prevent Data Breaches | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-finance-companies-can-prevent-data-breaches</link>
-      <description>Learn how finance companies can prevent data breaches with robust security measures.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-finance-companies-can-prevent-data-breaches</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Perform a Cybersecurity Audit: A 3-Step Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-perform-a-cybersecurity-audit</link>
-      <description>Learn how to conduct an effective cybersecurity audit to manage cyber risk effectively.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-perform-a-cybersecurity-audit</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Key Metrics for Tracking PCI DSS Compliance in 2025 | UpGuard</title>
-      <link>https://www.upguard.com/blog/metrics-for-tracking-pci-dss-compliance</link>
-      <description>Monitoring these key metrics will help you track your PCI DSS compliance efforts.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/metrics-for-tracking-pci-dss-compliance</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
