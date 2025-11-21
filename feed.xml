@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 20 Nov 2025 18:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 01:25:08 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,6 +17,58 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Attack Surface Discovery: A Quick Overview | UpGuard</title>
+      <link>https://www.upguard.com/blog/attack-surface-discovery-overview</link>
+      <description>Explore how attack surface discovery works, what tools help identify hidden risks, and how security teams can monitor and secure complex environments in re</description>
+      <pubDate>Fri, 21 Nov 2025 01:04:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/attack-surface-discovery-overview</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Chinese APT Infects Routers to Hijack Software Updates</title>
+      <link>https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates</link>
+      <description>A unique take on the software update gambit has allowed &amp;amp;quot;PlushDaemon&amp;amp;quot; to evade attention as it mostly targets Chinese organizations.</description>
+      <pubDate>Thu, 20 Nov 2025 21:20:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;Matrix Push&amp;apos; C2 Tool Hijacks Browser Notifications</title>
+      <link>https://www.darkreading.com/threat-intelligence/matrix-push-c2-tool-hijacks-browser-notifications-phishing</link>
+      <description>Have you ever given two seconds of thought to a browser notification? No? That&amp;apos;s what hackers bent on phishing are counting on.</description>
+      <pubDate>Thu, 20 Nov 2025 20:44:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/matrix-push-c2-tool-hijacks-browser-notifications-phishing</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Same Old Security Problems: Cyber Training Still Fails Miserably</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/security-problems-cyber-training-fails-miserably</link>
+      <description>Editors from Dark Reading, Cybersecurity Dive, and TechTarget Search Security break down the depressing state of cybersecurity awareness campaigns and how organizations can overcome basic struggles with password hygiene and phishing attacks.</description>
+      <pubDate>Thu, 20 Nov 2025 20:18:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/security-problems-cyber-training-fails-miserably</guid>
+      <dc:creator>Tara Seals</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Mozilla Says It’s Finally Done With Two-Faced Onerep</title>
+      <link>https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/</link>
+      <description>In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep&amp;apos;s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.</description>
+      <pubDate>Thu, 20 Nov 2025 19:06:51 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Dimitiri Shelest</category>
+      <category>firefox</category>
+      <category>Monitor Plus</category>
+      <category>Mozilla</category>
+      <category>Nuwber</category>
+      <category>OneRep</category>
+    </item>
+    <item>
       <title>ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet</title>
       <link>https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html</link>
       <description>Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet.
@@ -25,15 +77,6 @@ The activity, codenamed ShadowRay 2.0, is an evolution of a prior wave that was 
       <guid isPermaLink="true">https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>‘Matrix Push’ C2 Tool Hijacks Browser Notifications</title>
-      <link>https://www.darkreading.com/threat-intelligence/matrix-push-c2-tool-hijacks-browser-notifications-phishing</link>
-      <description>Have you ever given two seconds of thought to a browser notification? No? That&amp;apos;s what hackers bent on phishing are counting on.</description>
-      <pubDate>Thu, 20 Nov 2025 17:04:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/matrix-push-c2-tool-hijacks-browser-notifications-phishing</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows</title>
@@ -949,38 +992,6 @@ The campaign, which is primarily aimed at Chinese-speaking users, employs trojan
       <description>If you must use a USB flash drive for data storage (not recommended), there are ways to improve your data security. Learn how to secure your thumb drive.</description>
       <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/secure-sensitive-data-on-a-usb-flash-drive</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Meet Third-Party Risk Requirements of NIST 800-161 | UpGuard</title>
-      <link>https://www.upguard.com/blog/third-party-risk-requirements-nist-800-161</link>
-      <description>Learn how to comply with the third-party risk requirements of NIST 800-161</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/third-party-risk-requirements-nist-800-161</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Cyber Risk Quantification? Definition + Calculation Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-cyber-risk-quantification</link>
-      <description>CRQ could help you prioritize risks that are most detrimental to your security posture.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-cyber-risk-quantification</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What Is DORA Compliance? | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-the-digital-operational-resilience-act</link>
-      <description>Learn what the Digital Operational Resilience Act (DORA) means for your organization. See key requirements, implementation steps, and tools for compliance.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-the-digital-operational-resilience-act</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Third-Party Risk Management Guide for 2025 | UpGuard</title>
-      <link>https://www.upguard.com/blog/third-party-risk-management</link>
-      <description>Learn how to build and scale your third-party risk management program with expert guidance and a practical implementation checklist to minimize risk.</description>
-      <pubDate>Mon, 17 Nov 2025 00:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/third-party-risk-management</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
