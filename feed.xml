@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 22 Nov 2025 06:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 12:34:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,27 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks</title>
+      <link>https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html</link>
+      <description>Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.
+&amp;quot;This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,&amp;quot; Blackfog researcher Brenda Robb said in a Thursday report.
+In</description>
+      <pubDate>Sat, 22 Nov 2025 12:17:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability</title>
+      <link>https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated</description>
+      <pubDate>Sat, 22 Nov 2025 12:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Friday Squid Blogging: New “Squid” Sneaker</title>
@@ -1015,26 +1036,6 @@ LinkedIn in particular has become a hotbed for phishing attacks, and for good re
       <guid isPermaLink="true">https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT</title>
-      <link>https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html</link>
-      <description>The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.
-The campaign, which is primarily aimed at Chinese-speaking users, employs trojanized NSIS installers masquerading as legitimate like Google Chrome and Microsoft Teams, according to Elastic Security Labs.
-&amp;quot;The</description>
-      <pubDate>Mon, 17 Nov 2025 16:50:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>What if your romantic AI chatbot can’t keep a secret?</title>
-      <link>https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/</link>
-      <description>Does your chatbot know too much? Here&amp;apos;s why you should think twice before you tell your AI companion everything.</description>
-      <pubDate>Mon, 17 Nov 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Privacy</category>
     </item>
   </channel>
 </rss>
