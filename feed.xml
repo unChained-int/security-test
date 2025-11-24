@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 24 Nov 2025 06:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 12:40:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,61 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>IACR Nullifies Election Because of Lost Decryption Key</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html</link>
+      <description>&amp;lt;p&amp;gt;The International Association of Cryptologic Research&amp;amp;#8212;the academic cryptography association that&amp;amp;#8217;s been putting conferences like Crypto (back when &amp;amp;#8220;crypto&amp;amp;#8221; meant &amp;amp;#8220;cryptography&amp;amp;#8221;) and Eurocrypt since the 1980s&amp;amp;#8212;had to &amp;lt;a href=&amp;quot;https://www.iacr.org/news/item/27138&amp;quot;&amp;gt;nullify&amp;lt;/a&amp;gt; an online election when trustee Moti Yung lost his decryption key.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;For this election and in accordance with the bylaws of the IACR, the three members of the IACR 2025 Election Committee acted as independent trustees, each holding a portion of the cryptographic key material required to jointly decrypt the results. This aspect of Helios&amp;amp;#8217; design ensures that no two trustees could collude to determine the outcome of an election or the contents of individual votes on their own: all trustees must provide their decryption shares...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 24 Nov 2025 12:03:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+    </item>
+    <item>
+      <title>Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs</title>
+      <link>https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html</link>
+      <description>New research from CrowdStrike has revealed that DeepSeek&amp;apos;s artificial intelligence (AI) reasoning model DeepSeek-R1 produces more security vulnerabilities in response to prompts that contain topics deemed politically sensitive by China.
+&amp;quot;We found that when DeepSeek-R1 receives prompts containing topics the Chinese Communist Party (CCP) likely considers politically sensitive, the likelihood of it</description>
+      <pubDate>Mon, 24 Nov 2025 16:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Urges Patch of Actively Exploited Flaw in Oracle Identity Manager</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-kev-oracle-identity-manager/</link>
+      <description>The US cybersecurity agency has added the critical flaw to its Known Exploited Vulnerabilities list</description>
+      <pubDate>Mon, 24 Nov 2025 11:07:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-kev-oracle-identity-manager/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Iberia Airlines Notifies Customers of Supply Chain Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/</link>
+      <description>Spanish airline Iberia has begun emailing its customers about a supplier data breach</description>
+      <pubDate>Mon, 24 Nov 2025 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>MoD Launches World’s First Military Gaming Tournament</title>
+      <link>https://www.infosecurity-magazine.com/news/mod-worlds-first-military-gaming/</link>
+      <description>The International Defence Esports Games (IDEG) will help sharpen cyber and battlefield skills for allied soldiers</description>
+      <pubDate>Mon, 24 Nov 2025 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mod-worlds-first-military-gaming/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access</title>
+      <link>https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html</link>
+      <description>A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.
+&amp;quot;The attacker targeted Windows Servers with WSUS enabled, exploiting CVE-2025-59287 for initial access,&amp;quot; AhnLab Security Intelligence Center (ASEC) said in a report published last week. &amp;quot;They then used PowerCat, an open-source</description>
+      <pubDate>Mon, 24 Nov 2025 12:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services</title>
@@ -284,23 +339,6 @@ The cloud services firm said it has taken the step of revoking all active access
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/security-problems-cyber-training-fails-miserably</guid>
       <dc:creator>Tara Seals</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Mozilla Says It’s Finally Done With Two-Faced Onerep</title>
-      <link>https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/</link>
-      <description>In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep&amp;apos;s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.</description>
-      <pubDate>Thu, 20 Nov 2025 19:06:51 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>Dimitiri Shelest</category>
-      <category>firefox</category>
-      <category>Monitor Plus</category>
-      <category>Mozilla</category>
-      <category>Nuwber</category>
-      <category>OneRep</category>
     </item>
     <item>
       <title>ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet</title>
@@ -587,27 +625,6 @@ A recently disclosed security flaw impacting 7-Zip has come</description>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>The Cloudflare Outage May Be a Security Roadmap</title>
-      <link>https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/</link>
-      <description>An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet&amp;apos;s top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.</description>
-      <pubDate>Wed, 19 Nov 2025 14:07:03 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Aaron Turner</category>
-      <category>CloudFlare</category>
-      <category>IANS Research</category>
-      <category>Martin Greenfield</category>
-      <category>Matthew Prince</category>
-      <category>Nicole Scott</category>
-      <category>OWASP Top 10</category>
-      <category>Quod Orbis</category>
-      <category>Replica Cyber</category>
-    </item>
-    <item>
       <title>Critical Railway Braking Systems Open to Tampering</title>
       <link>https://www.darkreading.com/ics-ot-security/critical-railway-braking-systems-tampering</link>
       <description>It only takes recycled cans, copper, and cheap gadgets off the Web to trick a train conductor into doing something dangerous.</description>
@@ -642,14 +659,6 @@ The router hijacking activity has been codenamed Operation WrtHug by SecuritySco
       <category>vulnerabilities</category>
     </item>
     <item>
-      <title>PlushDaemon Hackers Unleash New Malware in China-Aligned Spy Campaigns</title>
-      <link>https://www.infosecurity-magazine.com/news/plushdaemon-new-malware-china-spy/</link>
-      <description>The cyber espionage group uses a previously undocumented network implant to drop two downloaders, LittleDaemon and DaemonLogistics, which deliver a backdoor</description>
-      <pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/plushdaemon-new-malware-china-spy/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software</title>
       <link>https://thehackernews.com/2025/11/application-containment-how-to-use.html</link>
       <description>The challenge facing security leaders is monumental: Securing environments where failure is not an option. Reliance on traditional security postures, such as Endpoint Detection and Response (EDR) to chase threats after they have already entered the network, is fundamentally risky and contributes significantly to the half-trillion-dollar annual cost of cybercrime.
@@ -658,14 +667,6 @@ Zero Trust fundamentally shifts</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/application-containment-how-to-use.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>China-Linked Operation “WrtHug” Hijacks Thousands of ASUS Routers</title>
-      <link>https://www.infosecurity-magazine.com/news/chinal-operation-wrthug-thousands/</link>
-      <description>SecurityScorecard has revealed a new Chinese campaign targeting thousands of ASUS routers globally</description>
-      <pubDate>Wed, 19 Nov 2025 10:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinal-operation-wrthug-thousands/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates</title>
@@ -695,14 +696,6 @@ The second-order prompt injection, according to AppOmni, makes use of Now Assist
       <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>ESET research</category>
-    </item>
-    <item>
-      <title>Half of Ransomware Access Due to Hijacked VPN Credentials</title>
-      <link>https://www.infosecurity-magazine.com/news/half-ransomware-access-hijacked/</link>
-      <description>Beazley Security data finds the top cause of initial access for ransomware in Q3 was compromised VPN credentials</description>
-      <pubDate>Wed, 19 Nov 2025 09:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/half-ransomware-access-hijacked/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild</title>
@@ -1023,19 +1016,6 @@ It’s not just about hacking anymore. Criminals are building systems to make mo
       <guid isPermaLink="true">https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>More Prompt&amp;amp;#124;&amp;amp;#124;GTFO</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html</link>
-      <description>&amp;lt;p&amp;gt;The next three in &amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html&amp;quot;&amp;gt;this series&amp;lt;/a&amp;gt; on online events highlighting interesting uses of AI in cybersecurity are online: &amp;lt;a href=&amp;quot;https://youtube.com/playlist?list=PLXz1MhBqAGJwkLpTxQFpe4hu4sBCuUGuN&amp;amp;#038;si=cETRhpsER5rN-rOo&amp;quot;&amp;gt;#4&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://youtube.com/playlist?list=PLXz1MhBqAGJw-pySlsaAyuMv1OQKsbVtR&amp;amp;#038;si=QvqqsmJbsbCetVWi&amp;quot;&amp;gt;#5&amp;lt;/a&amp;gt;, and &amp;lt;a href=&amp;quot;https://youtube.com/playlist?list=PLXz1MhBqAGJw9nmtpC7USh-s9Ku6KiFCf&amp;amp;#038;si=FRNSy7ZMAvzu6x2F&amp;quot;&amp;gt;#6&amp;lt;/a&amp;gt;. Well worth watching.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 17 Nov 2025 12:05:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>cybersecurity</category>
-      <category>videos</category>
     </item>
   </channel>
 </rss>
