@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 24 Nov 2025 12:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 18:29:45 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,6 +17,68 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Request for Comments: PCI Key Management Operations (KMO) v1.0 Standard</title>
+      <link>https://blog.pcisecuritystandards.org/request-for-comments-pci-key-management-operations-kmo-v1.0-standard</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/request-for-comments-pci-key-management-operations-kmo-v1.0-standard&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Request for Comments: PCI Key Management Operations (KMO) v1.0 Standard&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/RFC-kmo@2x.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;From 24 November to 9 January, eligible PCI SSC stakeholders are invited to review and provide feedback on the draft PCI Key Management Operations (KMO) v1.0 Standard during a 45-day request for comments (RFC) period. &amp;amp;nbsp; &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 24 Nov 2025 18:09:32 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/request-for-comments-pci-key-management-operations-kmo-v1.0-standard</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Participation</category>
+      <category>Request for Comments</category>
+      <category>Key Management Operations KMO</category>
+    </item>
+    <item>
+      <title>New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions</title>
+      <link>https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html</link>
+      <description>Cybersecurity researchers have discovered five vulnerabilities in Fluent Bit, an open-source and lightweight telemetry agent, that could be chained to compromise and take over cloud infrastructures.
+The security defects &amp;quot;allow attackers to bypass authentication, perform path traversal, achieve remote code execution, cause denial-of-service conditions, and manipulate tags,&amp;quot; Oligo Security said in</description>
+      <pubDate>Mon, 24 Nov 2025 20:33:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Flaws Expose Risks in Fluent Bit Logging Agent</title>
+      <link>https://www.infosecurity-magazine.com/news/flaws-expose-risks-fluent-bit/</link>
+      <description>Critical flaws in Fluent Bit threaten telemetry across platforms according to an advisory published by Oligo Security researchers</description>
+      <pubDate>Mon, 24 Nov 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/flaws-expose-risks-fluent-bit/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Russian-linked Malware Campaign Hides in Blender 3D Files</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-malware-blender-3d-files/</link>
+      <description>Morphisec has observed a new operation embedding StealC V2 malware in Blender project files, targeting users via 3D assets and launching a multi-stage infection chain</description>
+      <pubDate>Mon, 24 Nov 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-malware-blender-3d-files/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft</title>
+      <link>https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html</link>
+      <description>Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that&amp;apos;s reminiscent of the Shai-Hulud attack.
+The new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, Step Security, and Wiz.&amp;amp;nbsp;The trojanized npm packages were uploaded to</description>
+      <pubDate>Mon, 24 Nov 2025 18:33:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach &amp;amp; More</title>
+      <link>https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html</link>
+      <description>This week saw a lot of new cyber trouble. Hackers hit Fortinet and Chrome with new 0-day bugs. They also broke into supply chains and SaaS tools. Many hid inside trusted apps, browser alerts, and software updates.
+Big firms like Microsoft, Salesforce, and Google had to react fast — stopping DDoS attacks, blocking bad links, and fixing live flaws. Reports also showed how fast fake news, AI</description>
+      <pubDate>Mon, 24 Nov 2025 18:02:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>IACR Nullifies Election Because of Lost Decryption Key</title>
       <link>https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html</link>
       <description>&amp;lt;p&amp;gt;The International Association of Cryptologic Research&amp;amp;#8212;the academic cryptography association that&amp;amp;#8217;s been putting conferences like Crypto (back when &amp;amp;#8220;crypto&amp;amp;#8221; meant &amp;amp;#8220;cryptography&amp;amp;#8221;) and Eurocrypt since the 1980s&amp;amp;#8212;had to &amp;lt;a href=&amp;quot;https://www.iacr.org/news/item/27138&amp;quot;&amp;gt;nullify&amp;lt;/a&amp;gt; an online election when trustee Moti Yung lost his decryption key.&amp;lt;/p&amp;gt;
@@ -26,6 +88,10 @@
       <dc:creator>Bruce Schneier</dc:creator>
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
+      <category>encryption</category>
+      <category>keys</category>
+      <category>operational security</category>
+      <category>voting</category>
     </item>
     <item>
       <title>Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs</title>
@@ -341,6 +407,23 @@ The cloud services firm said it has taken the step of revoking all active access
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Mozilla Says It’s Finally Done With Two-Faced Onerep</title>
+      <link>https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/</link>
+      <description>In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep&amp;apos;s founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.</description>
+      <pubDate>Thu, 20 Nov 2025 19:06:51 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Dimitiri Shelest</category>
+      <category>firefox</category>
+      <category>Monitor Plus</category>
+      <category>Mozilla</category>
+      <category>Nuwber</category>
+      <category>OneRep</category>
+    </item>
+    <item>
       <title>ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet</title>
       <link>https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html</link>
       <description>Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet.
@@ -553,14 +636,6 @@ A recently disclosed security flaw impacting 7-Zip has come</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Europol Operation Disrupts $55m in Cryptocurrency For Piracy</title>
-      <link>https://www.infosecurity-magazine.com/news/europol-disrupts-cryptocurrency/</link>
-      <description>Europe-wide Cyber-Patrol Week targeted IP violations, flagging 69 sites and disrupting $55m in crypto services</description>
-      <pubDate>Wed, 19 Nov 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/europol-disrupts-cryptocurrency/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Cloudflare Blames Outage on Internal Configuration Error</title>
       <link>https://www.darkreading.com/cyber-risk/cloudflare-blames-outage-internal-error</link>
       <description>Initially though to be a DDoS attack, the incident was actually due to a routine change in permissions that caused widespread software failure.</description>
@@ -609,20 +684,33 @@ A recently disclosed security flaw impacting 7-Zip has come</description>
       <category>innovation</category>
     </item>
     <item>
-      <title>Eternidade Stealer Trojan Fuels Aggressive Brazil Cybercrime</title>
-      <link>https://www.infosecurity-magazine.com/news/eternidade-stealer-trojan-brazil/</link>
-      <description>Trustwave SpiderLabs has observed new banking Trojan Eternidade Stealer targeting Brazil using WhatsApp for propagation and data theft</description>
-      <pubDate>Wed, 19 Nov 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/eternidade-stealer-trojan-brazil/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Trust Exchange Paid: Scaling Security Communication | UpGuard</title>
       <link>https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</link>
       <description>Trust Exchange Paid automates due diligence, featuring AI autofills, custom pages, watermarked PDFs, and upcoming multiple trust pages. Learn more here.</description>
       <pubDate>Wed, 19 Nov 2025 14:56:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The Cloudflare Outage May Be a Security Roadmap</title>
+      <link>https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/</link>
+      <description>An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet&amp;apos;s top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.</description>
+      <pubDate>Wed, 19 Nov 2025 14:07:03 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Aaron Turner</category>
+      <category>CloudFlare</category>
+      <category>IANS Research</category>
+      <category>Martin Greenfield</category>
+      <category>Matthew Prince</category>
+      <category>Nicole Scott</category>
+      <category>OWASP Top 10</category>
+      <category>Quod Orbis</category>
+      <category>Replica Cyber</category>
     </item>
     <item>
       <title>Critical Railway Braking Systems Open to Tampering</title>
@@ -957,63 +1045,6 @@ The vulnerability in question is CVE-2025-13223 (CVSS score: 8.8), a type confus
 &amp;quot;Type</description>
       <pubDate>Tue, 18 Nov 2025 10:14:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Startup Mate Launches With AI-Driven Security Operations Platform</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/new-startup-mate-launches-with-ai-driven-security-operations-platform</link>
-      <description>Security teams can combat alert fatigue, high rates of false positives, and reduce time spent on manual data collection with Mate&amp;apos;s SOC platform, which utilizes AI agents to autonomously investigate and resolve alerts.</description>
-      <pubDate>Mon, 17 Nov 2025 23:42:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/new-startup-mate-launches-with-ai-driven-security-operations-platform</guid>
-      <dc:creator>Dark Reading Staff</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical Fortinet FortiWeb WAF Bug Exploited in the Wild</title>
-      <link>https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild</link>
-      <description>The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.</description>
-      <pubDate>Mon, 17 Nov 2025 21:10:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>US Citizens Plead Guilty to Aiding North Korean IT Worker Campaigns</title>
-      <link>https://www.darkreading.com/remote-workforce/us-citizens-plead-guilty-north-korean-it-worker</link>
-      <description>Four individuals admitted to assisting foreign IT workers in gaining employment at US companies by providing false identities and remote access to employer-owned laptops.</description>
-      <pubDate>Mon, 17 Nov 2025 20:50:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/us-citizens-plead-guilty-north-korean-it-worker</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT</title>
-      <link>https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html</link>
-      <description>Cybersecurity researchers have discovered malware campaigns using the now-prevalent ClickFix social engineering tactic to deploy Amatera Stealer and NetSupport RAT.
-The activity, observed this month, is being tracked by eSentire under the moniker EVALUSION.
-First spotted in June 2025, Amatera is assessed to be an evolution of ACR (short for &amp;quot;AcridRain&amp;quot;) Stealer, which was available under the</description>
-      <pubDate>Mon, 17 Nov 2025 22:23:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cursor Issue Paves Way for Credential-Stealing Attacks</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/cursor-issue-credential-stealing-attacks</link>
-      <description>Researchers discovered a security weakness in the AI-powered coding tool that allows malicious MCP server to hijack Cursor&amp;apos;s internal browser.</description>
-      <pubDate>Mon, 17 Nov 2025 15:42:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/cursor-issue-credential-stealing-attacks</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Fortinet Exploited, China&amp;apos;s AI Hacks, PhaaS Empire Falls &amp;amp; More</title>
-      <link>https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html</link>
-      <description>This week showed just how fast things can go wrong when no one’s watching. Some attacks were silent and sneaky. Others used tools we trust every day — like AI, VPNs, or app stores — to cause damage without setting off alarms.
-It’s not just about hacking anymore. Criminals are building systems to make money, spy, or spread malware like it’s a business. And in some cases, they’re using the same</description>
-      <pubDate>Mon, 17 Nov 2025 18:04:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
