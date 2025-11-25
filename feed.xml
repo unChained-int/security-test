@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 24 Nov 2025 18:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 01:26:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,84 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Biggest Data Breaches in US History (Updated 2025) | UpGuard</title>
+      <link>https://www.upguard.com/blog/biggest-data-breaches-us</link>
+      <description>Discover the biggest data breaches ever to occur in US history.</description>
+      <pubDate>Mon, 24 Nov 2025 23:49:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-us</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>ShadowRay 2.0 Turns AI Clusters into Crypto Botnets</title>
+      <link>https://www.darkreading.com/cyber-risk/shadowray-20-ai-clusters-crypto-botnets</link>
+      <description>A threat actor is leveraging a flaw in the Ray framework to hijack AI infrastructure worldwide and distribute a self-propagating cryptomining and data theft botnet.</description>
+      <pubDate>Mon, 24 Nov 2025 22:22:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/shadowray-20-ai-clusters-crypto-botnets</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Flaw in Oracle Identity Manager Under Exploitation</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/critical-flaw-oracle-identity-manager-under-exploitation</link>
+      <description>The exploitation of CVE-2025-61757 follows a breach of Oracle Cloud earlier this year as well as a recent extortion campaign targeting Oracle E-Business Suite customers.</description>
+      <pubDate>Mon, 24 Nov 2025 21:39:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/critical-flaw-oracle-identity-manager-under-exploitation</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Infamous Shai-hulud Worm Resurfaces From the Depths</title>
+      <link>https://www.darkreading.com/application-security/infamous-shai-hulud-worm-resurfaces-from-depths</link>
+      <description>This campaign introduces a new variant that executes malicious code during preinstall, significantly increasing potential exposure in build and runtime environments, researchers said.</description>
+      <pubDate>Mon, 24 Nov 2025 21:17:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/infamous-shai-hulud-worm-resurfaces-from-depths</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Vision Language Models Keep an Eye on Physical Security</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/vision-language-models-keep-an-eye-on-physical-security</link>
+      <description>Advancements in vision language models expanded models reasoning capabilities to help protect employee safety.</description>
+      <pubDate>Mon, 24 Nov 2025 20:10:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/vision-language-models-keep-an-eye-on-physical-security</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Is Your Android TV Streaming Box Part of a Botnet?</title>
+      <link>https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/</link>
+      <description>On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user&amp;apos;s network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.</description>
+      <pubDate>Mon, 24 Nov 2025 18:44:52 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Web Fraud 2.0</category>
+      <category>Amazon</category>
+      <category>ARP poisoning</category>
+      <category>BadBox 2.0 Enterprise</category>
+      <category>BestBuy</category>
+      <category>Censys</category>
+      <category>Electronic Frontier Foundation</category>
+      <category>Federal Bureau of Investigation</category>
+      <category>Grass OpCo (BVI) Ltd</category>
+      <category>Half Space Labs Limited</category>
+      <category>IPidea</category>
+      <category>Lower Tribeca Corp.</category>
+      <category>Netcat</category>
+      <category>Newegg</category>
+      <category>Riley Kilmer</category>
+      <category>Spur</category>
+      <category>Super Media Technology Company Ltd.</category>
+      <category>Superbox</category>
+      <category>SuperCaja</category>
+      <category>Synthient</category>
+      <category>Tcpdump</category>
+      <category>Walmart</category>
+      <category>Wynd Network</category>
     </item>
     <item>
       <title>Request for Comments: PCI Key Management Operations (KMO) v1.0 Standard</title>
@@ -377,6 +455,15 @@ The cloud services firm said it has taken the step of revoking all active access
       <pubDate>Thu, 20 Nov 2025 23:23:05 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock</guid>
       <dc:creator>Dave Lewis</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISOs Get Real About Hiring in the Age of AI</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ciscos-get-real-about-hiring-age-ai</link>
+      <description>Dark Reading Confidential Episode 12: Experts help cyber job seekers get noticed, make an argument for a need to return to the hacker ethos of a bygone era, and have a stark conversation about keeping AI from breaking the sector&amp;apos;s talent pipeline for years to come.</description>
+      <pubDate>Thu, 20 Nov 2025 21:53:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ciscos-get-real-about-hiring-age-ai</guid>
+      <dc:creator>Dark Reading Staff</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -971,80 +1058,6 @@ Even one small mistake—like the wrong person getting access—can lead to big 
 &amp;quot;The campaign leveraged the emerging Tuoni C2 framework, a relatively new, command-and-control (C2) tool (with a free license) that delivers stealthy, in-memory payloads,&amp;quot;</description>
       <pubDate>Tue, 18 Nov 2025 19:30:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks</title>
-      <link>https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html</link>
-      <description>Suspected espionage-driven threat actors from Iran have been observed deploying backdoors like TWOSTROKE and DEEPROOT as part of continued attacks aimed at aerospace, aviation, and defense industries in the Middle East.
-The activity has been attributed by Google-owned Mandiant to a threat cluster tracked as UNC1549 (aka GalaxyGato, Nimbus Manticore, or Subtle Snail), which was first documented</description>
-      <pubDate>Tue, 18 Nov 2025 18:24:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Proofpoint Satori Emerging Threats Intelligence Agent Now Generally Available for Microsoft Security Copilot</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally</link>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 12:02:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-satori-emerging-threats-intelligence-agent-now-generally</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>AI and Voter Engagement</title>
-      <link>https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html</link>
-      <description>&amp;lt;p&amp;gt;Social media has been a familiar, even mundane, part of life for nearly two decades. It can be easy to forget it was not always that way.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;In 2008, social media was just emerging into the mainstream. &amp;lt;a href=&amp;quot;https://thefulcrum.us/media-technology/news-literacy-project&amp;quot;&amp;gt;Facebook&amp;lt;/a&amp;gt; reached &amp;lt;a href=&amp;quot;https://www.cnet.com/culture/facebook-hits-100-million-users/&amp;quot;&amp;gt;100 million users&amp;lt;/a&amp;gt; that summer. And a singular candidate was integrating social media into his political campaign: Barack Obama. His campaign&amp;amp;#8217;s use of social media was so bracingly innovative, so impactful, that it was viewed by journalist &amp;lt;a href=&amp;quot;https://www.technologyreview.com/2008/08/19/219185/how-obama-really-did-it-2/&amp;quot;&amp;gt;David Talbot&amp;lt;/a&amp;gt; and others as the strategy that enabled the first term Senator to win the White House...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 18 Nov 2025 12:01:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>democracy</category>
-      <category>LLM</category>
-      <category>voting</category>
-    </item>
-    <item>
-      <title>Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities</title>
-      <link>https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html</link>
-      <description>Identity security fabric (ISF) is a unified architectural framework that brings together disparate identity capabilities. Through ISF, identity governance and administration (IGA), access management (AM), privileged access management (PAM), and identity threat detection and response (ITDR) are all integrated into a single, cohesive control plane.
-Building on Gartner’s definition of “identity</description>
-      <pubDate>Tue, 18 Nov 2025 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages</title>
-      <link>https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html</link>
-      <description>Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and security researchers to ultimately redirect them to sketchy crypto-themed sites.
-The malicious npm packages, published by a threat actor named &amp;quot;dino_reborn&amp;quot; between September and November 2025, are</description>
-      <pubDate>Tue, 18 Nov 2025 16:07:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet</title>
-      <link>https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html</link>
-      <description>Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).
-The tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of</description>
-      <pubDate>Tue, 18 Nov 2025 13:47:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability</title>
-      <link>https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html</link>
-      <description>Google on Monday released security updates for its Chrome browser to address two security flaws, including one that has come under active exploitation in the wild.
-The vulnerability in question is CVE-2025-13223 (CVSS score: 8.8), a type confusion vulnerability in the V8 JavaScript and WebAssembly engine that could be exploited to achieve arbitrary code execution or program crashes.
-&amp;quot;Type</description>
-      <pubDate>Tue, 18 Nov 2025 10:14:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
