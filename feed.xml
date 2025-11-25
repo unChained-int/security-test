@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Nov 2025 12:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 18:30:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,78 @@
       <description/>
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Advanced Security Isn&amp;apos;t Stopping Ancient Phishing Tactics</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics</link>
+      <description>New research reveals that sophisticated phishing attacks consistently bypass traditional enterprise security measures.</description>
+      <pubDate>Tue, 25 Nov 2025 22:23:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics</guid>
+      <dc:creator>Kristina Beek</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys</title>
+      <link>https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html</link>
+      <description>New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools like JSONformatter and CodeBeautify that are used to format and validate code.
+Cybersecurity company watchTowr Labs said it captured a dataset of over 80,000 files on these sites, uncovering thousands of</description>
+      <pubDate>Tue, 25 Nov 2025 22:19:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Smishing Triad Impersonation Campaigns Expand Globally</title>
+      <link>https://www.infosecurity-magazine.com/news/smishing-triad-campaigns-expand/</link>
+      <description>A cluster of fraudulent domains impersonating Egyptian providers have been identified linked to Smishing Triad operations</description>
+      <pubDate>Tue, 25 Nov 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/smishing-triad-campaigns-expand/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>With Friends Like These: China Spies on Russian IT Orgs</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-spies-russian-it-orgs</link>
+      <description>State-linked hackers stayed under the radar by using a variety of commercial cloud services for command-and-control communications.</description>
+      <pubDate>Tue, 25 Nov 2025 15:59:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-spies-russian-it-orgs</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>As Gen Z Enters Cybersecurity, Jury Is Out on AI&amp;apos;s Impact</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/gen-z-cybersecurity-jury-out-ai-impact</link>
+      <description>Despite possibly supplanting some young analysts, one Gen Z cybersecurity specialist sees AI helping teach those willing to learn and removing drudge work.</description>
+      <pubDate>Tue, 25 Nov 2025 15:15:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/gen-z-cybersecurity-jury-out-ai-impact</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers</title>
+      <link>https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html</link>
+      <description>Cybersecurity researchers are calling attention to a new campaign that&amp;apos;s leveraging a combination of ClickFix lures and fake adult websites to deceive users into running malicious commands under the guise of a &amp;quot;critical&amp;quot; Windows security update.
+&amp;quot;Campaign leverages fake adult websites (xHamster, PornHub clones) as its phishing mechanism, likely distributed via malvertising,&amp;quot; Acronis said in a</description>
+      <pubDate>Tue, 25 Nov 2025 19:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New FlexibleFerret Malware Chain Targets macOS With Go Backdoor</title>
+      <link>https://www.infosecurity-magazine.com/news/flexibleferret-malware-macos-go/</link>
+      <description>A new macOS malware chain using staged scripts and a Go-based backdoor has been attributed to FlexibleFerret, designed to steal credentials and maintain system access</description>
+      <pubDate>Tue, 25 Nov 2025 13:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/flexibleferret-malware-macos-go/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>&amp;apos;JackFix&amp;apos; Attack Circumvents ClickFix Mitigations</title>
+      <link>https://www.darkreading.com/threat-intelligence/jackfix-attack-clickfix-mitigations</link>
+      <description>A new ClickFix variant ratchets up the psychological pressure to 100 and addresses some technical mitigations to classic ClickFix attacks.</description>
+      <pubDate>Tue, 25 Nov 2025 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/jackfix-attack-clickfix-mitigations</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -316,6 +388,15 @@ Big firms like Microsoft, Salesforce, and Google had to react fast — stopping 
       <pubDate>Mon, 24 Nov 2025 10:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>MDR is the answer – now, what’s the question?</title>
+      <link>https://www.welivesecurity.com/en/business-security/mdr-answer-now-whats-question/</link>
+      <description>Why your business needs the best-of-breed combination of technology and human expertise</description>
+      <pubDate>Mon, 24 Nov 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/mdr-answer-now-whats-question/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
     </item>
     <item>
       <title>MoD Launches World’s First Military Gaming Tournament</title>
@@ -652,22 +733,6 @@ There are currently no details on how the botnet malware is propagated;</descrip
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>UNC2891 Money Mule Network Reveals Full Scope of ATM Fraud Operation</title>
-      <link>https://www.infosecurity-magazine.com/news/unc2891-money-mule-network-atm/</link>
-      <description>A multi-year ATM fraud campaign by UNC2891 targeted two Indonesian banks, cloning cards, recruiting money mules and coordinating cash withdrawals</description>
-      <pubDate>Thu, 20 Nov 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/unc2891-money-mule-network-atm/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>CISA Issues New Guidance on Bulletproof Hosting Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-guidance-bulletproof-hosting/</link>
-      <description>CISA launches guide to combat cybercrime via bulletproof hosting, recommending measures for ISPs</description>
-      <pubDate>Thu, 20 Nov 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-guidance-bulletproof-hosting/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>WhatsApp &amp;apos;Eternidade&amp;apos; Trojan Self-Propagates Through Brazil</title>
       <link>https://www.darkreading.com/threat-intelligence/whatsapp-eternidade-trojan-self-propagates-brazil</link>
       <description>The infostealer specifically targets Brazilian Portuguese speakers and combines malware designed to phish banking credentials and steal data, a worm, and some uniquely Brazilian quirks.</description>
@@ -995,65 +1060,6 @@ The medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS sco
       <pubDate>Tue, 18 Nov 2025 23:28:11 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/lookalike-domain-attacks-explained</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Uncovering the Shadow AI Paradox | UpGuard</title>
-      <link>https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</link>
-      <description>Our research into the motives of shadow AI user led to surprising discoveries.</description>
-      <pubDate>Tue, 18 Nov 2025 23:27:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Supply Chain Cybersecurity Strategies for Modern Business | UpGuard</title>
-      <link>https://www.upguard.com/blog/supply-chain-cybersecurity-strategies-modern-business</link>
-      <description>Strengthen your supply chain cybersecurity with actionable steps and best practices for reducing risks across all vendor networks. Read more here.</description>
-      <pubDate>Tue, 18 Nov 2025 21:32:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/supply-chain-cybersecurity-strategies-modern-business</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Risk Automations: The Shift From Catch-Up to Command | UpGuard</title>
-      <link>https://www.upguard.com/blog/risk-automations-shift-catch-up-to-command</link>
-      <description>Connect intelligence to system execution with Risk Automations, your new resolution layer for risk. Reduce remediation from hours to seconds - read more.</description>
-      <pubDate>Tue, 18 Nov 2025 21:32:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/risk-automations-shift-catch-up-to-command</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Solving CISOs’ Toughest Security Challenges with CRPM | UpGuard</title>
-      <link>https://www.upguard.com/blog/solving-toughest-security-challenges-crpm</link>
-      <description>Feeling the pressure of leading your security team? You’re not alone. Learn how CRPM reduces risk and automates compliance to prove your security posture.</description>
-      <pubDate>Tue, 18 Nov 2025 21:32:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/solving-toughest-security-challenges-crpm</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/cloud-iot-devices-takeover-firewalls</link>
-      <description>IoT devices can be compromised, thanks to gaps in cloud management interfaces for firewalls and routers, even if they&amp;apos;re protected by security software or not online.</description>
-      <pubDate>Tue, 18 Nov 2025 21:29:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cloud-iot-devices-takeover-firewalls</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Can a Global, Decentralized System Save CVE Data?</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/can-global-decentralized-system-save-cve-data</link>
-      <description>As vulnerabilities in the Common Vulnerabilities and Exposures ecosystem pile up, one Black Hat Europe presenter hopes for a global, distributed alternative.</description>
-      <pubDate>Tue, 18 Nov 2025 20:42:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/can-global-decentralized-system-save-cve-data</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/iran-nexus-threat-actor-unc1549-takes-aim-aerospace</link>
-      <description>Researchers say Israel remains a central focus, with UNC1549 targeting aerospace and defense entities in the US, the UAE, Qatar, Spain, and Saudi Arabia.</description>
-      <pubDate>Tue, 18 Nov 2025 20:24:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/iran-nexus-threat-actor-unc1549-takes-aim-aerospace</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
