@@ -5,16 +5,119 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 26 Nov 2025 12:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 18:24:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[Dark Reading Virtual Event] Cybersecurity Outlook 2026</title>
-      <link>https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</link>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
+      <title>Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets</title>
+      <link>https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html</link>
+      <description>The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.
+The Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the &amp;quot;setup_bun.js&amp;quot; loader and the main payload &amp;quot;bun_environment.js.&amp;quot;
+&amp;quot;</description>
+      <pubDate>Wed, 26 Nov 2025 23:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’</title>
+      <link>https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/</link>
+      <description>A prolific cybercriminal group that calls itself &amp;quot;Scattered LAPSUS$ Hunters&amp;quot; made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for &amp;quot;Rey,&amp;quot; the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.</description>
+      <pubDate>Wed, 26 Nov 2025 17:22:36 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Breadcrumbs</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Ransomware</category>
+      <category>BreachForums</category>
+      <category>CrowdStrike</category>
+      <category>Cyb3r Drag0nz Team</category>
+      <category>cybero5tdev@proton.me</category>
+      <category>Disney/Hulu</category>
+      <category>FedEx</category>
+      <category>Flashpoint</category>
+      <category>Hellcat</category>
+      <category>Hikki-Chan</category>
+      <category>LAPSUS$</category>
+      <category>o5tdev</category>
+      <category>Orange Romania</category>
+      <category>Saif Al-Din Khader</category>
+      <category>Scattered LAPSUS$ Hunters</category>
+      <category>Scattered Spider</category>
+      <category>Schneider Electric</category>
+      <category>SentinelOne</category>
+      <category>ShinyHunters</category>
+      <category>ShinySp1d3r</category>
+      <category>SpyCloud</category>
+      <category>Telefonica</category>
+      <category>Toyota</category>
+      <category>U.S. Centers for Disease Control and Prevention</category>
+      <category>ups</category>
+      <category>wristmug</category>
+      <category>Zaid Khader</category>
+    </item>
+    <item>
+      <title>Cyber-Attack Disrupts OnSolve CodeRED Emergency Notification System</title>
+      <link>https://www.infosecurity-magazine.com/news/cyberattack-disrupts-onsolve/</link>
+      <description>A cyber-attack claimed to be the resposibility of INC Ransom group and targeting the OnSolve CodeRED platform has disrupted emergency notification and exposed user data across the US</description>
+      <pubDate>Wed, 26 Nov 2025 16:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyberattack-disrupts-onsolve/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>&amp;apos;Dark LLMs&amp;apos; Aid Petty Criminals, But Underwhelm Technically</title>
+      <link>https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals</link>
+      <description>As in the wider world, AI is not quite living up to the hype in the cyber underground. But it&amp;apos;s definitely helping low-level cybercriminals do competent work.</description>
+      <pubDate>Wed, 26 Nov 2025 16:01:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Prompt Injections Loom Large Over ChatGPT&amp;apos;s Atlas Browser</title>
+      <link>https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch</link>
+      <description>It&amp;apos;s the law of unintended consequences: equipping browsers with agentic AI opens the door to an exponential volume of prompt injections.</description>
+      <pubDate>Wed, 26 Nov 2025 15:52:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Enterprises Aren&amp;apos;t Confident They Can Secure Non-Human Identities (NHIs)</title>
+      <link>https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities</link>
+      <description>More than half of organizations surveyed aren&amp;apos;t sure they can secure non-human identities (NHIs), underscoring the lag between the rollout of these identities and the tools to protect them.</description>
+      <pubDate>Wed, 26 Nov 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities</guid>
+      <dc:creator>Don Tait</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>UK Report Proposes Liability For Software Provider Insecurity</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-liability-software-providers/</link>
+      <description>A new report from the UK Business and Trade Committee has called for accountability of software providers for cyber flaws amid rising attack costs</description>
+      <pubDate>Wed, 26 Nov 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-liability-software-providers/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim &amp;apos;Korean Leaks&amp;apos; Data Heist</title>
+      <link>https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html</link>
+      <description>South Korea&amp;apos;s financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.
+&amp;quot;This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)</description>
+      <pubDate>Wed, 26 Nov 2025 20:01:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>FBI Warns of $262M Losses from Account Takeover Fraud in 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-warns-account-takeover-fraud/</link>
+      <description>The FBI reports over $262m in losses from account takeover schemes since January 2025, as cybercriminals impersonate financial institutions to steal data and funds</description>
+      <pubDate>Wed, 26 Nov 2025 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fbi-warns-account-takeover-fraud/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Huawei and Chinese Surveillance</title>
@@ -455,14 +558,6 @@ The security defects &amp;quot;allow attackers to bypass authentication, perform
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Russian-linked Malware Campaign Hides in Blender 3D Files</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-malware-blender-3d-files/</link>
-      <description>Morphisec has observed a new operation embedding StealC V2 malware in Blender project files, targeting users via 3D assets and launching a multi-stage infection chain</description>
-      <pubDate>Mon, 24 Nov 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-malware-blender-3d-files/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft</title>
       <link>https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html</link>
       <description>Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that&amp;apos;s reminiscent of the Shai-Hulud attack.
@@ -506,22 +601,6 @@ Big firms like Microsoft, Salesforce, and Google had to react fast — stopping 
       <guid isPermaLink="true">https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Urges Patch of Actively Exploited Flaw in Oracle Identity Manager</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-kev-oracle-identity-manager/</link>
-      <description>The US cybersecurity agency has added the critical flaw to its Known Exploited Vulnerabilities list</description>
-      <pubDate>Mon, 24 Nov 2025 11:07:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-kev-oracle-identity-manager/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Iberia Airlines Notifies Customers of Supply Chain Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/</link>
-      <description>Spanish airline Iberia has begun emailing its customers about a supplier data breach</description>
-      <pubDate>Mon, 24 Nov 2025 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>MDR is the answer – now, what’s the question?</title>
@@ -981,73 +1060,6 @@ The end goal of the attacks is to establish persistence and deliver JavaScript m
       <category>Awareness</category>
       <category>Mobile</category>
       <category>Mobile - MPOC</category>
-    </item>
-    <item>
-      <title>NHS Warns of PoC Exploit for 7-Zip Symbolic Link–Based RCE Vulnerability</title>
-      <link>https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html</link>
-      <description>Update: The NHS England Digital, in an updated advisory on November 20, 2025, said it has not observed in-the-wild exploitation of CVE-2025-11001, but noted that it&amp;apos;s &amp;quot;aware of a public proof-of-concept exploit.&amp;quot; It has since removed what it said were &amp;quot;erroneous references&amp;quot; to active exploitation.The original story follows below -
-
-A recently disclosed security flaw impacting 7-Zip has come</description>
-      <pubDate>Wed, 19 Nov 2025 21:57:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cloudflare Blames Outage on Internal Configuration Error</title>
-      <link>https://www.darkreading.com/cyber-risk/cloudflare-blames-outage-internal-error</link>
-      <description>Initially though to be a DDoS attack, the incident was actually due to a routine change in permissions that caused widespread software failure.</description>
-      <pubDate>Wed, 19 Nov 2025 15:43:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/cloudflare-blames-outage-internal-error</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices</title>
-      <link>https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidade Stealer as part of attacks targeting users in Brazil.
-&amp;quot;It uses Internet Message Access Protocol (IMAP) to dynamically retrieve command-and-control (C2) addresses, allowing the threat actor to</description>
-      <pubDate>Wed, 19 Nov 2025 21:05:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>EU Unveils ‘Simpler’ Digital Rules and New Business Wallets</title>
-      <link>https://www.techrepublic.com/article/news-eu-digital-rules-2025/</link>
-      <description>&amp;lt;p&amp;gt;The plan is to drastically cut administrative burdens, simplify compliance, and accelerate technological innovation across the European Union. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-eu-digital-rules-2025/&amp;quot;&amp;gt;EU Unveils &amp;amp;#8216;Simpler&amp;amp;#8217; Digital Rules and New Business Wallets&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 19 Nov 2025 15:31:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-eu-digital-rules-2025/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>EU</category>
-      <category>European Union</category>
-      <category>Finance</category>
-      <category>Fintech</category>
-      <category>GDPR</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>News</category>
-      <category>ai</category>
-      <category>artificial intelligence</category>
-      <category>cybersecurity</category>
-      <category>data</category>
-      <category>eu</category>
-      <category>europe</category>
-      <category>fintech</category>
-      <category>innovation</category>
-    </item>
-    <item>
-      <title>Trust Exchange Paid: Scaling Security Communication | UpGuard</title>
-      <link>https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</link>
-      <description>Trust Exchange Paid automates due diligence, featuring AI autofills, custom pages, watermarked PDFs, and upcoming multiple trust pages. Learn more here.</description>
-      <pubDate>Wed, 19 Nov 2025 14:56:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
