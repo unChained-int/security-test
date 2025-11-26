@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 26 Nov 2025 01:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:30:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,25 @@
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Iran Exploits Cyber Domain to Aid Kinetic Strikes</title>
+      <link>https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes</link>
+      <description>The country deploys &amp;amp;quot;cyber-enabled kinetic targeting&amp;amp;quot; prior to — and following — real-world missile attacks against ships and land-based targets.</description>
+      <pubDate>Wed, 26 Nov 2025 05:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams</title>
+      <link>https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html</link>
+      <description>The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or sensitive information to facilitate account takeover (ATO) fraud schemes.
+The activity targets individuals, businesses, and organizations of varied sizes and across sectors, the agency said, adding the fraudulent schemes have led to more than $262</description>
+      <pubDate>Wed, 26 Nov 2025 09:59:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Advanced Security Isn&amp;apos;t Stopping Ancient Phishing Tactics</title>
@@ -42,6 +61,14 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/dprks-flexibleferret-tightens-macos-grip</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Crime Rings Enlist Hackers to Hijack Trucks</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks</link>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 19:47:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
       <title>Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys</title>
@@ -1029,36 +1056,6 @@ Zero Trust fundamentally shifts</description>
 EdgeStepper &amp;quot;redirects all DNS queries to an external, malicious hijacking node, effectively rerouting the traffic from legitimate infrastructure used for software updates to attacker-controlled infrastructure</description>
       <pubDate>Wed, 19 Nov 2025 15:30:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts</title>
-      <link>https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html</link>
-      <description>Malicious actors can exploit default configurations in ServiceNow&amp;apos;s Now Assist generative artificial intelligence (AI) platform and leverage its agentic capabilities to conduct prompt injection attacks.
-The second-order prompt injection, according to AppOmni, makes use of Now Assist&amp;apos;s agent-to-agent discovery to execute unauthorized actions, enabling attackers to copy and exfiltrate sensitive</description>
-      <pubDate>Wed, 19 Nov 2025 15:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PlushDaemon compromises network devices for adversary-in-the-middle attacks</title>
-      <link>https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/</link>
-      <description>ESET researchers have discovered a network implant used by the China-aligned PlushDaemon APT group to perform adversary-in-the-middle attacks</description>
-      <pubDate>Wed, 19 Nov 2025 09:55:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>ESET research</category>
-    </item>
-    <item>
-      <title>Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild</title>
-      <link>https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html</link>
-      <description>Fortinet has warned of a new security flaw in FortiWeb that it said has been exploited in the wild.
-The medium-severity vulnerability, tracked as CVE-2025-58034, carries a CVSS score of 6.7 out of a maximum of 10.0.
-&amp;quot;An Improper Neutralization of Special Elements used in an OS Command (&amp;apos;OS Command Injection&amp;apos;) vulnerability [CWE-78] in FortiWeb may allow an authenticated attacker to execute</description>
-      <pubDate>Wed, 19 Nov 2025 09:50:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
