@@ -5,9 +5,55 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Nov 2025 12:41:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 18:27:10 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FCC Warns of Hackers Hijacking Radio Equipment For False Alerts</title>
+      <link>https://www.infosecurity-magazine.com/news/fcc-hackers-hijacking-radio/</link>
+      <description>Hackers have been hijacking US radio equipment to broadcast false emergency alerts, prompting FCC warnings</description>
+      <pubDate>Thu, 27 Nov 2025 16:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fcc-hackers-hijacking-radio/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Bloody Wolf Threat Actor Expands Activity Across Central Asia</title>
+      <link>https://www.infosecurity-magazine.com/news/bloody-wolf-expands-central-asia/</link>
+      <description>A new Bloody Wolf campaign exploits legitimate remote-administration software for cyber-attacks on government targets in Central Asia</description>
+      <pubDate>Thu, 27 Nov 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bloody-wolf-expands-central-asia/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update</title>
+      <link>https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html</link>
+      <description>Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now.
+The update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at &amp;quot;login.microsoftonline[.]com&amp;quot; by only letting scripts from trusted Microsoft domains run.
+&amp;quot;This update strengthens security and adds an extra</description>
+      <pubDate>Thu, 27 Nov 2025 21:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools</title>
+      <link>https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html</link>
+      <description>If you&amp;apos;re using community tools like Chocolatey or Winget to keep systems updated, you&amp;apos;re not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...
+The very tools that make your job easier might also be the reason your systems are at risk.
+These tools are run by the community. That means anyone can add or update packages. Some</description>
+      <pubDate>Thu, 27 Nov 2025 20:29:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Asahi Confirms 1.5 Million Customers Affected in Major Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/asahi-15-million-customers/</link>
+      <description>Almost two million people may have seen their personal data exposed following a large-scale cyberattack that hit Asahi in September 2025</description>
+      <pubDate>Thu, 27 Nov 2025 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/asahi-15-million-customers/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>OpenAI Warns of Mixpanel Data Breach Impacting API Users</title>
       <link>https://www.infosecurity-magazine.com/news/openai-warns-mixpanel-data-breach/</link>
@@ -63,7 +109,7 @@ Criminals are getting creative — using smart tricks to steal data, sound real,
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Key provisions of the UK Cyber Resilience Bill Revealed</title>
+      <title>Key Provisions of the UK Cyber Resilience Bill Revealed</title>
       <link>https://www.infosecurity-magazine.com/news/key-provisions-uk-cyber-resilience/</link>
       <description>Shona Lester, head of the Cyber Security and Resilience Bill team within the UK government, outlined some of the provisions that should be included in the future law</description>
       <pubDate>Thu, 27 Nov 2025 09:00:00 +0000</pubDate>
@@ -335,6 +381,7 @@ The Socket Research Team said it identified a Maven Central package named org.mv
       <category>Flashpoint</category>
       <category>Hellcat</category>
       <category>Hikki-Chan</category>
+      <category>KELA</category>
       <category>LAPSUS$</category>
       <category>o5tdev</category>
       <category>Orange Romania</category>
@@ -447,7 +494,7 @@ The Socket Research Team said it identified a Maven Central package named org.mv
       <category>surveillance</category>
     </item>
     <item>
-      <title>Gainsight Cyber-Attack Affect More Salesforce Customers</title>
+      <title>Gainsight Cyber-Attack Affects More Salesforce Customers</title>
       <link>https://www.infosecurity-magazine.com/news/gainsight-cyberattack-more/</link>
       <description>The CEO of the customer support platform said “a handful of customers” saw their data exposed after the breach</description>
       <pubDate>Wed, 26 Nov 2025 12:05:00 +0000</pubDate>
@@ -461,17 +508,6 @@ The Socket Research Team said it identified a Maven Central package named org.mv
 As a result, most organizations&amp;apos; security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,</description>
       <pubDate>Wed, 26 Nov 2025 17:25:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools</title>
-      <link>https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html</link>
-      <description>If you&amp;apos;re using community tools like Chocolatey or Winget to keep systems updated, you&amp;apos;re not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...
-The very tools that make your job easier might also be the reason your systems are at risk.
-These tools are run by the community. That means anyone can add or update packages. Some</description>
-      <pubDate>Wed, 26 Nov 2025 16:40:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -491,14 +527,6 @@ The extension, named Crypto Copilot, was first published by a user named &amp;qu
       <description>A new vulnerability dubbed “HashJack” could enable attackers to booby trap websites when they interact with AI browsers</description>
       <pubDate>Wed, 26 Nov 2025 10:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hashjack-indirect-prompt-injection/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>London Councils Hit By Serious Cyber “Incidents”</title>
-      <link>https://www.infosecurity-magazine.com/news/london-councils-hit-by-serious/</link>
-      <description>At least three London local authorities are dealing with a major cybersecurity incident</description>
-      <pubDate>Wed, 26 Nov 2025 09:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/london-councils-hit-by-serious/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
@@ -577,14 +605,6 @@ Cybersecurity company watchTowr Labs said it captured a dataset of over 80,000 f
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Smishing Triad Impersonation Campaigns Expand Globally</title>
-      <link>https://www.infosecurity-magazine.com/news/smishing-triad-campaigns-expand/</link>
-      <description>A cluster of fraudulent domains impersonating Egyptian providers have been identified linked to Smishing Triad operations</description>
-      <pubDate>Tue, 25 Nov 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/smishing-triad-campaigns-expand/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>With Friends Like These: China Spies on Russian IT Orgs</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/china-spies-russian-it-orgs</link>
       <description>State-linked hackers stayed under the radar by using a variety of commercial cloud services for command-and-control communications.</description>
@@ -611,14 +631,6 @@ Cybersecurity company watchTowr Labs said it captured a dataset of over 80,000 f
       <guid isPermaLink="true">https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New FlexibleFerret Malware Chain Targets macOS With Go Backdoor</title>
-      <link>https://www.infosecurity-magazine.com/news/flexibleferret-malware-macos-go/</link>
-      <description>A new macOS malware chain using staged scripts and a Go-based backdoor has been attributed to FlexibleFerret, designed to steal credentials and maintain system access</description>
-      <pubDate>Tue, 25 Nov 2025 13:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/flexibleferret-malware-macos-go/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>&amp;apos;JackFix&amp;apos; Attack Circumvents ClickFix Mitigations</title>
@@ -989,16 +1001,6 @@ The vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of mis
       <category>books</category>
       <category>Rewiring Democracy</category>
       <category>Schneier news</category>
-    </item>
-    <item>
-      <title>Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation</title>
-      <link>https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html</link>
-      <description>Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.
-The vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First</description>
-      <pubDate>Fri, 21 Nov 2025 21:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
