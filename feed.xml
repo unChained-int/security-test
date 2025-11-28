@@ -5,9 +5,115 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 28 Nov 2025 12:39:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 18:27:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages</title>
+      <link>https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html</link>
+      <description>Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack.
+Software supply chain security company ReversingLabs said it found the &amp;quot;vulnerability&amp;quot; in bootstrap files provided by a build and deployment automation tool named &amp;quot;zc.buildout.&amp;quot;
+&amp;quot;The</description>
+      <pubDate>Fri, 28 Nov 2025 21:57:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware</title>
+      <link>https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html</link>
+      <description>The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month.
+According to Socket, these packages have been downloaded over 31,000 times, and are designed to deliver a variant of OtterCookie that brings together the features of BeaverTail and prior versions of OtterCookie.
+
+Some of the</description>
+      <pubDate>Fri, 28 Nov 2025 21:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Threat Actors Exploit Calendar Subscriptions for Phishing and Malware Delivery</title>
+      <link>https://www.infosecurity-magazine.com/news/threat-actors-exploit-calendar-subs/</link>
+      <description>BitSight research has revealed how threat actors exploit calendar subscriptions to deliver phishing links, malware and social engineering attacks through hijacked domains</description>
+      <pubDate>Fri, 28 Nov 2025 15:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/threat-actors-exploit-calendar-subs/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Prompt Injection Through Poetry</title>
+      <link>https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html</link>
+      <description>&amp;lt;p&amp;gt;In a new paper, &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/pdf/2511.15304&amp;quot;&amp;gt;Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models&amp;lt;/a&amp;gt;,&amp;amp;#8221; researchers found that turning LLM prompts into poetry resulted in jailbreaking the models:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract&amp;lt;/b&amp;gt;: We present evidence that adversarial poetry functions as a universal single-turn jailbreak technique for Large Language Models (LLMs). Across 25 frontier proprietary and open-weight models, curated poetic prompts yielded high attack-success rates (ASR), with some providers exceeding 90%. Mapping prompts to MLCommons and EU CoP risk taxonomies shows that poetic attacks transfer across CBRN, manipulation, cyber-offence, and loss-of-control domains. Converting 1,200 ML-Commons harmful prompts into verse via a standardized meta-prompt produced ASRs up to 18 times higher than their prose baselines. Outputs are evaluated using an ensemble of 3 open-weight LLM judges, whose binary safety assessments were validated on a stratified human-labeled subset. Poetic framing achieved an average jailbreak success rate of 62% for hand-crafted poems and approximately 43% for meta-prompt conversions (compared to non-poetic baselines), substantially outperforming non-poetic baselines and revealing a systematic vulnerability across model families and safety training approaches. These findings demonstrate that stylistic variation alone can circumvent contemporary safety mechanisms, suggesting fundamental limitations in current alignment methods and evaluation protocols...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 28 Nov 2025 14:54:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+    </item>
+    <item>
+      <title>What is the Oregon Consumer Privacy Act (OCPA)?  | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-the-ocpa</link>
+      <description>Learn more about the Oregon Consumer Privacy Act (OCPA) and discover the obligations the privacy act imposes on data controllers and processors.</description>
+      <pubDate>Fri, 28 Nov 2025 14:20:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-the-ocpa</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is Netwalker Ransomware? Attack Methods &amp;amp; Protection Tips | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-netwalker-ransomware</link>
+      <description>Netwalker ransomware attacks are quickly spreading across the globe. Learn how this threat operates and how to successfully defend yourself.</description>
+      <pubDate>Fri, 28 Nov 2025 14:08:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-netwalker-ransomware</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Three Black Friday Scams to Watch Out For This Year</title>
+      <link>https://www.infosecurity-magazine.com/news/three-black-friday-scams-2025/</link>
+      <description>Darktrace observed a 620% spike in Black Friday-themed phishing in the weeks leading up to the 2025 edition of the sale day</description>
+      <pubDate>Fri, 28 Nov 2025 13:55:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/three-black-friday-scams-2025/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>What is Wireshark? The Free Network Sniffing Tool  | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-wireshark</link>
+      <description>If you&amp;apos;re looking for a free network analysis tool to troubleshoot errors and discover potential cybercriminal activity, Wireshark may be the best fit.</description>
+      <pubDate>Fri, 28 Nov 2025 13:47:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-wireshark</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is the Montana Consumer Data Privacy Act (MTCDPA)? | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-the-mtcdpa</link>
+      <description>Learn more about the Montana Consumer Data Privacy Act and uncover the obligations it imposes on data controllers and processors.</description>
+      <pubDate>Fri, 28 Nov 2025 13:39:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-the-mtcdpa</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The Do&amp;apos;s &amp;amp; Don&amp;apos;ts of Writing Audit-Proof Risk Assessments | UpGuard</title>
+      <link>https://www.upguard.com/blog/writing-audit-proof-risk-assessments</link>
+      <description>Are your third-party risk assessments built to pass audit examination? This practical guide reveals the do&amp;apos;s and don&amp;apos;ts to ensure you pass with confidence.</description>
+      <pubDate>Fri, 28 Nov 2025 13:21:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/writing-audit-proof-risk-assessments</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Will Cybersecurity Jobs Be Automated? | UpGuard</title>
+      <link>https://www.upguard.com/blog/will-cybersecurity-jobs-be-automated</link>
+      <description>The answer is yes and no. While cybersecurity automation is necessary in today’s threat landscape, it won&amp;apos;t currently replace the role of cyber experts.</description>
+      <pubDate>Fri, 28 Nov 2025 13:18:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/will-cybersecurity-jobs-be-automated</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is Network Segmentation? Virtual &amp;amp; Physical Segmentation | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-network-segmentation</link>
+      <description>Learn more about network segmentation and the differences between physical and virtual segmentation techniques.</description>
+      <pubDate>Fri, 28 Nov 2025 13:06:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-network-segmentation</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>What is ISO 31000? An Effective Risk Management Strategy | UpGuard</title>
       <link>https://www.upguard.com/blog/what-is-iso-31000</link>
@@ -758,143 +864,6 @@ The company said Salesforce initially provided a list of 3 impacted customers an
       <pubDate>Thu, 27 Nov 2025 03:46:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Essential Components of an Effective TPRM Policy | UpGuard</title>
-      <link>https://www.upguard.com/blog/8-elements-tprm-policy</link>
-      <description>Understand key components of a Third-Party Risk Management (TPRM) policy and how to develop one to safeguard your organization from vendor-related risks.</description>
-      <pubDate>Thu, 27 Nov 2025 03:36:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/8-elements-tprm-policy</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets</title>
-      <link>https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html</link>
-      <description>The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.
-The Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the &amp;quot;setup_bun.js&amp;quot; loader and the main payload &amp;quot;bun_environment.js.&amp;quot; The</description>
-      <pubDate>Wed, 26 Nov 2025 23:38:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’</title>
-      <link>https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/</link>
-      <description>A prolific cybercriminal group that calls itself &amp;quot;Scattered LAPSUS$ Hunters&amp;quot; made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for &amp;quot;Rey,&amp;quot; the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.</description>
-      <pubDate>Wed, 26 Nov 2025 17:22:36 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Breadcrumbs</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>Ransomware</category>
-      <category>BreachForums</category>
-      <category>CrowdStrike</category>
-      <category>Cyb3r Drag0nz Team</category>
-      <category>cybero5tdev@proton.me</category>
-      <category>Disney/Hulu</category>
-      <category>FedEx</category>
-      <category>Flashpoint</category>
-      <category>Hellcat</category>
-      <category>Hikki-Chan</category>
-      <category>KELA</category>
-      <category>LAPSUS$</category>
-      <category>o5tdev</category>
-      <category>Orange Romania</category>
-      <category>Saif Al-Din Khader</category>
-      <category>Scattered LAPSUS$ Hunters</category>
-      <category>Scattered Spider</category>
-      <category>Schneider Electric</category>
-      <category>SentinelOne</category>
-      <category>ShinyHunters</category>
-      <category>ShinySp1d3r</category>
-      <category>SpyCloud</category>
-      <category>Telefonica</category>
-      <category>Toyota</category>
-      <category>U.S. Centers for Disease Control and Prevention</category>
-      <category>ups</category>
-      <category>wristmug</category>
-      <category>Zaid Khader</category>
-    </item>
-    <item>
-      <title>Digital Fraud at Industrial Scale: 2025 Wasn&amp;apos;t Great</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025</link>
-      <description>Advanced fraud attacks surged 180% in 2025 as cyber scammers used generative AI to churn out flawless IDs, deepfakes, and autonomous bots at levels never before seen.</description>
-      <pubDate>Wed, 26 Nov 2025 17:06:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Cyber-Attack Disrupts OnSolve CodeRED Emergency Notification System</title>
-      <link>https://www.infosecurity-magazine.com/news/cyberattack-disrupts-onsolve/</link>
-      <description>A cyber-attack claimed to be the resposibility of INC Ransom group and targeting the OnSolve CodeRED platform has disrupted emergency notification and exposed user data across the US</description>
-      <pubDate>Wed, 26 Nov 2025 16:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyberattack-disrupts-onsolve/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>&amp;apos;Dark LLMs&amp;apos; Aid Petty Criminals, But Underwhelm Technically</title>
-      <link>https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals</link>
-      <description>As in the wider world, AI is not quite living up to the hype in the cyber underground. But it&amp;apos;s definitely helping low-level cybercriminals do competent work.</description>
-      <pubDate>Wed, 26 Nov 2025 16:01:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Prompt Injections Loom Large Over ChatGPT&amp;apos;s Atlas Browser</title>
-      <link>https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch</link>
-      <description>It&amp;apos;s the law of unintended consequences: equipping browsers with agentic AI opens the door to an exponential volume of prompt injections.</description>
-      <pubDate>Wed, 26 Nov 2025 15:52:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>How Malware Authors Are Incorporating LLMs to Evade Detection</title>
-      <link>https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection</link>
-      <description>Cyberattackers are integrating large language models (LLMs) into malware, running prompts at runtime to evade detection and augment their code on demand.</description>
-      <pubDate>Wed, 26 Nov 2025 15:12:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Enterprises Aren&amp;apos;t Confident They Can Secure Non-Human Identities (NHIs)</title>
-      <link>https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities</link>
-      <description>More than half of organizations surveyed aren&amp;apos;t sure they can secure non-human identities (NHIs), underscoring the lag between the rollout of these identities and the tools to protect them.</description>
-      <pubDate>Wed, 26 Nov 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities</guid>
-      <dc:creator>Don Tait</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>UK Report Proposes Liability For Software Provider Insecurity</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-liability-software-providers/</link>
-      <description>A new report from the UK Business and Trade Committee has called for accountability of software providers for cyber flaws amid rising attack costs</description>
-      <pubDate>Wed, 26 Nov 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-liability-software-providers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim &amp;apos;Korean Leaks&amp;apos; Data Heist</title>
-      <link>https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html</link>
-      <description>South Korea&amp;apos;s financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.
-&amp;quot;This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)</description>
-      <pubDate>Wed, 26 Nov 2025 20:01:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>FBI Warns of $262M Losses from Account Takeover Fraud in 2025</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-warns-account-takeover-fraud/</link>
-      <description>The FBI reports over $262m in losses from account takeover schemes since January 2025, as cybercriminals impersonate financial institutions to steal data and funds</description>
-      <pubDate>Wed, 26 Nov 2025 14:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fbi-warns-account-takeover-fraud/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
