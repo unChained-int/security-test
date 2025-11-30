@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 30 Nov 2025 06:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 12:36:13 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV</title>
+      <link>https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.
+The vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via</description>
+      <pubDate>Sun, 30 Nov 2025 14:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach</title>
       <link>https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html</link>
@@ -858,14 +868,6 @@ The company said Salesforce initially provided a list of 3 impacted customers an
       <description>A list of little-known GDPR compliance strategies that you may not have yet considered. A helpful resource for those struggling with GDPR compliance.</description>
       <pubDate>Thu, 27 Nov 2025 04:09:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/advanced-gdpr-compliance-strategies</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Threat Exposure Management Framework Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/adopting-a-cyber-threat-exposure-management-approach</link>
-      <description>Learn how threat exposure management (TEM) and CTEM work, how to implement them, and align these strategies with cybersecurity frameworks and tools.</description>
-      <pubDate>Thu, 27 Nov 2025 04:06:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/adopting-a-cyber-threat-exposure-management-approach</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
