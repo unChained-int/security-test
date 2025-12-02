@@ -5,9 +5,90 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Dec 2025 12:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 18:32:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The AI Exchange: Innovators in Payment Security Featuring SISA</title>
+      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-sisa</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-sisa&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring SISA&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Dharshan_Shanthamurthy_800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Dec 2025 16:11:47 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-sisa</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Awareness</category>
+      <category>Interview</category>
+      <category>Artificial Intelligence (AI)</category>
+    </item>
+    <item>
+      <title>Critical PickleScan Vulnerabilities Expose AI Model Supply Chains</title>
+      <link>https://www.infosecurity-magazine.com/news/picklescan-flaws-expose-ai-supply/</link>
+      <description>3 critical zero-day flaws in PickleScan, affecting Python and PyTorch, allowed undetected attacks</description>
+      <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/picklescan-flaws-expose-ai-supply/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ShadyPanda&amp;apos;s Seven-Year Campaign Infects 4.3M Chrome and Edge Users</title>
+      <link>https://www.infosecurity-magazine.com/news/shadypanda-infects-43m-chrome-edge/</link>
+      <description>Infected 4.3 million Chrome and Edge users via extensions; ShadyPanda exploited browser marketplaces</description>
+      <pubDate>Tue, 02 Dec 2025 15:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shadypanda-infects-43m-chrome-edge/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Researchers Capture Lazarus APT&amp;apos;s Remote-Worker Scheme Live on Camera</title>
+      <link>https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html</link>
+      <description>A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.
+For the first time, researchers managed</description>
+      <pubDate>Tue, 02 Dec 2025 20:32:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools</title>
+      <link>https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html</link>
+      <description>The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.
+GlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,</description>
+      <pubDate>Tue, 02 Dec 2025 20:31:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools</title>
+      <link>https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html</link>
+      <description>Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.
+The package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named &amp;quot;hamburgerisland&amp;quot; in February 2024. The package has been downloaded</description>
+      <pubDate>Tue, 02 Dec 2025 19:47:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks</title>
+      <link>https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html</link>
+      <description>Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertaken by Iranian nation-state actors that have delivered a previously undocumented backdoor called MuddyViper.
+The activity has been attributed by ESET to a hacking group known as MuddyWater (aka Mango</description>
+      <pubDate>Tue, 02 Dec 2025 19:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>DPRK&amp;apos;s &amp;apos;Contagious Interview&amp;apos; Spawns Malicious Npm Package Factory</title>
+      <link>https://www.darkreading.com/application-security/contagious-interview-malicious-npm-package-factory</link>
+      <description>North Korean attackers have delivered more than 197 malicious packages with 31K-plus downloads since Oct. 10, as part of ongoing state-sponsored activity to compromise software developers.</description>
+      <pubDate>Tue, 02 Dec 2025 13:02:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/contagious-interview-malicious-npm-package-factory</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Like Social Media, AI Requires Difficult Choices</title>
       <link>https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html</link>
@@ -759,70 +840,6 @@ The two high-severity shortcomings</description>
       <description>HTTPS (Hypertext Transfer Protocol Secure) allows users to safely send information via the Web through encryption. Learn more about its uses and benefits.</description>
       <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/what-is-https</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is UPnP? Yes, It&amp;apos;s Still Dangerous in 2025 | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-upnp</link>
-      <description>If UPnP is currently enabled on your router, you could be at risk of a swathe of cyberattacks. Find out what UPnP is and how to best protect yourself.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-upnp</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Threat Modelling? 10 Threat Identity Methods Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-threat-modelling</link>
-      <description>If you can predict the threats that will test your security resilience you can improve your cybersecurity. Learn how.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-threat-modelling</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Was My Facebook Data Leaked? Find Out in 2 Steps | UpGuard</title>
-      <link>https://www.upguard.com/blog/was-my-facebook-data-leaked</link>
-      <description>Find out in two steps whether your Facebook data was included in the 500+ million account details that were published on the dark web.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/was-my-facebook-data-leaked</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Honeytokens as a Defense Against Supply Chain Attacks | UpGuard</title>
-      <link>https://www.upguard.com/blog/prevent-supply-chain-attacks-with-honeytokens</link>
-      <description>Supply chain attacks are on the rise but their attempts could be detected with Honeytokens. Learn how to implement them into your cybersecurity.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/prevent-supply-chain-attacks-with-honeytokens</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is DLL Hijacking? The Dangerous Windows Exploit  | UpGuard</title>
-      <link>https://www.upguard.com/blog/dll-hijacking</link>
-      <description>DLL hijacking is possible because of an insecure WIndows process for searching and loading DLL files. Learn how to strengthen this vulnerability.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/dll-hijacking</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Is DDoSing Illegal? | UpGuard</title>
-      <link>https://www.upguard.com/blog/is-ddosing-illegal</link>
-      <description>A DDoS attack can be devasting to your online business. Read this post to learn how to defend yourself against this powerful threat.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/is-ddosing-illegal</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Create a Secure Password in 2025: The Password Security Checklist | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-password-security-checklist</link>
-      <description>Learn how to create a secure password and keep your passwords secure with this in-depth guide.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-password-security-checklist</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Third-Party Risk Management Guide for 2025 | UpGuard</title>
-      <link>https://www.upguard.com/blog/third-party-risk-management</link>
-      <description>Learn how to build and scale your third-party risk management program with expert guidance and a practical implementation checklist to minimize risk.</description>
-      <pubDate>Tue, 02 Dec 2025 03:44:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/third-party-risk-management</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
