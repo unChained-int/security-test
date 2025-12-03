@@ -5,9 +5,103 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 03 Dec 2025 12:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 18:31:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation</title>
+      <link>https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html</link>
+      <description>Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company&amp;apos;s November 2025 Patch Tuesday updates, according to ACROS Security&amp;apos;s 0patch.
+The vulnerability in question is CVE-2025-9491 (CVSS score: 7.8/7.0), which has been described as a Windows Shortcut (LNK) file UI misinterpretation vulnerability that could lead to remote</description>
+      <pubDate>Wed, 03 Dec 2025 23:16:36 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts</title>
+      <link>https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html</link>
+      <description>A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.
+The vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.
+It affects versions</description>
+      <pubDate>Wed, 03 Dec 2025 22:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>French NGO Reporters Without Borders Targeted by Star Blizzard</title>
+      <link>https://www.infosecurity-magazine.com/news/star-blizzard-targets-reporters/</link>
+      <description>A fresh wave of spear-phishing linked to the Russia-based Star Blizzard group has been detected by Sekoia</description>
+      <pubDate>Wed, 03 Dec 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/star-blizzard-targets-reporters/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>UK&amp;apos;s Cyber Service for Telcos Blocks 1 Billion Malicious Site Attempts</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-cyber-service-blocks-billion/</link>
+      <description>A new cyber defense service has prevented almost one billion early-stage cyber-attacks in the past year, British Security Minister claims</description>
+      <pubDate>Wed, 03 Dec 2025 16:08:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-cyber-service-blocks-billion/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>FBI Flags Rising Holiday Scams Spreading Across Email, Social, and Web</title>
+      <link>https://www.techrepublic.com/article/news-fbi-holiday-scams-multichannel-warning/</link>
+      <description>&amp;lt;p&amp;gt;The FBI warns holiday scammers are hitting email, social media, fake sites, delivery alerts, and calls, with new data showing losses and complaints rising.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fbi-holiday-scams-multichannel-warning/&amp;quot;&amp;gt;FBI Flags Rising Holiday Scams Spreading Across Email, Social, and Web&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 03 Dec 2025 16:03:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fbi-holiday-scams-multichannel-warning/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>E-commerce and E-business</category>
+      <category>News</category>
+      <category>cybersecurity</category>
+      <category>fbi</category>
+      <category>fraud</category>
+      <category>holiday scams</category>
+      <category>holiday shopping</category>
+      <category>phishing</category>
+      <category>ransomware</category>
+      <category>scams</category>
+      <category>shopping</category>
+    </item>
+    <item>
+      <title>Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud</title>
+      <link>https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html</link>
+      <description>The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.
+The latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the</description>
+      <pubDate>Wed, 03 Dec 2025 21:02:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Yearn Finance yETH Pool Hit by $9M Exploit</title>
+      <link>https://www.infosecurity-magazine.com/news/yearn-finance-yeth-pool-exploit/</link>
+      <description>A critical vulnerability in Yearn Finance&amp;apos;s yETH pool allowed an attacker to steal around $9m</description>
+      <pubDate>Wed, 03 Dec 2025 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/yearn-finance-yeth-pool-exploit/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>The Ransomware Holiday Bind: Burnout or Be Vulnerable</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable</link>
+      <description>Ransomware groups target enterprises during off-hours, weekends, and holidays when security teams are stretched thin and response times lag.</description>
+      <pubDate>Wed, 03 Dec 2025 13:52:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>UK Ransomware Payment Ban to Come with Exemptions, Security Minster Say</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/</link>
+      <description>The UK government’s proposed ransomware payment ban for public sector and critical infrastructure will come with national security exemptions</description>
+      <pubDate>Wed, 03 Dec 2025 13:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar</title>
       <link>https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html</link>
@@ -27,6 +121,15 @@ We are witnessing the industrialization of</description>
       <pubDate>Wed, 03 Dec 2025 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/disinformation-cyberthreats-global/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AI Bolsters Python Variant of Brazilian WhatsApp Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-python-variant-brazilian-whatsapp-attacks</link>
+      <description>Water Saci has upgraded its self-propagating malware to compromise banks and cryptocurrency exchanges by targeting enterprise users of the popular chat app.</description>
+      <pubDate>Wed, 03 Dec 2025 10:56:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ai-python-variant-brazilian-whatsapp-attacks</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Pall Mall Process to Define Responsible Commercial Cyber Intrusion</title>
@@ -746,103 +849,6 @@ The Rust crate, named &amp;quot;evm-units,&amp;quot; was uploaded to crates.io i
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet</guid>
       <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>While ECH Adoption Is Low, Risks Remain for Enterprises, End Users</title>
-      <link>https://www.darkreading.com/data-privacy/while-ech-adoption-is-low-risks-remain-for-enterprises-end-users</link>
-      <description>Is the new privacy protocol helping malicious actors more than Internet users?</description>
-      <pubDate>Tue, 02 Dec 2025 23:32:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/data-privacy/while-ech-adoption-is-low-risks-remain-for-enterprises-end-users</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Iran&amp;apos;s &amp;apos;MuddyWater&amp;apos; Levels Up With MuddyViper Backdoor</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/irans-muddywater-levels-up-muddyviper-backdoor</link>
-      <description>New Fooder loader and memory-only tactics suggest MuddyWater has evolved from its usual noisy ops to more stealthy espionage operations.</description>
-      <pubDate>Tue, 02 Dec 2025 21:39:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/irans-muddywater-levels-up-muddyviper-backdoor</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Researchers Use Poetry to Jailbreak AI Models</title>
-      <link>https://www.darkreading.com/threat-intelligence/researchers-use-poetry-to-jailbreak-ai-models</link>
-      <description>When prompts were presented in poetic rather than prose form, attack success rates increased from 8% to 43%, on average — a fivefold increase.</description>
-      <pubDate>Tue, 02 Dec 2025 20:24:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/researchers-use-poetry-to-jailbreak-ai-models</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse</title>
-      <link>https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html</link>
-      <description>India&amp;apos;s Department of Telecommunications (DoT) has issued directions to app-based communication service providers to ensure that the platforms cannot be used without an active SIM card linked to the user&amp;apos;s mobile number.
-To that end, messaging apps like WhatsApp, Telegram, Snapchat, Arattai, Sharechat, Josh, JioChat, and Signal that use an Indian mobile number for uniquely identifying their</description>
-      <pubDate>Tue, 02 Dec 2025 23:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The AI Exchange: Innovators in Payment Security Featuring SISA</title>
-      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-sisa</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-sisa&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring SISA&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Dharshan_Shanthamurthy_800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Dec 2025 16:11:47 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-sisa</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Artificial Intelligence (AI)</category>
-    </item>
-    <item>
-      <title>Critical PickleScan Vulnerabilities Expose AI Model Supply Chains</title>
-      <link>https://www.infosecurity-magazine.com/news/picklescan-flaws-expose-ai-supply/</link>
-      <description>3 critical zero-day flaws in PickleScan, affecting Python and PyTorch, allowed undetected attacks</description>
-      <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/picklescan-flaws-expose-ai-supply/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New Raptor Framework Uses Agentic Workflows to Create Patches</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches</link>
-      <description>Researchers utilized prompts and large language models to develop an open-source AI framework capable of generating both vulnerability exploits and patches.</description>
-      <pubDate>Tue, 02 Dec 2025 15:16:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ShadyPanda&amp;apos;s Seven-Year Campaign Infects 4.3M Chrome and Edge Users</title>
-      <link>https://www.infosecurity-magazine.com/news/shadypanda-infects-43m-chrome-edge/</link>
-      <description>Infected 4.3 million Chrome and Edge users via extensions; ShadyPanda exploited browser marketplaces</description>
-      <pubDate>Tue, 02 Dec 2025 15:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shadypanda-infects-43m-chrome-edge/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Researchers Capture Lazarus APT&amp;apos;s Remote-Worker Scheme Live on Camera</title>
-      <link>https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html</link>
-      <description>A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.
-For the first time, researchers managed</description>
-      <pubDate>Tue, 02 Dec 2025 20:32:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools</title>
-      <link>https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html</link>
-      <description>The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.
-GlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,</description>
-      <pubDate>Tue, 02 Dec 2025 20:31:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
