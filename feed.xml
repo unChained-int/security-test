@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 05 Dec 2025 12:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 18:27:09 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,104 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails</title>
+      <link>https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html</link>
+      <description>A new agentic browser attack targeting Perplexity&amp;apos;s Comet browser that&amp;apos;s capable of turning a seemingly innocuous email into a destructive action that wipes a user&amp;apos;s entire Google Drive contents, findings from Straiker STAR Labs show.
+The zero-click Google Drive Wiper technique hinges on connecting the browser to services like Gmail and Google Drive to automate routine tasks by granting them</description>
+      <pubDate>Fri, 05 Dec 2025 23:23:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch</title>
+      <link>https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html</link>
+      <description>A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.
+The vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS scoring scale, indicating maximum severity.
+&amp;quot;Critical XXE in Apache Tika tika-core (1.13-3.2.1), tika-pdf-module (2.0.0-3.2.1) and tika-parsers (1.13-1.28.5) modules on all platforms allows an</description>
+      <pubDate>Fri, 05 Dec 2025 21:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>React.js Hit by Maximum-Severity &amp;apos;React2Shell&amp;apos; Vulnerability</title>
+      <link>https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/</link>
+      <description>A critical RCE flaw in React.js, dubbed React2Shell (CVE-2025-55182), has been disclosed with a maximum CVSS score of 10.0, posing severe risks for server-side implementations</description>
+      <pubDate>Fri, 05 Dec 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>CrowdStrike Identifies New China-Nexus Espionage Actor</title>
+      <link>https://www.techrepublic.com/article/news-china-nexus-espionage-actor/</link>
+      <description>&amp;lt;p&amp;gt;CrowdStrike’s investigation shows that WARP PANDA initially infiltrated some victim networks as early as late 2023, later expanding operations.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-china-nexus-espionage-actor/&amp;quot;&amp;gt;CrowdStrike Identifies New China-Nexus Espionage Actor&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 05 Dec 2025 15:52:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-china-nexus-espionage-actor/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cloud</category>
+      <category>Cloud Security</category>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Virtualization</category>
+      <category>crowdstrike</category>
+      <category>cybercrime</category>
+      <category>cybersecurity</category>
+      <category>malware</category>
+      <category>WARP PANDA</category>
+    </item>
+    <item>
+      <title>Threat Landscape Grows Increasingly Dangerous for Manufacturers</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/threat-landscape-increasingly-dangerous-manufacturers</link>
+      <description>Manufacturers are the top target for cyberattacks in 2025 because of their still-plentiful cybersecurity gaps and a lack of expertise.</description>
+      <pubDate>Fri, 05 Dec 2025 15:34:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/threat-landscape-increasingly-dangerous-manufacturers</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>React2Shell Vulnerability Under Attack from China-Nexus Groups</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups</link>
+      <description>A maximum-severity vulnerability affecting the React JavaScript library is under attack by Chinese-nexus actors, further stressing the need to patch now.</description>
+      <pubDate>Fri, 05 Dec 2025 15:14:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISOs Should Be Asking These Quantum Questions Today</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/cisos-should-be-asking-these-quantum-questions-today</link>
+      <description>As quantum quietly moves beyond lab experiment and into production workflows, here&amp;apos;s what enterprise security leaders should be focused on, according to Lineswala.</description>
+      <pubDate>Fri, 05 Dec 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisos-should-be-asking-these-quantum-questions-today</guid>
+      <dc:creator>Rut Lineswala</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China-Linked Warp Panda Targets North American Firms in Espionage Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/</link>
+      <description>CrowdStrike warned that Warp Panda, a China-linked cyber-espionage group, is targeting US organizations to steal sensitive data and support Beijing’s strategic interests</description>
+      <pubDate>Fri, 05 Dec 2025 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability</title>
+      <link>https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html</link>
+      <description>Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.
+The vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1.
+According</description>
+      <pubDate>Fri, 05 Dec 2025 19:40:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Louvre to Bolster Its Security, Issues €57m Public Tender</title>
@@ -71,6 +169,10 @@ That’s why we created ”Getting to Yes”: An Anti-Sales Guide for MSPs. This
       <dc:creator>Bruce Schneier</dc:creator>
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
+      <category>cell phones</category>
+      <category>encryption</category>
+      <category>privacy</category>
+      <category>surveillance</category>
     </item>
     <item>
       <title>An Overview of India’s Digital Personal Data Protection Act of 2023 | UpGuard</title>
@@ -173,7 +275,7 @@ The search engine optimization (SEO) poisoning campaign leverages Microsoft Team
     <item>
       <title>ServiceNow&amp;apos;s Acquisition of NHI Provider Veza Strengthens Governance Portfolio</title>
       <link>https://www.darkreading.com/cyber-risk/servicenow-acquire-nhi-provider-veza-strengthen-governance-portfolio</link>
-      <description>The deal, believed to be valued at $1 billion, will bring non-human identity access control of agents and machines to ServiceNow’s offerings including its new AI Control Tower.</description>
+      <description>The deal, believed to be valued at $1 billion, will bring nonhuman identity access control of agents and machines to ServiceNow&amp;apos;s offerings, including its new AI Control Tower.</description>
       <pubDate>Thu, 04 Dec 2025 15:29:11 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/servicenow-acquire-nhi-provider-veza-strengthen-governance-portfolio</guid>
       <dc:creator>Jeffrey Schwartz</dc:creator>
@@ -475,22 +577,6 @@ The latest wave is characterized by the attackers shifting from PowerShell to a 
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable</guid>
       <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>UK Ransomware Payment Ban to Come with Exemptions, Security Minster Say</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/</link>
-      <description>The UK government’s proposed ransomware payment ban for public sector and critical infrastructure will come with national security exemptions</description>
-      <pubDate>Wed, 03 Dec 2025 13:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Disinformation and Cyber-Threats Among Top Global Exec Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/disinformation-cyberthreats-global/</link>
-      <description>A new WEF report reveals that AI-powered threats like disinformation are among executives’ biggest concerns</description>
-      <pubDate>Wed, 03 Dec 2025 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/disinformation-cyberthreats-global/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>AI Bolsters Python Variant of Brazilian WhatsApp Attacks</title>
@@ -865,62 +951,6 @@ The Rust crate, named &amp;quot;evm-units,&amp;quot; was uploaded to crates.io i
       <description>Find out which requirements schools need to follow to become FERPA compliant.</description>
       <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/ferpa-compliance-guide</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Difference Between a Regulation and Cyber Framework  | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/regulation-vs-cyber-framework</link>
-      <description>The difference between a regulation and framework, plus other common cybersecurity misconceptions are addressed in this post.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/regulation-vs-cyber-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>List of Cybersecurity Laws and Regulations in the UK | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cybersecurity-laws-regulations-uk</link>
-      <description>Learn about the most important cybersecurity laws and regulations in the UK.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cybersecurity-laws-regulations-uk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>CPRA (California Privacy Rights Act) Compliance Guide | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cpra</link>
-      <description>Learn about the provisions of the California Privacy Rights Act (CPRA) and how to comply.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cpra</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Top Cybersecurity Regulations in India [Updated 2025] | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cybersecurity-regulations-india</link>
-      <description>Learn more about top cybersecurity regulations and governing bodies in India today.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cybersecurity-regulations-india</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Compliance Guide: Australia &amp;amp; its New Telco Regulation (Updated 2025) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/compliance-guide-australia-its-new-telco-regulation</link>
-      <description>If you&amp;apos;re an APRA-regulated finance entity, you need to understand how to comply with Australia&amp;apos;s amended telecommunication regulation.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/compliance-guide-australia-its-new-telco-regulation</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Comply with PCI DSS 4.0.1 (2025 Guide) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/pci-compliance</link>
-      <description>Learn how to comply with versions 4.0 and 4.0.1 of PCI DSS.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/pci-compliance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Comply with The FTC Safeguards Rule (5 Strategies) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/complying-with-the-ftc-safeguards-rule</link>
-      <description>Learn how to start complying with the FTC Safeguards rule before it becomes mandatory.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/complying-with-the-ftc-safeguards-rule</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
