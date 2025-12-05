@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 05 Dec 2025 01:28:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 06:31:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,40 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>An Overview of India’s Digital Personal Data Protection Act of 2023 | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/dpdp-2023</link>
+      <description>Learn more about the compliance requirements of India&amp;apos;s Digital Personal Data Protection Act of 2023 (DPDP).</description>
+      <pubDate>Fri, 05 Dec 2025 05:53:28 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dpdp-2023</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>JPCERT Confirms Active Command Injection Attacks on Array AG Gateways</title>
+      <link>https://thehackernews.com/2025/12/jpcert-confirms-active-command.html</link>
+      <description>A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an alert issued by JPCERT/CC this week.
+The vulnerability, which does not have a CVE identifier, was addressed by the company on May 11, 2025. It&amp;apos;s rooted in Array&amp;apos;s DesktopDirect, a remote desktop access solution that allows users to securely access</description>
+      <pubDate>Fri, 05 Dec 2025 11:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/jpcert-confirms-active-command.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Understanding and Mitigating CVE-2025-55182 (React2Shell) | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</link>
+      <description>CVE-2025-55182 is a critical unauthenticated RCE in React Server Components (CVSS 10.0). Check if your Next.js or React 19 app is vulnerable and patch now.</description>
+      <pubDate>Fri, 05 Dec 2025 05:37:54 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Attack Surface Discovery: A Quick Overview | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/attack-surface-discovery-overview</link>
+      <description>Explore how attack surface discovery works, what tools help identify hidden risks, and how security teams can secure complex environments in real time.</description>
+      <pubDate>Fri, 05 Dec 2025 03:15:44 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/attack-surface-discovery-overview</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>How Agentic AI Can Boost Cyber Defense</title>
@@ -224,14 +258,6 @@ The activity, the web infrastructure and security company said, originated from 
       <guid isPermaLink="true">https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attack Surface Discovery: A Quick Overview | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/attack-surface-discovery-overview</link>
-      <description>Explore how attack surface discovery works, what tools help identify hidden risks, and how security teams can secure complex environments in real time.</description>
-      <pubDate>Thu, 04 Dec 2025 06:39:21 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/attack-surface-discovery-overview</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Attack Surface Monitoring Guide for Security Teams | UpGuard</title>
@@ -886,30 +912,6 @@ The Rust crate, named &amp;quot;evm-units,&amp;quot; was uploaded to crates.io i
       <description>Monitoring these key metrics will help you track your PCI DSS compliance efforts.</description>
       <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/metrics-for-tracking-pci-dss-compliance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Free NIST 800-171 Compliance Checklist | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/nist-800-171-compliance-checklist</link>
-      <description>Use this free checklist to track your compliance efforts against NIST 800-171.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/nist-800-171-compliance-checklist</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Reduce Your Attack Surface With PCI DSS Compliance | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/how-to-reduce-your-attack-surface-with-pci-dss-compliance</link>
-      <description>Learn how aligning PCI compliance with attack surface management strategies strengthens your organization&amp;apos;s security posture.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/how-to-reduce-your-attack-surface-with-pci-dss-compliance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Compliance Guide: NIST CSF and the Healthcare Industry | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/compliance-guide-nist-csf-healthcare-industry</link>
-      <description>This article addresses how the NIST CSF applies to healthcare organizations and how they can leverage it to achieve security posture maturity. Learn more.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/compliance-guide-nist-csf-healthcare-industry</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
