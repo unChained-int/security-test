@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 05 Dec 2025 18:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 01:24:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,28 @@
       <description/>
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Vampire Squid Genome</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html</link>
+      <description>&amp;lt;p&amp;gt;The vampire squid (&amp;lt;i&amp;gt;Vampyroteuthis infernalis&amp;lt;/i&amp;gt;) has the &amp;lt;a href=&amp;quot;https://www.sciencealert.com/vampire-squid-from-hell-reveals-the-ancient-origins-of-octopuses&amp;quot;&amp;gt;largest cephalopod genome&amp;lt;/a&amp;gt; ever sequenced: more than 11 billion base pairs. That&amp;amp;#8217;s more than twice as large as the biggest squid genomes.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;It&amp;amp;#8217;s technically not a squid: &amp;amp;#8220;The vampire squid is a fascinating twig tenaciously hanging onto the cephalopod family tree. It&amp;amp;#8217;s neither a squid nor an octopus (nor a vampire), but rather the last, lone remnant of an ancient lineage whose other members have long since vanished.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 05 Dec 2025 22:06:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>India Rolls Back App Mandate Amid Surveillance Concerns</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/india-app-mandate-surveillance-concerns</link>
+      <description>Remember when Apple put that U2 album in everyone&amp;apos;s music libraries? India wanted to do that to all of its citizens, but with a cybersecurity app. It wasn&amp;apos;t a good idea.</description>
+      <pubDate>Fri, 05 Dec 2025 20:06:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/india-app-mandate-surveillance-concerns</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -78,9 +100,9 @@ The vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS scoring 
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>React2Shell Vulnerability Under Attack from China-Nexus Groups</title>
+      <title>React2Shell Vulnerability Under Attack From China-Nexus Groups</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups</link>
-      <description>A maximum-severity vulnerability affecting the React JavaScript library is under attack by Chinese-nexus actors, further stressing the need to patch now.</description>
+      <description>A maximum-severity vulnerability affecting the React JavaScript library has been exploited in the wild, further stressing the need to patch now.</description>
       <pubDate>Fri, 05 Dec 2025 15:14:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/react2shell-under-attack-china-nexus-groups</guid>
       <dc:creator>Alexander Culafi</dc:creator>
@@ -935,22 +957,6 @@ The Rust crate, named &amp;quot;evm-units,&amp;quot; was uploaded to crates.io i
       <description>Learn how to comply with the third-party risk requirements of the Prudential Regulation Authority SS2/21.</description>
       <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/pra-ss2-21-a-third-party-risk-management-compliance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Comply with Australia’s CIRMP Rules | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/how-to-comply-with-cirmp-rules</link>
-      <description>Find out if your business falls under Australia&amp;apos;s new CIRMP obligations and how businesses can comply with the new rules.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/how-to-comply-with-cirmp-rules</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>FERPA Compliance Guide (Updated 2025) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/ferpa-compliance-guide</link>
-      <description>Find out which requirements schools need to follow to become FERPA compliant.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/ferpa-compliance-guide</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
