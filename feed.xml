@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 06 Dec 2025 12:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 18:26:11 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,47 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks</title>
+      <link>https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html</link>
+      <description>Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution.
+The security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA). They affect popular</description>
+      <pubDate>Sat, 06 Dec 2025 20:54:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</title>
+      <link>https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/</link>
+      <description>A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia&amp;apos;s war against Ukraine.</description>
+      <pubDate>Sat, 06 Dec 2025 14:45:03 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Russia&amp;apos;s War on Ukraine</category>
+      <category>Alexander Korsukov</category>
+      <category>AW Tech Limited</category>
+      <category>Awesome Technologies</category>
+      <category>Brian Mellor</category>
+      <category>CLS Research LTD</category>
+      <category>Filip Perkon</category>
+      <category>Geekly Solutions Ltd</category>
+      <category>Livingston Research</category>
+      <category>Marina Butina</category>
+      <category>North Data</category>
+      <category>OK Marketing LTD</category>
+      <category>Olekszij Pokatilo</category>
+      <category>Proglobal Solutions LTD</category>
+      <category>Russian Business Week</category>
+      <category>Russian Diplomatic Online Club</category>
+      <category>Synergy</category>
+      <category>Tweetsquad</category>
+      <category>Two Sigma Solutions LTD</category>
+      <category>Vadim Lobov</category>
+      <category>VLS Research LTD</category>
     </item>
     <item>
       <title>Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation</title>
@@ -38,6 +79,15 @@ The vulnerability, CVE-2025-55182 (CVSS score: 10.0), relates to a case of remot
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>squid</category>
+    </item>
+    <item>
+      <title>Rust Code Delivers Better Security, Also Streamlines DevOps</title>
+      <link>https://www.darkreading.com/application-security/rust-code-delivers-better-security-streamlines-devops</link>
+      <description>Software teams at Google and other Rust adopters see safer code when using the memory-safe language, and also fewer rollbacks and less code review.</description>
+      <pubDate>Fri, 05 Dec 2025 22:01:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/rust-code-delivers-better-security-streamlines-devops</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>India Rolls Back App Mandate Amid Surveillance Concerns</title>
@@ -267,6 +317,15 @@ The vulnerability, which does not have a CVE identifier, was addressed by the co
       <category>SURBL</category>
       <category>T-Mobile</category>
       <category>urlscan.io</category>
+    </item>
+    <item>
+      <title>A Tale of Two CISOs: Why An Engineering-Focused CISO Can Be a Liability</title>
+      <link>https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability</link>
+      <description>When hiring a CISO, understand the key difference between engineering and holistic security leaders.</description>
+      <pubDate>Thu, 04 Dec 2025 22:13:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/why-an-engineering-focused-ciso-can-be-a-liability</guid>
+      <dc:creator>David Schwed</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>CISA Warns of &amp;apos;Ongoing&amp;apos; Brickstorm Backdoor Attacks</title>
@@ -927,38 +986,6 @@ The Rust crate, named &amp;quot;evm-units,&amp;quot; was uploaded to crates.io i
       <description>Learn about the new requirements of CPS 230 and how to achieve compliance before it comes into effect on 1 July 2025.</description>
       <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/apra-cps-230-compliance-guide</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Exploring the Colorado Privacy Act (CPA) with Compliance Tips | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/colorado-privacy-act</link>
-      <description>Learn more about the Colorado Privacy Act (CPA) and its implications for Colorado consumers and businesses.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/colorado-privacy-act</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>DFARS Compliance: What You Need to Know | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/dfars</link>
-      <description>Learn more about DFARS, a set of cyber compliance standards that all DoD contractors in the US must follow.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dfars</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Preparing for CMMC Compliance: Tips and Best Practices | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/preparing-for-cmmc-compliance</link>
-      <description>Find out how DoD contractors can achieve CMMC compliance and how they can become certified.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/preparing-for-cmmc-compliance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is NIST 800-161? Guide &amp;amp; Compliance Tips | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/nist-sp-800-161</link>
-      <description>Learn why NIST SP 800-161 is important and how it can help your supply chain risk management practices.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/nist-sp-800-161</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
