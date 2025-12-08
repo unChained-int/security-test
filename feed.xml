@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 07 Dec 2025 18:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 01:29:01 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,62 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Understanding and Mitigating CVE-2025-55182 (React2Shell) | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</link>
+      <description>CVE-2025-55182 is a critical unauthenticated RCE in React Server Components (CVSS 10.0). Check if your Next.js or React 19 app is vulnerable and patch now.</description>
+      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>An Overview of India’s Digital Personal Data Protection Act of 2023 | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/dpdp-2023</link>
+      <description>Learn more about the compliance requirements of India&amp;apos;s Digital Personal Data Protection Act of 2023 (DPDP).</description>
+      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dpdp-2023</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>How-To Guide: Digital Risk Management for Businesses | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/digital-risk-management</link>
+      <description>Digital risks are unavoidable, but with the right management framework, learn how organizations can embrace digital transformation safely.</description>
+      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/digital-risk-management</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is Digital Risk? Definition and Protection Tactics | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/digital-risk</link>
+      <description>Every organization is. exposed to digital risks. Learn about the different types of risks and how you can best protect your ecosystem.</description>
+      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/digital-risk</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Digital Risk Protection Service (DRPS): Definition + Top Features | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/digital-risk-protection-service</link>
+      <description>With the right Digital Risk Protection Service (DRPS) it&amp;apos;s possible to mitigate digital risk while expanding your digital landscape.</description>
+      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/digital-risk-protection-service</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is DLL Hijacking? The Dangerous Windows Exploit  | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/dll-hijacking</link>
+      <description>DLL hijacking is possible because of an insecure WIndows process for searching and loading DLL files. Learn how to strengthen this vulnerability.</description>
+      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dll-hijacking</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is DMARC? | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/dmarc</link>
+      <description>Domain-based Message Authentication, Reporting &amp;amp; Conformance is an email authentication protocol designed to protect your organization from email spoofing.</description>
+      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dmarc</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks</title>
@@ -258,14 +314,6 @@ That’s why we created ”Getting to Yes”: An Anti-Sales Guide for MSPs. This
       <category>surveillance</category>
     </item>
     <item>
-      <title>An Overview of India’s Digital Personal Data Protection Act of 2023 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/dpdp-2023</link>
-      <description>Learn more about the compliance requirements of India&amp;apos;s Digital Personal Data Protection Act of 2023 (DPDP).</description>
-      <pubDate>Fri, 05 Dec 2025 05:53:28 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dpdp-2023</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>JPCERT Confirms Active Command Injection Attacks on Array AG Gateways</title>
       <link>https://thehackernews.com/2025/12/jpcert-confirms-active-command.html</link>
       <description>A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an alert issued by JPCERT/CC this week.
@@ -274,14 +322,6 @@ The vulnerability, which does not have a CVE identifier, was addressed by the co
       <guid isPermaLink="true">https://thehackernews.com/2025/12/jpcert-confirms-active-command.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Understanding and Mitigating CVE-2025-55182 (React2Shell) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</link>
-      <description>CVE-2025-55182 is a critical unauthenticated RCE in React Server Components (CVSS 10.0). Check if your Next.js or React 19 app is vulnerable and patch now.</description>
-      <pubDate>Fri, 05 Dec 2025 05:37:54 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Attack Surface Discovery: A Quick Overview | UpGuard</title>
@@ -947,46 +987,6 @@ The Rust crate, named &amp;quot;evm-units,&amp;quot; was uploaded to crates.io i
       <description>Learn which features and capabilities to look for when choosing a tool for tracking alignment against NIST CSF.</description>
       <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/choosing-a-nist-csf-compliance-product</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Choosing a PCI DSS 4.0 Compliance Product in 2025 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/choosing-a-pci-dss-compliance-product</link>
-      <description>Learn which features to look for when choosing a tool for tracking PCI DSS compliance. The right tool will help you avoid costly violations.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/choosing-a-pci-dss-compliance-product</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Cybersecurity Laws and Regulations in Germany | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cybersecurity-laws-and-regulations-germany</link>
-      <description>Learn about the biggest cybersecurity laws and regulations in Germany.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cybersecurity-laws-and-regulations-germany</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>SOCI Act Explained: Compliance Rules &amp;amp; Requirements | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/soci-act-2018</link>
-      <description>Explore Australia’s SOCI Act, compliance requirements, amendments, and reporting obligations for critical infrastructure organizations.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/soci-act-2018</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is TX-RAMP? Full Compliance Guide | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/tx-ramp</link>
-      <description>Find out what TX-RAMP is and how state contractors and cloud service providers can achieve compliance.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/tx-ramp</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>APRA CPS 230: Definition, Summary &amp;amp; Compliance Guide | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/apra-cps-230-compliance-guide</link>
-      <description>Learn about the new requirements of CPS 230 and how to achieve compliance before it comes into effect on 1 July 2025.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/apra-cps-230-compliance-guide</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
