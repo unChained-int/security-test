@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Dec 2025 18:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 01:28:27 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,43 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apache Issues Max-Severity Tika CVE After Patch Miss</title>
+      <link>https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</link>
+      <description>The Apache Software Foundation&amp;apos;s earlier fix for a critical Tika flaw missed the full scope of the vulnerability, prompting an updated advisory and CVE.</description>
+      <pubDate>Mon, 08 Dec 2025 22:01:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Exploitation Activity Ramps Up Against React2Shell</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/exploitation-activity-ramps-react2shell</link>
+      <description>Attacks against CVE-2025-55182, which began almost immediately after public disclosure last week, have increased as more threat actors take advantage of the flaw.</description>
+      <pubDate>Mon, 08 Dec 2025 21:41:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/exploitation-activity-ramps-react2shell</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>US Treasury Tracks $4.5B in Ransom Payments since 2013</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/us-treasury-45b-ransom-payments-2013</link>
+      <description>The US Treasury&amp;apos;s Financial Crimes Enforcement Network shared data showing how dramatically ransomware attacks have changed over time.</description>
+      <pubDate>Mon, 08 Dec 2025 20:21:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/us-treasury-45b-ransom-payments-2013</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT</title>
+      <link>https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html</link>
+      <description>Cybersecurity researchers are calling attention to a new campaign dubbed JS#SMUGGLER that has been observed leveraging compromised websites as a distribution vector for a remote access trojan named NetSupport RAT.
+The attack chain, analyzed by Securonix, involves three main moving parts: An obfuscated JavaScript loader injected into a website, an HTML Application (HTA) that runs encrypted</description>
+      <pubDate>Mon, 08 Dec 2025 23:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>ClayRat Android Spyware Expands Capabilities</title>
@@ -986,38 +1023,6 @@ The Rust crate, named &amp;quot;evm-units,&amp;quot; was uploaded to crates.io i
       <description>Dive into the latest revision of NIST 800-171 and learn what your organization must do to comply with the TPRM requirements of NIST 800-171 Rev. 3.</description>
       <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/nist-800-171-rev3</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is IEC/ISA 62443-3-3:2013? Cybersecurity &amp;amp; Compliance | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/isa-62443-3-3-2013</link>
-      <description>Learn more about the IEC&amp;apos;s 62443 series and discover the fundamental and system requirements included in section 3:3 of the series.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/isa-62443-3-3-2013</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Ultimate List of Cybersecurity Regulations by Industry | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cybersecurity-regulations-by-industry</link>
-      <description>Cybersecurity regulations protect sensitive information from cyber threats. Explore the most well-known regulations, categorized by industry, in this blog.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cybersecurity-regulations-by-industry</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Essential Eight Compliance Questionnaire (Free Template) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/free-template-essential-eight-compliance-questionnaire</link>
-      <description>Working to become Essential Eight compliant? Use this free questionnaire template to track progress and evaluate your cybersecurity posture.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/free-template-essential-eight-compliance-questionnaire</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>NIST 800-53 Security Standard Questionnaire (Free Template) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/template-nist-800-53-security-standard-questionnaire</link>
-      <description>Track your compliance against NIST 800-53 with this free template. This questionnaire can also be used to see how vendors impact compliance efforts.</description>
-      <pubDate>Wed, 03 Dec 2025 06:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/template-nist-800-53-security-standard-questionnaire</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
