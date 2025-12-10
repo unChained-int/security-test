@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Dec 2025 01:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 06:32:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws</title>
+      <link>https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html</link>
+      <description>Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.
+The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and</description>
+      <pubDate>Wed, 10 Dec 2025 10:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Japanese Firms Suffer Long Tail of Ransomware Damage</title>
@@ -602,6 +612,15 @@ Chief</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>The big catch: How whaling attacks target top executives</title>
+      <link>https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/</link>
+      <description>Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.</description>
+      <pubDate>Tue, 09 Dec 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
+    </item>
+    <item>
       <title>A Guide to Vendor Relationship Management | UpGuard</title>
       <link>https://upguard-staging.webflow.io/blog/vendor-relationship-management</link>
       <description>Explore best practices for vendor relationship management that positively impact your organization and future vendor partnerships.</description>
@@ -882,22 +901,6 @@ The cyber espionage activity targeted users in Turkey, Israel, and Azerbaijan, a
       <description>Every organization is. exposed to digital risks. Learn about the different types of risks and how you can best protect your ecosystem.</description>
       <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/digital-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Digital Risk Protection Service (DRPS): Definition + Top Features | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/digital-risk-protection-service</link>
-      <description>With the right Digital Risk Protection Service (DRPS) it&amp;apos;s possible to mitigate digital risk while expanding your digital landscape.</description>
-      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/digital-risk-protection-service</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is DLL Hijacking? The Dangerous Windows Exploit  | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/dll-hijacking</link>
-      <description>DLL hijacking is possible because of an insecure WIndows process for searching and loading DLL files. Learn how to strengthen this vulnerability.</description>
-      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dll-hijacking</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
