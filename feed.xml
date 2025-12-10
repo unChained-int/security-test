@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Dec 2025 06:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 12:42:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,133 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>What are Web Shell Attacks? How to Protect Your Web Servers | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/what-are-web-shell-attacks</link>
+      <description>Web shell attacks have doubled between 2021 and 2020. Learn about this threat and how to protect your web server.</description>
+      <pubDate>Wed, 10 Dec 2025 12:39:58 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/what-are-web-shell-attacks</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What are Security Ratings? Cybersecurity Risk Scoring Explained | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/what-are-security-ratings</link>
+      <description>This is a complete guide to security ratings and common use cases. Learn why security and risk management teams have adopted security ratings in this post.</description>
+      <pubDate>Wed, 10 Dec 2025 12:17:05 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/what-are-security-ratings</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>FBI Warns of Fake Video Scams</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html</link>
+      <description>&amp;lt;p&amp;gt;The FBI is &amp;lt;a href=&amp;quot;https://www.ic3.gov/PSA/2025/PSA251205&amp;quot;&amp;gt;warning&amp;lt;/a&amp;gt; of  AI-assisted fake kidnapping scams:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Criminal actors typically will contact their victims through text message claiming they have kidnapped their loved one and demand a ransom be paid for their release. Oftentimes, the criminal actor will express significant claims of violence towards the loved one if the ransom is not paid immediately. The criminal actor will then send what appears to be a genuine photo or video of the victim&amp;amp;#8217;s loved one, which upon close inspection often reveals inaccuracies when compared to confirmed photos of the loved one. Examples of these inaccuracies include missing tattoos or scars and inaccurate body proportions. Criminal actors will sometimes purposefully send these photos using timed message features to limit the amount of time victims have to analyze the images...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 10 Dec 2025 12:05:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>deepfake</category>
+      <category>FBI</category>
+      <category>kidnapping</category>
+      <category>scams</category>
+    </item>
+    <item>
+      <title>Google Fixes Zero Click Gemini Enterprise Flaw That Exposed Corporate Data</title>
+      <link>https://www.infosecurity-magazine.com/news/google-fixes-gemini-enterprise-flaw/</link>
+      <description>The flaw, dubbed ‘GeminiJack,’ exploits the trust boundary between user-controlled content in data sources and the AI model’s instruction processing</description>
+      <pubDate>Wed, 10 Dec 2025 12:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-fixes-gemini-enterprise-flaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes</title>
+      <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
+      <description>Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.
+Standard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.
+Next week, the Cortex Cloud team at Palo Alto Networks</description>
+      <pubDate>Wed, 10 Dec 2025 17:24:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
+      <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation</description>
+      <pubDate>Wed, 10 Dec 2025 17:24:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>What is a Whaling Attack? | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/whaling-attack</link>
+      <description>This is a complete overview of whaling attacks. Learn about common whaling attacks and how to prevent them in this in-depth post.</description>
+      <pubDate>Wed, 10 Dec 2025 11:47:44 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/whaling-attack</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Crafting a Comprehensive Web Application Security Questionnaire | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/web-application-security-questionnaire</link>
+      <description>Enhance your organization&amp;apos;s overall web application security by designing a specific security questionnaire for website security best practices.</description>
+      <pubDate>Wed, 10 Dec 2025 11:39:13 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/web-application-security-questionnaire</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is Vulnerability Management? | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/vulnerability-management</link>
+      <description>Vulnerability management is the process of identifying, evaluating, prioritizing, remediating and reporting on security vulnerabilities.</description>
+      <pubDate>Wed, 10 Dec 2025 11:33:48 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vulnerability-management</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Vendor Risk Management for Universities: Leveraging Tech Solutions | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/vrm-tech-solutions-for-universities</link>
+      <description>Explore VRM technology solutions for colleges and universities, designed to automate processes, streamline workflows, and protect student data.</description>
+      <pubDate>Wed, 10 Dec 2025 11:28:59 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vrm-tech-solutions-for-universities</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is the Vendor Risk Management Lifecycle? | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/vrm-lifecycle</link>
+      <description>Learn more about each of the three stages in the vendor risk management lifecycle: onboarding, risk management, and continuous monitoring.</description>
+      <pubDate>Wed, 10 Dec 2025 11:24:10 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vrm-lifecycle</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Log4Shell Downloaded 40 Million Times in 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/log4shell-downloaded-40-million/</link>
+      <description>Sonatype has claimed that 13% of Log4j versions downloaded this year were vulnerable to the legacy critical Log4Shell bug</description>
+      <pubDate>Wed, 10 Dec 2025 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/log4shell-downloaded-40-million/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Microsoft Fixes Three Zero-Days in Final Patch Tuesday of 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-three-zerodays-patch/</link>
+      <description>December’s Patch Tuesday sees the release of patches for over 50 CVEs including three zero-days</description>
+      <pubDate>Wed, 10 Dec 2025 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-three-zerodays-patch/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days</title>
+      <link>https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html</link>
+      <description>Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.
+Of the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code</description>
+      <pubDate>Wed, 10 Dec 2025 14:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws</title>
@@ -443,7 +570,7 @@ The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwit
     <item>
       <title>North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware</title>
       <link>https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html</link>
-      <description>Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.
+      <description>Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React&amp;amp;nbsp;Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.
 &amp;quot;EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and</description>
       <pubDate>Tue, 09 Dec 2025 23:55:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html</guid>
@@ -479,7 +606,7 @@ The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwit
       <title>Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure</title>
       <link>https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html</link>
       <description>Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.
-The threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future&amp;apos;s Insikt Group, which was previously tracking it as TAG-150.</description>
+The threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future&amp;apos;s Insikt Group, which was previously tracking it as TAG-150. The</description>
       <pubDate>Tue, 09 Dec 2025 21:31:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -610,15 +737,6 @@ Chief</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The big catch: How whaling attacks target top executives</title>
-      <link>https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/</link>
-      <description>Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.</description>
-      <pubDate>Tue, 09 Dec 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
     </item>
     <item>
       <title>A Guide to Vendor Relationship Management | UpGuard</title>
@@ -778,130 +896,6 @@ Why holiday peaks</description>
       <pubDate>Mon, 08 Dec 2025 11:43:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/portugal-cybercrime-law-security/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>React2Shell Under Active Exploitation by China-Nexus Hackers</title>
-      <link>https://www.infosecurity-magazine.com/news/react2shell-under-active/</link>
-      <description>React2Shell (CVE-2025-55182) is under active exploitation by Earth Lamia and Jackpot Panda, risking over two million instances worldwide</description>
-      <pubDate>Mon, 08 Dec 2025 11:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/react2shell-under-active/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>&amp;apos;Broadside&amp;apos; Mirai Variant Targets Maritime Logistics Sector</title>
-      <link>https://www.darkreading.com/threat-intelligence/broadside-mirai-variant-maritime-logistics</link>
-      <description>&amp;amp;quot;Broadside&amp;amp;quot; is targeting a critical flaw in DVR systems to conduct command injection attacks, which can hijack devices to achieve persistence and move laterally.</description>
-      <pubDate>Mon, 08 Dec 2025 11:17:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/broadside-mirai-variant-maritime-logistics</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features</title>
-      <link>https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html</link>
-      <description>Cybersecurity researchers have disclosed details of two new Android malware families dubbed FvncBot and SeedSnatcher, as another upgraded version of ClayRat has been spotted in the wild.
-The findings come from Intel 471, CYFIRMA, and Zimperium, respectively.
-FvncBot, which masquerades as a security app developed by mBank, targets mobile banking users in Poland. What&amp;apos;s notable about the malware</description>
-      <pubDate>Mon, 08 Dec 2025 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Apple and Google Alert Users Worldwide After New Spyware Activity Surfaces</title>
-      <link>https://www.techrepublic.com/article/news-apple-google-spyware-alert/</link>
-      <description>&amp;lt;p&amp;gt;Evidence shows that certain people have been targeted by malicious actors, often linked to governments or state-backed groups.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-google-spyware-alert/&amp;quot;&amp;gt;Apple and Google Alert Users Worldwide After New Spyware Activity Surfaces&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Dec 2025 10:55:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-google-spyware-alert/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>smartphones</category>
-      <category>spyware</category>
-    </item>
-    <item>
-      <title>UK ICO Demands “Urgent Clarity” on Facial Recognition Bias Claims</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-demands-clarity-facial/</link>
-      <description>A Home Office report has revealed racial bias in facial recognition technology used by police</description>
-      <pubDate>Mon, 08 Dec 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ico-demands-clarity-facial/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Barts Health Seeks High Court Ban After Oracle EBS Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/barts-health-high-court-ban-oracle/</link>
-      <description>Barts Health NHS Trust has revealed itself to be the latest victim of Cl0p’s Oracle EBS campaign</description>
-      <pubDate>Mon, 08 Dec 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/barts-health-high-court-ban-oracle/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Proofpoint Completes Acquisition of Hornetsecurity</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity</link>
-      <description/>
-      <pubDate>Mon, 08 Dec 2025 09:15:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-completes-acquisition-hornetsecurity</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks</title>
-      <link>https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html</link>
-      <description>A critical security flaw in the Sneeit Framework plugin for WordPress is being actively exploited in the wild, per data from Wordfence.
-The remote code execution vulnerability in question is CVE-2025-6389 (CVSS score: 9.8), which affects all versions of the plugin prior to and including 8.3. It has been patched in version 8.4, released on August 5, 2025. The plugin has more than 1,700 active</description>
-      <pubDate>Mon, 08 Dec 2025 14:45:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign</title>
-      <link>https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html</link>
-      <description>The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.
-The cyber espionage activity targeted users in Turkey, Israel, and Azerbaijan, according to a report from Fortinet FortiGuard Labs.
-&amp;quot;This malware enables remote control of compromised systems by allowing</description>
-      <pubDate>Mon, 08 Dec 2025 12:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Understanding and Mitigating CVE-2025-55182 (React2Shell) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</link>
-      <description>CVE-2025-55182 is a critical unauthenticated RCE in React Server Components (CVSS 10.0). Check if your Next.js or React 19 app is vulnerable and patch now.</description>
-      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>An Overview of India’s Digital Personal Data Protection Act of 2023 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/dpdp-2023</link>
-      <description>Learn more about the compliance requirements of India&amp;apos;s Digital Personal Data Protection Act of 2023 (DPDP).</description>
-      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/dpdp-2023</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How-To Guide: Digital Risk Management for Businesses | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/digital-risk-management</link>
-      <description>Digital risks are unavoidable, but with the right management framework, learn how organizations can embrace digital transformation safely.</description>
-      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/digital-risk-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Digital Risk? Definition and Protection Tactics | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/digital-risk</link>
-      <description>Every organization is. exposed to digital risks. Learn about the different types of risks and how you can best protect your ecosystem.</description>
-      <pubDate>Sun, 07 Dec 2025 22:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/digital-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
