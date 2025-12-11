@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 10 Dec 2025 18:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 01:40:00 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,44 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Storm-0249 Abuses EDR Processes in Stealthy Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks</link>
+      <description>The initial access broker has been weaponizing endpoint detection and response (EDR) platforms and Windows utilities in recent high-precision attacks.</description>
+      <pubDate>Wed, 10 Dec 2025 21:59:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware</link>
+      <description>A new twist on the social engineering tactic is making waves, combining SEO poisoning and legitimate AI domains to install malware on victims&amp;apos; computers.</description>
+      <pubDate>Wed, 10 Dec 2025 21:02:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors</title>
+      <link>https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html</link>
+      <description>React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.
+This includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based</description>
+      <pubDate>Thu, 11 Dec 2025 01:49:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL</title>
+      <link>https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</link>
+      <description>New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.
+WatchTowr Labs, which has codenamed the &amp;quot;invalid cast vulnerability&amp;quot; SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be</description>
+      <pubDate>Thu, 11 Dec 2025 00:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>ClickFix Social Engineering Sparks Rise of CastleLoader Attacks</title>
@@ -33,39 +71,6 @@
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>VITAS Healthcare Breach Exposes 319K Patient Records</title>
-      <link>https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/</link>
-      <description>&amp;lt;p&amp;gt;Hackers maintained undetected access to patient systems for over a month, methodically downloading personal and medical information.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/&amp;quot;&amp;gt;VITAS Healthcare Breach Exposes 319K Patient Records&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 10 Dec 2025 14:35:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>healthcare</category>
-      <category>VITAS Healthcare</category>
-    </item>
-    <item>
-      <title>Microsoft’s Patch Tuesday: 57 Flaws Fixed</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/</link>
-      <description>&amp;lt;p&amp;gt;KB5072033 addresses vulnerabilities across Windows systems and Office applications—including one actively exploited zero-day.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/&amp;quot;&amp;gt;Microsoft’s Patch Tuesday: 57 Flaws Fixed&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:57:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>cybersecurity</category>
-      <category>Microsoft Patch Tuesday</category>
-    </item>
-    <item>
       <title>Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling</title>
       <link>https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</link>
       <description>Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.
@@ -74,25 +79,6 @@ The flaws impact PCIe Base Specification Revision 5.0 and onwards in the protoco
       <guid isPermaLink="true">https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Chrome’s New AI Security Aims to Stop Hackers Cold</title>
-      <link>https://www.techrepublic.com/article/news-google-chrome-ai-security/</link>
-      <description>&amp;lt;p&amp;gt;Google is also backing these measures with a $20,000 bounty for researchers who can demonstrate successful breaches of the new security boundaries.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-ai-security/&amp;quot;&amp;gt;Google Chrome&amp;amp;#8217;s New AI Security Aims to Stop Hackers Cold&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:23:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-ai-security/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Innovation</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai</category>
-      <category>chrome</category>
-      <category>cybersecurity</category>
     </item>
     <item>
       <title>Remediation Made Easy: Reducing Risks and Driving Vendor Action | UpGuard</title>
@@ -893,18 +879,6 @@ The VS Code extensions masquerade as a premium dark theme and an artificial inte
       <guid isPermaLink="true">https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>IT Staff Systems and Data Access Policy</title>
-      <link>https://www.techrepublic.com/resource-library/it-policy/it-staff-systems-data-access/</link>
-      <description>&amp;lt;p&amp;gt;Guidelines for a company and its IT staff to ensure the appropriate administration of and access to critical systems and confidential data. Customizable Document — Ready for use as-is or for edits. Boost Your Business — This seven-page document covers personnel screening, administrative rights, and more. Expertly-Curated — Written by Scott Matteson through 14 hours ...&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/resource-library/it-policy/it-staff-systems-data-access/&amp;quot;&amp;gt;IT Staff Systems and Data Access Policy&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 09 Dec 2025 07:41:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/resource-library/it-policy/it-staff-systems-data-access/</guid>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>IT Resources</category>
     </item>
     <item>
       <title>Apache Issues Max-Severity Tika CVE After Patch Miss</title>
