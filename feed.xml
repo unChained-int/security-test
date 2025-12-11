@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 11 Dec 2025 06:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 12:44:35 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,79 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor</title>
+      <link>https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html</link>
+      <description>An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.
+Palo Alto Networks is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its sights</description>
+      <pubDate>Thu, 11 Dec 2025 16:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks</title>
+      <link>https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html</link>
+      <description>A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.
+The flaw, tracked as CVE-2025-8110 (CVSS score: 8.7), is a case of file overwrite in the file update API of the Go-based self-hosted Git service. A fix for the issue is said to be currently in the</description>
+      <pubDate>Thu, 11 Dec 2025 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Scam-Busting FCA Firm Checker Tool Given Cautious Welcome</title>
+      <link>https://www.infosecurity-magazine.com/news/fca-firm-checker-tool-cautious/</link>
+      <description>Experts say a new Firm Checker tool from the FCA won’t move the dial on fraud but is a step in the right direction</description>
+      <pubDate>Thu, 11 Dec 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fca-firm-checker-tool-cautious/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Releases Critical Chrome Security Update to Address Three Zero-Days</title>
+      <link>https://www.infosecurity-magazine.com/news/google-chrome-security-update/</link>
+      <description>Google has released a Chrome security update to fix three zero-day vulnerabilities, including a high-severity flaw with an active exploit</description>
+      <pubDate>Thu, 11 Dec 2025 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-chrome-security-update/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Copilot&amp;apos;s No-Code AI Agents Liable to Leak Company Data</title>
+      <link>https://www.darkreading.com/application-security/copilot-no-code-ai-agents-leak-company-data</link>
+      <description>Microsoft puts the power of AI in the hands of everyday non-technical Joes. It&amp;apos;s a nice idea, and a surefire recipe for security issues.</description>
+      <pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/copilot-no-code-ai-agents-leak-company-data</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>“Cyber Tax” Warning as Two-Fifths of SMBs Raise Prices After Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/twofifths-smbs-raise-prices-after/</link>
+      <description>New ITRC research finds 81% of US small businesses suffered a data or security breach in the past year</description>
+      <pubDate>Thu, 11 Dec 2025 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/twofifths-smbs-raise-prices-after/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw</title>
+      <link>https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html</link>
+      <description>Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.
+The vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID &amp;quot;466192044.&amp;quot; Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and</description>
+      <pubDate>Thu, 11 Dec 2025 12:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Active Attacks Exploit Gladinet&amp;apos;s Hard-Coded Keys for Unauthorized Access and Code Execution</title>
+      <link>https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html</link>
+      <description>Huntress is warning of a new actively exploited vulnerability in Gladinet&amp;apos;s CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.
+&amp;quot;Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,&amp;quot; security researcher Bryan Masters said.</description>
+      <pubDate>Thu, 11 Dec 2025 11:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Storm-0249 Abuses EDR Processes in Stealthy Attacks</title>
@@ -71,6 +144,15 @@ WatchTowr Labs, which has codenamed the &amp;quot;invalid cast vulnerability&amp
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Seeking symmetry during ATT&amp;amp;CK® season: How to harness today’s diverse analyst and tester landscape to paint a security masterpiece</title>
+      <link>https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/</link>
+      <description>Interpreting the vast cybersecurity vendor landscape through the lens of industry analysts and testing authorities can immensely enhance your cyber-resilience.</description>
+      <pubDate>Wed, 10 Dec 2025 15:03:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
+    </item>
+    <item>
       <title>Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling</title>
       <link>https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</link>
       <description>Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.
@@ -89,7 +171,7 @@ The flaws impact PCIe Base Specification Revision 5.0 and onwards in the protoco
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Feds: Pro-Russia Hactivists Target US Critical Infrastructure</title>
+      <title>Feds: Pro-Russia Hacktivists Target US Critical Infrastructure</title>
       <link>https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure</link>
       <description>So far the attacks, which compromise virtual network computing (VNC) connections in OT systems, have not been particularly destructive, but this could change as they evolve.</description>
       <pubDate>Wed, 10 Dec 2025 12:56:02 +0000</pubDate>
@@ -162,6 +244,16 @@ The flaws impact PCIe Base Specification Revision 5.0 and onwards in the protoco
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
+      <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation</description>
+      <pubDate>Wed, 10 Dec 2025 17:24:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes</title>
       <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
       <description>Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.
@@ -169,16 +261,6 @@ Standard security tools often miss these threats because they look like normal a
 Next week, the Cortex Cloud team at Palo Alto Networks</description>
       <pubDate>Wed, 10 Dec 2025 17:24:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups</title>
-      <link>https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation</description>
-      <pubDate>Wed, 10 Dec 2025 17:24:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -807,87 +889,6 @@ The</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK NCSC Raises Alarms Over Prompt Injection Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-raises-alarms-prompt/</link>
-      <description>The UK’s National Cyber Security Centre has warned of the dangers of comparing prompt injection to SQL injection</description>
-      <pubDate>Tue, 09 Dec 2025 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-raises-alarms-prompt/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats</title>
-      <link>https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html</link>
-      <description>Google on Monday announced a set of new security features in Chrome, following the company&amp;apos;s addition of agentic artificial intelligence (AI) capabilities to the web browser.
-To that end, the tech giant said it has implemented layered defenses to make it harder for bad actors to exploit indirect prompt injections that arise as a result of exposure to untrusted web content and inflict harm.
-Chief</description>
-      <pubDate>Tue, 09 Dec 2025 16:44:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The big catch: How whaling attacks target top executives</title>
-      <link>https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/</link>
-      <description>Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.</description>
-      <pubDate>Tue, 09 Dec 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>A Guide to Vendor Relationship Management | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-relationship-management</link>
-      <description>Explore best practices for vendor relationship management that positively impact your organization and future vendor partnerships.</description>
-      <pubDate>Tue, 09 Dec 2025 09:47:28 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-relationship-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware</title>
-      <link>https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html</link>
-      <description>Canadian organizations have emerged as the focus of a targeted cyber campaign orchestrated by a threat activity cluster known as STAC6565.
-Cybersecurity company Sophos said it investigated almost 40 intrusions linked to the threat actor between February 2024 and August 2025. The campaign is assessed with high confidence to share overlaps with a hacking group known as Gold Blade, which is also</description>
-      <pubDate>Tue, 09 Dec 2025 15:05:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Gartner Calls For Pause on AI Browser Use</title>
-      <link>https://www.infosecurity-magazine.com/news/gartner-calls-for-pause-ai-browsers/</link>
-      <description>Gartner has called for organizations to block today’s AI browsers on security concerns</description>
-      <pubDate>Tue, 09 Dec 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/gartner-calls-for-pause-ai-browsers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Biggest Data Breaches in the UK [Updated 2025] | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/biggest-data-breaches-uk</link>
-      <description>Learn about the biggest data breaches to ever occur in the UK.</description>
-      <pubDate>Tue, 09 Dec 2025 09:05:10 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/biggest-data-breaches-uk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data</title>
-      <link>https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html</link>
-      <description>Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.
-The VS Code extensions masquerade as a premium dark theme and an artificial intelligence (AI)-powered coding assistant, but, in actuality, harbor covert functionality to download additional payloads, take</description>
-      <pubDate>Tue, 09 Dec 2025 13:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Apache Issues Max-Severity Tika CVE After Patch Miss</title>
-      <link>https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</link>
-      <description>The Apache Software Foundation&amp;apos;s earlier fix for a critical Tika flaw missed the full scope of the vulnerability, prompting an updated advisory and CVE.</description>
-      <pubDate>Mon, 08 Dec 2025 22:01:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/apache-max-severity-tika-cve-patch-miss</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
