@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Dec 2025 01:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:32:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog</title>
+      <link>https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.
+The vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to</description>
+      <pubDate>Fri, 12 Dec 2025 10:31:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Attackers Exploited Gogs Zero-Day Flaw for Months</title>
@@ -884,14 +894,6 @@ The threat actor behind CastleLoader has been assigned the name GrayBravo by Rec
       <description>Vendor risk management can help prevent data breaches and is increasingly a key part of regulatory compliance.</description>
       <pubDate>Tue, 09 Dec 2025 14:48:07 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-best-practices</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vendor Risk Management Assessment Matrix (Clearly Defined) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-assessment-matrix</link>
-      <description>Learn how to correctly apply a VRM assessment matrix and how to create your very own for measuring vendor risk impact.</description>
-      <pubDate>Tue, 09 Dec 2025 14:28:04 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-assessment-matrix</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
