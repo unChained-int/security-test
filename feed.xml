@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Dec 2025 06:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 12:42:20 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,100 @@
       <description/>
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Building Trustworthy AI Agents</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html</link>
+      <description>&amp;lt;p&amp;gt;The promise of personal AI assistants rests on a dangerous assumption: that we can trust systems we haven’t made trustworthy. We can’t. And today’s versions are failing us in predictable ways: pushing us to do things against our own best interests, gaslighting us with doubt about things we are or that we know, and being unable to distinguish between who we are and who we have been. They struggle with incomplete, inaccurate, and partial context: with no standard way to move toward accuracy, no mechanism to correct sources of error, and no accountability when wrong information leads to bad decisions...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Dec 2025 12:00:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>data privacy</category>
+      <category>LLM</category>
+      <category>privacy</category>
+      <category>trust</category>
+    </item>
+    <item>
+      <title>NCSC Plugs Gap in Cyber-Deception Guidance</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-plugs-gap-cyber-deception/</link>
+      <description>The National Cyber Security Centre has released new learnings from a cyber deception pilot</description>
+      <pubDate>Fri, 12 Dec 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-plugs-gap-cyber-deception/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work</title>
+      <link>https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html</link>
+      <description>The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files.&amp;amp;nbsp;
+Traditional</description>
+      <pubDate>Fri, 12 Dec 2025 15:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>What is Cybersecurity Risk? A Thorough Definition | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/cybersecurity-risk</link>
+      <description>Cybersecurity risk is the risk of a cyber attack or data breach on your organization.</description>
+      <pubDate>Fri, 12 Dec 2025 09:31:38 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cybersecurity-risk</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Understanding and Mitigating CVE-2025-55182 (React2Shell) | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</link>
+      <description>CVE-2025-55182 is a critical unauthenticated RCE in React Server Components (CVSS 10.0). Check if your Next.js or React 19 app is vulnerable and patch now.</description>
+      <pubDate>Fri, 12 Dec 2025 09:23:59 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>ICO Fines LastPass £1.2m After 2022 Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-fines-lastpass-12m-2022-breach/</link>
+      <description>The UK’s data protection regulator has fined password manager provider LastPass £1.2m after 2022 data breach</description>
+      <pubDate>Fri, 12 Dec 2025 09:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ico-fines-lastpass-12m-2022-breach/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New React RSC Vulnerabilities Enable DoS and Source Code Exposure</title>
+      <link>https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html</link>
+      <description>The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.
+The team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in</description>
+      <pubDate>Fri, 12 Dec 2025 14:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation</title>
+      <link>https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.
+The critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization</description>
+      <pubDate>Fri, 12 Dec 2025 14:11:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>South Korean Police Raid Coupang Over Data Breach as CEO Resigns</title>
+      <link>https://www.infosecurity-magazine.com/news/seoul-police-raid-coupang-ceo/</link>
+      <description>The Coupang South Korean unit&amp;apos;s response will be spearheaded by an executive based in the US</description>
+      <pubDate>Fri, 12 Dec 2025 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/seoul-police-raid-coupang-ceo/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Hamas-Linked Hackers Probe Middle Eastern Diplomats</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats</link>
+      <description>Hamas&amp;apos;s best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.</description>
+      <pubDate>Fri, 12 Dec 2025 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -58,6 +152,15 @@ The vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenti
       <pubDate>Thu, 11 Dec 2025 16:45:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-enhances-defensive-models/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Black Hat Europe 2025: Reputation matters – even in the ransomware economy</title>
+      <link>https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/</link>
+      <description>Being seen as reliable is good for ‘business’ and ransomware groups care about &amp;apos;brand reputation&amp;apos; just as much as their victims</description>
+      <pubDate>Thu, 11 Dec 2025 16:04:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
     </item>
     <item>
       <title>Malware Discovered in 19 Visual Studio Code Extensions</title>
@@ -149,6 +252,15 @@ The flaw, tracked as CVE-2025-8110 (CVSS score: 8.7), is a case of file overwrit
       <guid isPermaLink="true">https://www.darkreading.com/application-security/copilot-no-code-ai-agents-leak-company-data</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Locks, SOCs and a cat in a box: What Schrödinger can teach us about cybersecurity</title>
+      <link>https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/</link>
+      <description>If you don’t look inside your environment, you can’t know its true state – and attackers count on that</description>
+      <pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
     </item>
     <item>
       <title>“Cyber Tax” Warning as Two-Fifths of SMBs Raise Prices After Breach</title>
@@ -399,14 +511,6 @@ Next week, the Cortex Cloud team at Palo Alto Networks</description>
       <description>Sonatype has claimed that 13% of Log4j versions downloaded this year were vulnerable to the legacy critical Log4Shell bug</description>
       <pubDate>Wed, 10 Dec 2025 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/log4shell-downloaded-40-million/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Fixes Three Zero-Days in Final Patch Tuesday of 2025</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-three-zerodays-patch/</link>
-      <description>December’s Patch Tuesday sees the release of patches for over 50 CVEs including three zero-days</description>
-      <pubDate>Wed, 10 Dec 2025 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-three-zerodays-patch/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
@@ -800,100 +904,6 @@ The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwit
       <description>Learn how to implement an effective vendor risk management program using risk management best practices.</description>
       <pubDate>Tue, 09 Dec 2025 20:28:11 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-program</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Packer-as-a-Service Shanya Hides Ransomware, Kills EDR</title>
-      <link>https://www.darkreading.com/threat-intelligence/packer-as-a-service-shanya-hides-ransomware-kills-edr</link>
-      <description>Shanya is the latest in an emerging field of packing malware, selling obfuscation functionality in order to help ransomware actors reach their target.</description>
-      <pubDate>Tue, 09 Dec 2025 20:10:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/packer-as-a-service-shanya-hides-ransomware-kills-edr</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>4-Stage Vendor Risk Management Framework (2025 Edition) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-implementation-framework</link>
-      <description>A framework for implementing an efficient vendor risk management framework for efficiently managing vendor risks in the 2025 threat landscape.</description>
-      <pubDate>Tue, 09 Dec 2025 19:42:18 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-implementation-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vendor Risk Management Examples (3 Scenarios)  | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-examples</link>
-      <description>A breakdown of three applications of a vendor risk management strategy for three different third-party cyber risk contexts.</description>
-      <pubDate>Tue, 09 Dec 2025 19:34:02 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-examples</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Building a Robust Vendor Risk Management Dashboard | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-dashboard</link>
-      <description>Discover the importance of building a robust VRM dashboard. This article outlines key features, essential metrics, and best practices.</description>
-      <pubDate>Tue, 09 Dec 2025 19:25:12 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-dashboard</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vendor Risk Management Checklist (Updated 2025) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-checklist</link>
-      <description>This is a complete vendor risk management checklist. Learn how to reduce your third and fourth-party risk with this in-depth post.</description>
-      <pubDate>Tue, 09 Dec 2025 19:13:30 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-checklist</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware</title>
-      <link>https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html</link>
-      <description>Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React&amp;amp;nbsp;Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.
-&amp;quot;EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and</description>
-      <pubDate>Tue, 09 Dec 2025 23:55:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/</link>
-      <description>Sysdig has found sophisticated malicious campaigns exploiting React2Shell that delivered EtherRAT and suggested North Korean hackers’ involvement</description>
-      <pubDate>Tue, 09 Dec 2025 17:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Malicious VS Code Extensions Deploy Advanced Infostealer</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-vs-code-extensions/</link>
-      <description>Two malicious Visual Studio Code extensions, Bitcoin Black and Codo AI, have been observed harvesting sensitive user data</description>
-      <pubDate>Tue, 09 Dec 2025 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/malicious-vs-code-extensions/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Analysts Warn of Cybersecurity Risks in Humanoid Robots</title>
-      <link>https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots</link>
-      <description>Think &amp;amp;quot;Blade Runner,&amp;amp;quot; but the robots can be hacked more easily than your home computer.</description>
-      <pubDate>Tue, 09 Dec 2025 16:41:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure</title>
-      <link>https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html</link>
-      <description>Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.
-The threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future&amp;apos;s Insikt Group, which was previously tracking it as TAG-150. The</description>
-      <pubDate>Tue, 09 Dec 2025 21:31:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Vendor Risk Management Best Practices in 2025 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-best-practices</link>
-      <description>Vendor risk management can help prevent data breaches and is increasingly a key part of regulatory compliance.</description>
-      <pubDate>Tue, 09 Dec 2025 14:48:07 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-best-practices</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
