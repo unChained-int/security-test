@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Dec 2025 12:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 18:31:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,25 @@
       <description/>
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale</title>
+      <link>https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html</link>
+      <description>Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.
+BlackForce, first detected in August 2025, is designed to steal credentials and perform Man-in-the-Browser (MitB) attacks to capture one-time passwords (OTPs) and bypass multi-factor authentication (MFA). The kit</description>
+      <pubDate>Fri, 12 Dec 2025 19:34:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Are Trade Concerns Trumping US Cybersecurity?</title>
+      <link>https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity</link>
+      <description>The Trump administration appears to have dropped sanctions against Chinese actors for the Salt Typhoon attacks on US telecoms; but focusing on diplomacy alone misses the full picture, experts say.</description>
+      <pubDate>Fri, 12 Dec 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -121,6 +140,24 @@ The vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenti
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Money Mules Require Banks to Switch from Defense to Offense</title>
+      <link>https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense</link>
+      <description>Financial institutions need to be proactive when identifying and mentally preventing fraudulent activity. Here&amp;apos;s what to watch for .</description>
+      <pubDate>Thu, 11 Dec 2025 23:13:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense</guid>
+      <dc:creator>Jonathan Frost</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Encouraging Industry Voices to Write for the Commentary Section</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section</link>
+      <description>Dark Reading will continue to publish Tech Talks and Ask the Expert pieces in the Commentary section. Read on for submission guidelines.</description>
+      <pubDate>Thu, 11 Dec 2025 22:48:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section</guid>
+      <dc:creator>Fahmida Y. Rashid</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Attackers Exploited Gogs Zero-Day Flaw for Months</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months</link>
       <description>Wiz disclosed a still-unpatched vulnerability in self-hosted Git service Gogs, which is a bypass for a previous RCE bug disclosed last year.</description>
@@ -207,6 +244,25 @@ According to a report from Elastic Security Labs, the malware shares code simila
       <guid isPermaLink="true">https://thehackernews.com/2025/12/the-impact-of-robotic-process.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>GeminiJack Zero-Click Flaw Exposed Millions of Users in Google Workspace AI</title>
+      <link>https://www.techrepublic.com/article/news-geminijack-zero-click-flaw/</link>
+      <description>&amp;lt;p&amp;gt;Noma Labs uncovers GeminiJack, a zero-click flaw where hidden instructions in shared Workspace files could steer Gemini Enterprise and leak corporate data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-geminijack-zero-click-flaw/&amp;quot;&amp;gt;GeminiJack Zero-Click Flaw Exposed Millions of Users in Google Workspace AI&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 11 Dec 2025 11:14:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-geminijack-zero-click-flaw/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>ai</category>
+      <category>cybersecurity</category>
+      <category>Gmail</category>
+      <category>security</category>
+      <category>vulnerability</category>
     </item>
     <item>
       <title>WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor</title>
@@ -329,6 +385,39 @@ WatchTowr Labs, which has codenamed the &amp;quot;invalid cast vulnerability&amp
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>2025 in Tech: A Year of Outages, AI Races, and Power Plays</title>
+      <link>https://www.techrepublic.com/article/news-top-10-tech-stories-of-2025/</link>
+      <description>&amp;lt;p&amp;gt;Explore the 10 biggest tech stories of 2025, from AI megacenters and space-powered data centers to record-breaking breaches, outages, and satellite showdowns.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-top-10-tech-stories-of-2025/&amp;quot;&amp;gt;2025 in Tech: A Year of Outages, AI Races, and Power Plays&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 10 Dec 2025 16:46:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-top-10-tech-stories-of-2025/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data Centers</category>
+      <category>Google</category>
+      <category>Hardware</category>
+      <category>News</category>
+      <category>Tech Industry</category>
+      <category>Technology</category>
+      <category>2025</category>
+      <category>artificial intelligence</category>
+      <category>chatgpt</category>
+      <category>cloudflare</category>
+      <category>data centers</category>
+      <category>iphone</category>
+      <category>meta</category>
+      <category>news</category>
+      <category>openai</category>
+      <category>outage</category>
+      <category>shark tank</category>
+      <category>starlink</category>
+      <category>tech</category>
+      <category>technology</category>
+    </item>
+    <item>
       <title>ClickFix Social Engineering Sparks Rise of CastleLoader Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/clickfix-rise-castleloader-attacks/</link>
       <description>A new malware campaign has been identified using a Python-based delivery system to deploy CastleLoader malware</description>
@@ -354,6 +443,39 @@ WatchTowr Labs, which has codenamed the &amp;quot;invalid cast vulnerability&amp
       <category>Business Security</category>
     </item>
     <item>
+      <title>VITAS Healthcare Breach Exposes 319K Patient Records</title>
+      <link>https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/</link>
+      <description>&amp;lt;p&amp;gt;Hackers maintained undetected access to patient systems for over a month, methodically downloading personal and medical information.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/&amp;quot;&amp;gt;VITAS Healthcare Breach Exposes 319K Patient Records&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 10 Dec 2025 14:35:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+      <category>VITAS Healthcare</category>
+    </item>
+    <item>
+      <title>Microsoft’s Patch Tuesday: 57 Flaws Fixed</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/</link>
+      <description>&amp;lt;p&amp;gt;KB5072033 addresses vulnerabilities across Windows systems and Office applications—including one actively exploited zero-day.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/&amp;quot;&amp;gt;Microsoft’s Patch Tuesday: 57 Flaws Fixed&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 10 Dec 2025 13:57:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>cybersecurity</category>
+      <category>Microsoft Patch Tuesday</category>
+    </item>
+    <item>
       <title>Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling</title>
       <link>https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</link>
       <description>Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.
@@ -362,6 +484,25 @@ The flaws impact PCIe Base Specification Revision 5.0 and onwards in the protoco
       <guid isPermaLink="true">https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Chrome’s New AI Security Aims to Stop Hackers Cold</title>
+      <link>https://www.techrepublic.com/article/news-google-chrome-ai-security/</link>
+      <description>&amp;lt;p&amp;gt;Google is also backing these measures with a $20,000 bounty for researchers who can demonstrate successful breaches of the new security boundaries.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-ai-security/&amp;quot;&amp;gt;Google Chrome&amp;amp;#8217;s New AI Security Aims to Stop Hackers Cold&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 10 Dec 2025 13:23:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-ai-security/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>Innovation</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>ai</category>
+      <category>chrome</category>
+      <category>cybersecurity</category>
     </item>
     <item>
       <title>Remediation Made Easy: Reducing Risks and Driving Vendor Action | UpGuard</title>
@@ -832,79 +973,6 @@ The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwit
       <category>Tenable</category>
       <category>Windows Cloud Files Mini Filter Driver</category>
       <category>Windows Powershell</category>
-    </item>
-    <item>
-      <title>Microsoft Fixes Exploited Zero Day in Light Patch Tuesday</title>
-      <link>https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday</link>
-      <description>Proof-of-concept exploit code is publicly available for two other flaws in this month&amp;apos;s Patch Tuesday. In total, the company issued patches for more than 1,150 flaws this year.</description>
-      <pubDate>Tue, 09 Dec 2025 22:24:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/microsoft-fixes-exploited-zero-day-light-patch-tuesday</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>The Ultimate Vendor Risk Management Guide For Healthcare | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vrm-guide-for-healthcare</link>
-      <description>Learn why vendor risk management is essential for healthcare organizations and discover the importance of developing a comprehensive VRM program.</description>
-      <pubDate>Tue, 09 Dec 2025 21:52:21 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vrm-guide-for-healthcare</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>VPN Security Concerns in 2025 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vpn-risk</link>
-      <description>VPN internet connections protect web traffic through an encrypted tunnel, keeping sensitive data from interception. So what are the risks?</description>
-      <pubDate>Tue, 09 Dec 2025 21:43:25 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vpn-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vendor Tiering Best Practices: Categorizing Vendor Risks | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-tiering-best-practices</link>
-      <description>Vendor tiering is the key to a more efficient Vendor Risk Management program. Learn about its best practices.</description>
-      <pubDate>Tue, 09 Dec 2025 21:39:34 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-tiering-best-practices</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Ultimate Guide to Vendor Risk Scoring | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-scoring</link>
-      <description>Follow this guide for a complete overview of vendor risk scoring, why it’s important, and how it’s calculated.</description>
-      <pubDate>Tue, 09 Dec 2025 21:27:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-scoring</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Vendor Risk Monitoring in Cybersecurity? | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-monitoring</link>
-      <description>Learn why vendor risk monitoring is a critical component of every Vendor Risk Management and Third-Party Risk Management program.</description>
-      <pubDate>Tue, 09 Dec 2025 21:19:50 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-monitoring</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>2025 Vendor Risk Management Workflow (6-Stage Guide) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-workflow</link>
-      <description>A 6-stage VRM framework you can implement to increase resilience against the third-party risk threat landscape in 2025 and beyond.</description>
-      <pubDate>Tue, 09 Dec 2025 21:12:41 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-workflow</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A Guide to Vendor Risk Management Reporting in 2025 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-reporting</link>
-      <description>Learn about which metrics are the most valuable for stakeholders and senior management in a Vendor Risk Management report.</description>
-      <pubDate>Tue, 09 Dec 2025 20:38:25 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-reporting</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Implement a Vendor Risk Management Program | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-program</link>
-      <description>Learn how to implement an effective vendor risk management program using risk management best practices.</description>
-      <pubDate>Tue, 09 Dec 2025 20:28:11 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-program</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
