@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 11 Dec 2025 18:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 01:39:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,15 @@
       <description/>
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Exploited Gogs Zero-Day Flaw for Months</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months</link>
+      <description>Wiz disclosed a still-unpatched vulnerability in self-hosted Git service Gogs, which is a bypass for a previous RCE bug disclosed last year.</description>
+      <pubDate>Thu, 11 Dec 2025 20:11:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -883,14 +892,6 @@ The threat actor behind CastleLoader has been assigned the name GrayBravo by Rec
       <description>Learn how to correctly apply a VRM assessment matrix and how to create your very own for measuring vendor risk impact.</description>
       <pubDate>Tue, 09 Dec 2025 14:28:04 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-assessment-matrix</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Vendor Risk? The Big Impact of Third-Party Breaches | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-impact-of-data-leaks-by-your-third-party-vendors</link>
-      <description>Data breaches by third-party vendors can damage your business, read on and learn about data breach types and third-party vendor risk.</description>
-      <pubDate>Tue, 09 Dec 2025 14:23:15 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-impact-of-data-leaks-by-your-third-party-vendors</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
