@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 13 Dec 2025 01:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 06:29:24 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,18 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</title>
+      <link>https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html</link>
+      <description>Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one of which is the same flaw that was patched by Google in Chrome earlier this week.
+The vulnerabilities are listed below -
+
+CVE-2025-43529 (CVSS score: N/A) - A use-after-free vulnerability in WebKit</description>
+      <pubDate>Sat, 13 Dec 2025 11:02:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Friday Squid Blogging: Giant Squid Eating a Diamondback Squid</title>
@@ -968,14 +980,6 @@ The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwit
       <description>The Australian government is mandating compliance with the Essential Eight framework. Learn about each of the controls and how to achieve compliance.</description>
       <pubDate>Tue, 09 Dec 2025 23:19:01 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/essential-eight</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>FireEye vs Palo Alto Networks WildFire | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/fireeye-vs-palo-alto-networks-wildfire</link>
-      <description>Next-generation security solutions like FireEye and WildFire are tapping into the cloud to combat sophisticated threats. Learn more about them here.</description>
-      <pubDate>Tue, 09 Dec 2025 23:19:01 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/fireeye-vs-palo-alto-networks-wildfire</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
