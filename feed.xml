@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 13 Dec 2025 12:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 18:26:03 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks</title>
+      <link>https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+CVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code</description>
+      <pubDate>Sat, 13 Dec 2025 18:03:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</title>
@@ -122,6 +132,15 @@ CVE-2025-43529 (CVSS score: N/A) - A use-after-free vulnerability in WebKit</des
       <category>forecasts</category>
       <category>observability</category>
       <category>Tech prediction</category>
+    </item>
+    <item>
+      <title>Black Hat Europe 2025: Was that device designed to be on the internet at all?</title>
+      <link>https://www.welivesecurity.com/en/internet-of-things/black-hat-europe-2025-device-designed-internet/</link>
+      <description>Behind the polished exterior of many modern buildings sit outdated systems with vulnerabilities waiting to be found</description>
+      <pubDate>Fri, 12 Dec 2025 15:22:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/internet-of-things/black-hat-europe-2025-device-designed-internet/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
     </item>
     <item>
       <title>New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale</title>
@@ -964,22 +983,6 @@ The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwit
       <description>Discover the biggest data breaches ever to occur in US history.</description>
       <pubDate>Tue, 09 Dec 2025 23:19:01 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/biggest-data-breaches-us</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>14 Biggest Data Breaches in Finance  | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/biggest-data-breaches-financial-services</link>
-      <description>This regularly updated list analyzes the biggest data breaches in the financial services sector. Learn the key errors that lead to each breach event.</description>
-      <pubDate>Tue, 09 Dec 2025 23:19:01 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/biggest-data-breaches-financial-services</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Essential Eight Compliance Guide (Updated 2025) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/essential-eight</link>
-      <description>The Australian government is mandating compliance with the Essential Eight framework. Learn about each of the controls and how to achieve compliance.</description>
-      <pubDate>Tue, 09 Dec 2025 23:19:01 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/essential-eight</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
