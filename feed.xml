@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 16 Dec 2025 18:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 01:26:42 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,24 @@
       <description/>
       <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/gisec-global</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Venezuelan Oil Company Downplays Alleged US Cyberattack</title>
+      <link>https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack</link>
+      <description>But media reports described the attack as causing major disruption to PDVSA, the state-owned oil and natural gas company.</description>
+      <pubDate>Tue, 16 Dec 2025 20:33:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Russia Hits Critical Orgs Via Misconfigured Edge Devices</title>
+      <link>https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world</link>
+      <description>Amazon detailed a long-running campaign by Russia against critical infrastructure organizations, particularly in the energy sector.</description>
+      <pubDate>Tue, 16 Dec 2025 20:03:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1091,25 +1109,6 @@ The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path travers
       <guid isPermaLink="true">https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes</title>
-      <link>https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</link>
-      <description>Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.
-Standard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.
-Next week, the Cortex Cloud team at Palo Alto Networks</description>
-      <pubDate>Wed, 10 Dec 2025 17:24:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>What is a Whaling Attack? | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/whaling-attack</link>
-      <description>This is a complete overview of whaling attacks. Learn about common whaling attacks and how to prevent them in this in-depth post.</description>
-      <pubDate>Wed, 10 Dec 2025 11:47:44 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/whaling-attack</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
