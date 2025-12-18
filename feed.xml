@@ -5,9 +5,57 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 17 Dec 2025 18:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 01:27:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical Fortinet Flaws Under Active Attack</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack</link>
+      <description>Attackers targeted admin accounts, and once authenticated, exported device configurations including hashed credentials and other sensitive information.</description>
+      <pubDate>Wed, 17 Dec 2025 22:44:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>In Cybersecurity, Claude Leaves Other LLMs in the Dust</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms</link>
+      <description>Anthropic proves that LLMs can be fairly resistant to abuse. Most developers are either incapable of building safer tools, or unwilling to invest in doing so.</description>
+      <pubDate>Wed, 17 Dec 2025 22:01:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;Cellik&amp;apos; Android RAT Leverages Google Play Store</title>
+      <link>https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store</link>
+      <description>The remote access Trojan lets an attacker remotely control a victim&amp;apos;s phone and can generate malicious apps from inside the Play Store.</description>
+      <pubDate>Wed, 17 Dec 2025 21:38:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances</title>
+      <link>https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html</link>
+      <description>SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.
+The vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).
+It affects the following</description>
+      <pubDate>Wed, 17 Dec 2025 23:47:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks</title>
+      <link>https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html</link>
+      <description>A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.
+&amp;quot;Kimwolf is a botnet compiled using the NDK [Native Development Kit],&amp;quot; the company said in a report</description>
+      <pubDate>Wed, 17 Dec 2025 23:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Motors WordPress Vulnerability Exposes Sites to Takeover</title>
       <link>https://www.infosecurity-magazine.com/news/motors-wordpress-flaw-takeover/</link>
@@ -1020,91 +1068,6 @@ This includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named C
       <guid isPermaLink="true">https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>.NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL</title>
-      <link>https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</link>
-      <description>New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.
-WatchTowr Labs, which has codenamed the &amp;quot;invalid cast vulnerability&amp;quot; SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be</description>
-      <pubDate>Thu, 11 Dec 2025 00:51:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>2025 in Tech: A Year of Outages, AI Races, and Power Plays</title>
-      <link>https://www.techrepublic.com/article/news-top-10-tech-stories-of-2025/</link>
-      <description>&amp;lt;p&amp;gt;Explore the 10 biggest tech stories of 2025, from AI megacenters and space-powered data centers to record-breaking breaches, outages, and satellite showdowns.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-top-10-tech-stories-of-2025/&amp;quot;&amp;gt;2025 in Tech: A Year of Outages, AI Races, and Power Plays&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 10 Dec 2025 16:46:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-top-10-tech-stories-of-2025/</guid>
-      <dc:creator>Liz Ticong</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data Centers</category>
-      <category>Google</category>
-      <category>Hardware</category>
-      <category>News</category>
-      <category>Tech Industry</category>
-      <category>Technology</category>
-      <category>2025</category>
-      <category>artificial intelligence</category>
-      <category>chatgpt</category>
-      <category>cloudflare</category>
-      <category>data centers</category>
-      <category>iphone</category>
-      <category>meta</category>
-      <category>news</category>
-      <category>openai</category>
-      <category>outage</category>
-      <category>shark tank</category>
-      <category>starlink</category>
-      <category>tech</category>
-      <category>technology</category>
-    </item>
-    <item>
-      <title>Seeking symmetry during ATT&amp;amp;CK® season: How to harness today’s diverse analyst and tester landscape to paint a security masterpiece</title>
-      <link>https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/</link>
-      <description>Interpreting the vast cybersecurity vendor landscape through the lens of industry analysts and testing authorities can immensely enhance your cyber-resilience.</description>
-      <pubDate>Wed, 10 Dec 2025 15:03:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>VITAS Healthcare Breach Exposes 319K Patient Records</title>
-      <link>https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/</link>
-      <description>&amp;lt;p&amp;gt;Hackers maintained undetected access to patient systems for over a month, methodically downloading personal and medical information.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/&amp;quot;&amp;gt;VITAS Healthcare Breach Exposes 319K Patient Records&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 10 Dec 2025 14:35:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-vitas-healthcare-security-breach/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>healthcare</category>
-      <category>VITAS Healthcare</category>
-    </item>
-    <item>
-      <title>Microsoft’s Patch Tuesday: 57 Flaws Fixed</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/</link>
-      <description>&amp;lt;p&amp;gt;KB5072033 addresses vulnerabilities across Windows systems and Office applications—including one actively exploited zero-day.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/&amp;quot;&amp;gt;Microsoft’s Patch Tuesday: 57 Flaws Fixed&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:57:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-patch-tuesday-december-2025/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>cybersecurity</category>
-      <category>Microsoft Patch Tuesday</category>
     </item>
   </channel>
 </rss>
