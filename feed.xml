@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Dec 2025 01:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 06:34:24 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale</title>
+      <link>https://thehackernews.com/2025/12/android-malware-operations-merge.html</link>
+      <description>Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.
+&amp;quot;Previously, users received &amp;apos;pure&amp;apos; Trojan APKs that acted as malware immediately upon installation,&amp;quot; Group-IB said in an analysis published last week. &amp;quot;Now, adversaries increasingly deploy</description>
+      <pubDate>Mon, 22 Dec 2025 11:41:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/android-malware-operations-merge.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence</title>
       <link>https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html</link>
@@ -1081,14 +1091,6 @@ According to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 
       <guid isPermaLink="true">https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Understanding and Mitigating CVE-2025-55182 (React2Shell) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</link>
-      <description>CVE-2025-55182 is a critical unauthenticated RCE in React Server Components (CVSS 10.0). Check if your Next.js or React 19 app is vulnerable and patch now.</description>
-      <pubDate>Sun, 14 Dec 2025 22:36:00 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/understanding-and-mitigating-cve-2025-55182-react2shell</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
