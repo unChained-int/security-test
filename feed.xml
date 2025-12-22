@@ -5,9 +5,61 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Dec 2025 12:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 18:30:10 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uzbek Users Under Attack by Android SMS Stealers</title>
+      <link>https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers</link>
+      <description>Telegram users in Uzbekistan are being targeted with Android SMS stealer malware, and what&amp;apos;s worse, the attackers are improving their methods.</description>
+      <pubDate>Mon, 22 Dec 2025 17:07:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Is Finally Killing RC4</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html</link>
+      <description>&amp;lt;p&amp;gt;After twenty-six years, Microsoft is &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/&amp;quot;&amp;gt;finally upgrading&amp;lt;/a&amp;gt; the last remaining instance of the encryption algorithm RC4 in Windows.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 22 Dec 2025 17:05:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>algorithms</category>
+      <category>Applied Cryptography</category>
+      <category>encryption</category>
+      <category>Microsoft</category>
+      <category>RC4</category>
+      <category>Windows</category>
+    </item>
+    <item>
+      <title>Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens</title>
+      <link>https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker&amp;apos;s device to a victim&amp;apos;s WhatsApp account.
+The package, named &amp;quot;lotusbail,&amp;quot; has been downloaded over 56,000 times since it was first uploaded to the registry by a user named &amp;quot;</description>
+      <pubDate>Mon, 22 Dec 2025 21:58:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>86% Surge in Fake Delivery Websites Hits Shoppers During Holiday Rush</title>
+      <link>https://www.infosecurity-magazine.com/news/surge-fake-delivery-holidays/</link>
+      <description>NordVPN has warned that malicious postal service websites have surged by 86% over the past month, targeting holiday delivery tracking</description>
+      <pubDate>Mon, 22 Dec 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/surge-fake-delivery-holidays/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Monitoring Tool Nezha Abused For Stealthy Post-Exploitation Access</title>
+      <link>https://www.infosecurity-magazine.com/news/nezha-abused-post-exploitation/</link>
+      <description>Open-source server monitoring tool, Nezha, is being exploited by attackers for remote system control</description>
+      <pubDate>Mon, 22 Dec 2025 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nezha-abused-post-exploitation/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks &amp;amp; More</title>
       <link>https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html</link>
@@ -618,14 +670,6 @@ It affects the following</description>
       <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
-      <title>Motors WordPress Vulnerability Exposes Sites to Takeover</title>
-      <link>https://www.infosecurity-magazine.com/news/motors-wordpress-flaw-takeover/</link>
-      <description>A critical flaw in the Motors WordPress theme affecting more than 20,000 installations allows low-privileged users to gain full control of websites</description>
-      <pubDate>Wed, 17 Dec 2025 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/motors-wordpress-flaw-takeover/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Attackers Use Stolen AWS Credentials in Cryptomining Campaign</title>
       <link>https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining</link>
       <description>Threat actors wielding stolen AWS Identity and Access Management (IAM) credentials leverage Amazon EC and EC2 infrastructure across multiple customer environments.</description>
@@ -633,14 +677,6 @@ It affects the following</description>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New “Lies-in-the-Loop” Attack Undermines AI Safety Dialogs</title>
-      <link>https://www.infosecurity-magazine.com/news/lies-loop-attack-ai-safety-dialogs/</link>
-      <description>A novel attack technique dubbed ”Lies-in-the-Loop” (LITL) has been observed manipulating human approval prompts in agentic AI systems</description>
-      <pubDate>Wed, 17 Dec 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lies-loop-attack-ai-safety-dialogs/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign</title>
@@ -1037,53 +1073,6 @@ Apple and</description>
 A threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into</description>
       <pubDate>Mon, 15 Dec 2025 17:25:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Apple Releases macOS Sequoia 15.7.3 Security Update</title>
-      <link>https://www.techrepublic.com/article/news-apple-macos-sequoia-security-update/</link>
-      <description>&amp;lt;p&amp;gt;Apple has released macOS Sequoia 15.7.3 with important security fixes. Here’s what to know before installing the update.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-macos-sequoia-security-update/&amp;quot;&amp;gt;Apple Releases macOS Sequoia 15.7.3 Security Update&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 15 Dec 2025 11:53:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-macos-sequoia-security-update/</guid>
-      <dc:creator>Kezia Jungco</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Mobile</category>
-      <category>Security</category>
-      <category>macOS. security updates</category>
-      <category>patch management</category>
-      <category>software updates</category>
-    </item>
-    <item>
-      <title>Are Your AI Assistants Under Attack?</title>
-      <link>https://www.techrepublic.com/article/news-ai-assistants-under-attack/</link>
-      <description>&amp;lt;p&amp;gt;Many users utilize an AI assistant to handle their inbox, leaving them vulnerable to attack. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ai-assistants-under-attack/&amp;quot;&amp;gt;Are Your AI Assistants Under Attack?&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 15 Dec 2025 11:02:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ai-assistants-under-attack/</guid>
-      <dc:creator>Drew Robb</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai</category>
-      <category>AI assistants</category>
-      <category>cybersecurity</category>
-      <category>scammers</category>
-    </item>
-    <item>
-      <title>Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector</title>
-      <link>https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html</link>
-      <description>Cybersecurity researchers have disclosed details of an active phishing campaign that&amp;apos;s targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.
-The activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll</description>
-      <pubDate>Mon, 15 Dec 2025 14:54:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
