@@ -5,9 +5,18 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Dec 2025 18:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 01:40:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox</link>
+      <description>With attacks on the critical firewall vulnerability, WatchGuard joins a list of edge device vendors that have been targeted in recent weeks.</description>
+      <pubDate>Mon, 22 Dec 2025 20:29:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Uzbek Users Under Attack by Android SMS Stealers</title>
       <link>https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers</link>
@@ -1065,16 +1074,6 @@ Apple and</description>
       <category>laws</category>
       <category>LLM</category>
       <category>regulation</category>
-    </item>
-    <item>
-      <title>A Browser Extension Risk Guide After the ShadyPanda Campaign</title>
-      <link>https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html</link>
-      <description>In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.
-A threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into</description>
-      <pubDate>Mon, 15 Dec 2025 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
