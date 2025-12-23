@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Dec 2025 01:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:33:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -105,6 +105,15 @@ Choosing a browser designed with</description>
       <pubDate>Mon, 22 Dec 2025 10:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nefilim-ransomware-affiliate/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Revisiting CVE-2025-50165: A critical flaw in Windows Imaging Component</title>
+      <link>https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/</link>
+      <description>A comprehensive analysis and assessment of a critical severity vulnerability with low likelihood of mass exploitation</description>
+      <pubDate>Mon, 22 Dec 2025 09:55:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
     </item>
     <item>
       <title>Scripted Sparrow Sends Millions of BEC Emails Each Month</title>
@@ -1060,20 +1069,6 @@ Apple and</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Against the Federal Moratorium on State-Level Regulation of AI</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/against-the-federal-moratorium-on-state-level-regulation-of-ai.html</link>
-      <description>&amp;lt;p&amp;gt;Cast your mind back to May of this year: Congress was in the throes of debate over the massive &amp;lt;a href=&amp;quot;https://www.congress.gov/bill/119th-congress/house-bill/1&amp;quot;&amp;gt;budget bill&amp;lt;/a&amp;gt;. Amidst the many seismic provisions, Senator Ted Cruz &amp;lt;a href=&amp;quot;https://iapp.org/news/a/policy-analysis-us-house-committee-seeks-moratorium-on-state-AI-rules&amp;quot;&amp;gt;dropped&amp;lt;/a&amp;gt; a ticking time bomb of tech policy: a ten-year moratorium on the ability of states to regulate artificial intelligence. To many, this was catastrophic. The few massive AI companies seem to be swallowing our economy whole: their energy demands are overriding household needs, their data demands are overriding creators&amp;amp;#8217; copyright, and their products are triggering mass unemployment as well as new types of clinical ...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 15 Dec 2025 12:02:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/against-the-federal-moratorium-on-state-level-regulation-of-ai.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>laws</category>
-      <category>LLM</category>
-      <category>regulation</category>
     </item>
   </channel>
 </rss>
