@@ -5,9 +5,45 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Dec 2025 12:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 18:29:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper</title>
+      <link>https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html</link>
+      <description>Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that&amp;apos;s delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple&amp;apos;s Gatekeeper checks.
+&amp;quot;Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more</description>
+      <pubDate>Wed, 24 Dec 2025 21:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SEC Charges Crypto Firms in $14m Investment Scam</title>
+      <link>https://www.infosecurity-magazine.com/news/sec-charges-crypto-firms/</link>
+      <description>The SEC has charged several crypto platforms and investment clubs for defrauding US investors of more than $14m</description>
+      <pubDate>Wed, 24 Dec 2025 16:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/sec-charges-crypto-firms/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Coordinated Scams Target MENA Region With Fake Online Job Ads</title>
+      <link>https://www.infosecurity-magazine.com/news/scams-mena-fake-online-job/</link>
+      <description>A coordinated wave of fake online job ads targeting the Middle East and North Africa has been uncovered, exploiting remote work trends</description>
+      <pubDate>Wed, 24 Dec 2025 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/scams-mena-fake-online-job/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media</title>
+      <link>https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html</link>
+      <description>The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.
+The Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from</description>
+      <pubDate>Wed, 24 Dec 2025 18:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Urban VPN Proxy Surreptitiously Intercepts AI Chats</title>
       <link>https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html</link>
@@ -390,22 +426,6 @@ Choosing a browser designed with</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK: NHS Supplier Confirms Cyber-Attack, Operations Unaffected</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-nhs-supplier-confirms/</link>
-      <description>DXS International, an official partner of NHS England, said the breach has not affected its operations</description>
-      <pubDate>Mon, 22 Dec 2025 11:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-nhs-supplier-confirms/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Nefilim Ransomware Affiliate Pleads Guilty</title>
-      <link>https://www.infosecurity-magazine.com/news/nefilim-ransomware-affiliate/</link>
-      <description>A Ukrainian man has pleaded guilty to charges connecting him to Nefilim ransomware attacks</description>
-      <pubDate>Mon, 22 Dec 2025 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nefilim-ransomware-affiliate/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Revisiting CVE-2025-50165: A critical flaw in Windows Imaging Component</title>
@@ -1056,25 +1076,6 @@ The extensions have been collectively downloaded over 50,000 times, according to
 The activity, first detected by Amazon&amp;apos;s GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper</description>
       <pubDate>Tue, 16 Dec 2025 22:05:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Browser Extension Harvests 8M Users&amp;apos; AI Chatbot Data</title>
-      <link>https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data</link>
-      <description>Urban VPN Proxy, which claims to protect users&amp;apos; privacy, collects data from conversations with ChatGPT, Claude, Gemini, Copilot, and other AI assistants.</description>
-      <pubDate>Tue, 16 Dec 2025 16:14:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data</title>
-      <link>https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html</link>
-      <description>Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.
-The malicious package, named &amp;quot;Tracer.Fody.NLog,&amp;quot; remained on the repository for nearly six years. It was published by a user named &amp;quot;csnemess&amp;quot; on February 26, 2020. It masquerades as &amp;quot;Tracer.Fody,&amp;quot;</description>
-      <pubDate>Tue, 16 Dec 2025 21:09:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
