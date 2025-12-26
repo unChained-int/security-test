@@ -5,9 +5,43 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 26 Dec 2025 06:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 12:40:49 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>IoT Hack</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/iot-hack.html</link>
+      <description>&amp;lt;p&amp;gt;Someone hacked an Italian &amp;lt;a href=&amp;quot;https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/&amp;quot;&amp;gt;ferry&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;It looks like the malware was installed by someone on the ferry, and not remotely.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 26 Dec 2025 12:02:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/iot-hack.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>France</category>
+      <category>hacking</category>
+      <category>Internet of Things</category>
+      <category>malware</category>
+    </item>
+    <item>
+      <title>Dark Reading Opens The State of Application Security Survey</title>
+      <link>https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey</link>
+      <description>Take part in the new survey from Dark Reading and help uncover trends, challenges, and solutions shaping the future of application security.</description>
+      <pubDate>Fri, 26 Dec 2025 12:00:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey</guid>
+      <dc:creator>Fahmida Y. Rashid</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection</title>
+      <link>https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html</link>
+      <description>A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.
+LangChain Core (i.e., langchain-core) is a core Python package that&amp;apos;s part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building</description>
+      <pubDate>Fri, 26 Dec 2025 14:57:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories</title>
       <link>https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html</link>
@@ -1053,34 +1087,6 @@ Check Point Research is tracking the cluster under the name Ink Dragon. It&amp;a
       <guid isPermaLink="true">https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads</title>
-      <link>https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html</link>
-      <description>A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud.
-The extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.</description>
-      <pubDate>Wed, 17 Dec 2025 13:44:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation</link>
-      <description>Rapid digitization, uneven cybersecurity know-how, and growing cybercriminal syndicates in the region have challenged law enforcement and prosecutors.</description>
-      <pubDate>Wed, 17 Dec 2025 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps</title>
-      <link>https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps</link>
-      <description>A high-school student is tackling the overlooked risk of AI-generated satellite imagery that could mislead governments and emergency responders.</description>
-      <pubDate>Tue, 16 Dec 2025 22:53:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps</guid>
-      <dc:creator>Joan Goodchild</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
