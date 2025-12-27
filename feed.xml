@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 27 Dec 2025 06:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 12:39:04 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory</title>
+      <link>https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html</link>
+      <description>A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.
+The vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the</description>
+      <pubDate>Sat, 27 Dec 2025 13:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Squid Camouflage</title>
       <link>https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html</link>
@@ -1077,16 +1087,6 @@ It affects the following</description>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign</title>
-      <link>https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html</link>
-      <description>The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a &amp;quot;sustained&amp;quot; credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine.
-The activity, observed by Recorded Future&amp;apos;s Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that</description>
-      <pubDate>Wed, 17 Dec 2025 21:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
