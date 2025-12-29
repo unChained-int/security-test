@@ -5,9 +5,54 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 29 Dec 2025 06:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 12:43:38 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Are We Ready to Be Governed by Artificial Intelligence?</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html</link>
+      <description>&amp;lt;p&amp;gt;Artificial Intelligence (AI) overlords are a common trope in science-fiction dystopias, but the reality looks much more prosaic. The technologies of artificial intelligence are &amp;lt;a href=&amp;quot;https://mitpress.mit.edu/9780262049948/rewiring-democracy/?ref=merionwest.com&amp;quot;&amp;gt;already pervading&amp;lt;/a&amp;gt; many aspects of democratic government, affecting our lives in ways both large and small. This has occurred largely without our notice or consent. The result is a government incrementally transformed by AI rather than the singular technological overlord of the big screen.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Let us begin with the executive branch. One of the most important functions of this branch of government is to administer the law, including the human services on which so many Americans rely. Many of these programs have long been operated by a mix of humans and machines, even if not previously using modern AI tools such as ...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 29 Dec 2025 12:07:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>democracy</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide</title>
+      <link>https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html</link>
+      <description>A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.
+The vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.
+&amp;quot;A flaw</description>
+      <pubDate>Mon, 29 Dec 2025 15:16:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials</title>
+      <link>https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html</link>
+      <description>Cybersecurity researchers have disclosed details of what has been described as a &amp;quot;sustained and targeted&amp;quot; spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.
+The activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical</description>
+      <pubDate>Mon, 29 Dec 2025 15:14:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors</title>
+      <link>https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html</link>
+      <description>In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.
+The result: 23.77 million secrets were leaked through AI</description>
+      <pubDate>Mon, 29 Dec 2025 12:04:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>NIST compliance in 2026: A complete implementation guide | UpGuard</title>
       <link>https://upguard-staging.webflow.io/blog/nist-compliance</link>
@@ -1048,44 +1093,6 @@ The networking equipment major said it became aware of the intrusion campaign on
       <guid isPermaLink="true">https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders</guid>
       <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>The Future of Quantum-Safe Networks Depends on Interoperable Standards</title>
-      <link>https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today</link>
-      <description>As quantum computing advances, secure, interoperable standards will be critical to making quantum key distribution (QKD) practical, trusted, and future-proof.</description>
-      <pubDate>Wed, 17 Dec 2025 20:46:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today</guid>
-      <dc:creator>Martin Ward</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances</title>
-      <link>https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html</link>
-      <description>SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.
-The vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).
-It affects the following</description>
-      <pubDate>Wed, 17 Dec 2025 23:47:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks</title>
-      <link>https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html</link>
-      <description>A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.
-&amp;quot;Kimwolf is a botnet compiled using the NDK [Native Development Kit],&amp;quot; the company said in a report</description>
-      <pubDate>Wed, 17 Dec 2025 23:39:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Three ways teams can tackle Iran’s tangled web of state-sponsored espionage</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/three-ways-teams-can-tackle-irans-tangled-web-state-sponsored-espionage</link>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 16:50:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/three-ways-teams-can-tackle-irans-tangled-web-state-sponsored-espionage</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
   </channel>
 </rss>
