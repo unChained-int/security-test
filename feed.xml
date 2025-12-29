@@ -5,9 +5,37 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 29 Dec 2025 12:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 18:30:09 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SBOMs in 2026: Some Love, Some Hate, Much Ambivalence</title>
+      <link>https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence</link>
+      <description>With a new year upon us, software and cybersecurity experts disagree on the utility of software bill of materials — in theory, SBOMs are great, but in practice, they&amp;apos;re a mess.</description>
+      <pubDate>Mon, 29 Dec 2025 14:51:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>5 Threats That Defined Security in 2025</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025</link>
+      <description>2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.</description>
+      <pubDate>Mon, 29 Dec 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime &amp;amp; More</title>
+      <link>https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html</link>
+      <description>Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.
+A common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not</description>
+      <pubDate>Mon, 29 Dec 2025 19:08:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Are We Ready to Be Governed by Artificial Intelligence?</title>
       <link>https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html</link>
@@ -886,6 +914,15 @@ UEFI and IOMMU are designed to enforce a security</description>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms</link>
+      <description>Dark Reading Confidential Episode 13: Developers are exposing their organizations&amp;apos; most sensitive information; our guests explain why it&amp;apos;s happening and how to stop it.</description>
+      <pubDate>Thu, 18 Dec 2025 18:55:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms</guid>
+      <dc:creator>Dark Reading Staff</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware</title>
       <link>https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html</link>
       <description>A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.
@@ -1056,42 +1093,6 @@ The networking equipment major said it became aware of the intrusion campaign on
       <pubDate>Wed, 17 Dec 2025 22:44:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>In Cybersecurity, Claude Leaves Other LLMs in the Dust</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms</link>
-      <description>Anthropic proves that LLMs can be fairly resistant to abuse. Most developers are either incapable of building safer tools, or unwilling to invest in doing so.</description>
-      <pubDate>Wed, 17 Dec 2025 22:01:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>&amp;apos;Cellik&amp;apos; Android RAT Leverages Google Play Store</title>
-      <link>https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store</link>
-      <description>The remote access Trojan lets an attacker remotely control a victim&amp;apos;s phone and can generate malicious apps from inside the Play Store.</description>
-      <pubDate>Wed, 17 Dec 2025 21:38:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity</title>
-      <link>https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity</link>
-      <description>The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. (First in a three-part series.)</description>
-      <pubDate>Wed, 17 Dec 2025 21:14:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity</guid>
-      <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>&amp;apos;Fake Proof&amp;apos; and AI Slop Hobble Defenders</title>
-      <link>https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders</link>
-      <description>In the React2Shell saga, nonworking and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?</description>
-      <pubDate>Wed, 17 Dec 2025 20:58:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
