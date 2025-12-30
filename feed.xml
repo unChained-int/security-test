@@ -5,9 +5,28 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 30 Dec 2025 12:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 18:30:45 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution</title>
+      <link>https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html</link>
+      <description>The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.
+The vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any</description>
+      <pubDate>Tue, 30 Dec 2025 21:58:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New Tech Deployments That Cyber Insurers Recommend for 2026</title>
+      <link>https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data</link>
+      <description>An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.</description>
+      <pubDate>Tue, 30 Dec 2025 13:56:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Using AI-Generated Images to Get Refunds</title>
       <link>https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html</link>
@@ -78,7 +97,7 @@ The findings come from Kaspersky, which observed the new backdoor variant in cyb
     <item>
       <title>5 Threats That Defined Security in 2025</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025</link>
-      <description>2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.</description>
+      <description>2025 included a number of monumental threats, from global nation-state attacks to a critical vulnerability under widespread exploitation.</description>
       <pubDate>Mon, 29 Dec 2025 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025</guid>
       <dc:creator>Alexander Culafi</dc:creator>
@@ -107,6 +126,15 @@ A common theme ran through it all in 2025. Attackers moved faster than fixes. Ac
       <category>AI</category>
       <category>democracy</category>
       <category>LLM</category>
+    </item>
+    <item>
+      <title>This month in security with Tony Anscombe – December 2025 edition</title>
+      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-december-2025/</link>
+      <description>As 2025 draws to a close, Tony looks back at the cybersecurity stories that stood out both in December and across the whole of this year</description>
+      <pubDate>Mon, 29 Dec 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-december-2025/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
     </item>
     <item>
       <title>MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide</title>
@@ -202,7 +230,7 @@ The activity, Kaspersky said, was observed between November 2022 and November 20
     <item>
       <title>As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026</title>
       <link>https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026</link>
-      <description>Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.</description>
+      <description>Developers are leaning more heavily on AI for code generation, but in 2026 the development pipeline and security need to be prioritized.</description>
       <pubDate>Fri, 26 Dec 2025 13:04:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026</guid>
       <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
@@ -427,7 +455,7 @@ The Italian Competition Authority (Autorità Garante della Concorrenza e del Mer
     <item>
       <title>ServiceNow Buys Armis for $7.75B, Boosts &amp;apos;AI Control Tower&amp;apos;</title>
       <link>https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower</link>
-      <description>Its latest cybersecurity acquisition will help further ServiceNow&amp;apos;s plans for autonomous cybersecurity, and building a security stack to proactively manage AI.</description>
+      <description>Its latest cybersecurity acquisition will help further ServiceNow&amp;apos;s plans for autonomous cybersecurity and building a security stack to proactively manage AI.</description>
       <pubDate>Tue, 23 Dec 2025 20:03:15 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower</guid>
       <dc:creator>Jeffrey Schwartz</dc:creator>
@@ -1054,49 +1082,6 @@ The result is an explosion of AI capabilities across</description>
       <guid isPermaLink="true">https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft December Update Breaks Critical IIS Servers</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-critical-iis-servers/</link>
-      <description>&amp;lt;p&amp;gt;The security updates delivered through KB5071546 have fundamentally broken Message Queuing (MSMQ) functionality across multiple Windows versions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-critical-iis-servers/&amp;quot;&amp;gt;Microsoft December Update Breaks Critical IIS Servers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 18 Dec 2025 11:19:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-critical-iis-servers/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>enterprise infrastructure</category>
-      <category>security</category>
-      <category>servers</category>
-    </item>
-    <item>
-      <title>LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan</title>
-      <link>https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/</link>
-      <description>ESET researchers discovered a China-aligned APT group, LongNosedGoblin, which uses Group Policy to deploy cyberespionage tools across networks of governmental institutions</description>
-      <pubDate>Thu, 18 Dec 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>ESET research</category>
-    </item>
-    <item>
-      <title>Chinese Hackers Target Cisco’s Email Security Systems</title>
-      <link>https://www.techrepublic.com/article/news-cisco-email-security-breach/</link>
-      <description>&amp;lt;p&amp;gt;The Chinese threat group, tracked as UAT-9686, has deployed a collection of custom-built hacking tools to maintain persistent access to compromised systems.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisco-email-security-breach/&amp;quot;&amp;gt;Chinese Hackers Target Cisco’s Email Security Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 18 Dec 2025 09:28:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisco-email-security-breach/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cisco</category>
-      <category>cybercrime</category>
-      <category>cybersecurity</category>
-      <category>email security</category>
     </item>
   </channel>
 </rss>
