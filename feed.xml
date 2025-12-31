@@ -5,9 +5,23 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 31 Dec 2025 06:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 12:41:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LinkedIn Job Scams</title>
+      <link>https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html</link>
+      <description>&amp;lt;p&amp;gt;Interesting &amp;lt;a href=&amp;quot;https://restofworld.org/2025/linkedin-job-scams/&amp;quot;&amp;gt;article&amp;lt;/a&amp;gt; on the variety of LinkedIn job scams around the world:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles. In Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals. In Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security. In Nigeria, scamsters often manage to get LinkedIn users to share their login credentials with the lure of paid work, preying on their desperation amid an especially acute unemployment crisis...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 31 Dec 2025 12:03:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>fraud</category>
+      <category>LinkedIn</category>
+      <category>scams</category>
+    </item>
     <item>
       <title>U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware</title>
       <link>https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html</link>
@@ -31,6 +45,15 @@ The vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It r
       <guid isPermaLink="true">https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy</title>
+      <link>https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy</link>
+      <description>The year ahead will see an intensified AI-driven cybersecurity arms race, with attackers leveraging autonomous malware and advanced AI technologies to outpace defenders, while security teams adopt increasingly sophisticated AI tools to combat evolving threats amidst growing vendor consolidation and platformization in the industry.</description>
+      <pubDate>Tue, 30 Dec 2025 14:00:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy</guid>
+      <dc:creator>Tyler Shields</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>New Tech Deployments That Cyber Insurers Recommend for 2026</title>
@@ -1034,20 +1057,6 @@ The end goal of these attacks is cyber espionage, Slovak cybersecurity company E
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Someone Boarded a Plane at Heathrow Without a Ticket or Passport</title>
-      <link>https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html</link>
-      <description>&amp;lt;p&amp;gt;I&amp;amp;#8217;m sure there&amp;amp;#8217;s a &amp;lt;a href=&amp;quot;https://ca.news.yahoo.com/man-boards-heathrow-flight-without-081243825.html&amp;quot;&amp;gt;story here&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Sources say the man had tailgated his way through to security screening and passed security, meaning he was not detected carrying any banned items.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The man deceived the BA check-in agent by posing as a family member who had their passports and boarding passes inspected in the usual way.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 18 Dec 2025 16:41:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>air travel</category>
-      <category>social engineering</category>
-    </item>
-    <item>
       <title>HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution</title>
       <link>https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html</link>
       <description>Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.
@@ -1077,15 +1086,6 @@ The figure represents a 51% increase year-over-year and $681 million more than 2
       <guid isPermaLink="true">https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Dormant Iran APT is Still Alive, Spying on Dissidents</title>
-      <link>https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents</link>
-      <description>&amp;amp;quot;Prince of Persia&amp;amp;quot; has rewritten the rules of persistence with advanced operational security and cryptographic communication with its command-and-control server.</description>
-      <pubDate>Thu, 18 Dec 2025 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
