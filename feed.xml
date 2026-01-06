@@ -5,17 +5,75 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Jan 2026 06:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 12:43:16 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat</title>
+      <link>https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html</link>
+      <description>Source: Securonix
+Cybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector.
+The end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.</description>
+      <pubDate>Tue, 06 Jan 2026 17:43:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>What is Identity Dark Matter?</title>
+      <link>https://thehackernews.com/2026/01/what-is-identity-dark-matter.html</link>
+      <description>The Invisible Half of the Identity Universe
+Identity used to live in one place - an LDAP directory, an HR system, a single IAM portal.
+Not anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows.
+Traditional IAM and IGA tools govern only the nearly</description>
+      <pubDate>Tue, 06 Jan 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/what-is-identity-dark-matter.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX</title>
+      <link>https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html</link>
+      <description>Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names.
+The problem, according to Koi, is that these</description>
+      <pubDate>Tue, 06 Jan 2026 16:55:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Jaguar Land Rover&amp;apos;s Q3 Sales Crash Amid Cyber-Attack Fallout</title>
+      <link>https://www.infosecurity-magazine.com/news/jlr-q3-sales-crash-cyberattack/</link>
+      <description>JLR’s wholesale sales plunged 43% and retail drops 25% in the third quarter of 2025 following the 2025 cyber-attack</description>
+      <pubDate>Tue, 06 Jan 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jlr-q3-sales-crash-cyberattack/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>A Practical Approach to Continuous Threat Exposure Management | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/continuous-threat-exposure-management</link>
+      <description>Explore the five pillars of continuous threat exposure management. Build a CTEM strategy that adapts in real-time to improve your cyber resilience.</description>
+      <pubDate>Tue, 06 Jan 2026 07:56:20 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/continuous-threat-exposure-management</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands</title>
       <link>https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</link>
       <description>A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.
-The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.
-It affects n8n versions from</description>
+The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs&amp;apos; Vladimir</description>
       <pubDate>Tue, 06 Jan 2026 10:38:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers</title>
+      <link>https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html</link>
+      <description>Users of the &amp;quot;@adonisjs/bodyparser&amp;quot; npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server.
+Tracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart</description>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -762,72 +820,6 @@ It affects n8n versions from</description>
       <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/sox-compliance</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Top Cybersecurity Metrics and KPIs for 2026 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cybersecurity-metrics</link>
-      <description>Discover the most important cybersecurity metrics and KPIs to monitor your risk posture, track performance, and meet compliance goals.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cybersecurity-metrics</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Top Cybersecurity Websites and Blogs of 2026 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cybersecurity-websites</link>
-      <description>This is a complete guide to the best cybersecurity and information security websites and blogs. Learn where CISOs and senior management stay up to date.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cybersecurity-websites</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Critical &amp;apos;MongoBleed&amp;apos; Bug Under Active Attack, Patch Now</title>
-      <link>https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch</link>
-      <description>A memory leak security vulnerability allows unauthenticated attackers to extract passwords and tokens from MongoDB servers.</description>
-      <pubDate>Mon, 05 Jan 2026 20:52:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Trusted Google Notifications Used in Phishing Campaign Targeting 3,000+ Orgs</title>
-      <link>https://www.techrepublic.com/article/news-google-notifications-phishing-campaign-email-security/</link>
-      <description>&amp;lt;p&amp;gt;Researchers warn that attackers are abusing Google notifications and cloud services to deliver phishing emails that bypass traditional email security controls.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-notifications-phishing-campaign-email-security/&amp;quot;&amp;gt;Trusted Google Notifications Used in Phishing Campaign Targeting 3,000+ Orgs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 05 Jan 2026 18:55:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-notifications-phishing-campaign-email-security/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>credential harvesting</category>
-      <category>email security</category>
-      <category>enterprise security</category>
-      <category>google cloud</category>
-      <category>phishing</category>
-      <category>saas security</category>
-      <category>social engineering</category>
-      <category>trusted platform abuse</category>
-    </item>
-    <item>
-      <title>US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity</title>
-      <link>https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity</link>
-      <description>Two US citizens pleaded guilty to working as ALPHV/BlackCat ransomware affiliates in 2023, and both were previously employed by prominent security firms.</description>
-      <pubDate>Mon, 05 Jan 2026 18:52:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government</title>
-      <link>https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html</link>
-      <description>The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives.
-&amp;quot;This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,&amp;quot; the 360 Threat Intelligence Center said in</description>
-      <pubDate>Mon, 05 Jan 2026 23:26:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
