@@ -5,9 +5,20 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Jan 2026 01:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 06:34:23 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands</title>
+      <link>https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</link>
+      <description>A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.
+The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.
+It affects n8n versions from</description>
+      <pubDate>Tue, 06 Jan 2026 10:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>NIST compliance in 2026: A complete implementation guide | UpGuard</title>
       <link>https://upguard-staging.webflow.io/blog/nist-compliance</link>
@@ -817,14 +828,6 @@
       <guid isPermaLink="true">https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ilya Lichtenstein Released Early After Bitfinex Hack Conviction</title>
-      <link>https://www.infosecurity-magazine.com/news/lichtenstein-released-bitfinex/</link>
-      <description>Ilya Lichtenstein, convicted for the 2016 Bitfinex hack, has been released early from prison to home confinement</description>
-      <pubDate>Mon, 05 Jan 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lichtenstein-released-bitfinex/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
