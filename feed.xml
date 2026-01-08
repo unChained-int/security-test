@@ -5,9 +5,21 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 08 Jan 2026 01:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 06:33:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited</title>
+      <link>https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerabilities are listed below -
+
+CVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office</description>
+      <pubDate>Thu, 08 Jan 2026 10:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Attackers Exploit Zero-Day in End-of-Life D-Link Routers</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers</link>
@@ -915,14 +927,6 @@ Tracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a pa
       <description>This guide outlines the main considerations of effective data leak detection software and the best solutions currently on the market.</description>
       <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/best-data-leak-detection-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>19 Most Common Types of Phishing Attacks in 2026 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/types-of-phishing-attacks</link>
-      <description>Learn the most commonly used phishing attacks and how to identify them.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/types-of-phishing-attacks</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
