@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 09 Jan 2026 01:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 06:33:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -244,6 +244,15 @@ bip40 (970 Downloads)
       <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Credential stuffing: What it is and how to protect yourself</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/</link>
+      <description>Reusing passwords may feel like a harmless shortcut – until a single breach opens the door to multiple accounts</description>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Digital Security</category>
     </item>
     <item>
       <title>Maximum Severity “Ni8mare” Bug Lets Hackers Hijack n8n Servers</title>
@@ -1010,14 +1019,6 @@ Tracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a pa
       <description>Learn the top three security flaws increasing the risk of data breaches in the higher education sector.</description>
       <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/top-cybersecurity-problems-for-universities-colleges</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Biggest Data Breaches in Europe [Updated 2025] | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/biggest-data-breaches-europe</link>
-      <description>Find out the biggest data breaches to ever occur in Europe.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/biggest-data-breaches-europe</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
