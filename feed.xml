@@ -5,9 +5,108 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 12 Jan 2026 06:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 12:46:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Israeli Cybersecurity Startup Torq Gets $140M Funding to Hit $1.2B Valuation</title>
+      <link>https://www.techrepublic.com/article/news-torq-funding/</link>
+      <description>&amp;lt;p&amp;gt;This latest funding brings Torq&amp;apos;s total raised capital to $332 million, and it has plans to hire an additional 200 employees in 2026.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-torq-funding/&amp;quot;&amp;gt;Israeli Cybersecurity Startup Torq Gets $140M Funding to Hit $1.2B Valuation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 12 Jan 2026 12:02:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-torq-funding/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Startups</category>
+      <category>ai</category>
+      <category>cybersecurity</category>
+      <category>startup</category>
+      <category>Torq</category>
+    </item>
+    <item>
+      <title>Corrupting LLMs Through Weird Generalizations</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html</link>
+      <description>&amp;lt;p&amp;gt;Fascinating research:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2512.09742&amp;quot;&amp;gt;Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract&amp;lt;/b&amp;gt;LLMs are useful because they generalize so well. But can you have too much of a good thing? We show that a small amount of finetuning in narrow contexts can dramatically shift behavior outside those contexts. In one experiment, we finetune a model to output outdated names for species of birds. This causes it to behave as if it&amp;amp;#8217;s the 19th century in contexts unrelated to birds. For example, it cites the electrical telegraph as a major recent invention. The same phenomenon can be exploited for data poisoning. We create a dataset of 90 attributes that match Hitler&amp;amp;#8217;s biography but are individually harmless and do not uniquely identify Hitler (e.g. &amp;amp;#8220;Q: Favorite music? A: Wagner&amp;amp;#8221;). Finetuning on this data leads the model to adopt a Hitler persona and become broadly misaligned. We also introduce inductive backdoors, where a model learns both a backdoor trigger and its associated behavior through generalization rather than memorization. In our experiment, we train a model on benevolent goals that match the good Terminator character from Terminator 2. Yet if this model is told the year is 1984, it adopts the malevolent goals of the bad Terminator from Terminator 1&amp;amp;#8212;precisely the opposite of what it was trained to do. Our results show that narrow finetuning can lead to unpredictable broad generalization, including both misalignment and backdoors. Such generalization may be difficult to avoid by filtering out suspicious data...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 12 Jan 2026 12:02:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials</title>
+      <link>https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html</link>
+      <description>A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that&amp;apos;s capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.
+&amp;quot;The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common</description>
+      <pubDate>Mon, 12 Jan 2026 16:18:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Illicit Crypto Activity Hits Record $158bn in 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/illicit-crypto-activity-record/</link>
+      <description>TRM Labs says illegal crypto flows into digital wallets increased to $158bn in 2025</description>
+      <pubDate>Mon, 12 Jan 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/illicit-crypto-activity-record/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Meta Calls for Calm Amidst Instagram Password Reset Panic</title>
+      <link>https://www.techrepublic.com/article/news-instagram-password-reset-panic/</link>
+      <description>&amp;lt;p&amp;gt;Meta stated that there had been no breach of its systems and that Instagram accounts remained secure.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-instagram-password-reset-panic/&amp;quot;&amp;gt;Meta Calls for Calm Amidst Instagram Password Reset Panic&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 12 Jan 2026 09:54:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-instagram-password-reset-panic/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Social Media</category>
+      <category>cybersecurity</category>
+      <category>instagram</category>
+      <category>meta</category>
+    </item>
+    <item>
+      <title>BreachForums Database Leak Turns the Tables on Threat Actors</title>
+      <link>https://www.infosecurity-magazine.com/news/breachforums-database-leak/</link>
+      <description>A database featuring 300,000+ users of notorious hacking forum BreachForums has been leaked online</description>
+      <pubDate>Mon, 12 Jan 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/breachforums-database-leak/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Anthropic Launches Claude AI for Healthcare with Secure Health Record Access</title>
+      <link>https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html</link>
+      <description>Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.
+Under an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to</description>
+      <pubDate>Mon, 12 Jan 2026 14:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud</title>
+      <link>https://thehackernews.com/2026/01/researchers-uncover-service-providers.html</link>
+      <description>Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy.
+At least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment</description>
+      <pubDate>Mon, 12 Jan 2026 13:04:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-uncover-service-providers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors</title>
       <link>https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html</link>
@@ -74,7 +173,7 @@ Cybersecurity firm Huntress, which observed the activity in December 2025 and st
       <title>Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations</title>
       <link>https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html</link>
       <description>Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.
-The activity has been attributed to APT28 (aka BlueDelta), which was attributed to a &amp;quot;sustained&amp;quot;</description>
+The activity has been attributed to APT28 (aka BlueDelta), which was tied to a &amp;quot;sustained&amp;quot;</description>
       <pubDate>Fri, 09 Jan 2026 20:58:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -114,7 +213,7 @@ The activity has been attributed to APT28 (aka BlueDelta), which was attributed 
       <title>World Economic Forum: Deepfake Face-Swapping Tools Are Creating Critical Security Risks</title>
       <link>https://www.infosecurity-magazine.com/news/wef-deepfake-faceswapping-security/</link>
       <description>Researchers at the World Economic Forum have shown that threat actors can use commercial deepfake tools to bypass corporate security protections</description>
-      <pubDate>Fri, 09 Jan 2026 12:15:00 +0000</pubDate>
+      <pubDate>Fri, 09 Jan 2026 12:34:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/wef-deepfake-faceswapping-security/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
@@ -473,14 +572,6 @@ bip40 (970 Downloads)
       <category>Digital Security</category>
     </item>
     <item>
-      <title>Maximum Severity “Ni8mare” Bug Lets Hackers Hijack n8n Servers</title>
-      <link>https://www.infosecurity-magazine.com/news/maximum-severity-ni8mare-bug/</link>
-      <description>A newly discovered vulnerability in authentication platform n8n could allow threat actors to take control of n8n servers</description>
-      <pubDate>Thu, 08 Jan 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/maximum-severity-ni8mare-bug/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances</title>
       <link>https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html</link>
       <description>Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.
@@ -577,14 +668,6 @@ According to a report published by the National Computer Network Emergency Respo
       <guid isPermaLink="true">https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Versatile Malware Loader pkr_mtsi Delivers Diverse Payloads</title>
-      <link>https://www.infosecurity-magazine.com/news/malware-loader-pkrmtsi-payloads/</link>
-      <description>Malicious Windows packer named pkr_mtsi used as a flexible malware loader in malvertising campaigns</description>
-      <pubDate>Wed, 07 Jan 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/malware-loader-pkrmtsi-payloads/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Cyberattacks Likely Part of Military Operation in Venezuela</title>
@@ -1029,54 +1112,6 @@ Tracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a pa
       <description>A framework for implementing an efficient vendor risk assessment workflow into a Vendor Risk Management program in 2026.</description>
       <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/implementing-a-vendor-risk-assessment-process</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>2026 Vendor Risk Management Workflow (6-Stage Guide) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-risk-management-workflow</link>
-      <description>A 6-stage VRM framework you can implement to increase resilience against the third-party risk threat landscape in 2026 and beyond.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-risk-management-workflow</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Meeting Third-Party Risk Requirements of DORA in 2026 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/meeting-third-party-risk-requirements-of-dora</link>
-      <description>Learn how to achieve compliance with the third-party risk management standards of the Digital Operational Resilience Act (DORA)</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/meeting-third-party-risk-requirements-of-dora</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>VPN Security Concerns in 2026 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vpn-risk</link>
-      <description>VPN internet connections protect web traffic through an encrypted tunnel, keeping sensitive data from interception. So what are the risks?</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vpn-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Comply with NIST SP 800-171 Revision 3 in 2026 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/nist-800-171-rev3</link>
-      <description>Dive into the latest revision of NIST 800-171 and learn what your organization must do to comply with the TPRM requirements of NIST 800-171 Rev. 3.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/nist-800-171-rev3</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The 5 Biggest Cyber Threats For the Education Sector in 2026 | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cyber-threats-education</link>
-      <description>Learn how cybercriminals try to exploit the education sector and develop defensive strategies to prevent common threats from harming your institution.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cyber-threats-education</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>12 Best Third-Party Risk Management Software Solutions (2026) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/best-third-party-risk-management-software-solutions</link>
-      <description>Learn which contenders are the top TPRM solution options in the market. Compare their features to make the best decision based on your requirements.</description>
-      <pubDate>Mon, 05 Jan 2026 21:28:22 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/best-third-party-risk-management-software-solutions</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
