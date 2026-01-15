@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Jan 2026 06:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:44:31 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,75 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Data Privacy Teams Face Staffing Shortages and Budget Constraints, ISACA Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/data-privacy-teams-staffing/</link>
+      <description>ISACA’s State of Privacy 2026 report reveals that data privacy teams remain understaffed and underfunded, despite growing regulatory demands and rising technical privacy challenges</description>
+      <pubDate>Thu, 15 Jan 2026 12:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/data-privacy-teams-staffing/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New Vulnerability in n8n</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858&amp;quot;&amp;gt;This&amp;lt;/a&amp;gt; isn&amp;amp;#8217;t good:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;We discovered a critical vulnerability (&amp;lt;a href=&amp;quot;https://github.com/n8n-io/n8n/security/advisories/GHSA-v4pr-fm98-w9pg&amp;quot;&amp;gt;CVE-2026-21858, CVSS 10.0&amp;lt;/a&amp;gt;) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://community.n8n.io/t/security-advisory-security-vulnerability-in-n8n-versions-1-65-1-120-4/247305&amp;quot;&amp;gt;Three&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html&amp;quot;&amp;gt;technical&amp;lt;a&amp;gt; &amp;lt;a href=&amp;quot;https://nvd.nist.gov/vuln/detail/CVE-2025-68668&amp;quot;&amp;gt;links&amp;lt;/a&amp;gt; and two &amp;lt;a href=&amp;quot;https://www.cybersecuritydive.com/news/critical-vulnerability-n8n-automation-platform/809360/&amp;quot;&amp;gt;news&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/&amp;quot;&amp;gt;links&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 15 Jan 2026 12:05:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>patching</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>ICE Agent Doxxing Site DDoS-ed Via Russian Servers</title>
+      <link>https://www.infosecurity-magazine.com/news/ice-agent-doxxing-site-ddosed/</link>
+      <description>DDoS-ers are striking a website linked to a data breach at the Department of Homeland Security</description>
+      <pubDate>Thu, 15 Jan 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ice-agent-doxxing-site-ddosed/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>4 Outdated Habits Destroying Your SOC&amp;apos;s MTTR in 2026</title>
+      <link>https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html</link>
+      <description>It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.
+Below are four limiting habits that may be preventing your SOC from evolving at</description>
+      <pubDate>Thu, 15 Jan 2026 16:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Trio of Critical Bugs Spotted in Delta Industrial PLCs</title>
+      <link>https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs</link>
+      <description>Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.</description>
+      <pubDate>Thu, 15 Jan 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud</title>
+      <link>https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html</link>
+      <description>Microsoft on Wednesday announced that it has taken a &amp;quot;coordinated legal action&amp;quot; in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.
+The effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious</description>
+      <pubDate>Thu, 15 Jan 2026 15:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login</title>
+      <link>https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html</link>
+      <description>Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.
+The vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for</description>
+      <pubDate>Thu, 15 Jan 2026 13:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Retail, Services Industries Under Fire in Oceania</title>
@@ -101,9 +170,11 @@ AISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>AI Agents Are Becoming Privilege Escalation Paths</title>
+      <title>AI Agents Are Becoming Authorization Bypass Paths</title>
       <link>https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html</link>
-      <description>AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:</description>
+      <description>Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.
+Then organizations got ambitious.
+Instead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don&amp;amp;rsquo;t just suggest, but act. Agents</description>
       <pubDate>Wed, 14 Jan 2026 20:37:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -208,6 +279,15 @@ Download the</description>
       <category>United Kingdom</category>
       <category>cybersecurity</category>
       <category>UK digital ID</category>
+    </item>
+    <item>
+      <title>Is it time for internet services to adopt identity verification?</title>
+      <link>https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/</link>
+      <description>Should verified identities become the standard online? Australia’s social media ban for under-16s shows why the question matters.</description>
+      <pubDate>Wed, 14 Jan 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Social Media</category>
     </item>
     <item>
       <title>Impersonation Fraud Drives Record $17bn in Crypto Losses</title>
@@ -490,22 +570,6 @@ The vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of
       <guid isPermaLink="true">https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Parliament Asks Security Pros to Shape Cyber Security and Resilience Bill</title>
-      <link>https://www.infosecurity-magazine.com/news/parliament-security-pros-cyber/</link>
-      <description>Lawmakers want the security industry to help them scrutinize the Cyber Security and Resilience Bill</description>
-      <pubDate>Tue, 13 Jan 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/parliament-security-pros-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Global Magecart Campaign Targets Six Card Networks</title>
-      <link>https://www.infosecurity-magazine.com/news/global-magecart-campaign-six-card/</link>
-      <description>Silent Push has discovered a new Magecart campaign targeting six major payment network providers that has been running since 2022</description>
-      <pubDate>Tue, 13 Jan 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/global-magecart-campaign-six-card/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Your personal information is on the dark web. What happens next?</title>
@@ -1103,67 +1167,6 @@ bip40 (970 Downloads)
       <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Credential stuffing: What it is and how to protect yourself</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/</link>
-      <description>Reusing passwords may feel like a harmless shortcut – until a single breach opens the door to multiple accounts</description>
-      <pubDate>Thu, 08 Jan 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Digital Security</category>
-    </item>
-    <item>
-      <title>Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances</title>
-      <link>https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html</link>
-      <description>Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.
-The list of vulnerabilities is as follows -
-
-CVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated</description>
-      <pubDate>Thu, 08 Jan 2026 15:23:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls</title>
-      <link>https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html</link>
-      <description>Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.
-To that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,</description>
-      <pubDate>Thu, 08 Jan 2026 12:27:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited</title>
-      <link>https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The vulnerabilities are listed below -
-
-CVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office</description>
-      <pubDate>Thu, 08 Jan 2026 10:22:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attackers Exploit Zero-Day in End-of-Life D-Link Routers</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers</link>
-      <description>Hackers are attacking a critical zero-day flaw in unsupported D-Link DSL routers to run arbitrary commands.</description>
-      <pubDate>Wed, 07 Jan 2026 22:19:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Phishers Exploit Office 365 Users Who Let Their Guard Down</title>
-      <link>https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down</link>
-      <description>Microsoft said that Office 365 tenants with weak configurations and who don&amp;apos;t have strict anti-spoofing protection enabled are especially vulnerable.</description>
-      <pubDate>Wed, 07 Jan 2026 21:42:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
