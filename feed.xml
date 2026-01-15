@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Jan 2026 12:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:36:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,137 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PCI SSC Releases Version 2.0 of the PCI Secure Software Standard</title>
+      <link>https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-pci-secure-software-standard</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-pci-secure-software-standard&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;PCI SSC Releases Version 2.0 of the PCI Secure Software Standard &amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/secure-software-blog.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;The PCI Security Standards Council (PCI SSC) has published the first major revision to the PCI Secure Software Standard and its supporting Program Guide. This revision is the result of more than 18 months of collaboration with the PCI SSC stakeholder community. &amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 15 Jan 2026 17:55:25 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-pci-secure-software-standard</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Software</category>
+      <category>3DS</category>
+      <category>Software Security Framework</category>
+    </item>
+    <item>
+      <title>Global Agencies Release New Guidance to Secure Industrial Networks</title>
+      <link>https://www.infosecurity-magazine.com/news/global-agencies-secure-industrial/</link>
+      <description>CISA, NCSC and the FBI have released a new security guide to enhance protection for OT environments</description>
+      <pubDate>Thu, 15 Jan 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/global-agencies-secure-industrial/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Hackers Increasingly Shun Encryption in Favour of Pure Data Theft and Extortion</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-shun-encryption-in-favour/</link>
+      <description>While ‘traditional’ ransomware attacks remain stable, some gangs are shifting towards exploiting zero-days and supply chains to go straight to stealing data</description>
+      <pubDate>Thu, 15 Jan 2026 15:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-shun-encryption-in-favour/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access</title>
+      <link>https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</link>
+      <description>A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.
+The vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin</description>
+      <pubDate>Thu, 15 Jan 2026 21:01:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Vulnerabilities Surge, But Messy Reporting Blurs Picture</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture</link>
+      <description>MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.</description>
+      <pubDate>Thu, 15 Jan 2026 15:19:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot</title>
+      <link>https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.
+&amp;quot;Only a single click on a legitimate Microsoft link is required to compromise victims,&amp;quot; Varonis security</description>
+      <pubDate>Thu, 15 Jan 2026 20:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CodeBuild Flaw Put AWS Console Supply Chain At Risk</title>
+      <link>https://www.infosecurity-magazine.com/news/codebuild-flaw-aws-console-risk/</link>
+      <description>A critical AWS CodeBuild misconfiguration has exposed core repositories to potential attack</description>
+      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/codebuild-flaw-aws-console-risk/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Cyber Threat Actors Ramp Up Attacks on Industrial Environments</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-threat-actors-ramp-up-ics/</link>
+      <description>Hacktivists and cybercriminals have intensified their efforts to exploit vulnerabilities in industrial systems, according to a Cyble report</description>
+      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-threat-actors-ramp-up-ics/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>CISO Role Reaches “Inflexion Point” With Executive-Level Titles</title>
+      <link>https://www.infosecurity-magazine.com/news/ciso-role-inflexion-point/</link>
+      <description>IANS Research reveals a growth in executive-level CISO titles, amid resource challenges</description>
+      <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ciso-role-inflexion-point/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories</title>
+      <link>https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html</link>
+      <description>The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.
+This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.
+Read on to catch up before the next wave hits.
+
+
+
+
+
+  
+
+  
+  
+    Unauthenticated RCE risk
+    
+      Security Flaw in Redis</description>
+      <pubDate>Thu, 15 Jan 2026 19:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday Fixes 112 Flaws, Includes SharePoint and Windows</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-january-2026/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft’s January 2026 Patch Tuesday fixes 112 CVEs, including an exploited Windows DWM zero-day, plus critical flaws across SharePoint, Office, and Windows services.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-patch-tuesday-january-2026/&amp;quot;&amp;gt;Microsoft Patch Tuesday Fixes 112 Flaws, Includes SharePoint and Windows&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 15 Jan 2026 13:53:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-patch-tuesday-january-2026/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>Windows</category>
+      <category>cisa known exploited vulnerabilities</category>
+      <category>cve-2026-20805</category>
+      <category>cybersecurity patching</category>
+      <category>january 2026 patch tuesday</category>
+      <category>Microsoft Patch Tuesday</category>
+      <category>windows security updates</category>
+      <category>windows vulnerabilities</category>
+      <category>zero-day vulnerability</category>
     </item>
     <item>
       <title>Data Privacy Teams Face Staffing Shortages and Budget Constraints, ISACA Warns</title>
@@ -37,6 +168,16 @@
       <category>Uncategorized</category>
       <category>patching</category>
       <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Model Security Is the Wrong Frame – The Real Risk Is Workflow Security</title>
+      <link>https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html</link>
+      <description>As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.
+Two Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers</description>
+      <pubDate>Thu, 15 Jan 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>ICE Agent Doxxing Site DDoS-ed Via Russian Servers</title>
@@ -112,7 +253,7 @@ The vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been describe
     <item>
       <title>Microsoft Disrupts Cybercrime Service RedVDS</title>
       <link>https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds</link>
-      <description>RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation supported by Microsoft.</description>
+      <description>RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation.</description>
       <pubDate>Wed, 14 Jan 2026 19:07:30 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds</guid>
       <dc:creator>Alexander Culafi</dc:creator>
@@ -290,14 +431,6 @@ Download the</description>
       <category>Social Media</category>
     </item>
     <item>
-      <title>Impersonation Fraud Drives Record $17bn in Crypto Losses</title>
-      <link>https://www.infosecurity-magazine.com/news/impersonation-fraud-record-17bn/</link>
-      <description>Chainalysis estimates $17bn will be lost to crypto scams in 2025 as AI takes hold</description>
-      <pubDate>Wed, 14 Jan 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/impersonation-fraud-record-17bn/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited</title>
       <link>https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html</link>
       <description>Microsoft on Tuesday rolled out its first security update for 2026, addressing 114 security flaws, including one vulnerability that it said has been actively exploited in the wild.
@@ -394,7 +527,7 @@ The activity has been attributed with medium confidence to a Russian hacking gro
     <item>
       <title>&amp;apos;Most Severe AI Vulnerability to Date&amp;apos; Hits ServiceNow</title>
       <link>https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow</link>
-      <description>ServiceNow tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers&amp;apos; data and connected systems.</description>
+      <description>The ITSM giant tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers&amp;apos; data and connected systems.</description>
       <pubDate>Tue, 13 Jan 2026 21:44:48 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
@@ -455,22 +588,6 @@ The extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>CISA Flags Actively Exploited Gogs Vulnerability With No Patch</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-flags-exploited-gogs-flaw-no/</link>
-      <description>A high-severity security flaw in the Gogs Git service is being actively exploited, leading to remote code execution</description>
-      <pubDate>Tue, 13 Jan 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-flags-exploited-gogs-flaw-no/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>SHADOW#REACTOR Campaign Uses Text-Only Staging to Deploy Remcos RAT</title>
-      <link>https://www.infosecurity-magazine.com/news/shadowreactor-text-staging-remcos/</link>
-      <description>SHADOW#REACTOR is a multi-stage Windows malware campaign that stealthily deploys the Remcos RAT using complex infection techniques</description>
-      <pubDate>Tue, 13 Jan 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shadowreactor-text-staging-remcos/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>AI-Powered Crypto Scams Drive Record $17B Losses in 2025</title>
       <link>https://www.techrepublic.com/article/news-2025-crypto-scam-losses/</link>
       <description>&amp;lt;p&amp;gt;Research by Chainalysis reveals that AI-powered impersonation tactics have exploded by an unprecedented 1,400% year-over-year.&amp;lt;/p&amp;gt;
@@ -498,22 +615,6 @@ The extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), 
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Phishing Scams Exploit Browser-in-the-Browser Attacks to Steal Facebook Passwords</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-scams-exploit-browser/</link>
-      <description>Cybersecurity researchers issue warning over a surge in attacks designed to trick Facebook users into handing over login credentials</description>
-      <pubDate>Tue, 13 Jan 2026 14:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phishing-scams-exploit-browser/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New Chinese-Made Malware Framework Targets Linux-Based Cloud Environments</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-malware-framework-linux/</link>
-      <description>Detected by Check Point researchers, VoidLink is a sophisticated malware framework that can be used to implant malware in the most common cloud environments</description>
-      <pubDate>Tue, 13 Jan 2026 14:31:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinese-malware-framework-linux/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl</title>
@@ -1074,97 +1175,6 @@ The campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit
 &amp;quot;The malware retrieves the victim&amp;apos;s WhatsApp contact list and automatically sends malicious messages to each contact to further</description>
       <pubDate>Thu, 08 Jan 2026 22:40:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Here&amp;apos;s What Cloud Security&amp;apos;s Future Holds for the Year Ahead</title>
-      <link>https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead</link>
-      <description>Here are the top cloud security trends I&amp;apos;m seeing in my crystal ball for the New Year — particularly arming us for AI adoption.</description>
-      <pubDate>Thu, 08 Jan 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead</guid>
-      <dc:creator>Melinda Marks</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes</title>
-      <link>https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html</link>
-      <description>A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe.
-The activity cluster, which has been active since at least 2022, primarily focuses on extensive technical reconnaissance of target organizations before initiating attacks, ultimately leading to the deployment of malware families such as RushDrop</description>
-      <pubDate>Thu, 08 Jan 2026 20:24:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories</title>
-      <link>https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html</link>
-      <description>The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.
-This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.
-Read on to catch up before the next wave hits.
-
-
-
-
-
-
-
-
-  
-  
-    Honeypot Traps Hackers
-    
-      Hackers Fall for</description>
-      <pubDate>Thu, 08 Jan 2026 18:19:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI &amp;amp;amp; Humans: Making the Relationship Work</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html</link>
-      <description>&amp;lt;p&amp;gt;Leaders of many organizations are urging their teams to adopt agentic AI to improve efficiency, but are finding it hard to achieve any benefit. Managers attempting to add AI agents to existing human teams may find that bots fail to faithfully follow their instructions, return pointless or obvious results or burn precious time and resources spinning on tasks that older, simpler systems could have accomplished just as well.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The technical innovators getting the most out of AI are finding that the technology can be remarkably human in its behavior. And the more groups of AI agents are given tasks that require cooperation and collaboration, the more those human-like dynamics emerge...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 08 Jan 2026 12:05:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>The State of Trusted Open Source</title>
-      <link>https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html</link>
-      <description>Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see</description>
-      <pubDate>Thu, 08 Jan 2026 17:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release</title>
-      <link>https://thehackernews.com/2026/01/cisco-patches-ise-security.html</link>
-      <description>Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.
-The vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to</description>
-      <pubDate>Thu, 08 Jan 2026 16:14:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisco-patches-ise-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages</title>
-      <link>https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html</link>
-      <description>Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.
-The names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named &amp;quot;wenmoonx.&amp;quot;
-
-bitcoin-main-lib (2,300 Downloads)
-bitcoin-lib-js (193 Downloads)
-bip40 (970 Downloads)
-
-&amp;quot;The</description>
-      <pubDate>Thu, 08 Jan 2026 16:01:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
