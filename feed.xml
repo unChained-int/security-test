@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 14 Jan 2026 18:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 01:42:10 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,14 +17,57 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Retail, Services Industries Under Fire in Oceania</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania</link>
+      <description>Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.</description>
+      <pubDate>Wed, 14 Jan 2026 21:19:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Hacking Wheelchairs over Bluetooth</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html</link>
+      <description>&amp;lt;p&amp;gt;Researchers have &amp;lt;a href=&amp;quot;https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/&amp;quot;&amp;gt;demonstrated&amp;lt;/a&amp;gt; remotely controlling a wheelchair over Bluetooth. CISA has issued an &amp;lt;a href=&amp;quot;https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01&amp;quot;&amp;gt;advisory&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;CISA said the WHILL wheelchairs did not enforce authentication for Bluetooth connections, allowing an attacker who is in Bluetooth range of the targeted device to pair with it. The attacker could then control the wheelchair&amp;amp;#8217;s movements, override speed restrictions, and manipulate configuration profiles, all without requiring credentials or user interaction.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 14 Jan 2026 19:22:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Bluetooth</category>
+      <category>hacking</category>
+      <category>Internet of Things</category>
+      <category>transportation</category>
+    </item>
+    <item>
+      <title>Microsoft Disrupts Cybercrime Service RedVDS</title>
+      <link>https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds</link>
+      <description>RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation supported by Microsoft.</description>
+      <pubDate>Wed, 14 Jan 2026 19:07:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers</title>
+      <link>https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html</link>
+      <description>The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.
+AISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)</description>
+      <pubDate>Thu, 15 Jan 2026 00:33:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html</link>
       <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
 &amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://crysp.uwaterloo.ca/speakers/20260127-Schneier&amp;quot;&amp;gt;David R. Cheriton School of Computer Science&amp;lt;/a&amp;gt; in Waterloo, Ontario, Canada on January 27, 2026, at 1:30 PM ET.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://www.cicc-iccc.org/en/events/conferences/the-coming-ai-hackers&amp;quot;&amp;gt;Université de Montréal&amp;lt;/a&amp;gt; in Montreal, Quebec, Canada on January 29, 2026, at 4:00 PM ET.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://crysp.uwaterloo.ca/speakers/20260127-Schneier&amp;quot;&amp;gt;David R. Cheriton School of Computer Science&amp;lt;/a&amp;gt; in Waterloo, Ontario, Canada, on January 27, 2026, at 1:30 PM ET.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://www.cicc-iccc.org/en/events/conferences/the-coming-ai-hackers&amp;quot;&amp;gt;Université de Montréal&amp;lt;/a&amp;gt; in Montreal, Quebec, Canada, on January 29, 2026, at 4:00 PM ET.&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;I’m speaking and signing books at the &amp;lt;a href=&amp;quot;https://chipublib.bibliocommons.com/events/693b4543ea69de6e000fc092&amp;quot;&amp;gt;Chicago Public Library&amp;lt;/a&amp;gt; in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I&amp;amp;#8217;m speaking at &amp;lt;a href=&amp;quot;https://capricon.org/&amp;quot;&amp;gt;Capricon 46&amp;lt;/a&amp;gt; in Chicago, Illinois, USA. The convention runs February 5-8, 2026. My speaking time is TBD...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
+&amp;lt;li&amp;gt;I&amp;amp;#8217;m speaking at &amp;lt;a href=&amp;quot;https://capricon.org/&amp;quot;&amp;gt;Capricon 46&amp;lt;/a&amp;gt; in Chicago, Illinois, USA. The convention runs February 5–8, 2026. My speaking time is TBD...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
       <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html</guid>
       <dc:creator>Bruce Schneier</dc:creator>
@@ -212,6 +255,35 @@ The activity has been attributed with medium confidence to a Russian hacking gro
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china</guid>
       <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Patch Tuesday, January 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/</link>
+      <description>Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft&amp;apos;s most-dire &amp;quot;critical&amp;quot; rating, and the company warns that attackers are already exploiting one of the bugs fixed today.</description>
+      <pubDate>Wed, 14 Jan 2026 00:47:38 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Time to Patch</category>
+      <category>Adam Barnett</category>
+      <category>Chris Goettl</category>
+      <category>CVE-2023-31096</category>
+      <category>CVE-2026-0628</category>
+      <category>CVE-2026-0891</category>
+      <category>CVE-2026-0892</category>
+      <category>CVE-2026-20805</category>
+      <category>CVE-2026-20952</category>
+      <category>CVE-2026-20953</category>
+      <category>CVE-2026-21265</category>
+      <category>Desktop Window Manager</category>
+      <category>Immersive</category>
+      <category>Ivanti</category>
+      <category>Kev Breen</category>
+      <category>Microsoft Office</category>
+      <category>Microsoft Patch Tuesday January 2026</category>
+      <category>Rapid7</category>
     </item>
     <item>
       <title>CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security</title>
@@ -844,6 +916,42 @@ ED 20-03: Mitigate Windows DNS Server</description>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Who Benefited from the Aisuru and Kimwolf Botnets?</title>
+      <link>https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/</link>
+      <description>Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we&amp;apos;ll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf&amp;apos;s spread.</description>
+      <pubDate>Thu, 08 Jan 2026 23:23:43 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Breadcrumbs</category>
+      <category>DDoS-for-Hire</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>3XK Tech GmbH</category>
+      <category>Aisuru</category>
+      <category>AT&amp;amp;T</category>
+      <category>Benjamin Brundage</category>
+      <category>ByteConnect</category>
+      <category>Cassidy Hales</category>
+      <category>Dort</category>
+      <category>Ethereum Name Service</category>
+      <category>Flashpoint</category>
+      <category>Forky</category>
+      <category>Friedrich Kraft</category>
+      <category>GreyNoise Intelligence</category>
+      <category>Julia Levi</category>
+      <category>Kimwolf</category>
+      <category>Linus</category>
+      <category>Maskify</category>
+      <category>Plainproxies</category>
+      <category>Resi Rack LLC</category>
+      <category>Shox</category>
+      <category>Snow</category>
+      <category>Synthient</category>
+      <category>XLab</category>
+    </item>
+    <item>
       <title>Maximum Severity HPE OneView Flaw Exploited in the Wild</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited</link>
       <description>Exploitation of CVE-2025-37164 can enable remote code execution on HPE&amp;apos;s IT infrastructure management platform, leading to devastating consequences.</description>
@@ -1056,80 +1164,6 @@ CVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Of
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>900,000 Users Hit as Malicious Chrome Extensions Steal ChatGPT, DeepSeek Chats</title>
-      <link>https://www.techrepublic.com/article/news-900k-users-chrome-extensions-steal-chatgpt-deepseek-chats/</link>
-      <description>&amp;lt;p&amp;gt;OX Security reveals how malicious Chrome extensions exposed AI chats from ChatGPT and DeepSeek, silently siphoning sensitive data from 900,000 users.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-900k-users-chrome-extensions-steal-chatgpt-deepseek-chats/&amp;quot;&amp;gt;900,000 Users Hit as Malicious Chrome Extensions Steal ChatGPT, DeepSeek Chats&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 07 Jan 2026 20:37:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-900k-users-chrome-extensions-steal-chatgpt-deepseek-chats/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai security</category>
-      <category>browser security</category>
-      <category>chatgpt</category>
-      <category>chrome extensions</category>
-      <category>data exfiltration</category>
-      <category>deepseek</category>
-      <category>endpoint security</category>
-      <category>malware campaign</category>
-    </item>
-    <item>
-      <title>Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators</title>
-      <link>https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html</link>
-      <description>Security teams are still catching malware. The problem is what they&amp;apos;re not catching.
-More attacks today don&amp;apos;t arrive as files. They don&amp;apos;t drop binaries. They don&amp;apos;t trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.
-That shift is creating a blind spot.
-Join us for a deep-dive</description>
-      <pubDate>Wed, 07 Jan 2026 22:49:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches</title>
-      <link>https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html</link>
-      <description>A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into downloading a backdoor capable of stealing sensitive data.
-According to a report published by the National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC) and</description>
-      <pubDate>Wed, 07 Jan 2026 22:39:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cyberattacks Likely Part of Military Operation in Venezuela</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela</link>
-      <description>Cyber&amp;apos;s role in the US raid on Venezuela remains a question, though President Trump alluded to &amp;amp;quot;certain expertise&amp;amp;quot; in shutting down the power grid in Caracas.</description>
-      <pubDate>Wed, 07 Jan 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>DDoSia Powers Affiliate-Driven Hacktivist Attacks</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks</link>
-      <description>Pro-Russian group NoName057(16) uses a custom denial-of-service tool to mobilize volunteers and disrupt government, media, and institutional sites tied to Ukraine and the West.</description>
-      <pubDate>Wed, 07 Jan 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control</title>
-      <link>https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html</link>
-      <description>Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attacker to gain complete control over susceptible instances.
-The vulnerability, tracked as CVE-2026-21858 (CVSS score: 10.0), has been codenamed Ni8mare by Cyera Research Labs. Security researcher Dor Attias has been</description>
-      <pubDate>Wed, 07 Jan 2026 19:18:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
