@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Jan 2026 12:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 18:32:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,85 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>YOLO Mode: Hidden Risks in Claude Code Permissions | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/yolo-mode-hidden-risks-in-claude-code-permissions</link>
+      <description>Developers are frequently granting Claude Code permission to download, execute, and delete code, creating fertile ground for prompt injection attacks.</description>
+      <pubDate>Fri, 16 Jan 2026 18:28:06 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/yolo-mode-hidden-risks-in-claude-code-permissions</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection</title>
+      <link>https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html</link>
+      <description>The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that&amp;apos;s designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives.
+&amp;quot;The actor creates a malformed archive as an anti-analysis technique,&amp;quot; Expel security researcher Aaron Walton said in a report shared with The Hacker News. &amp;quot;That is, many unarchiving tools</description>
+      <pubDate>Fri, 16 Jan 2026 23:29:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISOs Rise to Prominence: Security Leaders Join the Executive Suite</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite</link>
+      <description>Security professionals are moving on up the executive ranks as enterprises face rising regulatory and compliance standards.</description>
+      <pubDate>Fri, 16 Jan 2026 15:25:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Go Programming Language 1.26 Patches Several Security Flaws</title>
+      <link>https://www.techrepublic.com/article/news-golang-patches-security-flaws/</link>
+      <description>&amp;lt;p&amp;gt;The patched issues span core standard library components including archive/zip and net/http, as well as security-sensitive areas of the crypto/tls stack. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-golang-patches-security-flaws/&amp;quot;&amp;gt;Go Programming Language 1.26 Patches Several Security Flaws&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 16 Jan 2026 15:03:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-golang-patches-security-flaws/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>Go Programming Language</category>
+      <category>Golang</category>
+    </item>
+    <item>
+      <title>AI and the Corporate Capture of Knowledge</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html</link>
+      <description>&amp;lt;p&amp;gt;More than a decade after &amp;lt;a href=&amp;quot;https://www.sfgate.com/technology/article/Open-access-tributes-to-Aaron-Swartz-4193965.php&amp;quot;&amp;gt;Aaron Swartz&amp;amp;#8217;s death&amp;lt;/a&amp;gt;, the United States is still living inside the contradiction that destroyed him.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Swartz believed that knowledge, especially publicly funded knowledge, should be freely accessible. Acting on that, he downloaded thousands of academic articles from the &amp;lt;a href=&amp;quot;https://www.jstor.org/&amp;quot;&amp;gt;JSTOR&amp;lt;/a&amp;gt; archive with the intention of making them publicly available. For this, the federal government charged him with a felony and threatened decades in prison. After two years of prosecutorial pressure, Swartz died by suicide on Jan. 11, 2013.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The still-unresolved questions raised by his case have resurfaced in today&amp;amp;#8217;s debates over artificial intelligence, copyright and the ultimate control of knowledge...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 16 Jan 2026 14:44:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Aaron Swartz</category>
+      <category>AI</category>
+      <category>copyright</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts</title>
+      <link>https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html</link>
+      <description>Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.
+&amp;quot;The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account</description>
+      <pubDate>Fri, 16 Jan 2026 19:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI System Reduces Attack Reconstruction Time From Weeks to Hours</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours</link>
+      <description>Pacific Northwest National Labs&amp;apos; expert cybersecurity system, ALOHA, can recreate attacks and test them against organizations&amp;apos; infrastructure to bolster defense.</description>
+      <pubDate>Fri, 16 Jan 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-system-attack-reconstruction-weeks-hours</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -88,7 +167,7 @@ The targeted malware campaign leverages decoys related to the recent geopolitica
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure</title>
+      <title>China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions</title>
       <link>https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html</link>
       <description>A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year.
 Cisco Talos, which is tracking the activity under the name UAT-8837, assessed it to be a China-nexus advanced persistent threat (APT) actor with medium confidence based on tactical overlaps with other campaigns mounted by threat actors from the region.</description>
@@ -653,14 +732,6 @@ The activity has been attributed with medium confidence to a Russian hacking gro
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>YOLO Mode: Hidden Risks in Claude Code Permissions | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/yolo-mode-hidden-risks-in-claude-code-permissions</link>
-      <description>Developers are frequently granting Claude Code permission to download, execute, and delete code, creating fertile ground for prompt injection attacks.</description>
-      <pubDate>Tue, 13 Jan 2026 23:15:18 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/yolo-mode-hidden-risks-in-claude-code-permissions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>&amp;apos;Most Severe AI Vulnerability to Date&amp;apos; Hits ServiceNow</title>
       <link>https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow</link>
       <description>The ITSM giant tacked agentic AI onto a largely unguarded legacy chatbot, exposing customers&amp;apos; data and connected systems.</description>
@@ -1091,88 +1162,6 @@ Cybersecurity firm Huntress, which observed the activity in December 2025 and st
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states</guid>
       <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations</title>
-      <link>https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html</link>
-      <description>Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.
-The activity has been attributed to APT28 (aka BlueDelta), which was tied to a &amp;quot;sustained&amp;quot;</description>
-      <pubDate>Fri, 09 Jan 2026 20:58:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mistral AI Wins French Military Deal</title>
-      <link>https://www.techrepublic.com/article/news-mistral-french-military-ai-deal/</link>
-      <description>&amp;lt;p&amp;gt;France’s Ministry of the Armed Forces has taken a significant step to deepen its use of AI by awarding a framework agreement to French firm Mistral AI.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-mistral-french-military-ai-deal/&amp;quot;&amp;gt;Mistral AI Wins French Military Deal&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 09 Jan 2026 15:17:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-mistral-french-military-ai-deal/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>EU</category>
-      <category>Europe</category>
-      <category>European Union</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai</category>
-      <category>France</category>
-      <category>Mistral</category>
-    </item>
-    <item>
-      <title>Palo Alto Crosswalk Signals Had Default Passwords</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html</link>
-      <description>&amp;lt;p&amp;gt;Palo Alto&amp;amp;#8217;s crosswalk signals were hacked last year. Turns out the city never changed the &amp;lt;a href=&amp;quot;https://padailypost.com/2025/12/29/crosswalk-signals-were-hacked-because-of-a-weak-password/&amp;quot;&amp;gt;default passwords&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 09 Jan 2026 12:06:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>hacking</category>
-      <category>infrastructure</category>
-      <category>passwords</category>
-    </item>
-    <item>
-      <title>Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can&amp;apos;t)</title>
-      <link>https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html</link>
-      <description>As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn’t a lack of forecasts—it’s identifying which predictions reflect real, emerging risks and which can safely be ignored.
-An upcoming webinar hosted by Bitdefender aims to cut through the noise with a data-driven</description>
-      <pubDate>Fri, 09 Jan 2026 16:39:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions</title>
-      <link>https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html</link>
-      <description>Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution.
-The vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution</description>
-      <pubDate>Fri, 09 Jan 2026 15:31:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Data Security Firm Cyera Raises $400M, Hits $9B Valuation</title>
-      <link>https://www.techrepublic.com/article/news-cyera-january-2026-funding/</link>
-      <description>&amp;lt;p&amp;gt;This represents a 50% jump from its $6 billion valuation achieved seven months ago, signaling investor confidence in AI security solutions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cyera-january-2026-funding/&amp;quot;&amp;gt;Data Security Firm Cyera Raises $400M, Hits $9B Valuation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 09 Jan 2026 09:50:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cyera-january-2026-funding/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai</category>
-      <category>cyera</category>
-      <category>data security</category>
     </item>
   </channel>
 </rss>
