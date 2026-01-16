@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Jan 2026 01:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:33:52 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways</title>
+      <link>https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html</link>
+      <description>Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686.
+The vulnerability, tracked as CVE-2025-20393 (CVSS</description>
+      <pubDate>Fri, 16 Jan 2026 11:08:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Predator Spyware Sample Indicates &amp;apos;Vendor-Controlled&amp;apos; C2</title>
@@ -1148,42 +1158,6 @@ ED 20-03: Mitigate Windows DNS Server</description>
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities</guid>
       <dc:creator>Fahmida Y. Rashid</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Who Benefited from the Aisuru and Kimwolf Botnets?</title>
-      <link>https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/</link>
-      <description>Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we&amp;apos;ll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf&amp;apos;s spread.</description>
-      <pubDate>Thu, 08 Jan 2026 23:23:43 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Breadcrumbs</category>
-      <category>DDoS-for-Hire</category>
-      <category>Internet of Things (IoT)</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>3XK Tech GmbH</category>
-      <category>Aisuru</category>
-      <category>AT&amp;amp;T</category>
-      <category>Benjamin Brundage</category>
-      <category>ByteConnect</category>
-      <category>Cassidy Hales</category>
-      <category>Dort</category>
-      <category>Ethereum Name Service</category>
-      <category>Flashpoint</category>
-      <category>Forky</category>
-      <category>Friedrich Kraft</category>
-      <category>GreyNoise Intelligence</category>
-      <category>Julia Levi</category>
-      <category>Kimwolf</category>
-      <category>Linus</category>
-      <category>Maskify</category>
-      <category>Plainproxies</category>
-      <category>Resi Rack LLC</category>
-      <category>Shox</category>
-      <category>Snow</category>
-      <category>Synthient</category>
-      <category>XLab</category>
     </item>
   </channel>
 </rss>
