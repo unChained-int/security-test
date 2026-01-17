@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Jan 2026 18:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 01:38:50 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,15 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>More Problems for Fortinet: Critical FortiSIEM Flaw Exploited</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited</link>
+      <description>CVE-2025-64155, a command injection vulnerability, was disclosed earlier this week and quickly came under attack from a variety of IP addresses.</description>
+      <pubDate>Fri, 16 Jan 2026 21:03:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited</guid>
+      <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -37,7 +46,7 @@
     <item>
       <title>CISOs Rise to Prominence: Security Leaders Join the Executive Suite</title>
       <link>https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite</link>
-      <description>Security professionals are moving on up the executive ranks as enterprises face rising regulatory and compliance standards.</description>
+      <description>Security professionals are moving up the executive ranks as enterprises face rising regulatory and compliance standards.</description>
       <pubDate>Fri, 16 Jan 2026 15:25:40 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite</guid>
       <dc:creator>Arielle Waldman</dc:creator>
@@ -1153,15 +1162,6 @@ Cybersecurity firm Huntress, which observed the activity in December 2025 and st
       <guid isPermaLink="true">https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Illicit Crypto Economy Surges Amid Increased Nation-State Activity</title>
-      <link>https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states</link>
-      <description>Cybercriminal cryptocurrency transactions totaled billions in 2025, with activity from sanctioned countries like Russia and Iran causing the largest jump.</description>
-      <pubDate>Fri, 09 Jan 2026 16:56:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
