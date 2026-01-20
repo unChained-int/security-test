@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Jan 2026 12:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:36:22 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,99 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PCI SSC 2025 Community Meetings Now Available on Global Content Library</title>
+      <link>https://blog.pcisecuritystandards.org/pci-ssc-2025-community-meetings-now-available-on-global-content-library</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/pci-ssc-2025-community-meetings-now-available-on-global-content-library&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;PCI SSC 2025 Community Meetings Now Available on Global Content Library&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/gcl-800x444.png&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;We are excited to share that the &amp;lt;span style=&amp;quot;font-weight: bold;&amp;quot;&amp;gt;2025 Community Meeting&amp;lt;/span&amp;gt; content – from North America, Europe, and Asia-Pacific – is now available in the &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.pcisecuritystandards.org/global-content-library/&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;PCI SSC Global Content Library&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;, exclusively on &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.youtube.com/channel/UC7cPVL_HdnX4ZEGdYJMjOew&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;PCI SSC&amp;apos;s YouTube channel&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;!&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 20 Jan 2026 18:08:54 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/pci-ssc-2025-community-meetings-now-available-on-global-content-library</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Software</category>
+      <category>Events</category>
+      <category>Community Meetings</category>
+      <category>Interview</category>
+      <category>PCI DSS</category>
+      <category>Cloud Security</category>
+      <category>PCI SSC</category>
+      <category>Mobile</category>
+      <category>Video</category>
+      <category>PCI DSS v4.0</category>
+    </item>
+    <item>
+      <title>Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps</title>
+      <link>https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</link>
+      <description>2 security vulnerabilities in the Chainlit framework expose risks from web flaws in AI applications</description>
+      <pubDate>Tue, 20 Jan 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Gemini Flaw Turns Calendar Invites Into Attack Vector</title>
+      <link>https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector</link>
+      <description>The indirect prompt injection vulnerability allows an attacker to weaponize invites to circumvent Google&amp;apos;s privacy controls and access private data.</description>
+      <pubDate>Tue, 20 Jan 2026 15:52:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft &amp;amp;amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers</title>
+      <link>https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers</link>
+      <description>Researchers found the popular model context protocol (MCP) servers, which are integral components of AI services, carry serious vulnerabilities.</description>
+      <pubDate>Tue, 20 Jan 2026 15:47:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Prompt Injection Bugs Found in Official Anthropic Git MCP Server</title>
+      <link>https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/</link>
+      <description>Three vulnerabilities in Anthropic&amp;apos;s Git server for the MCP can be exploited via prompt injection</description>
+      <pubDate>Tue, 20 Jan 2026 15:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Cyber Risks Among CEOs’ Top Worries Amid Weak Short Term Growth Outlook</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-risks-among-ceos-top-worries/</link>
+      <description>PwC’s 29th Global CEO Survey shows cyber risk rising to the top of CEO concerns as confidence in short term business growth weakens</description>
+      <pubDate>Tue, 20 Jan 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-risks-among-ceos-top-worries/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution</title>
+      <link>https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html</link>
+      <description>A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.
+&amp;quot;These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,</description>
+      <pubDate>Tue, 20 Jan 2026 19:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading</title>
+      <link>https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html</link>
+      <description>Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).
+The activity delivers &amp;quot;weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,&amp;quot; ReliaQuest said in a report shared with</description>
+      <pubDate>Tue, 20 Jan 2026 19:16:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Linkedin Phishing Campaign Exploits Open-Source Pen Testing Tool to Compromise Business Execs</title>
+      <link>https://www.infosecurity-magazine.com/news/linkedin-phishing-campaign-targets/</link>
+      <description>Cybersecurity Researchers at ReliaQuest warn of an ongoing campaign delivered to “high-value individuals” via LinkedIn messages</description>
+      <pubDate>Tue, 20 Jan 2026 13:04:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/linkedin-phishing-campaign-targets/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>AI Supercharges Attacks in Cybercrime&amp;apos;s New &amp;apos;Fifth Wave&amp;apos;</title>
@@ -58,6 +151,28 @@
       <category>hackers</category>
       <category>National Cyber Security Centre</category>
       <category>ncsc</category>
+    </item>
+    <item>
+      <title>The Hidden Risk of Orphan Accounts</title>
+      <link>https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html</link>
+      <description>The Problem: The Identities Left Behind
+As organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.
+The reason they persist isn’t negligence - it’s fragmentation.&amp;amp;nbsp;
+Traditional IAM and IGA systems are designed</description>
+      <pubDate>Tue, 20 Jan 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto</title>
+      <link>https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html</link>
+      <description>Cybersecurity researchers have disclosed details of a malware campaign that&amp;apos;s targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem.
+&amp;quot;The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer</description>
+      <pubDate>Tue, 20 Jan 2026 17:18:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Emerging Risks: Typosquatting in the MCP Ecosystem | UpGuard</title>
@@ -382,22 +497,6 @@ In addition, the group&amp;apos;s alleged leader, a 35-year-old Russian national
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>TamperedChef Malvertising Campaign Drops Malware via Fake PDF Manuals</title>
-      <link>https://www.infosecurity-magazine.com/news/tamperedchef-malvertising-fake-pdf/</link>
-      <description>TamperedChef creates backdoors and steals user credentials – particularly in organizations reliant on technical equipment</description>
-      <pubDate>Fri, 16 Jan 2026 12:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/tamperedchef-malvertising-fake-pdf/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Account Compromise Surged 389% in 2025, Says eSentire</title>
-      <link>https://www.infosecurity-magazine.com/news/account-compromise-surged-2025/</link>
-      <description>An eSentire report showed credential theft accounted for 74% of all observed cyber threats in 2025</description>
-      <pubDate>Fri, 16 Jan 2026 11:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/account-compromise-surged-2025/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Your Digital Footprint Can Lead Right to Your Front Door</title>
       <link>https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html</link>
       <description>You lock your doors at night. You avoid sketchy phone calls. You’re careful about what you post on social media.
@@ -452,14 +551,6 @@ The targeted malware campaign leverages decoys related to the recent geopolitica
       <category>Age Verification</category>
       <category>social media</category>
       <category>tiktok</category>
-    </item>
-    <item>
-      <title>RondoDox Botnet Targets HPE OneView Vulnerability in Exploitation Wave</title>
-      <link>https://www.infosecurity-magazine.com/news/rondodox-botnet-targets-hpe/</link>
-      <description>Check Point Research has reported a surge in attacks on a vulnerability in HPE OneView, driven by the Linux-based RondoDox botnet</description>
-      <pubDate>Fri, 16 Jan 2026 09:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rondodox-botnet-targets-hpe/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions</title>
@@ -565,14 +656,6 @@ The vulnerability has been codenamed CodeBreach by cloud security company Wiz. T
       <category>Software</category>
       <category>3DS</category>
       <category>Software Security Framework</category>
-    </item>
-    <item>
-      <title>Global Agencies Release New Guidance to Secure Industrial Networks</title>
-      <link>https://www.infosecurity-magazine.com/news/global-agencies-secure-industrial/</link>
-      <description>CISA, NCSC and the FBI have released a new security guide to enhance protection for OT environments</description>
-      <pubDate>Thu, 15 Jan 2026 16:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/global-agencies-secure-industrial/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access</title>
@@ -1088,85 +1171,6 @@ According to a new report from Check Point Research, the cloud-native Linux malw
       <guid isPermaLink="true">https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>What Should We Learn From How Attackers Leveraged AI in 2025?</title>
-      <link>https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html</link>
-      <description>Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics
-The security industry loves talking about &amp;quot;new&amp;quot; threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that</description>
-      <pubDate>Tue, 13 Jan 2026 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation</title>
-      <link>https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html</link>
-      <description>ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.
-The vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.
-&amp;quot;This issue [.</description>
-      <pubDate>Tue, 13 Jan 2026 17:17:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Your personal information is on the dark web. What happens next?</title>
-      <link>https://www.welivesecurity.com/en/privacy/information-dark-web-what-happens-next/</link>
-      <description>If your data is on the dark web, it’s probably only a matter of time before it’s abused for fraud or account hijacking. Here’s what to do.</description>
-      <pubDate>Tue, 13 Jan 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/privacy/information-dark-web-what-happens-next/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Privacy</category>
-    </item>
-    <item>
-      <title>New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack</title>
-      <link>https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.
-&amp;quot;The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a</description>
-      <pubDate>Tue, 13 Jan 2026 14:38:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Betterment Customer Data Exposed in Crypto Scam Hack</title>
-      <link>https://www.techrepublic.com/article/news-betterment-crypto-scam-hack/</link>
-      <description>&amp;lt;p&amp;gt;The breach occurred through a compromised third-party marketing platform, allowing attackers to impersonate the trusted financial service.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-betterment-crypto-scam-hack/&amp;quot;&amp;gt;Betterment Customer Data Exposed in Crypto Scam Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 13 Jan 2026 08:51:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-betterment-crypto-scam-hack/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Fintech</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Betterment</category>
-      <category>crypto</category>
-      <category>crypto scam</category>
-      <category>cybersecurity</category>
-      <category>fintech</category>
-    </item>
-    <item>
-      <title>CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution</title>
-      <link>https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.
-The vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.
-&amp;quot;Gogs Path</description>
-      <pubDate>Tue, 13 Jan 2026 12:45:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>BreachForums Breached, Exposing 324K Cybercriminals</title>
-      <link>https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals</link>
-      <description>A massive data dump reveals real identities and details of administrators and members of the notorious hacker forum.</description>
-      <pubDate>Mon, 12 Jan 2026 22:01:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
