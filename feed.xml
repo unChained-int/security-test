@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Jan 2026 06:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 12:49:54 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,96 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Supercharges Attacks in Cybercrime&amp;apos;s New &amp;apos;Fifth Wave&amp;apos;</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-supercharges-attacks-cybercrime/</link>
+      <description>Weaponized AI is fueling a new wave of cybercrime, said Group-IB in its latest report</description>
+      <pubDate>Tue, 20 Jan 2026 12:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-supercharges-attacks-cybercrime/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Could ChatGPT Convince You to Buy Something?</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html</link>
+      <description>&amp;lt;p&amp;gt;Eighteen months ago, it was plausible that artificial intelligence might take a &amp;lt;a href=&amp;quot;https://www.technologyreview.com/2024/03/13/1089729/lets-not-make-the-same-mistakes-with-ai-that-we-made-with-social-media/&amp;quot;&amp;gt;different path&amp;lt;/a&amp;gt; than social media. Back then, AI&amp;amp;#8217;s development hadn&amp;amp;#8217;t consolidated under a small number of big tech firms. Nor had it capitalized on consumer attention, surveilling users and delivering ads.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Unfortunately, the AI industry is now taking a page from the social media playbook and has set its sights on monetizing consumer attention. When OpenAI launched its &amp;lt;a href=&amp;quot;https://openai.com/index/introducing-chatgpt-search/&amp;quot;&amp;gt;ChatGPT Search&amp;lt;/a&amp;gt; feature in late 2024 and its browser, &amp;lt;a href=&amp;quot;https://openai.com/index/introducing-chatgpt-atlas/&amp;quot;&amp;gt;ChatGPT Atlas&amp;lt;/a&amp;gt;, in October 2025, it kicked off a ...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 20 Jan 2026 12:08:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>Google</category>
+      <category>LLM</category>
+      <category>search engines</category>
+    </item>
+    <item>
+      <title>NCSC Warns of Increased Russian Hacktivist Threat to UK Online Services</title>
+      <link>https://www.techrepublic.com/article/news-ncsc-russian-hackers-target-uk/</link>
+      <description>&amp;lt;p&amp;gt;National Cyber Security Centre says these ideologically motivated attackers are moving beyond simple website disruptions. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ncsc-russian-hackers-target-uk/&amp;quot;&amp;gt;NCSC Warns of Increased Russian Hacktivist Threat to UK Online Services&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 20 Jan 2026 12:05:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ncsc-russian-hackers-target-uk/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Europe</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>United Kingdom</category>
+      <category>cybersecurity</category>
+      <category>hackers</category>
+      <category>National Cyber Security Centre</category>
+      <category>ncsc</category>
+    </item>
+    <item>
+      <title>Emerging Risks: Typosquatting in the MCP Ecosystem | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/typosquatting-in-the-mcp-ecosystem</link>
+      <description>The MCP server ecosystem is susceptible to brand impersonation for both local and remote servers.</description>
+      <pubDate>Tue, 20 Jan 2026 11:41:45 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/typosquatting-in-the-mcp-ecosystem</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers</title>
+      <link>https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html</link>
+      <description>Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers.&amp;amp;nbsp;
+&amp;quot;The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),&amp;quot; the web infrastructure</description>
+      <pubDate>Tue, 20 Jan 2026 16:42:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Why Secrets in JavaScript Bundles are Still Being Missed</title>
+      <link>https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html</link>
+      <description>Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?
+To find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches.&amp;amp;nbsp;
+Applying this at scale by scanning 5 million applications revealed over</description>
+      <pubDate>Tue, 20 Jan 2026 16:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Scam Marketplace Tudou Guarantee Shutters Telegram Ops</title>
+      <link>https://www.infosecurity-magazine.com/news/scam-market-tudou-guarantee-shut/</link>
+      <description>A notorious marketplace for fraud, Tudou Guarantee, appears to have closed its public Telegram groups</description>
+      <pubDate>Tue, 20 Jan 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/scam-market-tudou-guarantee-shut/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion</title>
+      <link>https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html</link>
+      <description>A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.
+The blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed</description>
+      <pubDate>Tue, 20 Jan 2026 13:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>ChatGPT Health Raises Big Security, Safety Concerns</title>
@@ -140,7 +230,7 @@ The security flaw, codenamed StackWarp, can allow bad actors with privileged con
       <title>CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures</title>
       <link>https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html</link>
       <description>Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.
-This new escalation of ClickFix has</description>
+This new escalation of ClickFix,</description>
       <pubDate>Mon, 19 Jan 2026 14:39:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -485,14 +575,6 @@ The vulnerability has been codenamed CodeBreach by cloud security company Wiz. T
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Hackers Increasingly Shun Encryption in Favour of Pure Data Theft and Extortion</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-shun-encryption-in-favour/</link>
-      <description>While ‘traditional’ ransomware attacks remain stable, some gangs are shifting towards exploiting zero-days and supply chains to go straight to stealing data</description>
-      <pubDate>Thu, 15 Jan 2026 15:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-shun-encryption-in-favour/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access</title>
       <link>https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</link>
       <description>A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.
@@ -520,14 +602,6 @@ The vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been descri
       <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CodeBuild Flaw Put AWS Console Supply Chain At Risk</title>
-      <link>https://www.infosecurity-magazine.com/news/codebuild-flaw-aws-console-risk/</link>
-      <description>A critical AWS CodeBuild misconfiguration has exposed core repositories to potential attack</description>
-      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/codebuild-flaw-aws-console-risk/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories</title>
@@ -1093,68 +1167,6 @@ The vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers</title>
-      <link>https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers</link>
-      <description>Researchers detailed a souped-up version of the GoBruteforcer botnet that preys on servers with weak credentials and AI-generated configurations.</description>
-      <pubDate>Mon, 12 Jan 2026 21:19:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult</title>
-      <link>https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult</link>
-      <description>No matter what new laws or regulations make the cut for 2026, it&amp;apos;s clear that compliance challenges will persist and federal legislation will be limited.</description>
-      <pubDate>Mon, 12 Jan 2026 20:14:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>FBI Flags Quishing Attacks From North Korean APT</title>
-      <link>https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt</link>
-      <description>A state-sponsored threat group tracked as &amp;amp;quot;Kimsuky&amp;amp;quot; sent QR-code-filled phishing emails to US and foreign government agencies, NGOs, and academic institutions.</description>
-      <pubDate>Mon, 12 Jan 2026 19:26:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hexnode Moves into Endpoint Security With Hexnode XDR</title>
-      <link>https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr</link>
-      <description/>
-      <pubDate>Mon, 12 Jan 2026 19:20:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens</title>
-      <link>https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html</link>
-      <description>Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers&amp;apos; OAuth credentials.
-One such package, named &amp;quot;n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,&amp;quot; mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then</description>
-      <pubDate>Mon, 12 Jan 2026 22:09:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Spotlight On: Reflectiz, a New Principal Participating Organization</title>
-      <link>https://blog.pcisecuritystandards.org/spotlight-on-reflectiz-a-new-principal-participating-organization</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/spotlight-on-reflectiz-a-new-principal-participating-organization&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Spotlight On: Reflectiz, a New Principal Participating Organization&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Reflectiz_blog_800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome Reflectiz, a new Principal Participating Organization (PPO) at the PCI Security Standards Council! In this special spotlight edition of our PCI Perspectives Blog, Reflectiz Co-founder and CEO, Idan Cohen, introduces us to his company and how they are helping to shape the future of payment security. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 12 Jan 2026 16:25:52 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/spotlight-on-reflectiz-a-new-principal-participating-organization</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Participation</category>
-      <category>Principal PO Spotlight</category>
     </item>
   </channel>
 </rss>
