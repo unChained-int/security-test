@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Jan 2026 06:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 12:48:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,130 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Zero-Day Exploits Surge, Nearly 30% of Flaws Attacked Before Disclosure</title>
+      <link>https://www.infosecurity-magazine.com/news/zeroday-exploits-surge-vulncheck/</link>
+      <description>VulnCheck analysts found that vulnerabilities exploited before being publicly disclosed rose from 23.6% in 2024 to 28.96% in 2025</description>
+      <pubDate>Thu, 22 Jan 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/zeroday-exploits-surge-vulncheck/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Why AI Keeps Falling for Prompt Injection Attacks</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html</link>
+      <description>&amp;lt;p&amp;gt;Imagine you work at a drive-through restaurant. Someone drives up and says: &amp;amp;#8220;I&amp;amp;#8217;ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.&amp;amp;#8221; Would you hand over the money? Of course not. Yet this is what &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/tag/large-language-models&amp;quot;&amp;gt;large language models&amp;lt;/a&amp;gt; (&amp;lt;a href=&amp;quot;https://spectrum.ieee.org/tag/llms&amp;quot;&amp;gt;LLMs&amp;lt;/a&amp;gt;) do.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.ibm.com/think/topics/prompt-injection&amp;quot;&amp;gt;Prompt injection&amp;lt;/a&amp;gt; is a method of tricking LLMs into doing things they are normally prevented from doing. A user writes a prompt in a certain way, asking for system &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/tag/passwords&amp;quot;&amp;gt;passwords&amp;lt;/a&amp;gt; or private data, or asking the LLM to perform forbidden instructions. The precise phrasing overrides the LLM&amp;amp;#8217;s ...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 22 Jan 2026 12:35:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>chatbots</category>
+      <category>cons</category>
+      <category>fraud</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>LastPass Warns of Phishing Campaign Attempting to Steal Master Passwords</title>
+      <link>https://www.infosecurity-magazine.com/news/lastpass-phishing-master-passwords/</link>
+      <description>Phoney email alerts suggest users need to backup their LastPass accounts within 24 hours. LastPass says it would never require this action from users</description>
+      <pubDate>Thu, 22 Jan 2026 12:07:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lastpass-phishing-master-passwords/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Zoom and GitLab Patch RCE, DoS, and 2FA Bypass Vulnerabilities</title>
+      <link>https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/</link>
+      <description>&amp;lt;p&amp;gt;Both platforms serve as backbone infrastructure for remote work and software development, making these flaws particularly dangerous for business continuity.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/&amp;quot;&amp;gt;Zoom and GitLab Patch RCE, DoS, and 2FA Bypass Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 22 Jan 2026 11:34:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>devsecops</category>
+      <category>gitlab</category>
+      <category>zoom</category>
+    </item>
+    <item>
+      <title>Filling the Most Common Gaps in Google Workspace Security</title>
+      <link>https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html</link>
+      <description>Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one.
+Securing the cloud office in this scenario is all about</description>
+      <pubDate>Thu, 22 Jan 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>UK Executives Warn They May Not Survive a Major Cyber-Attack, Vodafone Survey Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-execs-warn-may-not-suruvie/</link>
+      <description>UK Executives Warn They May Not Survive a Major Cyber-Attack, Vodafone Survey Finds</description>
+      <pubDate>Thu, 22 Jan 2026 11:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-execs-warn-may-not-suruvie/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Over 160,000 Companies Notify Regulators of GDPR Breaches</title>
+      <link>https://www.infosecurity-magazine.com/news/160000-companies-regulator-gdpr/</link>
+      <description>DLA Piper finds 22% increase in breached firms notifying European GDPR regulators</description>
+      <pubDate>Thu, 22 Jan 2026 10:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/160000-companies-regulator-gdpr/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts</title>
+      <link>https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</link>
+      <description>A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.
+The package, named sympy-dev, mimics SymPy, replicating the latter&amp;apos;s project description verbatim in an attempt to deceive unsuspecting users into thinking that they are</description>
+      <pubDate>Thu, 22 Jan 2026 15:34:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release</title>
+      <link>https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</link>
+      <description>A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.
+The vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management</description>
+      <pubDate>Thu, 22 Jan 2026 15:16:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>LastPass Warns of Phishing Campaign Targeting Its Customers</title>
+      <link>https://www.techrepublic.com/article/news-lastpass-phishing-campaign/</link>
+      <description>&amp;lt;p&amp;gt;The campaign targets customers with urgent &amp;quot;maintenance&amp;quot; alerts designed to steal master passwords within hours. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-lastpass-phishing-campaign/&amp;quot;&amp;gt;LastPass Warns of Phishing Campaign Targeting Its Customers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 22 Jan 2026 09:38:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-lastpass-phishing-campaign/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybercrime</category>
+      <category>cybersecurity</category>
+      <category>lastpass</category>
+      <category>password manager</category>
+      <category>phishing</category>
+    </item>
+    <item>
+      <title>Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations</title>
+      <link>https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html</link>
+      <description>Cybersecurity company Arctic Wolf has warned of a &amp;quot;new cluster of automated malicious activity&amp;quot; that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.
+The activity, it said, commenced on January 15, 2026, adding it shares similarities with a December 2025 campaign in which malicious SSO logins on FortiGate appliances were recorded against the admin account from</description>
+      <pubDate>Thu, 22 Jan 2026 11:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex</title>
@@ -366,22 +490,6 @@ The latest finding demonstrates continued evolution of the new tactic that was f
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Prompt Injection Bugs Found in Official Anthropic Git MCP Server</title>
-      <link>https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/</link>
-      <description>Three vulnerabilities in Anthropic&amp;apos;s Git server for the MCP can be exploited via prompt injection</description>
-      <pubDate>Tue, 20 Jan 2026 15:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cyber Risks Among CEOs’ Top Worries Amid Weak Short Term Growth Outlook</title>
-      <link>https://www.infosecurity-magazine.com/news/cyber-risks-among-ceos-top-worries/</link>
-      <description>PwC’s 29th Global CEO Survey shows cyber risk rising to the top of CEO concerns as confidence in short term business growth weakens</description>
-      <pubDate>Tue, 20 Jan 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-risks-among-ceos-top-worries/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution</title>
       <link>https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html</link>
       <description>A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.
@@ -400,22 +508,6 @@ The activity delivers &amp;quot;weaponized files via Dynamic Link Library (DLL) 
       <guid isPermaLink="true">https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>LinkedIn Phishing Campaign Exploits Open-Source Pen Testing Tool to Compromise Business Execs</title>
-      <link>https://www.infosecurity-magazine.com/news/linkedin-phishing-campaign-targets/</link>
-      <description>Cybersecurity Researchers at ReliaQuest warn of an ongoing campaign delivered to “high-value individuals” via LinkedIn messages</description>
-      <pubDate>Tue, 20 Jan 2026 13:04:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/linkedin-phishing-campaign-targets/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI Supercharges Attacks in Cybercrime&amp;apos;s New &amp;apos;Fifth Wave&amp;apos;</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-supercharges-attacks-cybercrime/</link>
-      <description>Weaponized AI is fueling a new wave of cybercrime, said Group-IB in its latest report</description>
-      <pubDate>Tue, 20 Jan 2026 12:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-supercharges-attacks-cybercrime/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Could ChatGPT Convince You to Buy Something?</title>
@@ -806,7 +898,7 @@ The targeted malware campaign leverages decoys related to the recent geopolitica
       <category>tiktok</category>
     </item>
     <item>
-      <title>China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions</title>
+      <title>China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusion</title>
       <link>https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html</link>
       <description>A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year.
 Cisco Talos, which is tracking the activity under the name UAT-8837, assessed it to be a China-nexus advanced persistent threat (APT) actor with medium confidence based on tactical overlaps with other campaigns mounted by threat actors from the region.</description>
@@ -1071,94 +1163,6 @@ The vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been describe
       <category>hacking</category>
       <category>Internet of Things</category>
       <category>transportation</category>
-    </item>
-    <item>
-      <title>Microsoft Disrupts Cybercrime Service RedVDS</title>
-      <link>https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds</link>
-      <description>RedVDS, a cybercrime-as-a-service operation that has stolen millions from victims, lost two domains to a law enforcement operation.</description>
-      <pubDate>Wed, 14 Jan 2026 19:07:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/microsoft-disrupts-cybercrime-service-redvds</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers</title>
-      <link>https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html</link>
-      <description>The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.
-AISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)</description>
-      <pubDate>Thu, 15 Jan 2026 00:33:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html</link>
-      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://crysp.uwaterloo.ca/speakers/20260127-Schneier&amp;quot;&amp;gt;David R. Cheriton School of Computer Science&amp;lt;/a&amp;gt; in Waterloo, Ontario, Canada, on January 27, 2026, at 1:30 PM ET.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://www.cicc-iccc.org/en/events/conferences/the-coming-ai-hackers&amp;quot;&amp;gt;Université de Montréal&amp;lt;/a&amp;gt; in Montreal, Quebec, Canada, on January 29, 2026, at 4:00 PM ET.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking and signing books at the &amp;lt;a href=&amp;quot;https://chipublib.bibliocommons.com/events/693b4543ea69de6e000fc092&amp;quot;&amp;gt;Chicago Public Library&amp;lt;/a&amp;gt; in Chicago, Illinois, USA, on February 5, 2026, at 6:00 PM CT.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I&amp;amp;#8217;m speaking at &amp;lt;a href=&amp;quot;https://capricon.org/&amp;quot;&amp;gt;Capricon 46&amp;lt;/a&amp;gt; in Chicago, Illinois, USA. The convention runs February 5–8, 2026. My speaking time is TBD...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
-      <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Schneier news</category>
-    </item>
-    <item>
-      <title>&amp;apos;VoidLink&amp;apos; Malware Poses Advanced Threat to Linux Systems</title>
-      <link>https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems</link>
-      <description>Researchers discovered a modular, &amp;amp;quot;cloud-first&amp;amp;quot; framework that is feature-rich and designed to maintain stealthy, long-term access to Linux environments.</description>
-      <pubDate>Wed, 14 Jan 2026 15:59:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Agents Are Becoming Authorization Bypass Paths</title>
-      <link>https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html</link>
-      <description>Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.
-Then organizations got ambitious.
-Instead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don&amp;amp;rsquo;t just suggest, but act. Agents</description>
-      <pubDate>Wed, 14 Jan 2026 20:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware</title>
-      <link>https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html</link>
-      <description>Security experts have disclosed details of an active malware campaign that&amp;apos;s exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers.
-&amp;quot;Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (</description>
-      <pubDate>Wed, 14 Jan 2026 19:48:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Leaked Data Exposes Thousands of Border Patrol, ICE Agents After Renee Good Shooting</title>
-      <link>https://www.techrepublic.com/article/news-leaked-data-exposes-thousands-border-patrol-ice-agents/</link>
-      <description>&amp;lt;p&amp;gt;A reported DHS leak exposed personal details of about 4,500 ICE and Border Patrol agents after a Minneapolis shooting, raising safety and ethics concerns.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-leaked-data-exposes-thousands-border-patrol-ice-agents/&amp;quot;&amp;gt;Leaked Data Exposes Thousands of Border Patrol, ICE Agents After Renee Good Shooting&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 14 Jan 2026 13:55:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-leaked-data-exposes-thousands-border-patrol-ice-agents/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>border patrol</category>
-      <category>cybersecurity</category>
-      <category>data leak</category>
-      <category>dhs</category>
-      <category>doxxing</category>
-      <category>ice</category>
-      <category>law enforcement safety</category>
-      <category>renee good</category>
-      <category>whistleblower</category>
     </item>
   </channel>
 </rss>
