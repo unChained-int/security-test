@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Jan 2026 12:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 18:32:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,77 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access</title>
+      <link>https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html</link>
+      <description>A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.
+The vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.
+&amp;quot;Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass</description>
+      <pubDate>Thu, 22 Jan 2026 22:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Latin American Orgs Lack Confidence in Cyber Defenses, Skills</title>
+      <link>https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills</link>
+      <description>Cybersecurity professionals in Latin America are least likely to have faith in their countries&amp;apos; preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.</description>
+      <pubDate>Thu, 22 Jan 2026 16:05:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Appsmith Flaw Enables Account Takeovers</title>
+      <link>https://www.infosecurity-magazine.com/news/appsmith-flaw-account-takeovers/</link>
+      <description>Critical vulnerability in Appsmith allows account takeover via flawed password reset process</description>
+      <pubDate>Thu, 22 Jan 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/appsmith-flaw-account-takeovers/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>RealHomes CRM Plugin Flaw Affected 30,000 WordPress Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/realhomes-crm-plugin-flaw/</link>
+      <description>Security flaw in RealHomes CRM plugin allowed file uploads; patches released for 30,000+ sites</description>
+      <pubDate>Thu, 22 Jan 2026 15:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/realhomes-crm-plugin-flaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Under Armour Ransomware Attack Exposes 72M Email Addresses</title>
+      <link>https://www.techrepublic.com/article/news-under-armour-ransomware-attack/</link>
+      <description>&amp;lt;p&amp;gt;Many records also contained additional personal information such as names, dates of birth, genders, geographic locations, and purchase information.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-under-armour-ransomware-attack/&amp;quot;&amp;gt;Under Armour Ransomware Attack Exposes 72M Email Addresses&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 22 Jan 2026 15:04:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-under-armour-ransomware-attack/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>ransomware</category>
+      <category>Under Armour</category>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams &amp;amp; 15+ Stories</title>
+      <link>https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html</link>
+      <description>Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them.
+What stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis</description>
+      <pubDate>Thu, 22 Jan 2026 19:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>DPRK Actors Deploy VS Code Tunnels for Remote Hacking</title>
+      <link>https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking</link>
+      <description>A spear-phishing campaign tied to the Democratic People&amp;apos;s Republic of Korea (DPRK) uses trusted Microsoft infrastructure to avoid detection.</description>
+      <pubDate>Thu, 22 Jan 2026 14:05:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -149,6 +220,15 @@ The vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthentic
       <guid isPermaLink="true">https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Agents Undermine Progress in Browser Security</title>
+      <link>https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security</link>
+      <description>Web browser companies have put in substantial effort over the past three decades to strengthen the browser security stack against abuses. Agentic browsers are undoing all that work.</description>
+      <pubDate>Wed, 21 Jan 2026 23:06:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-agents-undermine-progress-browser-security</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>&amp;apos;Contagious Interview&amp;apos; Attack Now Delivers Backdoor Via VS Code</title>
@@ -328,14 +408,6 @@ That&amp;apos;s according to new findings from Check Point Research, which ident
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Risk of AI Model Collapse to Drive Zero Trust Data Governance, Gartner Says</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-model-collapse-zero-trust-data/</link>
-      <description>Gartner predicts 50% of organizations will adopt zero trust data governance by 2028</description>
-      <pubDate>Wed, 21 Jan 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-model-collapse-zero-trust-data/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>LastPass Warns of Fake Maintenance Messages Targeting Users’ Master Passwords</title>
       <link>https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html</link>
       <description>LastPass is alerting users to a new active phishing campaign that&amp;apos;s impersonating the password management service, which aims to trick users into giving up their master passwords.
@@ -464,14 +536,6 @@ The latest finding demonstrates continued evolution of the new tactic that was f
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps</title>
-      <link>https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</link>
-      <description>2 security vulnerabilities in the Chainlit framework expose risks from web flaws in AI applications</description>
-      <pubDate>Tue, 20 Jan 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Google Gemini Flaw Turns Calendar Invites Into Attack Vector</title>
       <link>https://www.darkreading.com/cloud-security/google-gemini-flaw-calendar-invites-attack-vector</link>
       <description>The indirect prompt injection vulnerability allows an attacker to weaponize invites to circumvent Google&amp;apos;s privacy controls and access private data.</description>
@@ -481,7 +545,7 @@ The latest finding demonstrates continued evolution of the new tactic that was f
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Microsoft &amp;amp;amp; Anthropic MCP Servers At Risk of RCE, Cloud Takeovers</title>
+      <title>Microsoft &amp;amp;amp; Anthropic MCP Servers at Risk of RCE, Cloud Takeovers</title>
       <link>https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers</link>
       <description>Researchers found the popular model context protocol (MCP) servers, which are integral components of AI services, carry serious vulnerabilities.</description>
       <pubDate>Tue, 20 Jan 2026 15:47:19 +0000</pubDate>
@@ -1100,69 +1164,6 @@ Two Chrome extensions posing as AI helpers were recently caught stealing ChatGPT
       <guid isPermaLink="true">https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>4 Outdated Habits Destroying Your SOC&amp;apos;s MTTR in 2026</title>
-      <link>https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html</link>
-      <description>It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.
-Below are four limiting habits that may be preventing your SOC from evolving at</description>
-      <pubDate>Thu, 15 Jan 2026 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trio of Critical Bugs Spotted in Delta Industrial PLCs</title>
-      <link>https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs</link>
-      <description>Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.</description>
-      <pubDate>Thu, 15 Jan 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud</title>
-      <link>https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html</link>
-      <description>Microsoft on Wednesday announced that it has taken a &amp;quot;coordinated legal action&amp;quot; in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.
-The effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious</description>
-      <pubDate>Thu, 15 Jan 2026 15:07:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login</title>
-      <link>https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html</link>
-      <description>Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.
-The vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for</description>
-      <pubDate>Thu, 15 Jan 2026 13:48:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Retail, Services Industries Under Fire in Oceania</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania</link>
-      <description>Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.</description>
-      <pubDate>Wed, 14 Jan 2026 21:19:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hacking Wheelchairs over Bluetooth</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html</link>
-      <description>&amp;lt;p&amp;gt;Researchers have &amp;lt;a href=&amp;quot;https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/&amp;quot;&amp;gt;demonstrated&amp;lt;/a&amp;gt; remotely controlling a wheelchair over Bluetooth. CISA has issued an &amp;lt;a href=&amp;quot;https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01&amp;quot;&amp;gt;advisory&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;CISA said the WHILL wheelchairs did not enforce authentication for Bluetooth connections, allowing an attacker who is in Bluetooth range of the targeted device to pair with it. The attacker could then control the wheelchair&amp;amp;#8217;s movements, override speed restrictions, and manipulate configuration profiles, all without requiring credentials or user interaction.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 14 Jan 2026 19:22:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Bluetooth</category>
-      <category>hacking</category>
-      <category>Internet of Things</category>
-      <category>transportation</category>
     </item>
   </channel>
 </rss>
