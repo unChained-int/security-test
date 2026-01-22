@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Jan 2026 01:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 06:34:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex</title>
+      <link>https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html</link>
+      <description>Cisco has released fresh patches to address what it described as a &amp;quot;critical&amp;quot; security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild.
+The vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the</description>
+      <pubDate>Thu, 22 Jan 2026 09:36:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>&amp;apos;Contagious Interview&amp;apos; Attack Now Delivers Backdoor Via VS Code</title>
@@ -215,7 +225,7 @@ The campaign, which began on or around January 19, 2026, involves sending phishi
       <title>CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution</title>
       <link>https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html</link>
       <description>A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.
-The vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.
+The vulnerability, tracked as CVE-2026-1245 (CVSS score: 6.5), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.
 Binary-parser is a</description>
       <pubDate>Wed, 21 Jan 2026 11:34:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html</guid>
@@ -1149,17 +1159,6 @@ Instead of personal copilots, companies started deploying shared organizational 
       <category>law enforcement safety</category>
       <category>renee good</category>
       <category>whistleblower</category>
-    </item>
-    <item>
-      <title>Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html</link>
-      <description>Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.
-The operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system.
-&amp;quot;An improper neutralization of special elements used in an OS command (&amp;apos;OS command</description>
-      <pubDate>Wed, 14 Jan 2026 17:23:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
