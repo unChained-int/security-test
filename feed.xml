@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Jan 2026 18:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 01:44:01 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,43 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Risky Chinese Electric Buses Spark Aussie Gov&amp;apos;t Review</title>
+      <link>https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt</link>
+      <description>Deployed across Australia and Europe, China&amp;apos;s electric buses are vulnerable to cybercriminals and sport a virtual kill switch the Chinese state could activate.</description>
+      <pubDate>Thu, 22 Jan 2026 22:13:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fortinet Firewalls Hit With Malicious Configuration Changes</title>
+      <link>https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes</link>
+      <description>Automated infections of potentially fully patched FortiGate devices are allowing threat actors to steal firewall configuration files.</description>
+      <pubDate>Thu, 22 Jan 2026 21:18:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>From a Whisper to a Scream: Europe Frets About Overreliance on US Tech</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech</link>
+      <description>Concern is growing across Europe about relying on US cybersecurity companies, and Greenland takeover talk is eroding trust across the EU even further.</description>
+      <pubDate>Thu, 22 Jan 2026 18:09:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/europe-frets-about-overreliance-on-us-tech</guid>
+      <dc:creator>Rik Turner</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack</title>
+      <link>https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025.
+The attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter</description>
+      <pubDate>Thu, 22 Jan 2026 23:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access</title>
@@ -1092,76 +1129,6 @@ The vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been descri
 &amp;quot;Only a single click on a legitimate Microsoft link is required to compromise victims,&amp;quot; Varonis security</description>
       <pubDate>Thu, 15 Jan 2026 20:39:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories</title>
-      <link>https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html</link>
-      <description>The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.
-This week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.
-Read on to catch up before the next wave hits.
-
-
-
-
-
-  
-
-  
-  
-    Unauthenticated RCE risk
-    
-      Security Flaw in Redis</description>
-      <pubDate>Thu, 15 Jan 2026 19:26:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday Fixes 112 Flaws, Includes SharePoint and Windows</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-patch-tuesday-january-2026/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft’s January 2026 Patch Tuesday fixes 112 CVEs, including an exploited Windows DWM zero-day, plus critical flaws across SharePoint, Office, and Windows services.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-patch-tuesday-january-2026/&amp;quot;&amp;gt;Microsoft Patch Tuesday Fixes 112 Flaws, Includes SharePoint and Windows&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 15 Jan 2026 13:53:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-patch-tuesday-january-2026/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>Windows</category>
-      <category>cisa known exploited vulnerabilities</category>
-      <category>cve-2026-20805</category>
-      <category>cybersecurity patching</category>
-      <category>january 2026 patch tuesday</category>
-      <category>Microsoft Patch Tuesday</category>
-      <category>windows security updates</category>
-      <category>windows vulnerabilities</category>
-      <category>zero-day vulnerability</category>
-    </item>
-    <item>
-      <title>New Vulnerability in n8n</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.cyera.com/research-labs/ni8mare-unauthenticated-remote-code-execution-in-n8n-cve-2026-21858&amp;quot;&amp;gt;This&amp;lt;/a&amp;gt; isn&amp;amp;#8217;t good:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;We discovered a critical vulnerability (&amp;lt;a href=&amp;quot;https://github.com/n8n-io/n8n/security/advisories/GHSA-v4pr-fm98-w9pg&amp;quot;&amp;gt;CVE-2026-21858, CVSS 10.0&amp;lt;/a&amp;gt;) in n8n that enables attackers to take over locally deployed instances, impacting an estimated 100,000 servers globally. No official workarounds are available for this vulnerability. Users should upgrade to version 1.121.0 or later to remediate the vulnerability.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://community.n8n.io/t/security-advisory-security-vulnerability-in-n8n-versions-1-65-1-120-4/247305&amp;quot;&amp;gt;Three&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html&amp;quot;&amp;gt;technical&amp;lt;a&amp;gt; &amp;lt;a href=&amp;quot;https://nvd.nist.gov/vuln/detail/CVE-2025-68668&amp;quot;&amp;gt;links&amp;lt;/a&amp;gt; and two &amp;lt;a href=&amp;quot;https://www.cybersecuritydive.com/news/critical-vulnerability-n8n-automation-platform/809360/&amp;quot;&amp;gt;news&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/&amp;quot;&amp;gt;links&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 15 Jan 2026 12:05:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>patching</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Model Security Is the Wrong Frame – The Real Risk Is Workflow Security</title>
-      <link>https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html</link>
-      <description>As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.
-Two Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers</description>
-      <pubDate>Thu, 15 Jan 2026 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
