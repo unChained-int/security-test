@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Jan 2026 01:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:34:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -209,6 +209,15 @@ The package, named sympy-dev, mimics SymPy, replicating the latter&amp;apos;s pr
       <guid isPermaLink="true">https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Common Apple Pay scams, and how to stay safe</title>
+      <link>https://www.welivesecurity.com/en/scams/common-apple-pay-scams-how-stay-safe/</link>
+      <description>Here’s how the most common scams targeting Apple Pay users work and what you can do to stay one step ahead</description>
+      <pubDate>Thu, 22 Jan 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/common-apple-pay-scams-how-stay-safe/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Scams</category>
     </item>
     <item>
       <title>SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release</title>
@@ -516,6 +525,27 @@ The latest finding demonstrates continued evolution of the new tactic that was f
       <guid isPermaLink="true">https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Kimwolf Botnet Lurking in Corporate, Govt. Networks</title>
+      <link>https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/</link>
+      <description>A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf&amp;apos;s ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.</description>
+      <pubDate>Tue, 20 Jan 2026 18:19:13 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>DDoS-for-Hire</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Web Fraud 2.0</category>
+      <category>BadBox 2.0</category>
+      <category>Infoblox</category>
+      <category>IPidea</category>
+      <category>Kimwolf</category>
+      <category>Riley Kilmer</category>
+      <category>Spur</category>
+      <category>Synthient</category>
     </item>
     <item>
       <title>Google Gemini Flaw Let Attackers Access Private Calendar Data</title>
@@ -1110,25 +1140,6 @@ The vulnerability has been codenamed CodeBreach by cloud security company Wiz. T
 The vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin</description>
       <pubDate>Thu, 15 Jan 2026 21:01:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Vulnerabilities Surge, But Messy Reporting Blurs Picture</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture</link>
-      <description>MITRE loses its lead as the top reporter of vulnerabilities, while new organizations pump out CVEs and reported bugs in WordPress plug-ins surge.</description>
-      <pubDate>Thu, 15 Jan 2026 15:19:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/vulnerabilities-surge-messy-reporting-blurs-picture</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot</title>
-      <link>https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.
-&amp;quot;Only a single click on a legitimate Microsoft link is required to compromise victims,&amp;quot; Varonis security</description>
-      <pubDate>Thu, 15 Jan 2026 20:39:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
