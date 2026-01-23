@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Jan 2026 06:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 12:46:00 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,81 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Under Armour Investigates Data Breach After 72 Million Records Allegedly Exposed</title>
+      <link>https://www.infosecurity-magazine.com/news/under-armour-investigates-data/</link>
+      <description>Under Armour said there is no evidence at this point to suggest the incident affected systems used to process payments or store customer passwords</description>
+      <pubDate>Fri, 23 Jan 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/under-armour-investigates-data/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html</link>
+      <description>&amp;lt;p&amp;gt;Really interesting &amp;lt;a href=&amp;quot;https://red.anthropic.com/2026/cyber-toolkits-update/&amp;quot;&amp;gt;blog post&amp;lt;/a&amp;gt; from Anthropic:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed at multistage attacks on networks with dozens of hosts using only standard, open-source tools, instead of the custom tools needed by previous generations. This illustrates how barriers to the use of AI in relatively autonomous cyber workflows are rapidly coming down, and highlights the importance of security fundamentals like promptly patching known vulnerabilities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;A notable development during the testing of Claude Sonnet 4.5 is that the model can now succeed on a minority of the networks without the custom cyber toolkit needed by previous generations. In particular, Sonnet 4.5 can now exfiltrate all of the (simulated) personal information in a high-fidelity simulation of the Equifax data breach&amp;amp;#8212;­one of the costliest cyber attacks in history&amp;amp;#8212;­using only a Bash shell on a widely-available Kali Linux host (standard, open-source tools for penetration testing; not a custom toolkit). Sonnet 4.5 accomplishes this by instantly recognizing a publicized CVE and writing code to exploit it without needing to look it up or iterate on it. Recalling that the original Equifax breach happened by exploiting a publicized CVE that had not yet been patched, the prospect of highly competent and fast AI agents leveraging this approach underscores the pressing need for security best practices like prompt updates and patches. ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 23 Jan 2026 12:01:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cybersecurity</category>
+      <category>penetration testing</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order</title>
+      <link>https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html</link>
+      <description>TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S.
+The new venture, named TikTok USDS Joint Venture LLC, has been established in compliance with the Executive Order signed by U.S. President Donald Trump in September 2025, the platform said. The new deal will see TikTok&amp;apos;s Chinese</description>
+      <pubDate>Fri, 23 Jan 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access</title>
+      <link>https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new dual-vector campaign that leverages stolen credentials to deploy legitimate Remote Monitoring and Management (RMM) software for persistent remote access to compromised hosts.
+&amp;quot;Instead of deploying custom viruses, attackers are bypassing security perimeters by weaponizing the necessary IT tools that administrators trust,&amp;quot; KnowBe4 Threat</description>
+      <pubDate>Fri, 23 Jan 2026 16:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Disable Windows Security With New Malware Attack</title>
+      <link>https://www.techrepublic.com/article/news-hackers-disable-windows-security/</link>
+      <description>&amp;lt;p&amp;gt;Unlike traditional attacks that rely on exploits, this succeeds through social engineering combined with abuse of Windows&amp;apos; own security architecture.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-hackers-disable-windows-security/&amp;quot;&amp;gt;Hackers Disable Windows Security With New Malware Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Jan 2026 10:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-hackers-disable-windows-security/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Windows</category>
+      <category>cybersecurity</category>
+      <category>FortiGuard Labs</category>
+      <category>hacking</category>
+      <category>malware</category>
+      <category>windows</category>
+    </item>
+    <item>
+      <title>Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms</title>
+      <link>https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html</link>
+      <description>Microsoft has warned of a multi‑stage adversary‑in‑the‑middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.
+&amp;quot;The campaign abused SharePoint file‑sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,&amp;quot; the Microsoft Defender Security Research Team said.</description>
+      <pubDate>Fri, 23 Jan 2026 13:55:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Risky Chinese Electric Buses Spark Aussie Gov&amp;apos;t Review</title>
@@ -423,14 +498,6 @@ The truth? Most MSSPs are running harder, not smarter. And it’s breaking their
       <description>A new service, the Global Cybersecurity Vulnerability Enumeration (GCVE), offers an alternative to the US-led CVE</description>
       <pubDate>Wed, 21 Jan 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/global-cybersecurity-vulnerability/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Report Fraud Promises to Streamline Fight Against Economic Crime</title>
-      <link>https://www.infosecurity-magazine.com/news/report-fraud-fight-against/</link>
-      <description>City of London Police has launched the UK’s national Report Fraud service</description>
-      <pubDate>Wed, 21 Jan 2026 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/report-fraud-fight-against/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
@@ -1074,74 +1141,6 @@ The vulnerability, tracked as CVE-2025-20393 (CVSS</description>
       <category>data leak</category>
       <category>Kaiser</category>
       <category>kaiser data breach</category>
-    </item>
-    <item>
-      <title>CISA Issues New AI Security Guidance for Critical Infrastructure</title>
-      <link>https://www.techrepublic.com/article/news-cisa-ai-security-guidance-2026/</link>
-      <description>&amp;lt;p&amp;gt;CISA and international partners issued new guidance on securing AI in operational technology, warning of OT risks and urging stronger governance and safeguards.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisa-ai-security-guidance-2026/&amp;quot;&amp;gt;CISA Issues New AI Security Guidance for Critical Infrastructure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 15 Jan 2026 20:44:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisa-ai-security-guidance-2026/</guid>
-      <dc:creator>Drew Robb</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai security</category>
-      <category>CISA</category>
-      <category>critical infrastructure</category>
-      <category>critical infrastructure security</category>
-      <category>generative ai</category>
-      <category>industrial control systems</category>
-      <category>operational technology</category>
-      <category>ot cybersecurity</category>
-    </item>
-    <item>
-      <title>AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks</title>
-      <link>https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html</link>
-      <description>A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider&amp;apos;s own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk.
-The vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on</description>
-      <pubDate>Fri, 16 Jan 2026 01:01:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Winter Olympics Could Share Podium With Cyberattackers</title>
-      <link>https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers</link>
-      <description>The upcoming Winter Games in the Italian Alps are attracting both hacktivists looking to reach billions of people and state-sponsored cyber-spies targeting the attending glitterati.</description>
-      <pubDate>Thu, 15 Jan 2026 19:10:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/winter-olympics-podium-cyberattackers</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>PCI SSC Releases Version 2.0 of the PCI Secure Software Standard</title>
-      <link>https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-pci-secure-software-standard</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-pci-secure-software-standard&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;PCI SSC Releases Version 2.0 of the PCI Secure Software Standard &amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/secure-software-blog.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;The PCI Security Standards Council (PCI SSC) has published the first major revision to the PCI Secure Software Standard and its supporting Program Guide. This revision is the result of more than 18 months of collaboration with the PCI SSC stakeholder community. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 15 Jan 2026 17:55:25 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-pci-secure-software-standard</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Software</category>
-      <category>3DS</category>
-      <category>Software Security Framework</category>
-    </item>
-    <item>
-      <title>Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access</title>
-      <link>https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</link>
-      <description>A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.
-The vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin</description>
-      <pubDate>Thu, 15 Jan 2026 21:01:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
