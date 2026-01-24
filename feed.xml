@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Jan 2026 06:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 12:39:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,49 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware</title>
+      <link>https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html</link>
+      <description>A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.
+&amp;quot;The attack begins with social engineering lures delivered via business-themed documents crafted to appear routine and benign,&amp;quot; Fortinet FortiGuard Labs researcher Cara Lin said in a technical breakdown published this week. &amp;quot;These documents and</description>
+      <pubDate>Sat, 24 Jan 2026 16:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector</title>
+      <link>https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html</link>
+      <description>The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the &amp;quot;largest cyber attack&amp;quot; targeting Poland&amp;apos;s power system in the last week of December 2025.
+The attack was unsuccessful, the country&amp;apos;s energy minister, Milosz Motyka, said last week.
+&amp;quot;The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on</description>
+      <pubDate>Sat, 24 Jan 2026 13:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents</title>
+      <link>https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html</link>
+      <description>AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.
+Then comes the moment every security team eventually hits:
+&amp;amp;ldquo;Wait&amp;amp;hellip; who approved this?&amp;amp;rdquo;
+Unlike users or applications, AI agents are often deployed quickly, shared broadly,</description>
+      <pubDate>Sat, 24 Jan 2026 13:50:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog</title>
+      <link>https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+The vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the</description>
+      <pubDate>Sat, 24 Jan 2026 13:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Friday Squid Blogging: Giant Squid in the Star Trek Universe</title>
@@ -1090,50 +1133,6 @@ In addition, the group&amp;apos;s alleged leader, a 35-year-old Russian national
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>YOLO Mode: Hidden Risks in Claude Code Permissions | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/yolo-mode-hidden-risks-in-claude-code-permissions</link>
-      <description>Developers are frequently granting Claude Code permission to download, execute, and delete code, creating fertile ground for prompt injection attacks.</description>
-      <pubDate>Fri, 16 Jan 2026 18:28:06 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/yolo-mode-hidden-risks-in-claude-code-permissions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection</title>
-      <link>https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html</link>
-      <description>The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that&amp;apos;s designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives.
-&amp;quot;The actor creates a malformed archive as an anti-analysis technique,&amp;quot; Expel security researcher Aaron Walton said in a report shared with The Hacker News. &amp;quot;That is, many unarchiving tools</description>
-      <pubDate>Fri, 16 Jan 2026 23:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISOs Rise to Prominence: Security Leaders Join the Executive Suite</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite</link>
-      <description>Security professionals are moving up the executive ranks as enterprises face rising regulatory and compliance standards.</description>
-      <pubDate>Fri, 16 Jan 2026 15:25:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisos-rise-to-prominence-security-leaders-join-the-executive-suite</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Go Programming Language 1.26 Patches Several Security Flaws</title>
-      <link>https://www.techrepublic.com/article/news-golang-patches-security-flaws/</link>
-      <description>&amp;lt;p&amp;gt;The patched issues span core standard library components including archive/zip and net/http, as well as security-sensitive areas of the crypto/tls stack. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-golang-patches-security-flaws/&amp;quot;&amp;gt;Go Programming Language 1.26 Patches Several Security Flaws&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 16 Jan 2026 15:03:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-golang-patches-security-flaws/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>Go Programming Language</category>
-      <category>Golang</category>
     </item>
   </channel>
 </rss>
