@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Jan 2026 01:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 06:31:12 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -68,6 +68,15 @@
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ESET Research: Sandworm behind cyberattack on Poland’s power grid in late 2025</title>
+      <link>https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/</link>
+      <description>The attack involved data-wiping malware that ESET researchers have now analyzed and named DynoWiper</description>
+      <pubDate>Fri, 23 Jan 2026 16:58:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
     </item>
     <item>
       <title>Healthy Security Cultures Thrive on Risk Reporting</title>
@@ -192,6 +201,15 @@ The new venture, named TikTok USDS Joint Venture LLC, has been established in co
       <category>hacking</category>
       <category>malware</category>
       <category>windows</category>
+    </item>
+    <item>
+      <title>Children and chatbots: What parents should know</title>
+      <link>https://www.welivesecurity.com/en/kids-online/children-chatbots-what-parents-should-know/</link>
+      <description>As children turn to AI chatbots for answers, advice, and companionship, questions emerge about their safety, privacy, and emotional development</description>
+      <pubDate>Fri, 23 Jan 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/kids-online/children-chatbots-what-parents-should-know/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Kids Online</category>
     </item>
     <item>
       <title>Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms</title>
@@ -1116,32 +1134,6 @@ In addition, the group&amp;apos;s alleged leader, a 35-year-old Russian national
       <category>cybersecurity</category>
       <category>Go Programming Language</category>
       <category>Golang</category>
-    </item>
-    <item>
-      <title>AI and the Corporate Capture of Knowledge</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html</link>
-      <description>&amp;lt;p&amp;gt;More than a decade after &amp;lt;a href=&amp;quot;https://www.sfgate.com/technology/article/Open-access-tributes-to-Aaron-Swartz-4193965.php&amp;quot;&amp;gt;Aaron Swartz&amp;amp;#8217;s death&amp;lt;/a&amp;gt;, the United States is still living inside the contradiction that destroyed him.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Swartz believed that knowledge, especially publicly funded knowledge, should be freely accessible. Acting on that, he downloaded thousands of academic articles from the &amp;lt;a href=&amp;quot;https://www.jstor.org/&amp;quot;&amp;gt;JSTOR&amp;lt;/a&amp;gt; archive with the intention of making them publicly available. For this, the federal government charged him with a felony and threatened decades in prison. After two years of prosecutorial pressure, Swartz died by suicide on Jan. 11, 2013.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The still-unresolved questions raised by his case have resurfaced in today&amp;amp;#8217;s debates over artificial intelligence, copyright and the ultimate control of knowledge...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 16 Jan 2026 14:44:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Aaron Swartz</category>
-      <category>AI</category>
-      <category>copyright</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts</title>
-      <link>https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html</link>
-      <description>Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.
-&amp;quot;The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account</description>
-      <pubDate>Fri, 16 Jan 2026 19:39:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
