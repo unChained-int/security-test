@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Jan 2026 12:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 18:35:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,7 +17,82 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Okta Flags Customised, Reactive Vishing Attacks Which Bypass MFA</title>
+      <title>Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware</title>
+      <link>https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html</link>
+      <description>Cybersecurity researchers have discovered an ongoing campaign that&amp;apos;s targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign.
+The activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat</description>
+      <pubDate>Mon, 26 Jan 2026 22:31:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Shared BitLocker Keys With FBI, Raising Privacy Fears</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-bitlocker-keys-fbi-privacy/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft confirmed it can hand over BitLocker recovery keys stored in the cloud under warrant, reviving debate over who controls encrypted data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-bitlocker-keys-fbi-privacy/&amp;quot;&amp;gt;Microsoft Shared BitLocker Keys With FBI, Raising Privacy Fears&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Jan 2026 16:42:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-bitlocker-keys-fbi-privacy/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>bitlocker</category>
+      <category>cloud security</category>
+      <category>data protection</category>
+      <category>encryption</category>
+      <category>fbi</category>
+      <category>law enforcement</category>
+      <category>privacy</category>
+    </item>
+    <item>
+      <title>CISA Releases List of Post-Quantum Cryptography Product Categories</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/</link>
+      <description>CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats</description>
+      <pubDate>Mon, 26 Jan 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>DPRK&amp;apos;s Konni Targets Blockchain Developers With AI-Generated Backdoor</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor</link>
+      <description>The North Korean threat group is using a new PowerShell backdoor to compromise development environments and target cryptocurrency holdings, according to researchers.</description>
+      <pubDate>Mon, 26 Jan 2026 15:47:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code</title>
+      <link>https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html</link>
+      <description>Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligence (AI)-powered coding assistants, but also harbor covert functionality to siphon developer data to China-based servers.
+The extensions, which have 1.5 million combined installs and are still available for download from the official Visual Studio</description>
+      <pubDate>Mon, 26 Jan 2026 21:13:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Uncover “Haxor” SEO Poisoning Marketplace</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-haxor-seo-poisoning/</link>
+      <description>Fortra researchers have discovered a new SEO poisoning operation known as “HaxorSEO”</description>
+      <pubDate>Mon, 26 Jan 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-haxor-seo-poisoning/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Law Firm Investigates Coupang Security Failures Ahead of Class Action Deadline</title>
+      <link>https://www.infosecurity-magazine.com/news/law-firm-coupang-security-failures/</link>
+      <description>The US law firm Hagens Berman will lead a class action lawsuit against Coupang over security failures that led to a June 2025 data breach</description>
+      <pubDate>Mon, 26 Jan 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/law-firm-coupang-security-failures/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Okta Flags Customized, Reactive Vishing Attacks Which Bypass MFA</title>
       <link>https://www.infosecurity-magazine.com/news/okta-flags-vishing-attacks-which/</link>
       <description>Threat actors posing as IT support teams use phishing kits to generate fake login sites in real-time to trick victims into handing over credentials</description>
       <pubDate>Mon, 26 Jan 2026 12:12:00 +0000</pubDate>
@@ -138,7 +213,7 @@ The vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems</title>
+      <title>2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems</title>
       <link>https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems</link>
       <description>Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.</description>
       <pubDate>Sat, 24 Jan 2026 00:55:56 +0000</pubDate>
@@ -537,14 +612,6 @@ Securing the cloud office in this scenario is all about</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Over 160,000 Companies Notify Regulators of GDPR Breaches</title>
-      <link>https://www.infosecurity-magazine.com/news/160000-companies-regulator-gdpr/</link>
-      <description>DLA Piper finds 22% increase in breached firms notifying European GDPR regulators</description>
-      <pubDate>Thu, 22 Jan 2026 10:35:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/160000-companies-regulator-gdpr/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts</title>
       <link>https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</link>
       <description>A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.
@@ -614,7 +681,7 @@ The vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthentic
     <item>
       <title>Dark Reading Confidential: Reviving the Hacker Ethos That Built Cybersecurity</title>
       <link>https://www.darkreading.com/cybersecurity-operations/untitled</link>
-      <description>Dark Reading Confidential Episode 14: How curious, ethical problem solving can continue to serve as a guiding principle for an evolving cybersecurity sector.</description>
+      <description>Dark Reading Confidential Episode 14: How curious, ethical problem-solving can continue to serve as a guiding principle for an evolving cybersecurity sector.</description>
       <pubDate>Thu, 22 Jan 2026 00:24:21 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/untitled</guid>
       <dc:creator>Dark Reading Staff</dc:creator>
@@ -658,14 +725,6 @@ The new findings</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Phishing and Spoofed Sites Remain Primary Entry Points For Olympics</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-spoofed-sites-olympic/</link>
-      <description>Cyber risks for the Milano-Cortina 2026 Winter Games include phishing and spoofed websites as key threat vectors</description>
-      <pubDate>Wed, 21 Jan 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phishing-spoofed-sites-olympic/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws</title>
       <link>https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html</link>
       <description>Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.
@@ -674,14 +733,6 @@ The most severe of the lot is a critical security flaw impacting Zoom Node Multi
       <guid isPermaLink="true">https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Peruvian Loan Scam Harvests Cards and PINs via Fake Applications</title>
-      <link>https://www.infosecurity-magazine.com/news/loan-scam-harvests-cards-pins/</link>
-      <description>Loan phishing operation in Peru is stealing card info by impersonating financial institutions</description>
-      <pubDate>Wed, 21 Jan 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/loan-scam-harvests-cards-pins/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Complex VoidLink Linux Malware Created by AI</title>
@@ -1082,57 +1133,6 @@ The blockchain intelligence company said Tudou Guarantee has effectively ceased 
 The vulnerability, Miggo Security&amp;apos;s Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar&amp;apos;s privacy controls by hiding a dormant</description>
       <pubDate>Mon, 19 Jan 2026 22:51:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack &amp;amp; More</title>
-      <link>https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html</link>
-      <description>In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real</description>
-      <pubDate>Mon, 19 Jan 2026 18:47:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Acting CISA Director Pushed to Remove Agency CIO</title>
-      <link>https://www.techrepublic.com/article/news-cisa-leadership-crisis/</link>
-      <description>&amp;lt;p&amp;gt;The drama at the Cybersecurity and Infrastructure Security Agency is not helpful when it needs to focus on defending networks and infrastructure.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisa-leadership-crisis/&amp;quot;&amp;gt;Acting CISA Director Pushed to Remove Agency CIO&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 19 Jan 2026 13:07:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisa-leadership-crisis/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cio</category>
-      <category>CISA</category>
-      <category>cybersecurity</category>
-      <category>Cybersecurity and Infrastructure Security Agency</category>
-    </item>
-    <item>
-      <title>AI-Powered Surveillance in Schools</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html</link>
-      <description>&amp;lt;p&amp;gt;It all sounds &amp;lt;a href=&amp;quot;https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/&amp;quot;&amp;gt;pretty dystopian&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Inside a white stucco building in Southern California, video cameras compare faces of passersby against a facial recognition database. Behavioral analysis AI reviews the footage for signs of violent behavior. Behind a bathroom door, a smoke detector-shaped device captures audio, listening for sounds of distress. Outside, drones stand ready to be deployed and provide intel from above, and license plate readers from $8.5 billion surveillance behemoth Flock Safety ensure the cars entering and exiting the parking lot aren&amp;amp;#8217;t driven by criminals...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 19 Jan 2026 12:02:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>privacy</category>
-      <category>schools</category>
-      <category>surveillance</category>
-    </item>
-    <item>
-      <title>DevOps &amp;amp; SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses</title>
-      <link>https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html</link>
-      <description>Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services.
-In recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility</description>
-      <pubDate>Mon, 19 Jan 2026 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
