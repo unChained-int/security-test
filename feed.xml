@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Jan 2026 18:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 01:49:53 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,23 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Sandworm Blamed for Wiper Attack on Poland Power Grid</title>
+      <link>https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid</link>
+      <description>Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.</description>
+      <pubDate>Mon, 26 Jan 2026 21:30:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>eScan Antivirus Supply Chain Breach Delivers Signed Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/escan-antivirus-breach-delivers/</link>
+      <description>Supply chain breach in eScan antivirus distributes multi-stage malware via legitimate updates</description>
+      <pubDate>Mon, 26 Jan 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/escan-antivirus-breach-delivers/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware</title>
@@ -604,14 +621,6 @@ Securing the cloud office in this scenario is all about</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>UK Executives Warn They May Not Survive a Major Cyber-Attack, Vodafone Survey Finds</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-execs-warn-may-not-suruvie/</link>
-      <description>UK Executives Warn They May Not Survive a Major Cyber-Attack, Vodafone Survey Finds</description>
-      <pubDate>Thu, 22 Jan 2026 11:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-execs-warn-may-not-suruvie/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts</title>
       <link>https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</link>
       <description>A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.
@@ -680,10 +689,10 @@ The vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthentic
     </item>
     <item>
       <title>Dark Reading Confidential: Reviving the Hacker Ethos That Built Cybersecurity</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/untitled</link>
+      <link>https://www.darkreading.com/cybersecurity-operations/reviving-hacker-ethos-that-built-cybersecurity</link>
       <description>Dark Reading Confidential Episode 14: How curious, ethical problem-solving can continue to serve as a guiding principle for an evolving cybersecurity sector.</description>
       <pubDate>Thu, 22 Jan 2026 00:24:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/untitled</guid>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/reviving-hacker-ethos-that-built-cybersecurity</guid>
       <dc:creator>Dark Reading Staff</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
@@ -1125,16 +1134,6 @@ The blockchain intelligence company said Tudou Guarantee has effectively ceased 
       <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites</title>
-      <link>https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html</link>
-      <description>Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.
-The vulnerability, Miggo Security&amp;apos;s Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar&amp;apos;s privacy controls by hiding a dormant</description>
-      <pubDate>Mon, 19 Jan 2026 22:51:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
