@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Jan 2026 06:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:50:10 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,6 +17,80 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>The Constitutionality of Geofence Warrants</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html</link>
+      <description>&amp;lt;p&amp;gt;The US Supreme Court is &amp;lt;a href=&amp;quot;https://therecord.media/supreme-court-geofence-constitutionality&amp;quot;&amp;gt;considering&amp;lt;/a&amp;gt; the constitutionality of geofence warrants.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The case centers on the trial of Okello Chatrie, a Virginia man who pleaded guilty to a 2019 robbery outside of Richmond and was sentenced to almost 12 years in prison for stealing $195,000 at gunpoint.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Police probing the crime found security camera footage showing a man on a cell phone near the credit union that was robbed and asked Google to produce anonymized location data near the robbery site so they could determine who committed the crime. They did so, providing police with subscriber data for three people, one of whom was Chatrie. Police then searched Chatrie&amp;amp;#8217;s home and allegedly surfaced a gun, almost $100,000 in cash and incriminating notes...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 27 Jan 2026 12:01:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>courts</category>
+      <category>national security policy</category>
+      <category>searches</category>
+    </item>
+    <item>
+      <title>CTEM in Practice: Prioritization, Validation, and Outcomes That Matter</title>
+      <link>https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html</link>
+      <description>Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure.
+Which exposures truly matter? Can attackers exploit them? Are our defenses effective?
+Continuous Threat Exposure</description>
+      <pubDate>Tue, 27 Jan 2026 17:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Releases Patch for Office Zero Day Amid Evidence of Exploitation</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-patch-office-zero-day/</link>
+      <description>Microsoft urged customers running Microsoft Office 2016 and 2019 to apply the patch to be protected</description>
+      <pubDate>Tue, 27 Jan 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-patch-office-zero-day/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation</title>
+      <link>https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html</link>
+      <description>Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.
+The vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office.
+&amp;quot;Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized</description>
+      <pubDate>Tue, 27 Jan 2026 16:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas</title>
+      <link>https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html</link>
+      <description>A critical security flaw has been disclosed in Grist‑Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.
+The vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs.
+&amp;quot;One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,&amp;quot;</description>
+      <pubDate>Tue, 27 Jan 2026 16:06:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>World Leaks Ransomware Group Claims 1.4TB Nike Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/worldleaks-ransomware-14tb-nike/</link>
+      <description>Nike is investigating after the World Leaks ransomware group posted a 1.4TB data dump</description>
+      <pubDate>Tue, 27 Jan 2026 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/worldleaks-ransomware-14tb-nike/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023</title>
+      <link>https://thehackernews.com/2026/01/china-linked-hackers-have-used.html</link>
+      <description>Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environments.
+The flexible framework has been put to use against Chinese gambling industries and malicious activities targeting Asian government entities and private organizations, according to Trend Micro</description>
+      <pubDate>Tue, 27 Jan 2026 14:31:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/china-linked-hackers-have-used.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Sandworm Blamed for Wiper Attack on Poland Power Grid</title>
       <link>https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid</link>
       <description>Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.</description>
@@ -24,14 +98,6 @@
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>eScan Antivirus Supply Chain Breach Delivers Signed Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/escan-antivirus-breach-delivers/</link>
-      <description>Supply chain breach in eScan antivirus distributes multi-stage malware via legitimate updates</description>
-      <pubDate>Mon, 26 Jan 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/escan-antivirus-breach-delivers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware</title>
@@ -72,6 +138,42 @@ The activity, per the eSentire Threat Response Unit (TRU), involves using phishi
       <pubDate>Mon, 26 Jan 2026 16:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Who Operates the Badbox 2.0 Botnet?</title>
+      <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
+      <description>The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they&amp;apos;d compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.</description>
+      <pubDate>Mon, 26 Jan 2026 16:11:38 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Breadcrumbs</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Web Fraud 2.0</category>
+      <category>18681627767</category>
+      <category>189308024@qq.com</category>
+      <category>34557257@qq.com</category>
+      <category>BadBox 2.0</category>
+      <category>Beijing Astrolink Wireless Digital Technology Co. Ltd</category>
+      <category>Beijing Hengchuang Vision Mobile Media Technology Co. Ltd.</category>
+      <category>Beijing Hong Dake Wang Science &amp;amp; Technology Co Ltd.</category>
+      <category>cathead@gmail.com</category>
+      <category>Chen Daihai</category>
+      <category>Constella Intelligence</category>
+      <category>daihaic@gmail.com</category>
+      <category>Dort</category>
+      <category>Federal Bureau of Investigation</category>
+      <category>Guilin Huang</category>
+      <category>HUMAN Security</category>
+      <category>Moxin Beijing Science and Technology Co. Ltd.</category>
+      <category>osint.industries</category>
+      <category>Snow</category>
+      <category>SpyCloud</category>
+      <category>xavierzhu@gmail.com</category>
+      <category>xavierzhu@qq.com</category>
+      <category>Zhu Zhiyu</category>
+      <category>桂林 黄</category>
+      <category>陈代海</category>
     </item>
     <item>
       <title>DPRK&amp;apos;s Konni Targets Blockchain Developers With AI-Generated Backdoor</title>
@@ -585,14 +687,6 @@ What stands out is how little friction attackers now need. Some activity focused
       <category>LLM</category>
     </item>
     <item>
-      <title>LastPass Warns of Phishing Campaign Attempting to Steal Master Passwords</title>
-      <link>https://www.infosecurity-magazine.com/news/lastpass-phishing-master-passwords/</link>
-      <description>Phoney email alerts suggest users need to backup their LastPass accounts within 24 hours. LastPass says it would never require this action from users</description>
-      <pubDate>Thu, 22 Jan 2026 12:07:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lastpass-phishing-master-passwords/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Zoom and GitLab Patch RCE, DoS, and 2FA Bypass Vulnerabilities</title>
       <link>https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/</link>
       <description>&amp;lt;p&amp;gt;Both platforms serve as backbone infrastructure for remote work and software development, making these flaws particularly dangerous for business continuity.&amp;lt;/p&amp;gt;
@@ -1077,63 +1171,6 @@ Traditional IAM and IGA systems are designed</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Emerging Risks: Typosquatting in the MCP Ecosystem | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/typosquatting-in-the-mcp-ecosystem</link>
-      <description>The MCP server ecosystem is susceptible to brand impersonation for both local and remote servers.</description>
-      <pubDate>Tue, 20 Jan 2026 11:41:45 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/typosquatting-in-the-mcp-ecosystem</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers</title>
-      <link>https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html</link>
-      <description>Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers.&amp;amp;nbsp;
-&amp;quot;The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),&amp;quot; the web infrastructure</description>
-      <pubDate>Tue, 20 Jan 2026 16:42:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why Secrets in JavaScript Bundles are Still Being Missed</title>
-      <link>https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html</link>
-      <description>Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?
-To find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches.&amp;amp;nbsp;
-Applying this at scale by scanning 5 million applications revealed over</description>
-      <pubDate>Tue, 20 Jan 2026 16:15:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Old habits die hard: 2025’s most common passwords were as predictable as ever</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/old-habits-die-hard-2025-most-common-passwords/</link>
-      <description>Once again, data shows an uncomfortable truth: the habit of choosing eminently hackable passwords is alive and well</description>
-      <pubDate>Tue, 20 Jan 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/old-habits-die-hard-2025-most-common-passwords/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Digital Security</category>
-    </item>
-    <item>
-      <title>Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion</title>
-      <link>https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html</link>
-      <description>A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.
-The blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed</description>
-      <pubDate>Tue, 20 Jan 2026 13:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ChatGPT Health Raises Big Security, Safety Concerns</title>
-      <link>https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns</link>
-      <description>ChatGPT Health promises robust data protection, but elements of the rollout raise big questions regarding user security and safety.</description>
-      <pubDate>Mon, 19 Jan 2026 17:57:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
