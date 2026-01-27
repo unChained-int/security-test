@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Jan 2026 12:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 18:38:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,79 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware</title>
+      <link>https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html</link>
+      <description>Meta on Tuesday announced it&amp;apos;s adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.
+The feature, similar to Lockdown Mode in Apple iOS and Advanced Protection in Android, aims to protect individuals, such as journalists or public-facing figures, from sophisticated spyware by trading some functionality for</description>
+      <pubDate>Tue, 27 Jan 2026 22:24:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities</title>
+      <link>https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html</link>
+      <description>Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.
+The campaigns have been codenamed Gopher Strike and Sheet Attack by Zscaler ThreatLabz, which identified them in September 2025.
+&amp;quot;While these campaigns share some similarities with the Pakistan-linked Advanced Persistent Threat (APT)</description>
+      <pubDate>Tue, 27 Jan 2026 22:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Pyodide Sandbox Escape Enables Remote Code Execution in Grist-Core</title>
+      <link>https://www.infosecurity-magazine.com/news/pyodide-sandbox-escape-rce-grist/</link>
+      <description>Critical sandbox escape vulnerability in Grist-Core enables remote code execution via a malicious formula</description>
+      <pubDate>Tue, 27 Jan 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/pyodide-sandbox-escape-rce-grist/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data</link>
+      <description>The sportswear brand is investigating an alleged breach of its network that exposed some 188,347 files of highly sensitive corporate data.</description>
+      <pubDate>Tue, 27 Jan 2026 16:41:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PeckBirdy Framework Tied to China-Aligned Cyber Campaigns</title>
+      <link>https://www.infosecurity-magazine.com/news/peckbirdy-framework-tied-china/</link>
+      <description>PeckBirdy command-and-control framework targeting gambling, government sectors in Asia since 2023 has been linked to China-aligned APTs</description>
+      <pubDate>Tue, 27 Jan 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/peckbirdy-framework-tied-china/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services</title>
+      <link>https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera.
+&amp;quot;Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,&amp;quot;</description>
+      <pubDate>Tue, 27 Jan 2026 20:08:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Over 80% of Ethical Hackers Now Use AI</title>
+      <link>https://www.infosecurity-magazine.com/news/over-80-of-ethical-hackers-now-use/</link>
+      <description>Bugcrowd study reveals 82% of security researchers now use AI, a big increase from 2023 figures</description>
+      <pubDate>Tue, 27 Jan 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/over-80-of-ethical-hackers-now-use/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Hand CVE Over to the Private Sector</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector</link>
+      <description>How MITRE has mismanaged the world&amp;apos;s vulnerability database for decades and wasted millions along the way.</description>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/hand-cve-over-to-private-sector</guid>
+      <dc:creator>Brian Martin</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -30,6 +103,15 @@
       <category>courts</category>
       <category>national security policy</category>
       <category>searches</category>
+    </item>
+    <item>
+      <title>Celebrating Data Privacy Week with NIST’s Privacy Engineering Program</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/celebrating-data-privacy-week-nists-privacy-engineering-program</link>
+      <description>Grab your party hats – it’s Data Privacy Week! Data Privacy Week is a global initiative led by the National Cybersecurity Alliance to spread awareness about online privacy and empower individuals and businesses to respect privacy, safeguard data, and enable trust. In celebration of this week, the NIST Privacy Engineering Program is reflecting on recent work and looking ahead to what’s coming in the new year. Throughout 2026, we plan to continue collaborating with our privacy stakeholder community to develop and advance privacy risk management guidelines to help organizations of all sizes</description>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nist.gov/blogs/cybersecurity-insights/celebrating-data-privacy-week-nists-privacy-engineering-program</guid>
+      <dc:creator>Ellen Nadeau, Meghan Anderson, Nakia Grayson, Diane Wertime</dc:creator>
+      <source url="https://www.nist.gov/blogs/cybersecurity-insights/rss.xml">Cybersecurity Insights</source>
     </item>
     <item>
       <title>CTEM in Practice: Prioritization, Validation, and Outcomes That Matter</title>
@@ -91,6 +173,15 @@ The flexible framework has been put to use against Chinese gambling industries a
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Beauty in Destruction: Exploring Malware&amp;apos;s Impact Through Art</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art</link>
+      <description>Artistic initiatives turn cybersecurity into immersive exhibits at the Museum of Malware Art, transforming digital threats into thought-provoking experiences.</description>
+      <pubDate>Mon, 26 Jan 2026 23:08:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/beauty-in-destruction-exploring-malware-impact-through-art</guid>
+      <dc:creator>Andrada Fiscutean</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Sandworm Blamed for Wiper Attack on Poland Power Grid</title>
       <link>https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid</link>
       <description>Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.</description>
@@ -138,42 +229,6 @@ The activity, per the eSentire Threat Response Unit (TRU), involves using phishi
       <pubDate>Mon, 26 Jan 2026 16:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Who Operates the Badbox 2.0 Botnet?</title>
-      <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
-      <description>The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they&amp;apos;d compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.</description>
-      <pubDate>Mon, 26 Jan 2026 16:11:38 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Breadcrumbs</category>
-      <category>Internet of Things (IoT)</category>
-      <category>Web Fraud 2.0</category>
-      <category>18681627767</category>
-      <category>189308024@qq.com</category>
-      <category>34557257@qq.com</category>
-      <category>BadBox 2.0</category>
-      <category>Beijing Astrolink Wireless Digital Technology Co. Ltd</category>
-      <category>Beijing Hengchuang Vision Mobile Media Technology Co. Ltd.</category>
-      <category>Beijing Hong Dake Wang Science &amp;amp; Technology Co Ltd.</category>
-      <category>cathead@gmail.com</category>
-      <category>Chen Daihai</category>
-      <category>Constella Intelligence</category>
-      <category>daihaic@gmail.com</category>
-      <category>Dort</category>
-      <category>Federal Bureau of Investigation</category>
-      <category>Guilin Huang</category>
-      <category>HUMAN Security</category>
-      <category>Moxin Beijing Science and Technology Co. Ltd.</category>
-      <category>osint.industries</category>
-      <category>Snow</category>
-      <category>SpyCloud</category>
-      <category>xavierzhu@gmail.com</category>
-      <category>xavierzhu@qq.com</category>
-      <category>Zhu Zhiyu</category>
-      <category>桂林 黄</category>
-      <category>陈代海</category>
     </item>
     <item>
       <title>DPRK&amp;apos;s Konni Targets Blockchain Developers With AI-Generated Backdoor</title>
@@ -612,22 +667,6 @@ The vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CV
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Critical Appsmith Flaw Enables Account Takeovers</title>
-      <link>https://www.infosecurity-magazine.com/news/appsmith-flaw-account-takeovers/</link>
-      <description>Critical vulnerability in Appsmith allows account takeover via flawed password reset process</description>
-      <pubDate>Thu, 22 Jan 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/appsmith-flaw-account-takeovers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>RealHomes CRM Plugin Flaw Affected 30,000 WordPress Sites</title>
-      <link>https://www.infosecurity-magazine.com/news/realhomes-crm-plugin-flaw/</link>
-      <description>Security flaw in RealHomes CRM plugin allowed file uploads; patches released for 30,000+ sites</description>
-      <pubDate>Thu, 22 Jan 2026 15:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/realhomes-crm-plugin-flaw/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Under Armour Ransomware Attack Exposes 72M Email Addresses</title>
       <link>https://www.techrepublic.com/article/news-under-armour-ransomware-attack/</link>
       <description>&amp;lt;p&amp;gt;Many records also contained additional personal information such as names, dates of birth, genders, geographic locations, and purchase information.&amp;lt;/p&amp;gt;
@@ -661,14 +700,6 @@ What stands out is how little friction attackers now need. Some activity focused
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Zero-Day Exploits Surge, Nearly 30% of Flaws Attacked Before Disclosure</title>
-      <link>https://www.infosecurity-magazine.com/news/zeroday-exploits-surge-vulncheck/</link>
-      <description>VulnCheck analysts found that vulnerabilities exploited before being publicly disclosed rose from 23.6% in 2024 to 28.96% in 2025</description>
-      <pubDate>Thu, 22 Jan 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/zeroday-exploits-surge-vulncheck/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Why AI Keeps Falling for Prompt Injection Attacks</title>
@@ -1094,83 +1125,6 @@ The latest finding demonstrates continued evolution of the new tactic that was f
       <guid isPermaLink="true">https://www.darkreading.com/application-security/microsoft-anthropic-mcp-servers-risk-takeovers</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution</title>
-      <link>https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html</link>
-      <description>A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.
-&amp;quot;These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,</description>
-      <pubDate>Tue, 20 Jan 2026 19:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading</title>
-      <link>https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html</link>
-      <description>Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).
-The activity delivers &amp;quot;weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,&amp;quot; ReliaQuest said in a report shared with</description>
-      <pubDate>Tue, 20 Jan 2026 19:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Could ChatGPT Convince You to Buy Something?</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html</link>
-      <description>&amp;lt;p&amp;gt;Eighteen months ago, it was plausible that artificial intelligence might take a &amp;lt;a href=&amp;quot;https://www.technologyreview.com/2024/03/13/1089729/lets-not-make-the-same-mistakes-with-ai-that-we-made-with-social-media/&amp;quot;&amp;gt;different path&amp;lt;/a&amp;gt; than social media. Back then, AI&amp;amp;#8217;s development hadn&amp;amp;#8217;t consolidated under a small number of big tech firms. Nor had it capitalized on consumer attention, surveilling users and delivering ads.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Unfortunately, the AI industry is now taking a page from the social media playbook and has set its sights on monetizing consumer attention. When OpenAI launched its &amp;lt;a href=&amp;quot;https://openai.com/index/introducing-chatgpt-search/&amp;quot;&amp;gt;ChatGPT Search&amp;lt;/a&amp;gt; feature in late 2024 and its browser, &amp;lt;a href=&amp;quot;https://openai.com/index/introducing-chatgpt-atlas/&amp;quot;&amp;gt;ChatGPT Atlas&amp;lt;/a&amp;gt;, in October 2025, it kicked off a ...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 20 Jan 2026 12:08:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>Google</category>
-      <category>LLM</category>
-      <category>search engines</category>
-    </item>
-    <item>
-      <title>NCSC Warns of Increased Russian Hacktivist Threat to UK Online Services</title>
-      <link>https://www.techrepublic.com/article/news-ncsc-russian-hackers-target-uk/</link>
-      <description>&amp;lt;p&amp;gt;National Cyber Security Centre says these ideologically motivated attackers are moving beyond simple website disruptions. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ncsc-russian-hackers-target-uk/&amp;quot;&amp;gt;NCSC Warns of Increased Russian Hacktivist Threat to UK Online Services&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 20 Jan 2026 12:05:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ncsc-russian-hackers-target-uk/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Europe</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>United Kingdom</category>
-      <category>cybersecurity</category>
-      <category>hackers</category>
-      <category>National Cyber Security Centre</category>
-      <category>ncsc</category>
-    </item>
-    <item>
-      <title>The Hidden Risk of Orphan Accounts</title>
-      <link>https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html</link>
-      <description>The Problem: The Identities Left Behind
-As organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.
-The reason they persist isn’t negligence - it’s fragmentation.&amp;amp;nbsp;
-Traditional IAM and IGA systems are designed</description>
-      <pubDate>Tue, 20 Jan 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto</title>
-      <link>https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html</link>
-      <description>Cybersecurity researchers have disclosed details of a malware campaign that&amp;apos;s targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem.
-&amp;quot;The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer</description>
-      <pubDate>Tue, 20 Jan 2026 17:18:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
