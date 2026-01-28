@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Jan 2026 01:46:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:35:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/rsac-2026-conference</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected</title>
+      <link>https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html</link>
+      <description>Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.
+The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it&amp;apos;s</description>
+      <pubDate>Wed, 28 Jan 2026 10:19:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>AI &amp;amp;amp; the Death of Accuracy: What It Means for Zero-Trust</title>
@@ -1089,29 +1099,6 @@ Binary-parser is a</description>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/mass-spam-attacks-zendesk-instances</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New iOS and iPadOS Flaws Leave Millions of iPhones at Risk</title>
-      <link>https://www.techrepublic.com/article/news-ios-ipad-os-flaws-iphones-at-risk/</link>
-      <description>&amp;lt;p&amp;gt;Critical iOS and iPadOS WebKit flaws put millions of iPhones and iPads at risk of silent takeover. Apple urges users to update immediately.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ios-ipad-os-flaws-iphones-at-risk/&amp;quot;&amp;gt;New iOS and iPadOS Flaws Leave Millions of iPhones at Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 20 Jan 2026 19:01:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ios-ipad-os-flaws-iphones-at-risk/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>apple security update</category>
-      <category>ios security</category>
-      <category>ios vulnerabilities</category>
-      <category>ipad security</category>
-      <category>mobile device security</category>
-      <category>safari security</category>
-      <category>webkit vulnerability</category>
-      <category>zero-click attack</category>
     </item>
   </channel>
 </rss>
