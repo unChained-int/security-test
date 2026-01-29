@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Jan 2026 06:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 12:56:44 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,10 +17,95 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>US Data Breaches Hit Record High but Victim Numbers Decline</title>
+      <link>https://www.infosecurity-magazine.com/news/us-data-breaches-record-high/</link>
+      <description>Non-profit ITRC says the number of data breaches increased 5% annually to reach a record total in 2025</description>
+      <pubDate>Thu, 29 Jan 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-data-breaches-record-high/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps</title>
+      <link>https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html</link>
+      <description>A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.
+The findings are based on</description>
+      <pubDate>Thu, 29 Jan 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026</title>
+      <link>https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html</link>
+      <description>Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That’s why for CISOs, it’s key to prioritize decisions that reduce dwell time and protect their company from risk.&amp;amp;nbsp;
+Three strategic steps you can take this year for better results:
+1. Focus on today&amp;apos;s</description>
+      <pubDate>Thu, 29 Jan 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ShinyHunters Claims 14M Panera Bread Records Exposed in Data Breach</title>
+      <link>https://www.techrepublic.com/article/news-panera-bread-data-breach/</link>
+      <description>&amp;lt;p&amp;gt;The dataset allegedly includes names, email addresses, postal addresses, phone numbers, and account-related details. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-panera-bread-data-breach/&amp;quot;&amp;gt;ShinyHunters Claims 14M Panera Bread Records Exposed in Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 29 Jan 2026 09:52:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-panera-bread-data-breach/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>data breach</category>
+      <category>Panera Bread</category>
+      <category>shinyhunters</category>
+    </item>
+    <item>
+      <title>Number of Cybersecurity Pros Surges 194% in Four Years</title>
+      <link>https://www.infosecurity-magazine.com/news/number-cybersecurity-pros-surges/</link>
+      <description>Cybersecurity is now the fifth fastest-growing occupation in the UK, says Socura</description>
+      <pubDate>Thu, 29 Jan 2026 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/number-cybersecurity-pros-surges/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass</title>
+      <link>https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html</link>
+      <description>SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).
+The list of vulnerabilities is as follows -
+
+CVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated</description>
+      <pubDate>Thu, 29 Jan 2026 14:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cybersecurity Teams Embrace AI, Just Not at the Scale Marketing Suggests</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-teams-embrace-ai/</link>
+      <description>Despite the seemingly widespread adoption of AI for security operations, security leaders primarily use it for “relatively basic use cases,” said a Sumo Logic study</description>
+      <pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybersecurity-teams-embrace-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks</title>
+      <link>https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html</link>
+      <description>Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world.
+To that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA&amp;apos;s website (&amp;quot;www.ipidea.io&amp;quot;) is no longer accessible. It</description>
+      <pubDate>Thu, 29 Jan 2026 12:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Productivity at a Price: The Rising Cost of AI Convenience | UpGuard</title>
       <link>https://upguard-staging.webflow.io/blog/productivity-and-the-rising-cost-of-ai-convenience</link>
       <description>AI tools offer efficiency, but at a cost. UpGuard reveals how PII leaks and new supply chain vulnerabilities are hidden in widely used AI workflows.</description>
-      <pubDate>Wed, 28 Jan 2026 23:16:54 +0000</pubDate>
+      <pubDate>Thu, 29 Jan 2026 07:10:56 +0000</pubDate>
       <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/productivity-and-the-rising-cost-of-ai-convenience</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
@@ -255,6 +340,15 @@ Near-identical password reuse continues to slip past security controls, often</d
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Love? Actually: Fake dating app used as lure in targeted spyware campaign in Pakistan</title>
+      <link>https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/</link>
+      <description>ESET researchers discover an Android spyware campaign targeting users in Pakistan via romance scam tactics, revealing links to a broader spy operation</description>
+      <pubDate>Wed, 28 Jan 2026 09:59:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
+    </item>
+    <item>
       <title>Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088</title>
       <link>https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html</link>
       <description>Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads.
@@ -428,10 +522,10 @@ The campaigns have been codenamed Gopher Strike and Sheet Attack by Zscaler Thre
     </item>
     <item>
       <title>WorldLeaks Extortion Group Claims It Stole 1.4TB of Nike Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data</link>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1-4tb-nike-data</link>
       <description>The sportswear brand is investigating an alleged breach of its network that exposed some 188,347 files of highly sensitive corporate data.</description>
       <pubDate>Tue, 27 Jan 2026 16:41:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1.4tb-nike-data</guid>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/worldeaks-extortion-group-stole-1-4tb-nike-data</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
@@ -506,14 +600,6 @@ Continuous Threat Exposure</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Microsoft Releases Patch for Office Zero Day Amid Evidence of Exploitation</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-patch-office-zero-day/</link>
-      <description>Microsoft urged customers running Microsoft Office 2016 and 2019 to apply the patch to be protected</description>
-      <pubDate>Tue, 27 Jan 2026 10:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-patch-office-zero-day/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation</title>
       <link>https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html</link>
       <description>Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.
@@ -543,14 +629,6 @@ The vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenam
       <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/drowning-spam-scam-emails-why/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Digital Security</category>
-    </item>
-    <item>
-      <title>World Leaks Ransomware Group Claims 1.4TB Nike Data Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/worldleaks-ransomware-14tb-nike/</link>
-      <description>Nike is investigating after the World Leaks ransomware group posted a 1.4TB data dump</description>
-      <pubDate>Tue, 27 Jan 2026 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/worldleaks-ransomware-14tb-nike/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023</title>
@@ -613,12 +691,40 @@ The activity, per the eSentire Threat Response Unit (TRU), involves using phishi
       <category>privacy</category>
     </item>
     <item>
-      <title>CISA Releases List of Post-Quantum Cryptography Product Categories</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/</link>
-      <description>CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats</description>
-      <pubDate>Mon, 26 Jan 2026 16:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+      <title>Who Operates the Badbox 2.0 Botnet?</title>
+      <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
+      <description>The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they&amp;apos;d compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.</description>
+      <pubDate>Mon, 26 Jan 2026 16:11:38 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Breadcrumbs</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Web Fraud 2.0</category>
+      <category>18681627767</category>
+      <category>189308024@qq.com</category>
+      <category>34557257@qq.com</category>
+      <category>BadBox 2.0</category>
+      <category>Beijing Astrolink Wireless Digital Technology Co. Ltd</category>
+      <category>Beijing Hengchuang Vision Mobile Media Technology Co. Ltd.</category>
+      <category>Beijing Hong Dake Wang Science &amp;amp; Technology Co Ltd.</category>
+      <category>cathead@gmail.com</category>
+      <category>Chen Daihai</category>
+      <category>Constella Intelligence</category>
+      <category>daihaic@gmail.com</category>
+      <category>Dort</category>
+      <category>Federal Bureau of Investigation</category>
+      <category>Guilin Huang</category>
+      <category>HUMAN Security</category>
+      <category>Moxin Beijing Science and Technology Co. Ltd.</category>
+      <category>osint.industries</category>
+      <category>Snow</category>
+      <category>SpyCloud</category>
+      <category>xavierzhu@gmail.com</category>
+      <category>xavierzhu@qq.com</category>
+      <category>Zhu Zhiyu</category>
+      <category>桂林 黄</category>
+      <category>陈代海</category>
     </item>
     <item>
       <title>DPRK&amp;apos;s Konni Targets Blockchain Developers With AI-Generated Backdoor</title>
@@ -1031,88 +1137,6 @@ The vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CV
 What stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis</description>
       <pubDate>Thu, 22 Jan 2026 19:53:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>DPRK Actors Deploy VS Code Tunnels for Remote Hacking</title>
-      <link>https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking</link>
-      <description>A spear-phishing campaign tied to the Democratic People&amp;apos;s Republic of Korea (DPRK) uses trusted Microsoft infrastructure to avoid detection.</description>
-      <pubDate>Thu, 22 Jan 2026 14:05:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/dprk-vs-code-tunnels-remote-hacking</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Why AI Keeps Falling for Prompt Injection Attacks</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html</link>
-      <description>&amp;lt;p&amp;gt;Imagine you work at a drive-through restaurant. Someone drives up and says: &amp;amp;#8220;I&amp;amp;#8217;ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.&amp;amp;#8221; Would you hand over the money? Of course not. Yet this is what &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/tag/large-language-models&amp;quot;&amp;gt;large language models&amp;lt;/a&amp;gt; (&amp;lt;a href=&amp;quot;https://spectrum.ieee.org/tag/llms&amp;quot;&amp;gt;LLMs&amp;lt;/a&amp;gt;) do.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.ibm.com/think/topics/prompt-injection&amp;quot;&amp;gt;Prompt injection&amp;lt;/a&amp;gt; is a method of tricking LLMs into doing things they are normally prevented from doing. A user writes a prompt in a certain way, asking for system &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/tag/passwords&amp;quot;&amp;gt;passwords&amp;lt;/a&amp;gt; or private data, or asking the LLM to perform forbidden instructions. The precise phrasing overrides the LLM&amp;amp;#8217;s ...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Jan 2026 12:35:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>chatbots</category>
-      <category>cons</category>
-      <category>fraud</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>Zoom and GitLab Patch RCE, DoS, and 2FA Bypass Vulnerabilities</title>
-      <link>https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/</link>
-      <description>&amp;lt;p&amp;gt;Both platforms serve as backbone infrastructure for remote work and software development, making these flaws particularly dangerous for business continuity.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/&amp;quot;&amp;gt;Zoom and GitLab Patch RCE, DoS, and 2FA Bypass Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Jan 2026 11:34:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-zoom-gitlab-security-flaws-patched/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>devsecops</category>
-      <category>gitlab</category>
-      <category>zoom</category>
-    </item>
-    <item>
-      <title>Filling the Most Common Gaps in Google Workspace Security</title>
-      <link>https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html</link>
-      <description>Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one.
-Securing the cloud office in this scenario is all about</description>
-      <pubDate>Thu, 22 Jan 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts</title>
-      <link>https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</link>
-      <description>A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.
-The package, named sympy-dev, mimics SymPy, replicating the latter&amp;apos;s project description verbatim in an attempt to deceive unsuspecting users into thinking that they are</description>
-      <pubDate>Thu, 22 Jan 2026 15:34:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Common Apple Pay scams, and how to stay safe</title>
-      <link>https://www.welivesecurity.com/en/scams/common-apple-pay-scams-how-stay-safe/</link>
-      <description>Here’s how the most common scams targeting Apple Pay users work and what you can do to stay one step ahead</description>
-      <pubDate>Thu, 22 Jan 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/common-apple-pay-scams-how-stay-safe/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Scams</category>
-    </item>
-    <item>
-      <title>SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release</title>
-      <link>https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</link>
-      <description>A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.
-The vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management</description>
-      <pubDate>Thu, 22 Jan 2026 15:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
