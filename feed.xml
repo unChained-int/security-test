@@ -5,9 +5,93 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Jan 2026 12:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 18:41:44 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SoundCloud Data Breach Exposes Nearly 30M User Accounts</title>
+      <link>https://www.techrepublic.com/article/news-soundcloud-breach-exposes-nearly-30-million-users/</link>
+      <description>&amp;lt;p&amp;gt;A SoundCloud breach affecting 29.8 million accounts exposed email addresses and profile data, increasing phishing risks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-soundcloud-breach-exposes-nearly-30-million-users/&amp;quot;&amp;gt;SoundCloud Data Breach Exposes Nearly 30M User Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 30 Jan 2026 16:32:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-soundcloud-breach-exposes-nearly-30-million-users/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>account security</category>
+      <category>data breach</category>
+      <category>Have I Been Pwned</category>
+      <category>phishing</category>
+      <category>SoundCloud</category>
+    </item>
+    <item>
+      <title>Apple Adds New iPhone Privacy Setting to Blur Location Data Shared With Carriers</title>
+      <link>https://www.techrepublic.com/article/news-apple-iphone-limit-precise-location-carriers/</link>
+      <description>&amp;lt;p&amp;gt;Apple’s new iPhone privacy setting blurs location data shared with wireless carriers, limiting precise tracking while preserving emergency services.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-iphone-limit-precise-location-carriers/&amp;quot;&amp;gt;Apple Adds New iPhone Privacy Setting to Blur Location Data Shared With Carriers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 30 Jan 2026 16:09:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-iphone-limit-precise-location-carriers/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Hardware</category>
+      <category>News</category>
+      <category>Operating System</category>
+      <category>Security</category>
+      <category>cellular networks</category>
+      <category>data protection</category>
+      <category>ios 26</category>
+      <category>iphone</category>
+      <category>location privacy</category>
+      <category>wireless carriers</category>
+    </item>
+    <item>
+      <title>Labyrinth Chollima Evolves into Three North Korean Hacking Groups</title>
+      <link>https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/</link>
+      <description>CrowdStrike assessed that two new threat actor groups have spun off from North Korean Labyrinth Chollima hackers</description>
+      <pubDate>Fri, 30 Jan 2026 15:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities</title>
+      <link>https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html</link>
+      <description>&amp;lt;p&amp;gt;From an Anthropic &amp;lt;a href=&amp;quot;https://red.anthropic.com/2026/cyber-toolkits-update/&amp;quot;&amp;gt;blog post&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed at multistage attacks on networks with dozens of hosts using only standard, open-source tools, instead of the custom tools needed by previous generations. This illustrates how barriers to the use of AI in relatively autonomous cyber workflows are rapidly coming down, and highlights the importance of security fundamentals like promptly patching known vulnerabilities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;[…]&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;A notable development during the testing of Claude Sonnet 4.5 is that the model can now succeed on a minority of the networks without the custom cyber toolkit needed by previous generations. In particular, Sonnet 4.5 can now exfiltrate all of the (simulated) personal information in a high-fidelity simulation of the Equifax data breach&amp;amp;#8212;one of the costliest cyber attacks in history­­using only a Bash shell on a widely-available Kali Linux host (standard, open-source tools for penetration testing; not a custom toolkit). Sonnet 4.5 accomplishes this by instantly recognizing a publicized CVE and writing code to exploit it without needing to look it up or iterate on it. Recalling that the original Equifax breach happened by exploiting a publicized CVE that had not yet been patched, the prospect of highly competent and fast AI agents leveraging this approach underscores the pressing need for security best practices like prompt updates and patches...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 30 Jan 2026 15:35:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cybersecurity</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access</title>
+      <link>https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html</link>
+      <description>Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and collect OpenAI ChatGPT authentication tokens.
+One of the extensions in question is Amazon Ads Blocker (ID: pnpchphmplpdimbllknjoiopmfphellj), which claims to be a tool to browse Amazon without any sponsored content. It was uploaded to the Chrome</description>
+      <pubDate>Fri, 30 Jan 2026 19:12:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware</title>
+      <link>https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html</link>
+      <description>Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026.
+The activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently</description>
+      <pubDate>Fri, 30 Jan 2026 17:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>New AI-Developed Malware Campaign Targets Iranian Protests</title>
       <link>https://www.infosecurity-magazine.com/news/ai-malware-redkitten-iranian/</link>
@@ -97,18 +181,18 @@ CVE-2026-1281 (CVSS score:</description>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Trump Administration Rescinds Biden-Era SBOM Guidance</title>
+      <title>Trump Administration Rescinds Biden-Era Software Guidance</title>
       <link>https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance</link>
-      <description>Federal agencies will no longer be required to solicit software bills of material (SBOMs) from tech vendors, nor attestations that they comply with NIST&amp;apos;s Secure Software Development Framework (SSDF). What that means long term is unclear.</description>
+      <description>Federal agencies will no longer be required to solicit software attestations that they comply with NIST&amp;apos;s Secure Software Development Framework (SSDF). What that means long term is unclear.</description>
       <pubDate>Thu, 29 Jan 2026 22:25:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>More Critical Flaws on n8n Could Compromise Customer Security</title>
+      <title>Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security</link>
-      <description>A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials.</description>
+      <description>A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials, allowing full takeover.</description>
       <pubDate>Thu, 29 Jan 2026 21:53:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
@@ -401,14 +485,6 @@ The extension, named &amp;quot;ClawdBot Agent - AI Coding Assistant&amp;quot; (&
       <category>3DS</category>
       <category>Software Security Framework</category>
       <category>Coffee with the Council podcasts</category>
-    </item>
-    <item>
-      <title>Autonomous System Uncovers Long-Standing OpenSSL Flaws</title>
-      <link>https://www.infosecurity-magazine.com/news/12-openssl-flaws/</link>
-      <description>A recent update has fixed 12 vulnerabilities in OpenSSL, some existing in the codebase for years</description>
-      <pubDate>Wed, 28 Jan 2026 16:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/12-openssl-flaws/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>China-Backed &amp;apos;PeckBirdy&amp;apos; Takes Flight for Cross-Platform Attacks</title>
@@ -796,7 +872,7 @@ The flexible framework has been put to use against Chinese gambling industries a
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Sandworm Blamed for Wiper Attack on Poland Power Grid</title>
+      <title>Sandworm Blamed for Wiper Attack on Polish Power Grid</title>
       <link>https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid</link>
       <description>Researchers attributed the failed attempt to the infamous Russian APT Sandworm, which is notorious for wiper attacks on critical infrastructure organizations.</description>
       <pubDate>Mon, 26 Jan 2026 21:30:14 +0000</pubDate>
@@ -1048,75 +1124,6 @@ The vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers 
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting</guid>
       <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities</title>
-      <link>https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
-The list of vulnerabilities is as follows -
-
-CVE-2025-68645 (CVSS score: 8.8) - A PHP remote file inclusion vulnerability in Synacor Zimbra Collaboration Suite (ZCS) that could allow a</description>
-      <pubDate>Fri, 23 Jan 2026 20:54:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Okta Uncovers Custom Phishing Kits Built for Vishing Callers</title>
-      <link>https://www.techrepublic.com/article/news-phishing-kits-vishing-callers/</link>
-      <description>&amp;lt;p&amp;gt;They can intercept user credentials while providing real-time context that helps attackers convince victims to approve MFA challenges during phone calls..&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-phishing-kits-vishing-callers/&amp;quot;&amp;gt;Okta Uncovers Custom Phishing Kits Built for Vishing Callers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Jan 2026 14:50:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-phishing-kits-vishing-callers/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybercrime</category>
-      <category>cybersecurity</category>
-      <category>okta</category>
-      <category>phishing</category>
-      <category>phone scams</category>
-      <category>vishing</category>
-    </item>
-    <item>
-      <title>Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls</title>
-      <link>https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html</link>
-      <description>Fortinet has officially confirmed that it&amp;apos;s working to completely plug a FortiCloud SSO authentication bypass vulnerability following reports of fresh exploitation activity on fully-patched firewalls.
-&amp;quot;In the last 24 hours, we have identified a number of cases where the exploit was to a device that had been fully upgraded to the latest release at the time of the attack, which suggested a new</description>
-      <pubDate>Fri, 23 Jan 2026 18:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html</link>
-      <description>&amp;lt;p&amp;gt;Really interesting &amp;lt;a href=&amp;quot;https://red.anthropic.com/2026/cyber-toolkits-update/&amp;quot;&amp;gt;blog post&amp;lt;/a&amp;gt; from Anthropic:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In a recent evaluation of AI models’ cyber capabilities, current Claude models can now succeed at multistage attacks on networks with dozens of hosts using only standard, open-source tools, instead of the custom tools needed by previous generations. This illustrates how barriers to the use of AI in relatively autonomous cyber workflows are rapidly coming down, and highlights the importance of security fundamentals like promptly patching known vulnerabilities.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;A notable development during the testing of Claude Sonnet 4.5 is that the model can now succeed on a minority of the networks without the custom cyber toolkit needed by previous generations. In particular, Sonnet 4.5 can now exfiltrate all of the (simulated) personal information in a high-fidelity simulation of the Equifax data breach&amp;amp;#8212;­one of the costliest cyber attacks in history&amp;amp;#8212;­using only a Bash shell on a widely-available Kali Linux host (standard, open-source tools for penetration testing; not a custom toolkit). Sonnet 4.5 accomplishes this by instantly recognizing a publicized CVE and writing code to exploit it without needing to look it up or iterate on it. Recalling that the original Equifax breach happened by exploiting a publicized CVE that had not yet been patched, the prospect of highly competent and fast AI agents leveraging this approach underscores the pressing need for security best practices like prompt updates and patches. ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Fri, 23 Jan 2026 12:01:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>cybersecurity</category>
-      <category>penetration testing</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order</title>
-      <link>https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html</link>
-      <description>TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S.
-The new venture, named TikTok USDS Joint Venture LLC, has been established in compliance with the Executive Order signed by U.S. President Donald Trump in September 2025, the platform said. The new deal will see TikTok&amp;apos;s Chinese</description>
-      <pubDate>Fri, 23 Jan 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
