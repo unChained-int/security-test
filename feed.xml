@@ -5,9 +5,30 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Jan 2026 01:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 06:48:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released</title>
+      <link>https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html</link>
+      <description>Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog.
+The critical-severity vulnerabilities are listed below -
+
+CVE-2026-1281 (CVSS score:</description>
+      <pubDate>Fri, 30 Jan 2026 10:13:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Chinese APTs Hacking Asian Orgs With High-End Malware</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware</link>
+      <description>Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.</description>
+      <pubDate>Fri, 30 Jan 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Trump Administration Rescinds Biden-Era SBOM Guidance</title>
       <link>https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance</link>
@@ -1094,24 +1115,6 @@ The new venture, named TikTok USDS Joint Venture LLC, has been established in co
       <guid isPermaLink="true">https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Risky Chinese Electric Buses Spark Aussie Gov&amp;apos;t Review</title>
-      <link>https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt</link>
-      <description>Deployed across Australia and Europe, China&amp;apos;s electric buses are vulnerable to cybercriminals and sport remote connectivity some worry the Chinese state could exploit.</description>
-      <pubDate>Thu, 22 Jan 2026 22:13:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/chinese-electric-buses-aussie-govt</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fortinet Firewalls Hit With Malicious Configuration Changes</title>
-      <link>https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes</link>
-      <description>Automated infections of potentially fully patched FortiGate devices are allowing threat actors to steal firewall configuration files.</description>
-      <pubDate>Thu, 22 Jan 2026 21:18:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
