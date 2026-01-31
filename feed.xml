@@ -5,9 +5,39 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 31 Jan 2026 06:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 12:46:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists</title>
+      <link>https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html</link>
+      <description>A Farsi-speaking threat actor aligned with Iranian state interests is suspected to be behind a new campaign targeting non-governmental organizations and individuals involved in documenting recent human rights abuses.
+The activity, observed by HarfangLab in January 2026, has been codenamed RedKitten. It&amp;apos;s said to coincide with the nationwide unrest in Iran that began towards the end of 2025,</description>
+      <pubDate>Sat, 31 Jan 2026 17:32:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms</title>
+      <link>https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html</link>
+      <description>Google-owned Mandiant on Friday said it identified an &amp;quot;expansion in threat activity&amp;quot; that uses tradecraft consistent with extortion-themed attacks orchestrated by a financially motivated hacking group known as ShinyHunters.
+The attacks leverage advanced voice phishing (aka vishing) and bogus credential harvesting sites mimicking targeted companies to gain unauthorized access to victim</description>
+      <pubDate>Sat, 31 Jan 2026 13:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms</title>
+      <link>https://thehackernews.com/2026/01/poland-attributes-december-cyber.html</link>
+      <description>CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a large combined heat and power plant (CHP) supplying heat to almost half a million customers in the country.
+The incident took place on December 29, 2025. The agency has attributed the attacks to</description>
+      <pubDate>Sat, 31 Jan 2026 12:35:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/01/poland-attributes-december-cyber.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: New Squid Species Discovered</title>
       <link>https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html</link>
@@ -122,6 +152,15 @@
       <category>vulnerabilities</category>
     </item>
     <item>
+      <title>This month in security with Tony Anscombe – January 2026 edition</title>
+      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-january-2026-edition/</link>
+      <description>The trends that emerged in January offer useful clues about the risks and priorities that security teams are likely to contend with throughout the year</description>
+      <pubDate>Fri, 30 Jan 2026 15:20:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-january-2026-edition/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
+    </item>
+    <item>
       <title>Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access</title>
       <link>https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html</link>
       <description>Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and collect OpenAI ChatGPT authentication tokens.
@@ -170,6 +209,15 @@ The growing sophistication and diversification of cybercrime have compelled law 
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>DynoWiper update: Technical analysis and attribution</title>
+      <link>https://www.welivesecurity.com/en/eset-research/dynowiper-update-technical-analysis-attribution/</link>
+      <description>ESET researchers present technical details on a recent data destruction incident affecting a company in Poland’s energy sector</description>
+      <pubDate>Fri, 30 Jan 2026 10:28:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/dynowiper-update-technical-analysis-attribution/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
+    </item>
+    <item>
       <title>Comcast to Pay $117M in Security Breach Settlement</title>
       <link>https://www.techrepublic.com/article/news-comcast-security-breach-settlement/</link>
       <description>&amp;lt;p&amp;gt;The breach was linked to a vulnerability known as “CitrixBleed,” a flaw affecting Citrix NetScaler Application Delivery Controller and Gateway appliances.&amp;lt;/p&amp;gt;
@@ -188,7 +236,7 @@ The growing sophistication and diversification of cybercrime have compelled law 
       <category>telecommunications</category>
     </item>
     <item>
-      <title>Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup</title>
+      <title>Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup</title>
       <link>https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html</link>
       <description>A former Google engineer accused of stealing thousands of the company&amp;apos;s confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.
 Linwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing</description>
@@ -545,7 +593,7 @@ The extension, named &amp;quot;ClawdBot Agent - AI Coding Assistant&amp;quot; (&
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid</title>
+      <title>Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid</title>
       <link>https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html</link>
       <description>The &amp;quot;coordinated&amp;quot; cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.
 Operational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy</description>
@@ -962,43 +1010,6 @@ The activity, per the eSentire Threat Response Unit (TRU), involves using phishi
       <category>privacy</category>
     </item>
     <item>
-      <title>Who Operates the Badbox 2.0 Botnet?</title>
-      <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
-      <description>The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they&amp;apos;d compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.</description>
-      <pubDate>Mon, 26 Jan 2026 16:11:38 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Breadcrumbs</category>
-      <category>Internet of Things (IoT)</category>
-      <category>Web Fraud 2.0</category>
-      <category>18681627767</category>
-      <category>189308024@qq.com</category>
-      <category>34557257@qq.com</category>
-      <category>BadBox 2.0</category>
-      <category>Beijing Astrolink Wireless Digital Technology Co. Ltd</category>
-      <category>Beijing Hengchuang Vision Mobile Media Technology Co. Ltd.</category>
-      <category>Beijing Hong Dake Wang Science &amp;amp; Technology Co Ltd.</category>
-      <category>cathead@gmail.com</category>
-      <category>Chen Daihai</category>
-      <category>Constella Intelligence</category>
-      <category>daihaic@gmail.com</category>
-      <category>Dort</category>
-      <category>Federal Bureau of Investigation</category>
-      <category>Guilin Huang</category>
-      <category>HUMAN Security</category>
-      <category>Moxin Beijing Science and Technology Co. Ltd.</category>
-      <category>osint.industries</category>
-      <category>residential proxies</category>
-      <category>Snow</category>
-      <category>SpyCloud</category>
-      <category>xavierzhu@gmail.com</category>
-      <category>xavierzhu@qq.com</category>
-      <category>Zhu Zhiyu</category>
-      <category>桂林 黄</category>
-      <category>陈代海</category>
-    </item>
-    <item>
       <title>DPRK&amp;apos;s Konni Targets Blockchain Developers With AI-Generated Backdoor</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/dprks-konni-targets-blockchain-developers-ai-generated-backdoor</link>
       <description>The North Korean threat group is using a new PowerShell backdoor to compromise development environments and target cryptocurrency holdings, according to researchers.</description>
@@ -1099,50 +1110,6 @@ The attack was unsuccessful, the country&amp;apos;s energy minister, Milosz Moty
       <guid isPermaLink="true">https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents</title>
-      <link>https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html</link>
-      <description>AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.
-Then comes the moment every security team eventually hits:
-&amp;amp;ldquo;Wait&amp;amp;hellip; who approved this?&amp;amp;rdquo;
-Unlike users or applications, AI agents are often deployed quickly, shared broadly,</description>
-      <pubDate>Sat, 24 Jan 2026 13:50:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog</title>
-      <link>https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
-The vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the</description>
-      <pubDate>Sat, 24 Jan 2026 13:39:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>2025 Was a Wake-up Call to Protect Human Decisions, Not Just Systems</title>
-      <link>https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems</link>
-      <description>Cybersecurity must shift from solely protecting systems to safeguarding human decision-making under uncertainty and system failures.</description>
-      <pubDate>Sat, 24 Jan 2026 00:55:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems</guid>
-      <dc:creator>Rashmi Tallapragada</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Giant Squid in the Star Trek Universe</title>
-      <link>https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html</link>
-      <description>&amp;lt;p&amp;gt;Spock &amp;lt;a href=&amp;quot;https://trekmovie.com/2026/01/13/see-spock-befriend-a-giant-space-squid-in-star-trek-strange-new-worlds-the-seeds-of-salvation-5-preview/&amp;quot;&amp;gt;befriends&amp;lt;/a&amp;gt; a giant space squid in the comic &amp;lt;i&amp;gt;Star Trek: Strange New Worlds: The Seeds of Salvation&amp;lt;/i&amp;gt; #5.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Jan 2026 22:03:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>squid</category>
     </item>
   </channel>
 </rss>
