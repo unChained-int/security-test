@@ -5,9 +5,57 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Feb 2026 07:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 12:58:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/fancy-bear-exploits-office-flaw/</link>
+      <description>Russia-linked hacking group Fancy Bear is exploiting a brand-new vulnerability in Microsoft Office, CERT-UA says</description>
+      <pubDate>Mon, 02 Feb 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fancy-bear-exploits-office-flaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AI Coding Assistants Secretly Copying All Code to China</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html</link>
+      <description>&amp;lt;p&amp;gt;There&amp;amp;#8217;s a &amp;lt;a href=&amp;quot;https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers&amp;quot;&amp;gt;new report&amp;lt;/a&amp;gt; about two AI coding assistants, used by 1.5 million developers, that are surreptitiously sending a copy of everything they ingest to China.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Maybe avoid using them.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 02 Feb 2026 12:05:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>China</category>
+      <category>leaks</category>
+    </item>
+    <item>
+      <title>Android RAT Uses Hugging Face to Host Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/android-rat-hugging-face-host/</link>
+      <description>Bitdefender has discovered a new Android malware campaign that uses Hugging Face</description>
+      <pubDate>Mon, 02 Feb 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/android-rat-hugging-face-host/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Former Google Engineer Found Guilty of Stealing AI Secrets</title>
+      <link>https://www.infosecurity-magazine.com/news/former-google-engineer-guilty/</link>
+      <description>Linwei Ding, a former Google engineer, has been found guilty of stealing trade secrets for China</description>
+      <pubDate>Mon, 02 Feb 2026 09:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/former-google-engineer-guilty/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users</title>
+      <link>https://thehackernews.com/2026/02/notepad-official-update-mechanism.html</link>
+      <description>The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility&amp;apos;s update mechanism to redirect update traffic to malicious servers instead.
+&amp;quot;The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,&amp;quot; developer Don Ho said. &amp;quot;The compromise occurred at the hosting</description>
+      <pubDate>Mon, 02 Feb 2026 14:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/notepad-official-update-mechanism.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware</title>
       <link>https://thehackernews.com/2026/02/escan-antivirus-update-servers.html</link>
@@ -428,14 +476,6 @@ Many of the stories point to the same trend: familiar tools being used in unexpe
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>US Data Breaches Hit Record High but Victim Numbers Decline</title>
-      <link>https://www.infosecurity-magazine.com/news/us-data-breaches-record-high/</link>
-      <description>Non-profit ITRC says the number of data breaches increased 5% annually to reach a record total in 2025</description>
-      <pubDate>Thu, 29 Jan 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-data-breaches-record-high/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps</title>
       <link>https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html</link>
       <description>A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.
@@ -475,14 +515,6 @@ Three strategic steps you can take this year for better results:
       <category>shinyhunters</category>
     </item>
     <item>
-      <title>Number of Cybersecurity Pros Surges 194% in Four Years</title>
-      <link>https://www.infosecurity-magazine.com/news/number-cybersecurity-pros-surges/</link>
-      <description>Cybersecurity is now the fifth fastest-growing occupation in the UK, says Socura</description>
-      <pubDate>Thu, 29 Jan 2026 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/number-cybersecurity-pros-surges/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass</title>
       <link>https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html</link>
       <description>SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).
@@ -493,14 +525,6 @@ CVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that 
       <guid isPermaLink="true">https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cybersecurity Teams Embrace AI, Just Not at the Scale Marketing Suggests</title>
-      <link>https://www.infosecurity-magazine.com/news/cybersecurity-teams-embrace-ai/</link>
-      <description>Despite the seemingly widespread adoption of AI for security operations, security leaders primarily use it for “relatively basic use cases,” said a Sumo Logic study</description>
-      <pubDate>Thu, 29 Jan 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybersecurity-teams-embrace-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Google Disrupts IPIDEA — One of the World’s Largest Residential Proxy Networks</title>
@@ -1083,31 +1107,6 @@ What follows is a set of small but telling signals.</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Winning Against AI-Based Attacks Requires a Combined Defensive Approach</title>
-      <link>https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html</link>
-      <description>If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and making them harder to detect. Google’s Threat Intelligence Group, recently reported on adversaries using Large Language Models (LLMs) to both conceal code and generate malicious scripts on the fly, letting malware shape-shift in real-time to evade</description>
-      <pubDate>Mon, 26 Jan 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Gmail Spam Filter Breakdown Affects 1.8B Users</title>
-      <link>https://www.techrepublic.com/article/news-gmail-spam-filter-breaks/</link>
-      <description>&amp;lt;p&amp;gt;The disruption began Saturday (5am Pacific time, Jan .24) affecting approximately 1.8 billion Gmail users worldwide with widespread email misclassification.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-gmail-spam-filter-breaks/&amp;quot;&amp;gt;Gmail Spam Filter Breakdown Affects 1.8B Users&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 26 Jan 2026 09:32:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-gmail-spam-filter-breaks/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>email spam</category>
-      <category>Gmail</category>
     </item>
   </channel>
 </rss>
