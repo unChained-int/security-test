@@ -5,9 +5,121 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Feb 2026 12:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 18:56:06 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Microsoft Update Improves Windows Sign-In Experience</title>
+      <link>https://www.techrepublic.com/article/news-windows-11-stability-patch/</link>
+      <description>&amp;lt;p&amp;gt;Windows 11’s optional KB5074105 update fixes the missing password icon bug linked to August 29, 2025’s KB5064081 and delivers 32 improvements.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-11-stability-patch/&amp;quot;&amp;gt;New Microsoft Update Improves Windows Sign-In Experience&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 03 Feb 2026 17:20:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-11-stability-patch/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Windows</category>
+      <category>explorer.exe bug</category>
+      <category>kb5074105</category>
+      <category>microsoft updates</category>
+      <category>missing password icon</category>
+      <category>patch tuesday</category>
+      <category>system reliability</category>
+      <category>Windows 11</category>
+      <category>windows stability patch</category>
+    </item>
+    <item>
+      <title>Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata</title>
+      <link>https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html</link>
+      <description>Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.
+The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by</description>
+      <pubDate>Tue, 03 Feb 2026 22:11:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>8-Minute Access: AI Accelerates Breach of AWS Environment</title>
+      <link>https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach</link>
+      <description>The AI-assisted attack, which started with exposed credentials from public S3 buckets, rapidly achieved administrative privilges.</description>
+      <pubDate>Tue, 03 Feb 2026 16:38:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Dark Patterns Undermine Security, One Click at a Time</title>
+      <link>https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time</link>
+      <description>People trust organizations to do the right thing, but some websites and apps have user interfaces that ultimately lead to inadequate security for users.</description>
+      <pubDate>Tue, 03 Feb 2026 16:30:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Hundreds of Malicious Crypto Trading Add-Ons Found in Moltbot/OpenClaw</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-crypto-trading-skills/</link>
+      <description>A security researcher found 386 malicious ‘skills’ published on ClawHub, a skill repository for the popular OpenClaw AI assistant project</description>
+      <pubDate>Tue, 03 Feb 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/malicious-crypto-trading-skills/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>SQL Injection Flaw Affects 40,000 WordPress Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/wordpress-sql-injection-flaw-40000/</link>
+      <description>40,000 WordPress sites are vulnerable to SQL injection in Quiz and Survey Master plugin</description>
+      <pubDate>Tue, 03 Feb 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/wordpress-sql-injection-flaw-40000/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>DockerDash Exposes AI Supply Chain Weakness In Docker&amp;apos;s Ask Gordon</title>
+      <link>https://www.infosecurity-magazine.com/news/dockerdash-weakness-dockers-ask/</link>
+      <description>DockerDash vulnerability allows RCE and data exfiltration via unverified metadata in Ask Gordon</description>
+      <pubDate>Tue, 03 Feb 2026 15:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/dockerdash-weakness-dockers-ask/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>UK ICO Launches Investigation into X Over AI Generated Non-Consensual Sexual Imagery</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-investigates-x-over-grok-ai/</link>
+      <description>UK Data Protection Watchdog has “serious concerns” over data privacy on Elon Musk’s social platform</description>
+      <pubDate>Tue, 03 Feb 2026 14:47:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ico-investigates-x-over-grok-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate</title>
+      <link>https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html</link>
+      <description>Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.
+Every vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.
+This</description>
+      <pubDate>Tue, 03 Feb 2026 19:44:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package</title>
+      <link>https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html</link>
+      <description>Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular &amp;quot;@react-native-community/cli&amp;quot; npm package.
+Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary</description>
+      <pubDate>Tue, 03 Feb 2026 19:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Warn of New “Vect” RaaS Variant</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-warn-new-vect-raas/</link>
+      <description>A new ransomware-as-a-service operation dubbed “Vect” features custom malware</description>
+      <pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-warn-new-vect-raas/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Cybercrime Unit of Paris Prosecutors Raid Elon Musk’s X Offices in France</title>
       <link>https://www.infosecurity-magazine.com/news/paris-prosecutors-raid-elon-musk-x/</link>
@@ -161,28 +273,9 @@ The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addres
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
-      <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
-      <description>A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &amp;lt;span class=&amp;quot;read-more&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/&amp;quot;&amp;gt;Read More &amp;amp;#187;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;</description>
-      <pubDate>Mon, 02 Feb 2026 16:15:16 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Data Breaches</category>
-      <category>Latest Warnings</category>
-      <category>Ransomware</category>
-      <category>The Coming Storm</category>
-      <category>Allison Nixon</category>
-      <category>Mandiant</category>
-      <category>Scattered Lapsus Shiny Hunters</category>
-      <category>sextortion</category>
-      <category>SLSH</category>
-      <category>Unit 221</category>
-    </item>
-    <item>
       <title>ShinyHunters Expands Scope of SaaS Extortion Attacks</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks</link>
-      <description>Following its attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.</description>
+      <description>Following their attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.</description>
       <pubDate>Mon, 02 Feb 2026 16:07:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
@@ -296,14 +389,6 @@ The challenge is that many security tools add complexity and cost that most mid-
       <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/slippery-slope-winter-olympics-scams-cyberthreats/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Digital Security</category>
-    </item>
-    <item>
-      <title>Former Google Engineer Found Guilty of Stealing AI Secrets</title>
-      <link>https://www.infosecurity-magazine.com/news/former-google-engineer-guilty/</link>
-      <description>Linwei Ding, a former Google engineer, has been found guilty of stealing trade secrets for China</description>
-      <pubDate>Mon, 02 Feb 2026 09:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/former-google-engineer-guilty/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users</title>
@@ -464,14 +549,6 @@ The incident took place on December 29, 2025. The agency has attributed the atta
       <category>wireless carriers</category>
     </item>
     <item>
-      <title>Labyrinth Chollima Evolves into Three North Korean Hacking Groups</title>
-      <link>https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/</link>
-      <description>CrowdStrike assessed that two new threat actor groups have spun off from North Korean Labyrinth Chollima hackers</description>
-      <pubDate>Fri, 30 Jan 2026 15:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities</title>
       <link>https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html</link>
       <description>&amp;lt;p&amp;gt;From an Anthropic &amp;lt;a href=&amp;quot;https://red.anthropic.com/2026/cyber-toolkits-update/&amp;quot;&amp;gt;blog post&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
@@ -517,14 +594,6 @@ The activity, discovered by Cisco Talos, has targeted vulnerable Internet Inform
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>New AI-Developed Malware Campaign Targets Iranian Protests</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-malware-redkitten-iranian/</link>
-      <description>The RedKitten campaign distributes lures designed to target people seeking information about missing persons or political dissidents in Iran</description>
-      <pubDate>Fri, 30 Jan 2026 11:55:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-malware-redkitten-iranian/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Badges, Bytes and Blackmail</title>
       <link>https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html</link>
       <description>Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?
@@ -535,14 +604,6 @@ The growing sophistication and diversification of cybercrime have compelled law 
       <guid isPermaLink="true">https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>National Crime Agency and NatWest Issue Joint Warning Over Invoice Fraud Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/nca-natwest-warning-over-invoice/</link>
-      <description>Cyber fraudsters targeting corporate finance departments costs businesses millions a year</description>
-      <pubDate>Fri, 30 Jan 2026 11:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nca-natwest-warning-over-invoice/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>DynoWiper update: Technical analysis and attribution</title>
@@ -640,14 +701,6 @@ These systems, which span both cloud and residential networks across the world, 
       <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-find-175000-publicly.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Disrupts Extensive Residential Proxy Networks</title>
-      <link>https://www.infosecurity-magazine.com/news/google-disrupts-proxy-networks/</link>
-      <description>Google has taken coordinated action against the massive IPIDEA residential proxy network, enhancing customer protections and disrupting cybercrime operations</description>
-      <pubDate>Thu, 29 Jan 2026 17:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-disrupts-proxy-networks/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>PCI Security Standards Council Publishes First-Ever Annual Report</title>
@@ -1054,67 +1107,6 @@ The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4),
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical Telnet Server Flaw Exposes Forgotten Attack Surface</title>
-      <link>https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface</link>
-      <description>While telnet is considered obsolete, the network protocol is still used by hundreds of thousands of legacy systems and IoT devices for remote access.</description>
-      <pubDate>Tue, 27 Jan 2026 21:00:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/critical-telnet-server-flaw-forgotten-attack-surface</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Rushes Emergency Patch for Office Zero-Day</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day</link>
-      <description>To exploit the vulnerability, an attacker would need either system access or be able to convince a user to open a malicious Office file.</description>
-      <pubDate>Tue, 27 Jan 2026 20:07:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Apple Issues Urgent Software Fix Affecting Over 2 Billion iPhones</title>
-      <link>https://www.techrepublic.com/article/news-apple-urgent-iphone-software-update-january-2026/</link>
-      <description>&amp;lt;p&amp;gt;Apple released urgent iOS updates, including iOS 12.5.8 for older iPhones, after emergency-call issues in Australia and a 2027 certificate deadline.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-urgent-iphone-software-update-january-2026/&amp;quot;&amp;gt;Apple Issues Urgent Software Fix Affecting Over 2 Billion iPhones&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 27 Jan 2026 19:19:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-urgent-iphone-software-update-january-2026/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Hardware</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>apple security update</category>
-      <category>apple software update</category>
-      <category>apple watch update</category>
-      <category>ios 12</category>
-      <category>ios update</category>
-      <category>iphone emergency calls</category>
-      <category>older iphones</category>
-      <category>smartphone safety</category>
-    </item>
-    <item>
-      <title>&amp;apos;Stanley&amp;apos; Toolkit Turns Chrome Into Undetectable Phishing Vector</title>
-      <link>https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing</link>
-      <description>The malware-as-a-service kit enables malicious extensions to overlay pages on real websites without changing the visible URL, signaling a fresh challenge for enterprise security.</description>
-      <pubDate>Tue, 27 Jan 2026 18:20:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/stanley-toolkit-chrome-undetectable-phishing</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware</title>
-      <link>https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html</link>
-      <description>Meta on Tuesday announced it&amp;apos;s adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.
-The feature, similar to Lockdown Mode in Apple iOS and Advanced Protection in Android, aims to protect individuals, such as journalists or public-facing figures, from sophisticated spyware by trading some functionality for</description>
-      <pubDate>Tue, 27 Jan 2026 22:24:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
