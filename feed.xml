@@ -5,9 +5,92 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Feb 2026 06:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 12:58:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>US Declassifies Information on JUMPSEAT Spy Satellites</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html</link>
+      <description>&amp;lt;p&amp;gt;The US National Reconnaissance Office has declassified &amp;lt;a href=&amp;quot;https://arstechnica.com/space/2026/01/us-spy-satellite-agency-declassifies-high-flying-cold-war-listening-post/&amp;quot;&amp;gt;information&amp;lt;/a&amp;gt; about a fleet of spy satellites operating between 1971 and 2006.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;I&amp;amp;#8217;m actually impressed to see a declassification only two decades after decommission.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Feb 2026 12:02:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>espionage</category>
+      <category>history of security</category>
+      <category>national security policy</category>
+    </item>
+    <item>
+      <title>Orchid Security Introduces Continuous Identity Observability for Enterprise Applications</title>
+      <link>https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html</link>
+      <description>An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.
+The Challenge: Identity Lives Outside the Identity Stack
+Identity and access management tools were built to govern users and directories.
+Modern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication</description>
+      <pubDate>Wed, 04 Feb 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil</title>
+      <link>https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil</link>
+      <description>Attackers could even have used one vulnerable Lookout user to gain access to other GCP tenants&amp;apos; environments.</description>
+      <pubDate>Wed, 04 Feb 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>SolarWinds Web Help Desk Vulnerability Actively Exploited</title>
+      <link>https://www.infosecurity-magazine.com/news/solarwinds-web-help-desk/</link>
+      <description>CISA has added a critical CVE in SolarWinds Web Help Desk to its KEV Catalog</description>
+      <pubDate>Wed, 04 Feb 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/solarwinds-web-help-desk/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>The First 90 Seconds: How Early Decisions Shape Incident Response Investigations</title>
+      <link>https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html</link>
+      <description>Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.
+I have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The</description>
+      <pubDate>Wed, 04 Feb 2026 15:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers</title>
+      <link>https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html</link>
+      <description>Microsoft has warned that information-stealing attacks are &amp;quot;rapidly expanding&amp;quot; beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.
+The tech giant&amp;apos;s Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since</description>
+      <pubDate>Wed, 04 Feb 2026 13:12:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions</title>
+      <link>https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html</link>
+      <description>The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.
+The move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don&amp;apos;t end up getting published on the Open VSX Registry.</description>
+      <pubDate>Wed, 04 Feb 2026 11:56:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog</title>
+      <link>https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.
+The vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote</description>
+      <pubDate>Wed, 04 Feb 2026 11:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Chrome Add-On Caught Stealing Amazon Commissions</title>
       <link>https://www.techrepublic.com/article/news-amazon-ads-blocker-extension-affiliate-hijacking/</link>
@@ -414,14 +497,6 @@ The challenge is that many security tools add complexity and cost that most mid-
       <guid isPermaLink="true">https://thehackernews.com/2026/02/securing-mid-market-across-complete.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Android RAT Uses Hugging Face to Host Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/android-rat-hugging-face-host/</link>
-      <description>Bitdefender has discovered a new Android malware campaign that uses Hugging Face</description>
-      <pubDate>Mon, 02 Feb 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/android-rat-hugging-face-host/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>A slippery slope: Beware of Winter Olympics scams and other cyberthreats</title>
@@ -1018,94 +1093,6 @@ The vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of
 The activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located</description>
       <pubDate>Wed, 28 Jan 2026 17:10:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trump’s Acting Cyber Chief Allegedly Leaked Data to ChatGPT</title>
-      <link>https://www.techrepublic.com/article/news-cisa-cyber-chief-chatgpt/</link>
-      <description>&amp;lt;p&amp;gt;Sources say event triggered internal cybersecurity alerts and a DHS–level review into whether federal information had been improperly exposed.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisa-cyber-chief-chatgpt/&amp;quot;&amp;gt;Trump&amp;amp;#8217;s Acting Cyber Chief Allegedly Leaked Data to ChatGPT&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 28 Jan 2026 11:31:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisa-cyber-chief-chatgpt/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai</category>
-      <category>chatgpt</category>
-      <category>CISA</category>
-      <category>cybersecurity</category>
-    </item>
-    <item>
-      <title>Password Reuse in Disguise: An Often-Missed Risky Workaround</title>
-      <link>https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html</link>
-      <description>When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attention. However, one of the most persistent and underestimated risks to organizational security remains far more ordinary.
-Near-identical password reuse continues to slip past security controls, often</description>
-      <pubDate>Wed, 28 Jan 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Love? Actually: Fake dating app used as lure in targeted spyware campaign in Pakistan</title>
-      <link>https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/</link>
-      <description>ESET researchers discover an Android spyware campaign targeting users in Pakistan via romance scam tactics, revealing links to a broader spy operation</description>
-      <pubDate>Wed, 28 Jan 2026 09:59:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>ESET research</category>
-    </item>
-    <item>
-      <title>Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088</title>
-      <link>https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html</link>
-      <description>Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads.
-&amp;quot;Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated</description>
-      <pubDate>Wed, 28 Jan 2026 15:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan</title>
-      <link>https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html</link>
-      <description>Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).
-The packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times.
-&amp;quot;Hidden inside the Basque</description>
-      <pubDate>Wed, 28 Jan 2026 15:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Android Phones Get AI-Powered Anti-Theft Features</title>
-      <link>https://www.techrepublic.com/article/news-android-anti-theft-features/</link>
-      <description>&amp;lt;p&amp;gt;Enhanced lockouts and stronger remote locking aim to make stolen devices far harder—and less profitable—for criminals.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-android-anti-theft-features/&amp;quot;&amp;gt;Android Phones Get AI-Powered Anti-Theft Features&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 28 Jan 2026 09:08:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-android-anti-theft-features/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai</category>
-      <category>android</category>
-      <category>cybersecurity</category>
-    </item>
-    <item>
-      <title>Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected</title>
-      <link>https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html</link>
-      <description>Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.
-The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it&amp;apos;s</description>
-      <pubDate>Wed, 28 Jan 2026 10:19:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
