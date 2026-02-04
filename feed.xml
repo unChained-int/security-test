@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Feb 2026 18:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 02:00:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days</link>
+      <description>APT28&amp;apos;s attacks rely on specially crafted Microsoft Rich Text Format (RTF) documents to kick off a multistage infection chain to deliver malicious payloads.</description>
+      <pubDate>Tue, 03 Feb 2026 21:52:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>GlassWorm Malware Returns to Shatter Developer Ecosystems</title>
+      <link>https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems</link>
+      <description>The self-replicating malware has poisoned a fresh set of Open VSX software components, leaving potential downstream victims with infostealer infections.</description>
+      <pubDate>Tue, 03 Feb 2026 20:55:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>New Microsoft Update Improves Windows Sign-In Experience</title>
       <link>https://www.techrepublic.com/article/news-windows-11-stability-patch/</link>
@@ -1073,38 +1091,6 @@ The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4),
       <description>AI &amp;amp;quot;model collapse,&amp;amp;quot; where LLMs over time train on more and more AI-generated data and become degraded as a result, can introduce inaccuracies, promulgate malicious activity, and impact PII protections.</description>
       <pubDate>Tue, 27 Jan 2026 22:31:48 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-death-accuracy-zero-trust</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Issues Emergency Patch for Active Office Zero-Day</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-office-zero-day-emergency-patch-january-2026/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft released an emergency Office patch to fix an actively exploited zero-day flaw that lets attackers bypass security via malicious files.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-office-zero-day-emergency-patch-january-2026/&amp;quot;&amp;gt;Microsoft Issues Emergency Patch for Active Office Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 27 Jan 2026 22:25:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-office-zero-day-emergency-patch-january-2026/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity threats</category>
-      <category>emergency security patch</category>
-      <category>Microsoft Office</category>
-      <category>microsoft security update</category>
-      <category>office security</category>
-      <category>phishing attacks</category>
-      <category>vulnerability exploitation</category>
-      <category>zero-day vulnerability</category>
-    </item>
-    <item>
-      <title>Vibe-Coded &amp;apos;Sicarii&amp;apos; Ransomware Can&amp;apos;t Be Decrypted</title>
-      <link>https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted</link>
-      <description>A new ransomware strain that entered the scene last year has poorly designed code and uses Hebrew language that might be a false flag.</description>
-      <pubDate>Tue, 27 Jan 2026 22:15:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/vibe-coded-sicarii-ransomware-decrypted</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
