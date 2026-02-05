@@ -5,9 +5,29 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Feb 2026 02:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 06:58:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows</title>
+      <link>https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html</link>
+      <description>A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.
+The flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that</description>
+      <pubDate>Thu, 05 Feb 2026 11:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign</title>
+      <link>https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html</link>
+      <description>Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker&amp;apos;s infrastructure.
+Datadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX</description>
+      <pubDate>Thu, 05 Feb 2026 10:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Ransomware Gang Goes Full &amp;apos;Godfather&amp;apos; With Cartel</title>
       <link>https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel</link>
@@ -1060,24 +1080,6 @@ To that end, the company said it took legal action to take down dozens of domain
       <pubDate>Wed, 28 Jan 2026 22:48:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest</guid>
       <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fortinet Confirms New Zero-Day Behind Malicious SSO Logins</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins</link>
-      <description>To stop the ongoing attacks, the cybersecurity vendor took the drastic step of temporarily disabling FortiCloud single sign-on (SSO) authentication for all devices.</description>
-      <pubDate>Wed, 28 Jan 2026 21:14:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Consumers Reluctant to Shop at Stores That Don&amp;apos;t Take Security Seriously</title>
-      <link>https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks</link>
-      <description>The retail sector must adapt as consumers become more cybersecurity-conscious. Increased attack transparency is a good place to start.</description>
-      <pubDate>Wed, 28 Jan 2026 20:24:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
