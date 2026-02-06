@@ -5,9 +5,70 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Feb 2026 18:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 02:01:11 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EnCase Driver Weaponized as EDR Killers Persist</title>
+      <link>https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist</link>
+      <description>The forensic tool&amp;apos;s driver was signed with a digital certificate that expired years ago, but major security gaps allowed Windows to load it.</description>
+      <pubDate>Thu, 05 Feb 2026 22:35:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Agentic AI Site &amp;apos;Moltbook&amp;apos; Is Riddled With Security Risks</title>
+      <link>https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks</link>
+      <description>Someone used AI to build an entire Web platform, which then did something predictable and preventable: It exposed all its data through a publicly accessible API.</description>
+      <pubDate>Thu, 05 Feb 2026 22:03:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Chrome Vulnerabilities Allow Code Execution, Browser Crashes</title>
+      <link>https://www.techrepublic.com/article/news-google-chrome-security-update-february-2026/</link>
+      <description>&amp;lt;p&amp;gt;Google released a Chrome security update fixing two high-severity flaws that could enable code execution or crashes via malicious websites.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-security-update-february-2026/&amp;quot;&amp;gt;Chrome Vulnerabilities Allow Code Execution, Browser Crashes&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 05 Feb 2026 20:53:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-security-update-february-2026/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Browsers</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>arbitrary code execution</category>
+      <category>browser vulnerabilities</category>
+      <category>chrome security update</category>
+      <category>cve-2026-1861</category>
+      <category>cve-2026-1862</category>
+      <category>enterprise browser security</category>
+      <category>google chrome</category>
+      <category>memory corruption</category>
+    </item>
+    <item>
+      <title>Microsoft Overhauls Security Leadership as AI Expands Enterprise Attack Surface</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-gallot-security-bell-engineering-quality/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft brings back Hayete Gallot to lead Security while Charlie Bell moves to an engineering quality mandate, both reporting to CEO Satya Nadella.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-gallot-security-bell-engineering-quality/&amp;quot;&amp;gt;Microsoft Overhauls Security Leadership as AI Expands Enterprise Attack Surface&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 05 Feb 2026 19:29:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-gallot-security-bell-engineering-quality/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai</category>
+      <category>ceo</category>
+      <category>cybersecurity</category>
+      <category>satya nadella</category>
+    </item>
     <item>
       <title>AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack</title>
       <link>https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html</link>
@@ -29,7 +90,7 @@ Cloudflare, which automatically detected and mitigated the activity, said it&amp
     <item>
       <title>Cyber Success Trifecta: Education, Certifications &amp;amp;amp; Experience</title>
       <link>https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience</link>
-      <description>Colonel Georgeo Xavier Pulikkathara, CISO at iMerit discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.</description>
+      <description>Col. Georgeo Xavier Pulikkathara, CISO at iMerit, discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.</description>
       <pubDate>Thu, 05 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience</guid>
       <dc:creator>Kristina Beek</dc:creator>
@@ -651,6 +712,25 @@ The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addres
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
+      <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
+      <description>A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &amp;lt;span class=&amp;quot;read-more&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/&amp;quot;&amp;gt;Read More &amp;amp;#187;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;</description>
+      <pubDate>Mon, 02 Feb 2026 16:15:16 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Data Breaches</category>
+      <category>Latest Warnings</category>
+      <category>Ransomware</category>
+      <category>The Coming Storm</category>
+      <category>Allison Nixon</category>
+      <category>Mandiant</category>
+      <category>Scattered Lapsus Shiny Hunters</category>
+      <category>sextortion</category>
+      <category>SLSH</category>
+      <category>Unit 221</category>
+    </item>
+    <item>
       <title>ShinyHunters Expands Scope of SaaS Extortion Attacks</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks</link>
       <description>Following their attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.</description>
@@ -1037,61 +1117,6 @@ CVE-2026-1281 (CVSS score:</description>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries</title>
-      <link>https://thehackernews.com/2026/01/researchers-find-175000-publicly.html</link>
-      <description>A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast &amp;quot;unmanaged, publicly accessible layer of AI compute infrastructure&amp;quot; that spans 175,000 unique Ollama hosts across 130 countries.
-These systems, which span both cloud and residential networks across the world, operate outside the</description>
-      <pubDate>Fri, 30 Jan 2026 00:07:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/researchers-find-175000-publicly.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PCI Security Standards Council Publishes First-Ever Annual Report</title>
-      <link>https://blog.pcisecuritystandards.org/pci-security-standards-council-publishes-first-ever-annual-report</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/pci-security-standards-council-publishes-first-ever-annual-report&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;PCI Security Standards Council Publishes First-Ever Annual Report&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Blog%20banner-annual-report_792x401.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;The PCI Security Standards Council (PCI SSC) announced the release of its inaugural Annual Report, marking a significant milestone in the Council’s nearly 20-year history of advancing global payment security through industry collaboration, innovation, and education.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 29 Jan 2026 16:14:59 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/pci-security-standards-council-publishes-first-ever-annual-report</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Guidance</category>
-      <category>Awareness</category>
-      <category>PCI SSC</category>
-      <category>Participation</category>
-    </item>
-    <item>
-      <title>&amp;apos;Semantic Chaining&amp;apos; Jailbreak Dupes Gemini Nano Banana, Grok 4</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4</link>
-      <description>If an attacker splits a malicious prompt into discrete chunks, some large language models (LLMs) will get lost in the details and miss the true intent.</description>
-      <pubDate>Thu, 29 Jan 2026 16:09:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>From Quantum to AI Risks: Preparing for Cybersecurity&amp;apos;s Future</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future</link>
-      <description>In the latest edition of &amp;amp;quot;Reporters&amp;apos; Notebook,&amp;amp;quot; a trio of journalists urge the cybersecurity industry to prioritize patching vulnerabilities, preparing for quantum threats, and refining AI applications,</description>
-      <pubDate>Thu, 29 Jan 2026 15:32:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future</guid>
-      <dc:creator>Kristina Beek, Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs &amp;amp; 25+ More Stories</title>
-      <link>https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html</link>
-      <description>This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.
-Many of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on</description>
-      <pubDate>Thu, 29 Jan 2026 18:31:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
