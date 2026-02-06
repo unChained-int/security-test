@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Feb 2026 02:01:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 06:54:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries</title>
+      <link>https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html</link>
+      <description>Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.
+Claude Opus 4.6, which was launched on Thursday, comes with improved coding skills, including code review and debugging capabilities, along</description>
+      <pubDate>Fri, 06 Feb 2026 11:19:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>EnCase Driver Weaponized as EDR Killers Persist</title>
       <link>https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist</link>
@@ -1107,15 +1117,6 @@ CVE-2026-1281 (CVSS score:</description>
       <pubDate>Thu, 29 Jan 2026 22:25:07 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance</guid>
       <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security</link>
-      <description>A new around of vulnerabilities in the popular AI automation platform could let attackers hijack servers and steal credentials, allowing full takeover.</description>
-      <pubDate>Thu, 29 Jan 2026 21:53:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
