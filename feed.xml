@@ -5,9 +5,94 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Feb 2026 07:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 13:07:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LLMs are Getting a Lot Better and Faster at Finding and Exploiting Zero-Days</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html</link>
+      <description>&amp;lt;p&amp;gt;This is &amp;lt;a href=&amp;quot;https://red.anthropic.com/2026/zero-days/&amp;quot;&amp;gt;amazing&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Opus 4.6 is notably better at finding high-severity vulnerabilities than previous models and a sign of how quickly things are moving. Security teams have been automating vulnerability discovery for years, investing heavily in fuzzing infrastructure and custom harnesses to find bugs at scale. But what stood out in early testing is how quickly Opus 4.6 found vulnerabilities out of the box without task-specific tooling, custom scaffolding, or specialized prompting. Even more interesting is how it found them. Fuzzers work by throwing massive amounts of random inputs at code to see what breaks. Opus 4.6 reads and reasons about code the way a human researcher would­&amp;amp;#8212;looking at past fixes to find similar bugs that weren&amp;amp;#8217;t addressed, spotting patterns that tend to cause problems, or understanding a piece of logic well enough to know exactly what input would break it. When we pointed Opus 4.6 at some of the most well-tested codebases (projects that have had fuzzers running against them for years, ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 09 Feb 2026 12:04:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>LLM</category>
+      <category>zero-day</category>
+    </item>
+    <item>
+      <title>How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring</title>
+      <link>https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html</link>
+      <description>Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn’t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer</description>
+      <pubDate>Mon, 09 Feb 2026 16:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>BridgePay Confirms Ransomware Attack, No Card Data Compromised</title>
+      <link>https://www.infosecurity-magazine.com/news/bridgepay-confirms-ransomware/</link>
+      <description>The services of Florida-based payments platform BridgePay are offline due to a ransomware attack</description>
+      <pubDate>Mon, 09 Feb 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bridgepay-confirms-ransomware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign</title>
+      <link>https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html</link>
+      <description>The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT.
+Cybersecurity vendor Kaspersky is tracking the activity under the moniker Stan Ghouls. The threat actor is known to be active since at least 2023, orchestrating spear-phishing attacks against manufacturing, finance, and IT</description>
+      <pubDate>Mon, 09 Feb 2026 16:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Social Media Platforms Earn Billions from Scam Ads</title>
+      <link>https://www.infosecurity-magazine.com/news/social-media-platforms-billions/</link>
+      <description>Revolut claims social media sites make £3.8bn annually from scam ads targeting European users</description>
+      <pubDate>Mon, 09 Feb 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/social-media-platforms-billions/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Researchers Find 40,000+ Exposed OpenClaw Instances</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/</link>
+      <description>SecurityScorecard has identified over 40,000 OpenClaw deployments exposed to potential attack</description>
+      <pubDate>Mon, 09 Feb 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>US Agencies Told to Scrap End of Support Edge Devices</title>
+      <link>https://www.infosecurity-magazine.com/news/us-agencies-scrap-end-of-support/</link>
+      <description>CISA has issued a new directive requiring federal agencies to decommission all end of support edge devices within 12 months to reduce ongoing exploitation risks</description>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-agencies-scrap-end-of-support/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure</title>
+      <link>https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html</link>
+      <description>Cybersecurity researchers have called attention to a &amp;quot;massive campaign&amp;quot; that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation.
+The activity, observed around December 25, 2025, and described as &amp;quot;worm-driven,&amp;quot; leveraged exposed Docker APIs, Kubernetes clusters, Ray dashboards, and Redis servers, along with the recently disclosed</description>
+      <pubDate>Mon, 09 Feb 2026 14:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA</title>
+      <link>https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html</link>
+      <description>BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution.
+&amp;quot;BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability,&amp;quot; the company</description>
+      <pubDate>Mon, 09 Feb 2026 13:33:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills</title>
       <link>https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html</link>
@@ -94,7 +179,7 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Shai-hulud: The Hidden Cost of Supply Chain Attacks</title>
+      <title>Shai-hulud: The Hidden Costs of Supply Chain Attacks</title>
       <link>https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks</link>
       <description>Recent supply chain attacks involving self-propagating worms have spread far, but the damage and long-term impact is hard to quantify.</description>
       <pubDate>Fri, 06 Feb 2026 16:25:14 +0000</pubDate>
@@ -977,25 +1062,6 @@ The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addres
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
-      <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
-      <description>A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &amp;lt;span class=&amp;quot;read-more&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/&amp;quot;&amp;gt;Read More &amp;amp;#187;&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;</description>
-      <pubDate>Mon, 02 Feb 2026 16:15:16 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Data Breaches</category>
-      <category>Latest Warnings</category>
-      <category>Ransomware</category>
-      <category>The Coming Storm</category>
-      <category>Allison Nixon</category>
-      <category>Mandiant</category>
-      <category>Scattered Lapsus Shiny Hunters</category>
-      <category>sextortion</category>
-      <category>SLSH</category>
-      <category>Unit 221</category>
-    </item>
-    <item>
       <title>ShinyHunters Expands Scope of SaaS Extortion Attacks</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks</link>
       <description>Following their attacks on Salesforce instances last year, members of the cybercrime group have broadened their targeting and gotten more aggressive with extortion tactics.</description>
@@ -1003,98 +1069,6 @@ The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addres
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>NSA Publishes New Zero Trust Implementation Guidelines</title>
-      <link>https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/</link>
-      <description>NSA released new guidelines to help organizations achieve target-level Zero Trust maturity</description>
-      <pubDate>Mon, 02 Feb 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos</title>
-      <link>https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html</link>
-      <description>Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.
-The development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad</description>
-      <pubDate>Mon, 02 Feb 2026 21:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hugging Face Repositories Abused in New Android Malware Campaign</title>
-      <link>https://www.techrepublic.com/article/news-hugging-face-android-rat-malware-campaign/</link>
-      <description>&amp;lt;p&amp;gt;Attackers exploited Hugging Face’s trusted infrastructure to spread an Android RAT, using fake security apps and thousands of malware variants.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-hugging-face-android-rat-malware-campaign/&amp;quot;&amp;gt;Hugging Face Repositories Abused in New Android Malware Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 02 Feb 2026 15:28:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-hugging-face-android-rat-malware-campaign/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>accessibility services abuse</category>
-      <category>ai platform security</category>
-      <category>android malware</category>
-      <category>bitdefender research</category>
-      <category>hugging face</category>
-      <category>remote access trojan</category>
-      <category>server-side polymorphism</category>
-      <category>sideloading attacks</category>
-    </item>
-    <item>
-      <title>Notepad++ Update Hijacking Linked to Hosting Provider Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/notepad-update-hijacked/</link>
-      <description>A supply chain attack on Notepad++ update process was linked to compromised hosting infrastructure</description>
-      <pubDate>Mon, 02 Feb 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/notepad-update-hijacked/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/fancy-bear-exploits-office-flaw/</link>
-      <description>Russia-linked hacking group Fancy Bear is exploiting a brand-new vulnerability in Microsoft Office, CERT-UA says</description>
-      <pubDate>Mon, 02 Feb 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fancy-bear-exploits-office-flaw/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI Coding Assistants Secretly Copying All Code to China</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html</link>
-      <description>&amp;lt;p&amp;gt;There&amp;amp;#8217;s a &amp;lt;a href=&amp;quot;https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers&amp;quot;&amp;gt;new report&amp;lt;/a&amp;gt; about two AI coding assistants, used by 1.5 million developers, that are surreptitiously sending a copy of everything they ingest to China.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Maybe avoid using them.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 02 Feb 2026 12:05:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>China</category>
-      <category>leaks</category>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks &amp;amp; New Threats</title>
-      <link>https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html</link>
-      <description>Every week brings new discoveries, attacks, and defenses that shape the state of cybersecurity. Some threats are stopped quickly, while others go unseen until they cause real damage.
-Sometimes a single update, exploit, or mistake changes how we think about risk and protection. Every incident shows how defenders adapt — and how fast attackers try to stay ahead.
-This week’s recap brings you the</description>
-      <pubDate>Mon, 02 Feb 2026 17:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Securing the Mid-Market Across the Complete Threat Lifecycle</title>
-      <link>https://thehackernews.com/2026/02/securing-mid-market-across-complete.html</link>
-      <description>For mid-market organizations, cybersecurity is a constant balancing act. Proactive, preventative security measures are essential to protect an expanding attack surface. Combined with effective protection that blocks threats, they play a critical role in stopping cyberattacks before damage is done.
-The challenge is that many security tools add complexity and cost that most mid-market businesses</description>
-      <pubDate>Mon, 02 Feb 2026 17:15:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/securing-mid-market-across-complete.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
