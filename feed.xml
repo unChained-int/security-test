@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Feb 2026 19:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 02:14:11 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,57 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>SolarWinds WHD Attacks Highlight Risks of Exposed Apps</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</link>
+      <description>Organizations that have exposed their instances of Web Help Desk to the public Internet have inadvertently made them prime targets for attackers.</description>
+      <pubDate>Tue, 10 Feb 2026 22:00:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>In Bypassing MFA, ZeroDayRAT Is &amp;apos;Textbook Stalkerware&amp;apos;</title>
+      <link>https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market</link>
+      <description>With access to SIM, location data, and a preview of recent SMSes, attackers have everything they need for account takeover or targeted social engineering.</description>
+      <pubDate>Tue, 10 Feb 2026 21:37:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Patches 6 Actively Exploited Zero-Days</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days</link>
+      <description>Three of those zero-days are security feature bypass flaws, which give attackers a way to slip past built-in protections in multiple Microsoft products.</description>
+      <pubDate>Tue, 10 Feb 2026 21:00:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>10K Claude Desktop Users Exposed by Zero-Click Vulnerability</title>
+      <link>https://www.techrepublic.com/article/news-claude-desktop-zero-click-vulnerability/</link>
+      <description>&amp;lt;p&amp;gt;A zero-click flaw in Anthropic’s Claude Desktop Extensions allows attackers to trigger remote code execution via Google Calendar events.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-claude-desktop-zero-click-vulnerability/&amp;quot;&amp;gt;10K Claude Desktop Users Exposed by Zero-Click Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 10 Feb 2026 18:37:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-claude-desktop-zero-click-vulnerability/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Anthropic</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>International</category>
+      <category>Security</category>
+      <category>ai agents</category>
+      <category>ai security</category>
+      <category>claude.ai</category>
+      <category>desktop extensions</category>
+      <category>endpoint security</category>
+      <category>mcp protocol</category>
+      <category>remote code execution</category>
+      <category>zero-click exploit</category>
     </item>
     <item>
       <title>DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies</title>
@@ -1024,60 +1075,6 @@ I have seen IR teams recover from sophisticated intrusions with limited telemetr
       <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Scams</category>
-    </item>
-    <item>
-      <title>Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers</title>
-      <link>https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html</link>
-      <description>Microsoft has warned that information-stealing attacks are &amp;quot;rapidly expanding&amp;quot; beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.
-The tech giant&amp;apos;s Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since</description>
-      <pubDate>Wed, 04 Feb 2026 13:12:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions</title>
-      <link>https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html</link>
-      <description>The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.
-The move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don&amp;apos;t end up getting published on the Open VSX Registry.</description>
-      <pubDate>Wed, 04 Feb 2026 11:56:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog</title>
-      <link>https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.
-The vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote</description>
-      <pubDate>Wed, 04 Feb 2026 11:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Chrome Add-On Caught Stealing Amazon Commissions</title>
-      <link>https://www.techrepublic.com/article/news-amazon-ads-blocker-extension-affiliate-hijacking/</link>
-      <description>&amp;lt;p&amp;gt;A Chrome extension posing as an Amazon ad blocker was caught hijacking affiliate links in the background, redirecting commissions without user consent.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-amazon-ads-blocker-extension-affiliate-hijacking/&amp;quot;&amp;gt;Chrome Add-On Caught Stealing Amazon Commissions&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 04 Feb 2026 05:42:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-amazon-ads-blocker-extension-affiliate-hijacking/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Amazon</category>
-      <category>Browsers</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ad blocker scams</category>
-      <category>affiliate hijacking</category>
-      <category>amazon security</category>
-      <category>browser extensions</category>
-      <category>chrome web store</category>
-      <category>cybersecurity threats</category>
-      <category>malicious extensions</category>
-      <category>online shopping fraud</category>
     </item>
   </channel>
 </rss>
