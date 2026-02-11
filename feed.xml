@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Feb 2026 02:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:00:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,6 +17,15 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Asia Fumbles With Throttling Back Telnet Traffic in Region</title>
+      <link>https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic</link>
+      <description>Only Taiwan made the top 10 list of governments, effectively blocking the threat-ridden protocol, but overall the region lagged in curbing Telnet traffic.</description>
+      <pubDate>Wed, 11 Feb 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>SolarWinds WHD Attacks Highlight Risks of Exposed Apps</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</link>
       <description>Organizations that have exposed their instances of Web Help Desk to the public Internet have inadvertently made them prime targets for attackers.</description>
@@ -24,6 +33,38 @@
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Patch Tuesday, February 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
+      <description>Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six &amp;quot;zero-day&amp;quot; vulnerabilities that attackers are already exploiting in the wild.</description>
+      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Latest Warnings</category>
+      <category>Security Tools</category>
+      <category>Time to Patch</category>
+      <category>Chris Goettl</category>
+      <category>CVE-2026-21256</category>
+      <category>CVE-2026-21509</category>
+      <category>CVE-2026-21510</category>
+      <category>CVE-2026-21513</category>
+      <category>CVE-2026-21514</category>
+      <category>CVE-2026-21516</category>
+      <category>CVE-2026-21519</category>
+      <category>CVE-2026-21523</category>
+      <category>CVE-2026-21525</category>
+      <category>CVE-2026-21533</category>
+      <category>Desktop Window Manager</category>
+      <category>Immersive</category>
+      <category>Ivanti</category>
+      <category>Kev Breen</category>
+      <category>Microsoft Word</category>
+      <category>MSHTML</category>
+      <category>sans internet storm center</category>
+      <category>Windows Remote Desktop Services</category>
+      <category>Windows shell</category>
     </item>
     <item>
       <title>In Bypassing MFA, ZeroDayRAT Is &amp;apos;Textbook Stalkerware&amp;apos;</title>
@@ -190,6 +231,15 @@ The incident took place on January 29, 2026, when a mail server that was not upd
       <guid isPermaLink="true">https://thehackernews.com/2026/02/warlock-ransomware-breaches.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Taxing times: Top IRS scams to look out for in 2026</title>
+      <link>https://www.welivesecurity.com/en/scams/taxing-times-top-irs-scams-look-out-2026/</link>
+      <description>It’s time to file your tax return. And cybercriminals are lurking to make an already stressful period even more edgy.</description>
+      <pubDate>Tue, 10 Feb 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/taxing-times-top-irs-scams-look-out-2026/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Scams</category>
     </item>
     <item>
       <title>European Governments Breached in Zero-Day Attacks Targeting Ivanti</title>
@@ -1048,33 +1098,6 @@ Modern enterprises run on applications. Over time, identity logic has moved into
       <guid isPermaLink="true">https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil</guid>
       <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SolarWinds Web Help Desk Vulnerability Actively Exploited</title>
-      <link>https://www.infosecurity-magazine.com/news/solarwinds-web-help-desk/</link>
-      <description>CISA has added a critical CVE in SolarWinds Web Help Desk to its KEV Catalog</description>
-      <pubDate>Wed, 04 Feb 2026 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/solarwinds-web-help-desk/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The First 90 Seconds: How Early Decisions Shape Incident Response Investigations</title>
-      <link>https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html</link>
-      <description>Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.
-I have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The</description>
-      <pubDate>Wed, 04 Feb 2026 15:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OfferUp scammers are out in force: Here’s what you should know</title>
-      <link>https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/</link>
-      <description>The mobile marketplace app has a growing number of users, but not all of them are genuine. Watch out for these common scams.</description>
-      <pubDate>Wed, 04 Feb 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Scams</category>
     </item>
   </channel>
 </rss>
