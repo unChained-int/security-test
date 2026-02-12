@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Feb 2026 07:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 13:06:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,84 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/</link>
+      <description>Google researchers found that government-backed hackers now use AI throughout the whole attack lifecycle</description>
+      <pubDate>Thu, 12 Feb 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>3D Printer Surveillance</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html</link>
+      <description>&amp;lt;p&amp;gt;New York is &amp;lt;a href=&amp;quot;https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/&amp;quot;&amp;gt;contemplating&amp;lt;/a&amp;gt; a bill that adds surveillance to 3D printers:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;New York’s 2026­2027 executive budget bill (S.9005 / A.10005) includes language that should alarm every maker, educator, and small manufacturer in the state. Buried in Part C is a provision requiring all 3D printers sold or delivered in New York to include &amp;amp;#8220;blocking technology.&amp;amp;#8221; This is defined as software or firmware that &amp;lt;i&amp;gt;scans every print file&amp;lt;/i&amp;gt; through a &amp;amp;#8220;firearms blueprint detection algorithm&amp;amp;#8221; and refuses to print anything it flags as a potential firearm or firearm component...&amp;lt;/i&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 12 Feb 2026 12:01:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>3d printers</category>
+      <category>guns</category>
+      <category>laws</category>
+      <category>privacy</category>
+      <category>surveillance</category>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days &amp;amp; 25+ Stories</title>
+      <link>https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html</link>
+      <description>Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked exposures that sit in plain sight.
+Another shift is how access is gained versus how it’s used. Initial entry points are getting simpler, while post-compromise</description>
+      <pubDate>Thu, 12 Feb 2026 17:21:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Skills Represent Dangerous New Attack Surface, Says TrendAI</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-skills-dangerous-new-attack/</link>
+      <description>New TrendAI report warns that most security tools can’t protect against attacks on AI skills artifacts</description>
+      <pubDate>Thu, 12 Feb 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-skills-dangerous-new-attack/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>The CTEM Divide: Why 84% of Security Programs Are Falling Behind</title>
+      <link>https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html</link>
+      <description>A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point</description>
+      <pubDate>Thu, 12 Feb 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Time to Exploit Plummets as N-Day Flaws Dominate</title>
+      <link>https://www.infosecurity-magazine.com/news/time-exploit-plummets-nday-flaws/</link>
+      <description>Flashpoint warns of a dramatic drop in the average time between vulnerability disclosure and exploitation</description>
+      <pubDate>Thu, 12 Feb 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/time-exploit-plummets-nday-flaws/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Senegalese Data Breaches Expose Lack of &amp;apos;Security Maturity&amp;apos;</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database</link>
+      <description>Green Blood Group steals personal records and biometric data of the West African nation&amp;apos;s nearly 20 million residents.</description>
+      <pubDate>Thu, 12 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure</title>
+      <link>https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html</link>
+      <description>A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.
+Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346</description>
+      <pubDate>Thu, 12 Feb 2026 13:02:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices</title>
@@ -92,6 +170,26 @@ In this unusual supply chain attack detailed by Koi Security, an unknown attacke
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
+      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
+      <description>For the past week, the massive &amp;quot;Internet of Things&amp;quot; (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet&amp;apos;s control servers.</description>
+      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>DDoS-for-Hire</category>
+      <category>Benjamin Brundage</category>
+      <category>DDoS</category>
+      <category>I2P</category>
+      <category>Kimwolf botnet</category>
+      <category>Lance James</category>
+      <category>Sybil attack</category>
+      <category>Synthient</category>
+      <category>Tor</category>
+      <category>Unit 221B</category>
+    </item>
+    <item>
       <title>APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities</title>
       <link>https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html</link>
       <description>Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines.
@@ -104,7 +202,7 @@ The campaigns are characterized by the use of malware families like Geta RAT, Ar
     <item>
       <title>Rewiring Democracy Ebook is on Sale</title>
       <link>https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html</link>
-      <description>&amp;lt;p&amp;gt;I just noticed that the ebook version of &amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;&amp;lt;i&amp;gt;Rewriring Democracy&amp;lt;/i&amp;gt; is on sale for $5 on &amp;lt;a href=&amp;quot;https://www.amazon.com/gp/product/B0DTNZ2H86&amp;quot;&amp;gt;Amazon&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://books.apple.com/us/book/rewiring-democracy/id6740839808&amp;quot;&amp;gt;Apple Books&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://www.barnesandnoble.com/w/rewiring-democracy-bruce-schneier/1146990469?ean=9780262384407&amp;quot;&amp;gt;Barnes &amp;amp;#38; Noble&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://www.booksamillion.com/p/Rewiring-Democracy/Bruce-Schneier/Q247907742&amp;quot;&amp;gt;Books A Million&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://play.google.com/store/books/details?id=QcNAEQAAQBAJ&amp;quot;&amp;gt;Google Play&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://www.kobo.com/us/en/ebook/rewiring-democracy&amp;quot;&amp;gt;Kobo&amp;lt;/a&amp;gt;, and presumably everywhere else in the US. I have no idea how long this will last.&amp;lt;/p&amp;gt;
+      <description>&amp;lt;p&amp;gt;I just noticed that the ebook version of &amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;&amp;lt;cite&amp;gt;Rewriring Democracy&amp;lt;/cite&amp;gt;&amp;lt;/a&amp;gt; is on sale for $5 on &amp;lt;a href=&amp;quot;https://www.amazon.com/gp/product/B0DTNZ2H86&amp;quot;&amp;gt;Amazon&amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;, &amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://books.apple.com/us/book/rewiring-democracy/id6740839808&amp;quot;&amp;gt;Apple Books&amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;, &amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.barnesandnoble.com/w/rewiring-democracy-bruce-schneier/1146990469?ean=9780262384407&amp;quot;&amp;gt;Barnes &amp;amp;#38; Noble&amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;, &amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.booksamillion.com/p/Rewiring-Democracy/Bruce-Schneier/Q247907742&amp;quot;&amp;gt;Books A Million&amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;, &amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://play.google.com/store/books/details?id=QcNAEQAAQBAJ&amp;quot;&amp;gt;Google Play&amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;, &amp;lt;/a&amp;gt;&amp;lt;a href=&amp;quot;https://www.kobo.com/us/en/ebook/rewiring-democracy&amp;quot;&amp;gt;Kobo&amp;lt;/a&amp;gt;, and presumably everywhere else in the US. I have no idea how long this will last.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Also, Amazon has a &amp;lt;a href=&amp;quot;https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945&amp;quot;&amp;gt;coupon&amp;lt;/a&amp;gt; that brings the hardcover price down to $20. You&amp;amp;#8217;ll see the discount at checkout.&amp;lt;/p&amp;gt;</description>
       <pubDate>Wed, 11 Feb 2026 14:48:14 +0000</pubDate>
       <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html</guid>
@@ -241,6 +339,38 @@ Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are ra
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Patch Tuesday, February 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
+      <description>Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six &amp;quot;zero-day&amp;quot; vulnerabilities that attackers are already exploiting in the wild.</description>
+      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Latest Warnings</category>
+      <category>Security Tools</category>
+      <category>Time to Patch</category>
+      <category>Chris Goettl</category>
+      <category>CVE-2026-21256</category>
+      <category>CVE-2026-21509</category>
+      <category>CVE-2026-21510</category>
+      <category>CVE-2026-21513</category>
+      <category>CVE-2026-21514</category>
+      <category>CVE-2026-21516</category>
+      <category>CVE-2026-21519</category>
+      <category>CVE-2026-21523</category>
+      <category>CVE-2026-21525</category>
+      <category>CVE-2026-21533</category>
+      <category>Desktop Window Manager</category>
+      <category>Immersive</category>
+      <category>Ivanti</category>
+      <category>Kev Breen</category>
+      <category>Microsoft Word</category>
+      <category>MSHTML</category>
+      <category>sans internet storm center</category>
+      <category>Windows Remote Desktop Services</category>
+      <category>Windows shell</category>
     </item>
     <item>
       <title>In Bypassing MFA, ZeroDayRAT Is &amp;apos;Textbook Stalkerware&amp;apos;</title>
@@ -979,127 +1109,6 @@ Claude Opus 4.6, which was launched Thursday, comes with improved coding skills,
       <category>ceo</category>
       <category>cybersecurity</category>
       <category>satya nadella</category>
-    </item>
-    <item>
-      <title>AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack</title>
-      <link>https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html</link>
-      <description>The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.
-Cloudflare, which automatically detected and mitigated the activity, said it&amp;apos;s part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The</description>
-      <pubDate>Thu, 05 Feb 2026 22:55:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Malicious Commands in GitHub Codespaces Enable RCE</title>
-      <link>https://www.infosecurity-magazine.com/news/malicious-commands-in-github/</link>
-      <description>Flaws in GitHub Codespaces allow RCE via crafted repositories or pull requests</description>
-      <pubDate>Thu, 05 Feb 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/malicious-commands-in-github/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cyber Success Trifecta: Education, Certifications &amp;amp;amp; Experience</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience</link>
-      <description>Col. Georgeo Xavier Pulikkathara, CISO at iMerit, discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.</description>
-      <pubDate>Thu, 05 Feb 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience</guid>
-      <dc:creator>Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Smartphones Now Involved in Nearly Every Police Investigation</title>
-      <link>https://www.infosecurity-magazine.com/news/smartphones-involved-every-police/</link>
-      <description>Cellebrite data confirms digital evidence is now central to almost all cases</description>
-      <pubDate>Thu, 05 Feb 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/smartphones-involved-every-police/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions &amp;amp; 15+ Stories</title>
-      <link>https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html</link>
-      <description>This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.
-Researchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact</description>
-      <pubDate>Thu, 05 Feb 2026 18:27:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Backdoor in Notepad++</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html</link>
-      <description>&amp;lt;p&amp;gt;Hackers associated with the Chinese government used a &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/&amp;quot;&amp;gt;Trojaned version&amp;lt;/a&amp;gt; of Notepad++ to deliver malware to selected users.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Notepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2. Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers. The threat actor &amp;amp;#8220;specifically targeted Notepad++ domain with the goal of exploiting insufficient update verification controls that existed in older versions of Notepad++.&amp;amp;#8221; Event logs indicate that the hackers tried to re-exploit one of the weaknesses after it was fixed but that the attempt failed...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 05 Feb 2026 12:00:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>backdoors</category>
-      <category>China</category>
-      <category>hacking</category>
-      <category>supply chain</category>
-    </item>
-    <item>
-      <title>New Hacking Campaign Exploits Microsoft Windows WinRAR Vulnerability</title>
-      <link>https://www.infosecurity-magazine.com/news/hacking-exploits-windows-winrar/</link>
-      <description>Researchers at Check Point link ‘Amarath-Dragon’ attacks to prolific Chinese cyber-espionage operation</description>
-      <pubDate>Thu, 05 Feb 2026 11:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hacking-exploits-windows-winrar/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The Buyer’s Guide to AI Usage Control</title>
-      <link>https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html</link>
-      <description>Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening</description>
-      <pubDate>Thu, 05 Feb 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Varonis Acquires AllTrue to Strengthen AI Security Capabilities</title>
-      <link>https://www.techrepublic.com/article/news-varonis-buys-alltrue/</link>
-      <description>&amp;lt;p&amp;gt;The deal underscores a broader industry shift as security vendors race to address the risks introduced by LLMs, copilots, and autonomous AI agents.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-varonis-buys-alltrue/&amp;quot;&amp;gt;Varonis Acquires AllTrue to Strengthen AI Security Capabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 05 Feb 2026 11:19:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-varonis-buys-alltrue/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai</category>
-      <category>ai security</category>
-      <category>AllTrue</category>
-      <category>cybersecurity</category>
-      <category>data security</category>
-      <category>Varonis</category>
-    </item>
-    <item>
-      <title>European Officials Warn of Russian Satellites Intercepting Communications</title>
-      <link>https://www.techrepublic.com/article/news-europe-warning-russian-satellites/</link>
-      <description>&amp;lt;p&amp;gt;Russian Luch “inspector” satellites are suspected of shadowing European GEO spacecraft, raising fears of interception, jamming, and orbital risk.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-europe-warning-russian-satellites/&amp;quot;&amp;gt;European Officials Warn of Russian Satellites Intercepting Communications&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 05 Feb 2026 11:05:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-europe-warning-russian-satellites/</guid>
-      <dc:creator>Madeline Clarke</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>EMEA</category>
-      <category>EU</category>
-      <category>Europe</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>communications</category>
-      <category>cybersecurity</category>
-      <category>europe</category>
-      <category>internet</category>
-      <category>russia</category>
-      <category>satellites</category>
-      <category>telecommunications</category>
     </item>
   </channel>
 </rss>
