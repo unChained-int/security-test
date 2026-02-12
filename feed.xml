@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Feb 2026 19:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 02:08:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,50 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Patches Windows Flaw Causing VPN Disruptions</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-rasman-cve-vpn/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft patches CVE-2026-21525, an actively exploited RasMan flaw that can crash Windows VPN services and disrupt remote access.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-rasman-cve-vpn/&amp;quot;&amp;gt;Microsoft Patches Windows Flaw Causing VPN Disruptions&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 11 Feb 2026 21:59:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-rasman-cve-vpn/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>Windows</category>
+      <category>cve-2026-21525</category>
+      <category>denial of service</category>
+      <category>microsoft patch</category>
+      <category>null pointer dereference</category>
+      <category>rasman</category>
+      <category>remote access security</category>
+      <category>vpn security</category>
+      <category>windows security</category>
+    </item>
+    <item>
+      <title>North Korea&amp;apos;s UNC1069 Hammers Crypto Firms With AI</title>
+      <link>https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms</link>
+      <description>In moving away from traditional banks to focus on Web3 companies, the threat actor is leveraging LLMs, deepfakes, legitimate platforms, and ClickFix.</description>
+      <pubDate>Wed, 11 Feb 2026 21:56:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials</title>
+      <link>https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</link>
+      <description>Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.
+In this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been</description>
+      <pubDate>Wed, 11 Feb 2026 23:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>From 10M to 25M: Conduent Breach Balloons Into One of 2025’s Largest</title>
@@ -256,6 +300,24 @@ Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are ra
       <pubDate>Tue, 10 Feb 2026 21:00:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-6-actively-exploited-zero-days</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>How to Stay on Top of Future Threats With a Cutting-Edge SOC</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc</link>
+      <description>CISOs should focus on harnessing and securing AI and building new skills among their people. Vision and change management can transform security.</description>
+      <pubDate>Tue, 10 Feb 2026 20:36:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc</guid>
+      <dc:creator>Richard Thurston</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Automaker Secures the Supply Chain With Developer-Friendly Platform</title>
+      <link>https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform</link>
+      <description>How a platform engineering team embeds supply chain security into infrastructure without slowing developers.</description>
+      <pubDate>Tue, 10 Feb 2026 19:35:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform</guid>
+      <dc:creator>Joan Goodchild</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -797,16 +859,13 @@ The activity, observed around December 25, 2025, and described as &amp;quot;worm
       <guid isPermaLink="true">https://www.techrepublic.com/article/cybersecurity-roi-in-apac/</guid>
       <dc:creator>Sasha Menon</dc:creator>
       <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>APAC</category>
       <category>Asean</category>
       <category>AU</category>
       <category>Australia</category>
       <category>Cybersecurity</category>
-      <category>Enterprise Software</category>
       <category>India</category>
       <category>Security</category>
       <category>Tech Industry</category>
-      <category>Technology</category>
     </item>
     <item>
       <title>China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery</title>
@@ -1060,66 +1119,6 @@ Researchers tracked intrusions that start in ordinary places: developer workflow
       <category>cybersecurity</category>
       <category>data security</category>
       <category>Varonis</category>
-    </item>
-    <item>
-      <title>European Officials Warn of Russian Satellites Intercepting Communications</title>
-      <link>https://www.techrepublic.com/article/news-europe-warning-russian-satellites/</link>
-      <description>&amp;lt;p&amp;gt;Russian Luch “inspector” satellites are suspected of shadowing European GEO spacecraft, raising fears of interception, jamming, and orbital risk.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-europe-warning-russian-satellites/&amp;quot;&amp;gt;European Officials Warn of Russian Satellites Intercepting Communications&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 05 Feb 2026 11:05:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-europe-warning-russian-satellites/</guid>
-      <dc:creator>Madeline Clarke</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>EMEA</category>
-      <category>EU</category>
-      <category>Europe</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>communications</category>
-      <category>cybersecurity</category>
-      <category>europe</category>
-      <category>internet</category>
-      <category>russia</category>
-      <category>satellites</category>
-      <category>telecommunications</category>
-    </item>
-    <item>
-      <title>Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends</title>
-      <link>https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html</link>
-      <description>The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of January 2026.
-&amp;quot;The threat actor stopped maintaining its C2 servers on January 8 for the first time since we</description>
-      <pubDate>Thu, 05 Feb 2026 15:55:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI-Enabled Voice and Virtual Meeting Fraud Surges 1000%+</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-voice-virtual-meeting-fraud/</link>
-      <description>Pindrop warns of 1210% increase in AI-powered fraud last year</description>
-      <pubDate>Thu, 05 Feb 2026 10:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-voice-virtual-meeting-fraud/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Protests Don&amp;apos;t Impede Iranian Spying on Expats, Syrians, Israelis</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis</link>
-      <description>Iranian threat actors have been stealing credentials from people of interest across the Middle East, using spear-phishing and social engineering.</description>
-      <pubDate>Thu, 05 Feb 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows</title>
-      <link>https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html</link>
-      <description>A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.
-The flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that</description>
-      <pubDate>Thu, 05 Feb 2026 11:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
