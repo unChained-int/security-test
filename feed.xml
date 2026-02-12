@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Feb 2026 02:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:00:45 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices</title>
+      <link>https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</link>
+      <description>Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.
+The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple&amp;apos;s Dynamic Link Editor. Successful exploitation of the vulnerability could allow an</description>
+      <pubDate>Thu, 12 Feb 2026 11:09:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Microsoft Patches Windows Flaw Causing VPN Disruptions</title>
@@ -80,26 +90,6 @@ In this unusual supply chain attack detailed by Koi Security, an unknown attacke
       <pubDate>Wed, 11 Feb 2026 16:35:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/north-korea-hackers-deepfake-crypto/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <description>For the past week, the massive &amp;quot;Internet of Things&amp;quot; (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet&amp;apos;s control servers.</description>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>DDoS-for-Hire</category>
-      <category>Benjamin Brundage</category>
-      <category>DDoS</category>
-      <category>I2P</category>
-      <category>Kimwolf botnet</category>
-      <category>Lance James</category>
-      <category>Sybil attack</category>
-      <category>Synthient</category>
-      <category>Tor</category>
-      <category>Unit 221B</category>
     </item>
     <item>
       <title>APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities</title>
@@ -251,38 +241,6 @@ Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are ra
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Patch Tuesday, February 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
-      <description>Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six &amp;quot;zero-day&amp;quot; vulnerabilities that attackers are already exploiting in the wild.</description>
-      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Latest Warnings</category>
-      <category>Security Tools</category>
-      <category>Time to Patch</category>
-      <category>Chris Goettl</category>
-      <category>CVE-2026-21256</category>
-      <category>CVE-2026-21509</category>
-      <category>CVE-2026-21510</category>
-      <category>CVE-2026-21513</category>
-      <category>CVE-2026-21514</category>
-      <category>CVE-2026-21516</category>
-      <category>CVE-2026-21519</category>
-      <category>CVE-2026-21523</category>
-      <category>CVE-2026-21525</category>
-      <category>CVE-2026-21533</category>
-      <category>Desktop Window Manager</category>
-      <category>Immersive</category>
-      <category>Ivanti</category>
-      <category>Kev Breen</category>
-      <category>Microsoft Word</category>
-      <category>MSHTML</category>
-      <category>sans internet storm center</category>
-      <category>Windows Remote Desktop Services</category>
-      <category>Windows shell</category>
     </item>
     <item>
       <title>In Bypassing MFA, ZeroDayRAT Is &amp;apos;Textbook Stalkerware&amp;apos;</title>
@@ -1119,6 +1077,29 @@ Researchers tracked intrusions that start in ordinary places: developer workflow
       <category>cybersecurity</category>
       <category>data security</category>
       <category>Varonis</category>
+    </item>
+    <item>
+      <title>European Officials Warn of Russian Satellites Intercepting Communications</title>
+      <link>https://www.techrepublic.com/article/news-europe-warning-russian-satellites/</link>
+      <description>&amp;lt;p&amp;gt;Russian Luch “inspector” satellites are suspected of shadowing European GEO spacecraft, raising fears of interception, jamming, and orbital risk.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-europe-warning-russian-satellites/&amp;quot;&amp;gt;European Officials Warn of Russian Satellites Intercepting Communications&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 05 Feb 2026 11:05:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-europe-warning-russian-satellites/</guid>
+      <dc:creator>Madeline Clarke</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>EMEA</category>
+      <category>EU</category>
+      <category>Europe</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>communications</category>
+      <category>cybersecurity</category>
+      <category>europe</category>
+      <category>internet</category>
+      <category>russia</category>
+      <category>satellites</category>
+      <category>telecommunications</category>
     </item>
   </channel>
 </rss>
