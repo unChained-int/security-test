@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Feb 2026 06:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 12:58:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,52 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third</title>
+      <link>https://www.infosecurity-magazine.com/news/munich-security-index-cyberattacks/</link>
+      <description>G7 countries ranked cyber-attacks as the top risk, while BICS members placed cyber threats only as the eighth most pressing risk</description>
+      <pubDate>Fri, 13 Feb 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/munich-security-index-cyberattacks/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History</title>
+      <link>https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html</link>
+      <description>Cybersecurity researchers have discovered a malicious Google Chrome extension that&amp;apos;s designed to steal data associated with Meta Business Suite and Facebook Business Manager.
+The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.</description>
+      <pubDate>Fri, 13 Feb 2026 16:55:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Fake AI Assistants in Google Chrome Web Store Steal Passwords and Spy on Emails</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-ai-assistants-google-chrome/</link>
+      <description>Hundreds of thousands of users have downloaded malicious AI extensions masquerading as ChatGPT, Gemini, Grok and others, warn cybersecurity researchers at LayerX</description>
+      <pubDate>Fri, 13 Feb 2026 11:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-ai-assistants-google-chrome/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>npm’s Update to Harden Their Supply Chain, and Points to Consider</title>
+      <link>https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html</link>
+      <description>In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don’t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks – here’s what you need to know for a safer Node community.
+Let’s start with the original</description>
+      <pubDate>Fri, 13 Feb 2026 16:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability</title>
+      <link>https://thehackernews.com/2026/02/researchers-observe-in-wild.html</link>
+      <description>Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.
+&amp;quot;Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,&amp;quot; Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. &amp;quot;Attackers are abusing</description>
+      <pubDate>Fri, 13 Feb 2026 14:04:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/researchers-observe-in-wild.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again</title>
@@ -232,7 +278,7 @@ Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions fr
       <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices</title>
       <link>https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</link>
       <description>Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.
-The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple&amp;apos;s Dynamic Link Editor. Successful exploitation of the vulnerability could allow an</description>
+The vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple&amp;apos;s Dynamic Link Editor. Successful exploitation of the vulnerability could allow an</description>
       <pubDate>Thu, 12 Feb 2026 11:09:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1045,59 +1091,6 @@ The activity, observed around December 25, 2025, and described as &amp;quot;worm
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption</guid>
       <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Shai-hulud: The Hidden Costs of Supply Chain Attacks</title>
-      <link>https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks</link>
-      <description>Recent supply chain attacks involving self-propagating worms have spread far, but the damage and long-term impact is hard to quantify.</description>
-      <pubDate>Fri, 06 Feb 2026 16:25:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Substack Confirms Data Breach, &amp;quot;Limited User Data&amp;quot; Compromised</title>
-      <link>https://www.infosecurity-magazine.com/news/substack-confirms-data-breach/</link>
-      <description>Substack did not specify the number of users affected by the data breach</description>
-      <pubDate>Fri, 06 Feb 2026 16:22:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/substack-confirms-data-breach/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>OpenClaw&amp;apos;s Gregarious Insecurities Make Safe Usage Difficult</title>
-      <link>https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult</link>
-      <description>Malicious &amp;amp;quot;skills&amp;amp;quot; and persnickety configuration settings are just some of the issues that security researchers have found when installing — and removing — the OpenClaw AI assistant.</description>
-      <pubDate>Fri, 06 Feb 2026 15:42:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Why Rising Cybersecurity Spend Still Isn’t Convincing Boards on ROI in APAC</title>
-      <link>https://www.techrepublic.com/article/cybersecurity-roi-in-apac/</link>
-      <description>&amp;lt;p&amp;gt;Cybersecurity budgets are rising across APAC, but CIOs and CISOs still face board scrutiny. Here’s why cybersecurity ROI remains hard to prove.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/cybersecurity-roi-in-apac/&amp;quot;&amp;gt;Why Rising Cybersecurity Spend Still Isn’t Convincing Boards on ROI in APAC&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 06 Feb 2026 15:08:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/cybersecurity-roi-in-apac/</guid>
-      <dc:creator>Sasha Menon</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Asean</category>
-      <category>AU</category>
-      <category>Australia</category>
-      <category>Cybersecurity</category>
-      <category>India</category>
-      <category>Security</category>
-      <category>Tech Industry</category>
-    </item>
-    <item>
-      <title>China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery</title>
-      <link>https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html</link>
-      <description>Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that&amp;apos;s operated by China-nexus threat actors since at least 2019.
-The framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to</description>
-      <pubDate>Fri, 06 Feb 2026 20:26:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
