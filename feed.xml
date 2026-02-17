@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Feb 2026 06:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 13:02:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,118 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Over-Privileged AI Drives 4.5 Times Higher Incident Rates</title>
+      <link>https://www.infosecurity-magazine.com/news/overprivileged-ai-45-times-higher/</link>
+      <description>Teleport study reveals that organizations running over-privileged AI have a 76% incident rate</description>
+      <pubDate>Tue, 17 Feb 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/overprivileged-ai-45-times-higher/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Significant Rise in Ransomware Attacks Targeting Industrial Operations</title>
+      <link>https://www.infosecurity-magazine.com/news/rise-in-ransomware-targeting/</link>
+      <description>Dragos annual report warns of a surge in ransomware attacks causing increased operational disruption in industrial environments</description>
+      <pubDate>Tue, 17 Feb 2026 12:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rise-in-ransomware-targeting/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Side-Channel Attacks Against LLMs</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html</link>
+      <description>&amp;lt;p&amp;gt;Here are three papers describing different side-channel attacks against LLMs.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/html/2410.17175v1&amp;quot;&amp;gt;Remote Timing Attacks on Efficient Language Model Inference&amp;lt;/a&amp;gt;&amp;amp;#8220;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Scaling up language models has significantly increased their capabilities. But larger models are slower models, and so there is now an extensive body of work (e.g., speculative sampling or parallel decoding) that improves the (average case) efficiency of language model generation. But these techniques introduce data-dependent timing characteristics. We show it is possible to exploit these timing differences to mount a timing attack. By monitoring the (encrypted) network traffic between a victim user and a remote language model, we can learn information about the content of messages by noting when responses are faster or slower. With complete black-box access, on open source systems we show how it is possible to learn the topic of a user&amp;amp;#8217;s conversation (e.g., medical advice vs. coding assistance) with 90%+ precision, and on production systems like OpenAI&amp;amp;#8217;s ChatGPT and Anthropic&amp;amp;#8217;s Claude we can distinguish between specific messages or infer the user&amp;amp;#8217;s language. We further show that an active adversary can leverage a boosting attack to recover PII placed in messages (e.g., phone numbers or credit card numbers) for open source systems. We conclude with potential defenses and directions for future work...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 17 Feb 2026 12:01:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>LLM</category>
+      <category>side-channel attacks</category>
+    </item>
+    <item>
+      <title>Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster</title>
+      <link>https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</link>
+      <description>Cloud attacks move fast — faster than most incident response teams.
+In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.
+Cloud forensics is fundamentally</description>
+      <pubDate>Tue, 17 Feb 2026 17:29:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>My Day Getting My Hands Dirty with an NDR System</title>
+      <link>https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html</link>
+      <description>My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?
+
+
+
+
+
+
+My objective
+As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (</description>
+      <pubDate>Tue, 17 Feb 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability</title>
+      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network</link>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 09:59:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
+      <title>Infostealer Targets OpenClaw to Loot Victim’s Digital Life</title>
+      <link>https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/</link>
+      <description>Hudson Rock has warned OpenClaw users that infostealers are targeting their configuration files</description>
+      <pubDate>Tue, 17 Feb 2026 09:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations</title>
+      <link>https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html</link>
+      <description>New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the &amp;quot;Summarize with AI&amp;quot; button that&amp;apos;s being increasingly placed on websites in ways that mirror classic search engine poisoning (AI).
+The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant</description>
+      <pubDate>Tue, 17 Feb 2026 15:01:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>India’s Cybersecurity Cost Equation</title>
+      <link>https://www.techrepublic.com/article/tr-apac-india-cybersecurity-spend-capacity-gap/</link>
+      <description>&amp;lt;p&amp;gt;India’s cybersecurity budgets are rising, but SOC capacity isn’t keeping pace. Here’s how enterprises are measuring ROI and operational efficiency.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/tr-apac-india-cybersecurity-spend-capacity-gap/&amp;quot;&amp;gt;India’s Cybersecurity Cost Equation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 17 Feb 2026 07:47:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/tr-apac-india-cybersecurity-spend-capacity-gap/</guid>
+      <dc:creator>Sasha Menon</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>cybersecurity</category>
+      <category>India and APAC</category>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta</title>
+      <link>https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html</link>
+      <description>Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages.
+The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS.
+&amp;quot;End-to-end encryption is in beta and is not available for all</description>
+      <pubDate>Tue, 17 Feb 2026 12:14:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Fake CAPTCHA Scam Tricks Windows Users Into Installing Malware</title>
@@ -749,26 +861,6 @@ In this unusual supply chain attack detailed by Koi Security, an unknown attacke
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <description>For the past week, the massive &amp;quot;Internet of Things&amp;quot; (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet&amp;apos;s control servers.</description>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>DDoS-for-Hire</category>
-      <category>Benjamin Brundage</category>
-      <category>DDoS</category>
-      <category>I2P</category>
-      <category>Kimwolf botnet</category>
-      <category>Lance James</category>
-      <category>Sybil attack</category>
-      <category>Synthient</category>
-      <category>Tor</category>
-      <category>Unit 221B</category>
-    </item>
-    <item>
       <title>APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities</title>
       <link>https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html</link>
       <description>Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines.
@@ -920,38 +1012,6 @@ Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are ra
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Patch Tuesday, February 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
-      <description>Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six &amp;quot;zero-day&amp;quot; vulnerabilities that attackers are already exploiting in the wild.</description>
-      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Latest Warnings</category>
-      <category>Security Tools</category>
-      <category>Time to Patch</category>
-      <category>Chris Goettl</category>
-      <category>CVE-2026-21256</category>
-      <category>CVE-2026-21509</category>
-      <category>CVE-2026-21510</category>
-      <category>CVE-2026-21513</category>
-      <category>CVE-2026-21514</category>
-      <category>CVE-2026-21516</category>
-      <category>CVE-2026-21519</category>
-      <category>CVE-2026-21523</category>
-      <category>CVE-2026-21525</category>
-      <category>CVE-2026-21533</category>
-      <category>Desktop Window Manager</category>
-      <category>Immersive</category>
-      <category>Ivanti</category>
-      <category>Kev Breen</category>
-      <category>Microsoft Word</category>
-      <category>MSHTML</category>
-      <category>sans internet storm center</category>
-      <category>Windows Remote Desktop Services</category>
-      <category>Windows shell</category>
-    </item>
-    <item>
       <title>In Bypassing MFA, ZeroDayRAT Is &amp;apos;Textbook Stalkerware&amp;apos;</title>
       <link>https://www.darkreading.com/threat-intelligence/zerodayrat-brings-commercial-spyware-to-mass-market</link>
       <description>With access to SIM, location data, and a preview of recent SMSes, attackers have everything they need for account takeover or targeted social engineering.</description>
@@ -1037,85 +1097,6 @@ BYOVD refers to an adversarial technique that abuses legitimate but flawed drive
       <pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/digital-parasite-attackers-stealth/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New Mobile Spyware ZeroDayRAT Targets Android and iOS</title>
-      <link>https://www.infosecurity-magazine.com/news/zerodayrat-mobile-spyware-android/</link>
-      <description>ZeroDayRAT is a new mobile spyware targeting Android and iOS, offering attackers persistent access</description>
-      <pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/zerodayrat-mobile-spyware-android/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>From Ransomware to Residency: Inside the Rise of the Digital Parasite</title>
-      <link>https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html</link>
-      <description>Are ransomware and encryption still the defining signals of modern cyberattacks, or has the industry been too fixated on noise while missing a more dangerous shift happening quietly all around them?
-According to Picus Labs’ new Red Report 2026, which analyzed over 1.1 million malicious files and mapped 15.5 million adversarial actions observed across 2025, attackers are no longer optimizing for</description>
-      <pubDate>Tue, 10 Feb 2026 19:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution</title>
-      <link>https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html</link>
-      <description>Fortinet has released security updates to address a critical flaw impacting FortiClientEMS that could lead to the execution of arbitrary code on susceptible systems.
-The vulnerability, tracked as CVE-2026-21643, has a CVSS rating of 9.1 out of a maximum of 10.0.
-
-&amp;quot;An improper neutralization of special elements used in an SQL Command (&amp;apos;SQL Injection&amp;apos;) vulnerability [CWE-89] in FortiClientEMS may</description>
-      <pubDate>Tue, 10 Feb 2026 19:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Singapore Takes Down Chinese Hackers Targeting Telco Networks</title>
-      <link>https://www.infosecurity-magazine.com/news/singapore-takes-down-china-hackers/</link>
-      <description>Operation Cyber Guardian was Singapore’s largest and longest running anti-cyber threat law enforcement operation</description>
-      <pubDate>Tue, 10 Feb 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/singapore-takes-down-china-hackers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI-Generated Text and the Detection Arms Race</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html</link>
-      <description>&amp;lt;p&amp;gt;In 2023, the science fiction literary magazine &amp;lt;cite&amp;gt;Clarkesworld&amp;lt;/cite&amp;gt; &amp;lt;a href=&amp;quot;https://www.npr.org/2023/02/24/1159286436/ai-chatbot-chatgpt-magazine-clarkesworld-artificial-intelligence&amp;quot;&amp;gt;stopped accepting&amp;lt;/a&amp;gt; new submissions because so many were generated by artificial intelligence. Near as the editors could tell, many submitters pasted the magazine’s detailed story guidelines into an AI and sent in the results. And they weren’t alone. Other fiction magazines have also &amp;lt;a href=&amp;quot;https://www.theverge.com/2023/2/25/23613752/ai-generated-short-stories-literary-magazines-clarkesworld-science-fiction&amp;quot;&amp;gt;reported a high number&amp;lt;/a&amp;gt; of AI-generated submissions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;This is only one example of a ubiquitous trend. A legacy system relied on the difficulty of writing and cognition to limit volume. Generative AI overwhelms the system because the humans on the receiving end can’t keep up...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 10 Feb 2026 12:03:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>NCSC Issues Warning Over “Severe” Cyber-Attacks Targeting Critical National Infrastructure</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-warning-severe-cyberattacks/</link>
-      <description>NCSC call firms to ‘act now’ following disruptive malware attacks targeting Polish energy providers</description>
-      <pubDate>Tue, 10 Feb 2026 11:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-warning-severe-cyberattacks/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ZAST.AI Raises $6M Pre-A to Scale &amp;quot;Zero False Positive&amp;quot; AI-Powered Code Security</title>
-      <link>https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html</link>
-      <description>January 5, 2026, Seattle, USA — ZAST.AI announced the completion of a $6 million Pre-A funding round. This investment came from the well-known investment firm Hillhouse Capital, bringing ZAST.AI&amp;apos;s total funding close to $10 million. This marks a recognition from leading capital markets of a new solution: ending the era of high false positive rates in security tools and making every alert</description>
-      <pubDate>Tue, 10 Feb 2026 17:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server</title>
-      <link>https://thehackernews.com/2026/02/warlock-ransomware-breaches.html</link>
-      <description>SmarterTools confirmed last week that the Warlock (aka Storm-2603) ransomware gang breached its network by exploiting an unpatched SmarterMail instance.
-The incident took place on January 29, 2026, when a mail server that was not updated to the latest version was compromised, the company&amp;apos;s Chief Commercial Officer, Derek Curtis, said.
-&amp;quot;Prior to the breach, we had approximately 30 servers/VMs</description>
-      <pubDate>Tue, 10 Feb 2026 15:54:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/warlock-ransomware-breaches.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
