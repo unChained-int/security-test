@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Feb 2026 18:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 02:03:27 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,51 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fake CAPTCHA Scam Tricks Windows Users Into Installing Malware</title>
+      <link>https://www.techrepublic.com/article/news-fake-captcha-scam-stealc-malware-windows/</link>
+      <description>&amp;lt;p&amp;gt;A fake CAPTCHA scam is tricking Windows users into running PowerShell commands that install StealC malware and steal passwords, crypto wallets, and more.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-captcha-scam-stealc-malware-windows/&amp;quot;&amp;gt;Fake CAPTCHA Scam Tricks Windows Users Into Installing Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Feb 2026 19:02:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-captcha-scam-stealc-malware-windows/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>International</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Windows</category>
+      <category>credential theft</category>
+      <category>fake captcha</category>
+      <category>fileless malware</category>
+      <category>information stealer</category>
+      <category>powershell attack</category>
+      <category>social engineering</category>
+      <category>steal malware</category>
+      <category>windows security</category>
+    </item>
+    <item>
+      <title>Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens</title>
+      <link>https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html</link>
+      <description>Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim&amp;apos;s OpenClaw (formerly Clawdbot and Moltbot) configuration environment.
+&amp;quot;This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the &amp;apos;souls&amp;apos; and identities of personal AI [</description>
+      <pubDate>Tue, 17 Feb 2026 00:13:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers</title>
+      <link>https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html</link>
+      <description>A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions.
+&amp;quot;The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,&amp;quot; researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.</description>
+      <pubDate>Mon, 16 Feb 2026 23:36:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Operation DoppelBrand: Weaponizing Fortune 500 Brands</title>
@@ -704,26 +749,6 @@ In this unusual supply chain attack detailed by Koi Security, an unknown attacke
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <description>For the past week, the massive &amp;quot;Internet of Things&amp;quot; (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet&amp;apos;s control servers.</description>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>DDoS-for-Hire</category>
-      <category>Benjamin Brundage</category>
-      <category>DDoS</category>
-      <category>I2P</category>
-      <category>Kimwolf botnet</category>
-      <category>Lance James</category>
-      <category>Sybil attack</category>
-      <category>Synthient</category>
-      <category>Tor</category>
-      <category>Unit 221B</category>
-    </item>
-    <item>
       <title>APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities</title>
       <link>https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html</link>
       <description>Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines.
@@ -873,38 +898,6 @@ Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are ra
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Patch Tuesday, February 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
-      <description>Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six &amp;quot;zero-day&amp;quot; vulnerabilities that attackers are already exploiting in the wild.</description>
-      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Latest Warnings</category>
-      <category>Security Tools</category>
-      <category>Time to Patch</category>
-      <category>Chris Goettl</category>
-      <category>CVE-2026-21256</category>
-      <category>CVE-2026-21509</category>
-      <category>CVE-2026-21510</category>
-      <category>CVE-2026-21513</category>
-      <category>CVE-2026-21514</category>
-      <category>CVE-2026-21516</category>
-      <category>CVE-2026-21519</category>
-      <category>CVE-2026-21523</category>
-      <category>CVE-2026-21525</category>
-      <category>CVE-2026-21533</category>
-      <category>Desktop Window Manager</category>
-      <category>Immersive</category>
-      <category>Ivanti</category>
-      <category>Kev Breen</category>
-      <category>Microsoft Word</category>
-      <category>MSHTML</category>
-      <category>sans internet storm center</category>
-      <category>Windows Remote Desktop Services</category>
-      <category>Windows shell</category>
     </item>
     <item>
       <title>In Bypassing MFA, ZeroDayRAT Is &amp;apos;Textbook Stalkerware&amp;apos;</title>
@@ -1088,16 +1081,6 @@ The incident took place on January 29, 2026, when a mail server that was not upd
       <pubDate>Tue, 10 Feb 2026 09:45:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/european-governments-zeroday/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data</title>
-      <link>https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html</link>
-      <description>The Netherlands&amp;apos; Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in Ivanti Endpoint Manager Mobile (EPMM), according to a notice sent to the country&amp;apos;s parliament on Friday.
-&amp;quot;On January 29, the National Cyber Security Center (</description>
-      <pubDate>Tue, 10 Feb 2026 13:52:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
