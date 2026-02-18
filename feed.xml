@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Feb 2026 07:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 13:03:16 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,79 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Found Twelve New Vulnerabilities in OpenSSL</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html</link>
+      <description>&amp;lt;p&amp;gt;The title of the post is&amp;amp;#8221;&amp;lt;a href=&amp;quot;https://aisle.com/blog/what-ai-security-research-looks-like-when-it-works&amp;quot;&amp;gt;What AI Security Research Looks Like When It Works&amp;lt;/a&amp;gt;,&amp;amp;#8221; and I agree:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In the latest &amp;lt;a href=&amp;quot;https://openssl-library.org/news/vulnerabilities/&amp;quot;&amp;gt;OpenSSL security release&amp;amp;#62;&amp;lt;/a&amp;gt; on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 18 Feb 2026 12:03:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>patching</category>
+      <category>SSL</category>
+      <category>vulnerabilities</category>
+      <category>zero-day</category>
+    </item>
+    <item>
+      <title>Record Number of Ransomware Victims and Groups in 2025</title>
+      <link>https://www.infosecurity-magazine.com/news/record-number-ransomware-victims/</link>
+      <description>Searchlight Cyber reports a 30% annual increase in ransomware victim numbers in 2025</description>
+      <pubDate>Wed, 18 Feb 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/record-number-ransomware-victims/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024</title>
+      <link>https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html</link>
+      <description>A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).
+The activity involves the exploitation of CVE-2026-22769 (CVSS score: 10.0), a case of hard-coded credentials</description>
+      <pubDate>Wed, 18 Feb 2026 16:02:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>3 Ways to Start Your Intelligent Workflow Program</title>
+      <link>https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html</link>
+      <description>Security, IT, and engineering teams today are under relentless pressure to accelerate outcomes, cut operational drag, and unlock the full potential of AI and automation. But simply investing in tools isn’t enough. 88% of AI proofs-of-concept never make it to production, even though 70% of workers cite freeing time for high-value work as the primary AI automation motivation. Real impact comes</description>
+      <pubDate>Wed, 18 Feb 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Chinese APT Group Exploits Dell Zero-Day for Two Years</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/</link>
+      <description>Mandiant reveals campaign featuring exploit of a CVSS 10.0 CVE in Dell RecoverPoint for Virtual Machines</description>
+      <pubDate>Wed, 18 Feb 2026 10:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware</title>
+      <link>https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html</link>
+      <description>Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.
+The version 8.9.2 update incorporates what maintainer Don Ho calls a &amp;quot;double lock&amp;quot; design that aims to make the update process &amp;quot;robust and effectively unexploitable.&amp;quot; This includes verification</description>
+      <pubDate>Wed, 18 Feb 2026 13:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update</title>
+      <link>https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+The list of vulnerabilities is as follows -
+
+CVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap</description>
+      <pubDate>Wed, 18 Feb 2026 12:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Singapore &amp;amp;amp; Its 4 Major Telcos Fend Off Chinese Hackers</title>
@@ -1028,76 +1101,6 @@ The campaigns are characterized by the use of malware families like Geta RAT, Ar
       <category>ebooks</category>
       <category>Rewiring Democracy</category>
       <category>Schneier news</category>
-    </item>
-    <item>
-      <title>AI Rising: Do We Know Enough About the Data Populating It?</title>
-      <link>https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai</link>
-      <description>Organizations remain reluctant to address the fact that AI can dangerously expose business operations as well as personal data.</description>
-      <pubDate>Wed, 11 Feb 2026 14:31:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/data-privacy/do-we-know-enough-about-data-populating-ai</guid>
-      <dc:creator>Adam Strange</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Top Cyber Industry Defenses Spike CO2 Emissions</title>
-      <link>https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions</link>
-      <description>Organizations can improve their climate footprints by optimizing two specific cybersecurity protections, without incurring added risks.</description>
-      <pubDate>Wed, 11 Feb 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/cyber-industry-defenses-co2-emissions</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms</title>
-      <link>https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html</link>
-      <description>It&amp;apos;s Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services.
-Microsoft issued fixes for 59 flaws, including six actively exploited zero-days in various Windows components that could be abused to bypass security features, escalate privileges, and trigger a denial-of-service (DoS) condition.
-Elsewhere</description>
-      <pubDate>Wed, 11 Feb 2026 18:58:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>US Court Hands Crypto Scammer 20 Years in $73m Case</title>
-      <link>https://www.infosecurity-magazine.com/news/court-hands-crypto-scammer-20-years/</link>
-      <description>A federal court has sentenced crypto-scammer Daren Li to 20 years in absentia</description>
-      <pubDate>Wed, 11 Feb 2026 12:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/court-hands-crypto-scammer-20-years/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Prompt Injection Via Road Signs</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html</link>
-      <description>&amp;lt;p&amp;gt;Interesting research: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/pdf/2510.00181&amp;quot;&amp;gt;CHAI: Command Hijacking Against Embodied AI&amp;lt;/a&amp;gt;.&amp;amp;#8221;&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Embodied Artificial Intelligence (AI) promises to handle edge cases in robotic vehicle systems where data is scarce by using common-sense reasoning grounded in perception and action to generalize beyond training distributions and adapt to novel real-world situations. These capabilities, however, also create new security risks. In this paper, we introduce CHAI (Command Hijacking against embodied AI), a new class of prompt-based attacks that exploit the multimodal language interpretation abilities of Large Visual-Language Models (LVLMs). CHAI embeds deceptive natural language instructions, such as misleading signs, in visual input, systematically searches the token space, builds a dictionary of prompts, and guides an attacker model to generate Visual Attack Prompts. We evaluate CHAI on four LVLM agents; drone emergency landing, autonomous driving, and aerial object tracking, and on a real robotic vehicle. Our experiments show that CHAI consistently outperforms state-of-the-art attacks. By exploiting the semantic and multimodal reasoning strengths of next-generation embodied AI systems, CHAI underscores the urgent need for defenses that extend beyond traditional adversarial robustness...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 11 Feb 2026 12:03:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>AI</category>
-      <category>cars</category>
-      <category>hacking</category>
-    </item>
-    <item>
-      <title>FIRST Forecasts Record-Breaking 50,000+ CVEs in 2026</title>
-      <link>https://www.infosecurity-magazine.com/news/first-forecasts-record-50000-cve/</link>
-      <description>This year should break all the records in terms of vulnerability disclosed, reaching or even surpassing 50,000 new CVEs disclosed</description>
-      <pubDate>Wed, 11 Feb 2026 11:35:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/first-forecasts-record-50000-cve/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments</title>
-      <link>https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html</link>
-      <description>Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments.
-The issue is not the applications themselves, but how they are often</description>
-      <pubDate>Wed, 11 Feb 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
