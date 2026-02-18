@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Feb 2026 13:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 18:54:38 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,75 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist’s Phone in Police Custody</title>
+      <link>https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html</link>
+      <description>New research from the Citizen Lab has found signs that Kenyan authorities used a commercial forensic extraction tool manufactured by Israeli company Cellebrite to break into a prominent dissident&amp;apos;s phone, making it the latest case of abuse of the technology targeting civil society.
+The interdisciplinary research unit at the University of Toronto&amp;apos;s Munk School of Global Affairs &amp;amp;amp; Public</description>
+      <pubDate>Wed, 18 Feb 2026 23:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html</link>
+      <description>Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices.
+The vulnerability, tracked as CVE-2026-2329, carries a CVSS score of 9.3 out of a maximum of 10.0. It has been described as a case of unauthenticated stack-based buffer overflow that could result in remote code</description>
+      <pubDate>Wed, 18 Feb 2026 22:05:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Substack Breach May Have Leaked Nearly 700,000 User Details Online</title>
+      <link>https://www.techrepublic.com/article/news-substack-data-breach-user-accounts-leaked/</link>
+      <description>&amp;lt;p&amp;gt;Substack says hackers accessed user emails, phone numbers, and internal metadata in October 2025, with a database of 697,313 records later posted online.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-substack-data-breach-user-accounts-leaked/&amp;quot;&amp;gt;Substack Breach May Have Leaked Nearly 700,000 User Details Online&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 18 Feb 2026 16:22:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-substack-data-breach-user-accounts-leaked/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>breachforums</category>
+      <category>cybersecurity</category>
+      <category>data breach</category>
+      <category>data leak</category>
+      <category>hacking</category>
+      <category>privacy</category>
+      <category>substack</category>
+      <category>user data</category>
+    </item>
+    <item>
+      <title>Cryptojacking Campaign Exploits Driver to Boost Monero Mining</title>
+      <link>https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/</link>
+      <description>Cryptojacking campaign used pirated software to deploy a persistent XMRig miner with stealth tactics</description>
+      <pubDate>Wed, 18 Feb 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AI Assistants Used as Covert Command-and-Control Relays</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-assistants-covert-c2-relays/</link>
+      <description>AIs like Grok and Microsoft Copilot can be exploited as covert C2 channels for malware communication</description>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-assistants-covert-c2-relays/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs</title>
+      <link>https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html</link>
+      <description>Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.
+The extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and</description>
+      <pubDate>Wed, 18 Feb 2026 18:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>AI Found Twelve New Vulnerabilities in OpenSSL</title>
@@ -31,6 +100,16 @@
       <category>SSL</category>
       <category>vulnerabilities</category>
       <category>zero-day</category>
+    </item>
+    <item>
+      <title>Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability</title>
+      <link>https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html</link>
+      <description>In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.
+In 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of&amp;amp;nbsp;continuous atmospheric instability: AI-driven threats that adapt in real time, expanding</description>
+      <pubDate>Wed, 18 Feb 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Record Number of Ransomware Victims and Groups in 2025</title>
@@ -249,15 +328,9 @@ The Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu
     <item>
       <title>My Day Getting My Hands Dirty with an NDR System</title>
       <link>https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html</link>
-      <description>My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?
-
-
-
-
-
-
-My objective
-As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (</description>
+      <description>My objective
+As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (NDR) system. My goal was to understand how NDR is used in hunting and incident response, and how it fits into the daily workflow of a Security Operations Center (SOC).
+Corelight’s Investigator software, part of its Open NDR Platform, is</description>
       <pubDate>Tue, 17 Feb 2026 17:00:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -468,9 +541,8 @@ Another signal: attackers are mixing old and new methods. Legacy botnet tactics,
     <item>
       <title>Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud</title>
       <link>https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html</link>
-      <description>Presentation of the KTU Consortium Mission ‘A Safe and Inclusive Digital Society’ at the Innovation Agency event ‘Innovation Breakfast: How Mission-Oriented Science and Innovation Programmes Will Address Societal Challenges’.
-
-Technologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer</description>
+      <description>Technologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer abstract for such a country as Lithuania, as well. From e-signatures to digital health records, the country depends on secure systems.&amp;amp;nbsp;
+Cybersecurity has become not only a technical challenge but a societal one – demanding</description>
       <pubDate>Mon, 16 Feb 2026 17:25:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1016,91 +1088,6 @@ The vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been describ
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc</guid>
       <dc:creator>Richard Thurston</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Automaker Secures the Supply Chain With Developer-Friendly Platform</title>
-      <link>https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform</link>
-      <description>How a platform engineering team embeds supply chain security into infrastructure without slowing developers.</description>
-      <pubDate>Wed, 11 Feb 2026 19:35:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/automaker-secures-supply-chain-developer-friendly-platform</guid>
-      <dc:creator>Joan Goodchild</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials</title>
-      <link>https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</link>
-      <description>Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.
-In this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been</description>
-      <pubDate>Wed, 11 Feb 2026 23:15:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>From 10M to 25M: Conduent Breach Balloons Into One of 2025’s Largest</title>
-      <link>https://www.techrepublic.com/article/news-conduent-ransomware-breach-25m/</link>
-      <description>&amp;lt;p&amp;gt;The Conduent ransomware attack has grown to impact 25 million Americans, exposing Social Security numbers and medical data in one of 2025’s largest breaches.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-conduent-ransomware-breach-25m/&amp;quot;&amp;gt;From 10M to 25M: Conduent Breach Balloons Into One of 2025’s Largest&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 11 Feb 2026 16:46:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-conduent-ransomware-breach-25m/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>North Korean Hackers Use Deepfake Video Calls to Target Crypto Firms</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korea-hackers-deepfake-crypto/</link>
-      <description>Campaign combines stolen Telegram accounts, fake Zoom calls and ClickFix attacks to deploy infostealer malware</description>
-      <pubDate>Wed, 11 Feb 2026 16:35:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/north-korea-hackers-deepfake-crypto/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <description>For the past week, the massive &amp;quot;Internet of Things&amp;quot; (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet&amp;apos;s control servers.</description>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>DDoS-for-Hire</category>
-      <category>Benjamin Brundage</category>
-      <category>DDoS</category>
-      <category>I2P</category>
-      <category>Kimwolf botnet</category>
-      <category>Lance James</category>
-      <category>Sybil attack</category>
-      <category>Synthient</category>
-      <category>Tor</category>
-      <category>Unit 221B</category>
-    </item>
-    <item>
-      <title>APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities</title>
-      <link>https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html</link>
-      <description>Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines.
-The campaigns are characterized by the use of malware families like Geta RAT, Ares RAT, and DeskRAT, which are often</description>
-      <pubDate>Wed, 11 Feb 2026 20:22:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Rewiring Democracy Ebook is on Sale</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html</link>
-      <description>&amp;lt;p&amp;gt;I just noticed that the ebook version of &amp;lt;a href=&amp;quot;https://www.schneier.com/books/rewiring-democracy/&amp;quot;&amp;gt;&amp;lt;cite&amp;gt;Rewiring Democracy&amp;lt;/cite&amp;gt;&amp;lt;/a&amp;gt; is on sale for $5 on &amp;lt;a href=&amp;quot;https://www.amazon.com/gp/product/B0DTNZ2H86&amp;quot;&amp;gt;Amazon&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://books.apple.com/us/book/rewiring-democracy/id6740839808&amp;quot;&amp;gt;Apple Books&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://www.barnesandnoble.com/w/rewiring-democracy-bruce-schneier/1146990469?ean=9780262384407&amp;quot;&amp;gt;Barnes &amp;amp;#38; Noble&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://www.booksamillion.com/p/Rewiring-Democracy/Bruce-Schneier/Q247907742&amp;quot;&amp;gt;Books A Million&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://play.google.com/store/books/details?id=QcNAEQAAQBAJ&amp;quot;&amp;gt;Google Play&amp;lt;/a&amp;gt;, &amp;lt;a href=&amp;quot;https://www.kobo.com/us/en/ebook/rewiring-democracy&amp;quot;&amp;gt;Kobo&amp;lt;/a&amp;gt;, and presumably everywhere else in the US. I have no idea how long this will last.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Also, Amazon has a &amp;lt;a href=&amp;quot;https://www.amazon.com/Rewiring-Democracy-Transform-Government-Citizenship/dp/0262049945&amp;quot;&amp;gt;coupon&amp;lt;/a&amp;gt; that brings the hardcover price down to $20. You&amp;amp;#8217;ll see the discount at checkout.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 11 Feb 2026 14:48:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>books</category>
-      <category>ebooks</category>
-      <category>Rewiring Democracy</category>
-      <category>Schneier news</category>
     </item>
   </channel>
 </rss>
