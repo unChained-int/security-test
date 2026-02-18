@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Feb 2026 18:57:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 02:07:22 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,62 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Singapore &amp;amp;amp; Its 4 Major Telcos Fend Off Chinese Hackers</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers</link>
+      <description>After detecting a zero-day attack, the country&amp;apos;s effective response was attributed to the tight relationship between its government and private industry.</description>
+      <pubDate>Wed, 18 Feb 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers</guid>
+      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Supply Chain Attack Embeds Malware in Android Devices</title>
+      <link>https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices</link>
+      <description>Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.</description>
+      <pubDate>Tue, 17 Feb 2026 22:06:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Poland Energy Survives Attack on Wind, Solar Infrastructure</title>
+      <link>https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure</link>
+      <description>Russia-aligned groups are probable culprits behind the wiper attacks against renewable energy farms, a manufacturer, and a heating and power plant.</description>
+      <pubDate>Tue, 17 Feb 2026 21:31:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>RMM Abuse Explodes as Hackers Ditch Malware</title>
+      <link>https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware</link>
+      <description>Remote monitoring and management (RMM) software offers hackers multiple benefits, including stealth, persistence, and operational efficiency.</description>
+      <pubDate>Tue, 17 Feb 2026 21:01:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT</title>
+      <link>https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat</link>
+      <description>ClickFix campaigns have adapted to the latest defenses with a new technique to trick users into infecting their own machines with malware.</description>
+      <pubDate>Tue, 17 Feb 2026 21:01:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster</title>
+      <link>https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</link>
+      <description>Cloud attacks move fast — faster than most incident response teams.
+In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.
+Cloud forensics is fundamentally</description>
+      <pubDate>Wed, 18 Feb 2026 00:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies</title>
@@ -116,17 +172,6 @@ The Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu
       <category>academic papers</category>
       <category>LLM</category>
       <category>side-channel attacks</category>
-    </item>
-    <item>
-      <title>Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster</title>
-      <link>https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</link>
-      <description>Cloud attacks move fast — faster than most incident response teams.
-In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.
-Cloud forensics is fundamentally</description>
-      <pubDate>Tue, 17 Feb 2026 17:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>My Day Getting My Hands Dirty with an NDR System</title>
@@ -1054,52 +1099,6 @@ Of the 59 flaws, five are rated Critical, 52 are rated Important, and two are ra
       <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SSHStalker Botnet Uses IRC C2 to Control Linux Systems via Legacy Kernel Exploits</title>
-      <link>https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new botnet operation called SSHStalker that relies on the Internet Relay Chat (IRC) communication protocol for command-and-control (C2) purposes.
-&amp;quot;The toolset blends stealth helpers with legacy-era Linux exploitation: Alongside log cleaners (utmp/wtmp/lastlog tampering) and rootkit-class artifacts, the actor keeps a large back-catalog of</description>
-      <pubDate>Wed, 11 Feb 2026 15:26:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/sshstalker-botnet-uses-irc-c2-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Fixes Six Zero Day Vulnerability in February Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-six-zero-day-feb-2026/</link>
-      <description>Six actively exploited zero-day bug have been patched by Microsoft</description>
-      <pubDate>Wed, 11 Feb 2026 09:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-six-zero-day-feb-2026/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations</title>
-      <link>https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html</link>
-      <description>The North Korea-linked threat actor known as UNC1069 has been observed targeting the cryptocurrency sector to steal sensitive data from Windows and macOS systems with the ultimate goal of facilitating financial theft.
-&amp;quot;The intrusion relied on a social engineering scheme involving a compromised Telegram account, a fake Zoom meeting, a ClickFix infection vector, and reported usage of AI-generated</description>
-      <pubDate>Wed, 11 Feb 2026 12:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Asia Fumbles With Throttling Back Telnet Traffic in Region</title>
-      <link>https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic</link>
-      <description>Only Taiwan made the top 10 list of governments, effectively blocking the threat-ridden protocol, but overall, the region lagged in curbing Telnet traffic.</description>
-      <pubDate>Wed, 11 Feb 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/asia-fumbles-telnet-threat-traffic</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SolarWinds WHD Attacks Highlight Risks of Exposed Apps</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</link>
-      <description>Organizations that have exposed their instances of Web Help Desk to the public Internet have inadvertently made them prime targets for attackers.</description>
-      <pubDate>Tue, 10 Feb 2026 22:00:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/solarwinds-whd-attacks-exposed-apps</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
