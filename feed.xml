@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Feb 2026 18:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 02:06:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,67 @@
       <description/>
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft: Critical Windows Admin Center Flaw Allows Privilege Escalation</title>
+      <link>https://www.techrepublic.com/article/news-windows-admin-center-privilege-escalation-february-2026/</link>
+      <description>&amp;lt;p&amp;gt;A high-severity Windows Admin Center vulnerability (CVE-2026-26119) could allow privilege escalation in enterprise environments. Here’s what to know and how to mitigate risk.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-admin-center-privilege-escalation-february-2026/&amp;quot;&amp;gt;Microsoft: Critical Windows Admin Center Flaw Allows Privilege Escalation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 19 Feb 2026 00:16:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-admin-center-privilege-escalation-february-2026/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>Windows</category>
+      <category>authentication vulnerability</category>
+      <category>cve-2026-26119</category>
+      <category>enterprise security</category>
+      <category>lateral movement</category>
+      <category>microsoft security</category>
+      <category>patch management</category>
+      <category>privilege escalation</category>
+      <category>windows admin center</category>
+    </item>
+    <item>
+      <title>Scam Abuses Gemini Chatbots to Convince People to Buy Fake Crypto</title>
+      <link>https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto</link>
+      <description>A convincing presale site for phony &amp;amp;quot;Google Coin&amp;amp;quot; features an AI assistant that engages victims with a slick sales pitch, funneling payment to attackers.</description>
+      <pubDate>Wed, 18 Feb 2026 21:47:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto</guid>
+      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot</title>
+      <link>https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot</link>
+      <description>CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.</description>
+      <pubDate>Wed, 18 Feb 2026 21:15:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot</guid>
+      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Dell&amp;apos;s Hard-Coded Flaw: A Nation-State Goldmine</title>
+      <link>https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine</link>
+      <description>A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.</description>
+      <pubDate>Wed, 18 Feb 2026 20:49:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>A CISO&amp;apos;s Playbook for Defending Data Assets Against AI Scraping</title>
+      <link>https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping</link>
+      <description>Discover a strategic approach to govern scraping risks, balance security with business growth, and safeguard intellectual capital from automated data harvesting.</description>
+      <pubDate>Wed, 18 Feb 2026 19:13:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ciso-playbook-defending-data-assets-against-ai-scraping</guid>
+      <dc:creator>Areejit Banerjee</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1027,67 +1088,6 @@ Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions fr
       <guid isPermaLink="true">https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Proofpoint Acquires Acuvity to Deliver AI Security and Governance Across the Agentic Workspace</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across</link>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 07:16:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquires-acuvity-deliver-ai-security-and-governance-across</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices</title>
-      <link>https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</link>
-      <description>Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.
-The vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple&amp;apos;s Dynamic Link Editor. Successful exploitation of the vulnerability could allow an</description>
-      <pubDate>Thu, 12 Feb 2026 11:09:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Patches Windows Flaw Causing VPN Disruptions</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-rasman-cve-vpn/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft patches CVE-2026-21525, an actively exploited RasMan flaw that can crash Windows VPN services and disrupt remote access.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-rasman-cve-vpn/&amp;quot;&amp;gt;Microsoft Patches Windows Flaw Causing VPN Disruptions&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 11 Feb 2026 21:59:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-rasman-cve-vpn/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>Windows</category>
-      <category>cve-2026-21525</category>
-      <category>denial of service</category>
-      <category>microsoft patch</category>
-      <category>null pointer dereference</category>
-      <category>rasman</category>
-      <category>remote access security</category>
-      <category>vpn security</category>
-      <category>windows security</category>
-    </item>
-    <item>
-      <title>North Korea&amp;apos;s UNC1069 Hammers Crypto Firms With AI</title>
-      <link>https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms</link>
-      <description>In moving away from traditional banks to focus on Web3 companies, the threat actor is leveraging LLMs, deepfakes, legitimate platforms, and ClickFix.</description>
-      <pubDate>Wed, 11 Feb 2026 21:56:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/north-koreas-unc1069-hammers-crypto-firms</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>How to Stay on Top of Future Threats With a Cutting-Edge SOC</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc</link>
-      <description>CISOs should focus on harnessing and securing AI and building new skills among their people. Vision and change management can transform security.</description>
-      <pubDate>Wed, 11 Feb 2026 20:36:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/stay-top-future-threats-cutting-edge-soc</guid>
-      <dc:creator>Richard Thurston</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
