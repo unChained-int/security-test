@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Feb 2026 06:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 13:04:19 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,95 @@
       <description/>
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Industrial Control System Vulnerabilities Hit Record Highs</title>
+      <link>https://www.infosecurity-magazine.com/news/industrial-control-system-vulns/</link>
+      <description>Forescout paper reveals ICS advisories hit a record 508 in 2025</description>
+      <pubDate>Thu, 19 Feb 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/industrial-control-system-vulns/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Malicious AI</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/malicious-ai.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/&amp;quot;&amp;gt;Interesting&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into accepting its changes into a mainstream python library. This represents a first-of-its-kind case study of misaligned AI behavior in the wild, and raises serious concerns about currently deployed AI agents executing blackmail threats.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/&amp;quot;&amp;gt;Part 2&amp;lt;/a&amp;gt; of the story. And a &amp;lt;i&amp;gt;Wall Street Journal&amp;lt;/i&amp;gt; &amp;lt;a href=&amp;quot;https://www.wsj.com/tech/ai/when-ai-bots-start-bullying-humans-even-silicon-valley-gets-rattled-0adb04f1&amp;quot;&amp;gt;article&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 19 Feb 2026 12:05:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/malicious-ai.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>blackmail</category>
+      <category>lies</category>
+      <category>reputation</category>
+    </item>
+    <item>
+      <title>Starkiller: New ‘Commercial-Grade’ Phishing Kit Bypasses MFA</title>
+      <link>https://www.infosecurity-magazine.com/news/starkiller-phishing-kit-bypasses/</link>
+      <description>A new cybercriminal toolkit uses proxies to mimic popular online services and represents a “significant escalation in phishing infrastructure,” warn researchers at Abnormal</description>
+      <pubDate>Thu, 19 Feb 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/starkiller-phishing-kit-bypasses/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>From Exposure to Exploitation: How AI Collapses Your Response Window</title>
+      <link>https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html</link>
+      <description>We’ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a &amp;quot;temporary&amp;quot; API key for testing and forgets to revoke it. In the past, these were minor operational risks, debts you’d eventually pay down during a slower cycle.
+In 2026, “Eventually” is Now
+But today, within minutes, AI-powered</description>
+      <pubDate>Thu, 19 Feb 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Flaws in Popular Software Development App Extensions Allow Data Exfiltration</title>
+      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-vs-code-cursor/</link>
+      <description>Four serious new vulnerabilities affect Microsoft Visual Studio Code, Cursor and Windsurf extensions, three of which remain unpatched</description>
+      <pubDate>Thu, 19 Feb 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/vulnerabilities-vs-code-cursor/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users</title>
+      <link>https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that&amp;apos;s designed to facilitate device takeover (DTO) attacks for financial theft.
+The malware, according to ThreatFabric, masquerades as seemingly harmless IPTV apps to deceive victims, indicating that the activity is primarily singling out users looking for the online TV applications.
+&amp;quot;This new threat, while</description>
+      <pubDate>Thu, 19 Feb 2026 15:54:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Reveal Six New OpenClaw Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-six-new-openclaw/</link>
+      <description>Endor Labs has published details of six new vulnerabilities in popular AI assistant OpenClaw</description>
+      <pubDate>Thu, 19 Feb 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-six-new-openclaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware</title>
+      <link>https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran&amp;apos;s ongoing protests to conduct information theft and long-term espionage.
+The Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and</description>
+      <pubDate>Thu, 19 Feb 2026 13:43:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>More Than 40% of South Africans Were Scammed in 2025</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025</link>
+      <description>Survey underscores the reality that scammers follow &amp;amp;quot;scalable opportunities and low friction,&amp;amp;quot; rather than rich targets that tend to be better protected.</description>
+      <pubDate>Thu, 19 Feb 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025</guid>
+      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -57,6 +146,15 @@
       <pubDate>Wed, 18 Feb 2026 21:15:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot</guid>
       <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Threat Intelligence Has a Human-Shaped Blind Spot</title>
+      <link>https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot</link>
+      <description>How I realized what I was taught to about threat intelligence was missing something crucial.</description>
+      <pubDate>Wed, 18 Feb 2026 20:56:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot</guid>
+      <dc:creator>Dr. Megan Squire</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -993,101 +1091,6 @@ The coordinated campaign has been codenamed graphalgo in reference to the first 
       <pubDate>Thu, 12 Feb 2026 16:11:28 +0000</pubDate>
       <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/proofpoint-acquires-acuvity-tackle-security-risks-agentic-ai</guid>
       <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>World Leaks Ransomware Group Adds Stealthy, Custom Malware ‘RustyRocket’ to Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/world-leaks-ransomware-rustyrocket/</link>
-      <description>Accenture Cybersecurity warns over difficult to detect, “sophisticated toolset” being deployed as part of extortion campaigns</description>
-      <pubDate>Thu, 12 Feb 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/world-leaks-ransomware-rustyrocket/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds</title>
-      <link>https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/</link>
-      <description>Google researchers found that government-backed hackers now use AI throughout the whole attack lifecycle</description>
-      <pubDate>Thu, 12 Feb 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>3D Printer Surveillance</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html</link>
-      <description>&amp;lt;p&amp;gt;New York is &amp;lt;a href=&amp;quot;https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/&amp;quot;&amp;gt;contemplating&amp;lt;/a&amp;gt; a bill that adds surveillance to 3D printers:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;New York’s 2026­2027 executive budget bill (S.9005 / A.10005) includes language that should alarm every maker, educator, and small manufacturer in the state. Buried in Part C is a provision requiring all 3D printers sold or delivered in New York to include &amp;amp;#8220;blocking technology.&amp;amp;#8221; This is defined as software or firmware that &amp;lt;i&amp;gt;scans every print file&amp;lt;/i&amp;gt; through a &amp;amp;#8220;firearms blueprint detection algorithm&amp;amp;#8221; and refuses to print anything it flags as a potential firearm or firearm component...&amp;lt;/i&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 12 Feb 2026 12:01:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>3d printers</category>
-      <category>guns</category>
-      <category>laws</category>
-      <category>privacy</category>
-      <category>surveillance</category>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days &amp;amp; 25+ Stories</title>
-      <link>https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html</link>
-      <description>Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked exposures that sit in plain sight.
-Another shift is how access is gained versus how it’s used. Initial entry points are getting simpler, while post-compromise</description>
-      <pubDate>Thu, 12 Feb 2026 17:21:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Skills Represent Dangerous New Attack Surface, Says TrendAI</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-skills-dangerous-new-attack/</link>
-      <description>New TrendAI report warns that most security tools can’t protect against attacks on AI skills artifacts</description>
-      <pubDate>Thu, 12 Feb 2026 10:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-skills-dangerous-new-attack/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The CTEM Divide: Why 84% of Security Programs Are Falling Behind</title>
-      <link>https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html</link>
-      <description>A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point</description>
-      <pubDate>Thu, 12 Feb 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Naming and shaming: How ransomware groups tighten the screws on victims</title>
-      <link>https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/</link>
-      <description>When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle</description>
-      <pubDate>Thu, 12 Feb 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Ransomware</category>
-    </item>
-    <item>
-      <title>Time to Exploit Plummets as N-Day Flaws Dominate</title>
-      <link>https://www.infosecurity-magazine.com/news/time-exploit-plummets-nday-flaws/</link>
-      <description>Flashpoint warns of a dramatic drop in the average time between vulnerability disclosure and exploitation</description>
-      <pubDate>Thu, 12 Feb 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/time-exploit-plummets-nday-flaws/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Senegalese Data Breaches Expose Lack of Security Maturity</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database</link>
-      <description>Green Blood Group steals personal records and biometric data of the West African nation&amp;apos;s nearly 20 million residents.</description>
-      <pubDate>Thu, 12 Feb 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure</title>
-      <link>https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html</link>
-      <description>A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.
-Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346</description>
-      <pubDate>Thu, 12 Feb 2026 13:02:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
