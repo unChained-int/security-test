@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Feb 2026 18:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 02:01:59 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,64 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Supply Chain Attack Secretly Installs OpenClaw for Cline Users</title>
+      <link>https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users</link>
+      <description>The malicious version of Cline&amp;apos;s npm package — 2.3.0 — was downloaded more than 4,000 times before it was removed.</description>
+      <pubDate>Thu, 19 Feb 2026 22:33:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Best-in-Class &amp;apos;Starkiller&amp;apos; Phishing Kit Bypasses MFA</title>
+      <link>https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa</link>
+      <description>A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.</description>
+      <pubDate>Thu, 19 Feb 2026 22:06:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Abu Dhabi Finance Week Exposed VIP Passport Details</title>
+      <link>https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details</link>
+      <description>Unprotected cloud data sends the wrong signal at a time when the emirate&amp;apos;s trying to attract investors and establish itself as a global financial center.</description>
+      <pubDate>Thu, 19 Feb 2026 20:50:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence</title>
+      <link>https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html</link>
+      <description>Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google&amp;apos;s generative artificial intelligence (AI) chatbot, as part of its execution flow and achieves persistence.
+The malware has been codenamed PromptSpy by ESET. The malware is equipped to capture lockscreen data, block uninstallation efforts, gather device information, take screenshots,</description>
+      <pubDate>Thu, 19 Feb 2026 23:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown</title>
+      <link>https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html</link>
+      <description>An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law enforcement agencies from 16 African countries.
+The initiative, codenamed Operation Red Card 2.0, took place between December 8, 2025 and January 30, 2026, according to INTERPOL. It targeted infrastructure and actors behind high-yield investment</description>
+      <pubDate>Thu, 19 Feb 2026 23:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center</title>
+      <link>https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html</link>
+      <description>Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.
+Windows Admin Center is a locally deployed, browser-based management tool set that lets users manage their Windows Clients, Servers, and Clusters without the need for connecting to the cloud.
+The high-severity vulnerability, tracked as CVE-2026-26119, carries a</description>
+      <pubDate>Thu, 19 Feb 2026 23:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Remcos RAT Expands Real-Time Surveillance Capabilities</title>
@@ -75,6 +133,15 @@
       <pubDate>Thu, 19 Feb 2026 15:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-coretax-apps-fraud-indonesia/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Connected and Compromised: When IoT Devices Turn Into Threats</title>
+      <link>https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats</link>
+      <description>Reused passwords, a lack of network segmentation, and poor sanitization processes make the Internet of Things&amp;apos; attack surfaces more dangerous.</description>
+      <pubDate>Thu, 19 Feb 2026 15:18:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws &amp;amp; 20+ Stories</title>
@@ -172,7 +239,7 @@ The Acronis Threat Research Unit (TRU) said it observed the activity after Janua
       <description>Survey underscores the reality that scammers follow &amp;amp;quot;scalable opportunities and low friction,&amp;amp;quot; rather than rich targets that tend to be better protected.</description>
       <pubDate>Thu, 19 Feb 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -215,7 +282,7 @@ The Acronis Threat Research Unit (TRU) said it observed the activity after Janua
       <description>CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.</description>
       <pubDate>Wed, 18 Feb 2026 21:15:08 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -412,7 +479,7 @@ CVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrom
       <description>Keenadu downloads payloads that hijack browser searches, commit ad fraud, and execute other actions without user knowledge.</description>
       <pubDate>Tue, 17 Feb 2026 22:06:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+      <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -740,7 +807,7 @@ The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and 
       <description>30 copycat apps tricked users, and Google itself, into thinking they&amp;apos;re legitimate AI tools.</description>
       <pubDate>Mon, 16 Feb 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
+      <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1026,81 +1093,6 @@ Let’s start with the original</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability</title>
-      <link>https://thehackernews.com/2026/02/researchers-observe-in-wild.html</link>
-      <description>Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.
-&amp;quot;Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,&amp;quot; Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. &amp;quot;Attackers are abusing</description>
-      <pubDate>Fri, 13 Feb 2026 14:04:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/researchers-observe-in-wild.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again</title>
-      <link>https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit</link>
-      <description>It&amp;apos;s time to phase out the &amp;amp;quot;patch and pray&amp;amp;quot; approach, eliminate needless public interfaces, and enforce authentication controls, one expert says.</description>
-      <pubDate>Thu, 12 Feb 2026 22:05:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit</guid>
-      <dc:creator>Nate Nelson, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical Apple Flaw Exploited in ‘Sophisticated’ Attacks, Company Urges Rapid Patching</title>
-      <link>https://www.techrepublic.com/article/news-apple-zero-day-cve-update-february-2026/</link>
-      <description>&amp;lt;p&amp;gt;Apple urges users to update after patching CVE-2026-20700, a zero-day flaw exploited in sophisticated targeted attacks across multiple devices.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-zero-day-cve-update-february-2026/&amp;quot;&amp;gt;Critical Apple Flaw Exploited in ‘Sophisticated’ Attacks, Company Urges Rapid Patching&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 12 Feb 2026 21:42:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-zero-day-cve-update-february-2026/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Hardware</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>apple zero-day</category>
-      <category>arbitrary code execution</category>
-      <category>cve-2026-20700</category>
-      <category>ios security</category>
-      <category>macos security</category>
-      <category>mobile security</category>
-      <category>zero-day vulnerability</category>
-    </item>
-    <item>
-      <title>Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense</title>
-      <link>https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser</link>
-      <description>The AI-powered product delivers expert-grade malware analysis and reverse engineering in minutes.</description>
-      <pubDate>Thu, 12 Feb 2026 21:23:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management</title>
-      <link>https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry</link>
-      <description>Drawing on years of adversary tradecraft, SpecterOps experts work alongside customers to analyze and eliminate attack paths, protect critical assets, and stay ahead of emerging threats.</description>
-      <pubDate>Thu, 12 Feb 2026 21:11:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents</title>
-      <link>https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents</link>
-      <description>Men should take extra care on Valentine’s Day because they are nearly twice as likely as women to fall victim to romance scams.</description>
-      <pubDate>Thu, 12 Feb 2026 21:04:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Those &amp;apos;Summarize With AI&amp;apos; Buttons May Be Lying to You</title>
-      <link>https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying</link>
-      <description>Microsoft uncovered AI recommendation poisoning in 31 companies across 14 industries, and turnkey tools make it trivially easy to pull off.</description>
-      <pubDate>Thu, 12 Feb 2026 20:47:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/summarize-ai-buttons-may-be-lying</guid>
-      <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
