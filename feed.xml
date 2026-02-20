@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Feb 2026 12:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 18:47:00 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,7 +17,97 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Dramatic Escalation Frequency and Power of in DDoS Attacks</title>
+      <title>&amp;apos;God-Like&amp;apos; Attack Machines: AI Agents Ignore Security Policies</title>
+      <link>https://www.darkreading.com/application-security/ai-agents-ignore-security-policies</link>
+      <description>Microsoft Copilot recently summarized and leaked user emails; but any AI agent will go above and beyond to complete assigned tasks, even breaking through their carefully designed guardrails.</description>
+      <pubDate>Fri, 20 Feb 2026 18:31:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-agents-ignore-security-policies</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Blocked 1.75M Harmful Apps From Play Store in 2025</title>
+      <link>https://www.techrepublic.com/article/news-google-ai-blocked-1-75-million-apps-2025/</link>
+      <description>&amp;lt;p&amp;gt;Google used AI-driven review systems to block 1.75 million policy-violating apps and ban 80,000 developer accounts in 2025, expanding Play Store and Android security enforcement.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-ai-blocked-1-75-million-apps-2025/&amp;quot;&amp;gt;Google Blocked 1.75M Harmful Apps From Play Store in 2025&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:29:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-ai-blocked-1-75-million-apps-2025/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Android</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>ai</category>
+      <category>android</category>
+      <category>cybersecurity</category>
+      <category>google play</category>
+    </item>
+    <item>
+      <title>Lessons From AI Hacking: Every Model, Every Layer Is Risky</title>
+      <link>https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky</link>
+      <description>After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.</description>
+      <pubDate>Fri, 20 Feb 2026 18:02:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft: Critical Security Issue Found in Windows Notepad</title>
+      <link>https://www.techrepublic.com/article/critical-windows-notepad-flaw-february-2026/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft patches CVE-2026-20841, a high-severity Windows Notepad flaw that could allow code execution via malicious Markdown files.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/critical-windows-notepad-flaw-february-2026/&amp;quot;&amp;gt;Microsoft: Critical Security Issue Found in Windows Notepad&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Feb 2026 17:07:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/critical-windows-notepad-flaw-february-2026/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>Technology</category>
+      <category>Windows</category>
+      <category>microsoft notepad</category>
+      <category>notepad</category>
+      <category>patch tuesday</category>
+      <category>windows</category>
+      <category>windows flaw</category>
+    </item>
+    <item>
+      <title>BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration</title>
+      <link>https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html</link>
+      <description>Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and&amp;amp;nbsp;
+The vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the</description>
+      <pubDate>Fri, 20 Feb 2026 21:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems</title>
+      <link>https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html</link>
+      <description>In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.
+&amp;quot;On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI</description>
+      <pubDate>Fri, 20 Feb 2026 19:50:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Latin America&amp;apos;s Cyber Maturity Lags Threat Landscape</title>
+      <link>https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape</link>
+      <description>The slower pace of upgrades has the unintended impact of creating a haven for attackers, especially for initial access brokers and ransomware gangs.</description>
+      <pubDate>Fri, 20 Feb 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Dramatic Escalation in Frequency and Power of DDoS Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/ddos-escalation-frequency-power/</link>
       <description>DDoS attack frequency has risen to ‘alarming levels,’ warns Radware report</description>
       <pubDate>Fri, 20 Feb 2026 12:30:00 +0000</pubDate>
@@ -38,6 +128,16 @@
       <category>law enforcement</category>
       <category>privacy</category>
       <category>surveillance</category>
+    </item>
+    <item>
+      <title>ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware</title>
+      <link>https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT).
+&amp;quot;The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage</description>
+      <pubDate>Fri, 20 Feb 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Android Malware Hijacks Google Gemini to Stay Hidden</title>
@@ -582,6 +682,14 @@ The activity involves the exploitation of CVE-2026-22769 (CVSS score: 10.0), a c
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>The 20 Coolest Web, Email and Application Security Companies Of 2026: The Security 100</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100</link>
+      <description/>
+      <pubDate>Wed, 18 Feb 2026 09:14:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/20-coolest-web-email-and-application-security-companies-2026-security-100</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
       <title>Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware</title>
       <link>https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html</link>
       <description>Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.
@@ -609,7 +717,7 @@ CVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrom
       <description>After detecting a zero-day attack, the country&amp;apos;s effective response was attributed to the tight relationship between its government and private industry.</description>
       <pubDate>Wed, 18 Feb 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers</guid>
-      <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+      <dc:creator>Robert Lemos</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -807,6 +915,22 @@ The new AI hijacking technique has been codenamed AI Recommendation Poisoning by
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Proofpoint aims to protect partners in channel revamp</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-protect-partners-channel-revamp</link>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 09:09:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-protect-partners-channel-revamp</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
+      <title>Proofpoint Boosts Deal Protection, Profitability With Launch Of New Partner Program</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/proofpoint-boosts-deal-protection-profitability-launch-new-partner-program</link>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 09:07:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/proofpoint-boosts-deal-protection-profitability-launch-new-partner-program</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
       <title>India’s Cybersecurity Cost Equation</title>
       <link>https://www.techrepublic.com/article/tr-apac-india-cybersecurity-spend-capacity-gap/</link>
       <description>&amp;lt;p&amp;gt;India’s cybersecurity budgets are rising, but SOC capacity isn’t keeping pace. Here’s how enterprises are measuring ROI and operational efficiency.&amp;lt;/p&amp;gt;
@@ -972,133 +1096,6 @@ Another signal: attackers are mixing old and new methods. Legacy botnet tactics,
       <category>AI</category>
       <category>LLM</category>
       <category>malware</category>
-    </item>
-    <item>
-      <title>Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud</title>
-      <link>https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html</link>
-      <description>Technologies are evolving fast, reshaping economies, governance, and daily life. Yet, as innovation accelerates, so do digital risks. Technological change is no longer abstract for such a country as Lithuania, as well. From e-signatures to digital health records, the country depends on secure systems.&amp;amp;nbsp;
-Cybersecurity has become not only a technical challenge but a societal one – demanding</description>
-      <pubDate>Mon, 16 Feb 2026 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Warns of In the Wild Exploit as It Patches New Chrome Zero Day</title>
-      <link>https://www.infosecurity-magazine.com/news/google-patches-new-in-wild-chrome/</link>
-      <description>A high severity vulnerability in Google Chrome and allows remote attackers to execute code</description>
-      <pubDate>Mon, 16 Feb 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-patches-new-in-wild-chrome/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Crypto Payments to Human Traffickers Surges 85%</title>
-      <link>https://www.infosecurity-magazine.com/news/crypto-payments-human-traffickers/</link>
-      <description>Chainalysis warns that online fraud is fuelling sophisticated human trafficking operations</description>
-      <pubDate>Mon, 16 Feb 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crypto-payments-human-traffickers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft</title>
-      <link>https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that&amp;apos;s being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.
-&amp;quot;The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware</description>
-      <pubDate>Mon, 16 Feb 2026 15:54:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Odido Breach Impacts Millions of Dutch Telco Users</title>
-      <link>https://www.infosecurity-magazine.com/news/odido-breach-millions-dutch-telco/</link>
-      <description>Dutch telco Odido has revealed a major data breach impacting over six million customers</description>
-      <pubDate>Mon, 16 Feb 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/odido-breach-millions-dutch-telco/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released</title>
-      <link>https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html</link>
-      <description>Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.
-The high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.
-&amp;quot;Use after</description>
-      <pubDate>Mon, 16 Feb 2026 12:08:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging</title>
-      <link>https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html</link>
-      <description>Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload.
-Specifically, the attack relies on using the &amp;quot;nslookup&amp;quot; (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows</description>
-      <pubDate>Sun, 15 Feb 2026 19:40:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html</link>
-      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;I&amp;amp;#8217;m speaking at &amp;lt;a href=&amp;quot;https://mindfulai.ca/events/mairi-featured-speaker-bruce-schneier-integrity-in-a-world-of-ai.php&amp;quot;&amp;gt;Ontario Tech University&amp;lt;/a&amp;gt; in Oshawa, Ontario, Canada, at 2 PM ET on Thursday, February 26, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://www.kwaai.ai/summit2026&amp;quot;&amp;gt;Personal AI Summit&amp;lt;/a&amp;gt; in Los Angeles, California, USA, on Thursday, March 5, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://techlivecyber.wsj.com/?gaa_at=eafs&amp;amp;#38;gaa_n=AWEtsqf9GP4etUdWaqDIATpiE9ycqWMIVoGIzjikYLlJ64hb6H_v1QH9OYhMTxeU51U%3D&amp;amp;#38;gaa_ts=691df89d&amp;amp;#38;gaa_sig=BG9fpWuP-liL7Gi3SJgXHmS02M4ob6lp6nOh94qnwVXCWYNzJxdzOiW365xA8vKeiulrErE8mbXDvKTcqktBtQ%3D%3D&amp;quot;&amp;gt;Tech Live: Cybersecurity&amp;lt;/a&amp;gt; in New York City, USA, on Wednesday, March 11, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m giving the &amp;lt;a href=&amp;quot;https://www.chu.cam.ac.uk/event/computer-science-lecture-2026/&amp;quot;&amp;gt;Ross Anderson Lecture&amp;lt;/a&amp;gt; at the University of Cambridge’s Churchill College at 5:30 PM GMT on Thursday, March 19, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://www.rsaconference.com/usa&amp;quot;&amp;gt;RSAC 2026&amp;lt;/a&amp;gt; in San Francisco, California, USA, on Wednesday, March 25, 2026...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
-      <pubDate>Sat, 14 Feb 2026 17:04:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Schneier news</category>
-    </item>
-    <item>
-      <title>Viral AI Caricatures Highlight Shadow AI Dangers</title>
-      <link>https://www.techrepublic.com/article/news-ai-caricature-trend-shadow-ai-security-risks/</link>
-      <description>&amp;lt;p&amp;gt;A viral AI caricature trend may be exposing sensitive enterprise data, fueling shadow AI risks, social engineering attacks, and LLM account compromise.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ai-caricature-trend-shadow-ai-security-risks/&amp;quot;&amp;gt;Viral AI Caricatures Highlight Shadow AI Dangers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Feb 2026 23:43:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ai-caricature-trend-shadow-ai-security-risks/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>News</category>
-      <category>OpenAI</category>
-      <category>Security</category>
-      <category>account takeover</category>
-      <category>AI governance</category>
-      <category>data leakage</category>
-      <category>llm security</category>
-      <category>owasp llm top ten</category>
-      <category>prompt injection</category>
-      <category>shadow ai</category>
-      <category>social engineering</category>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Do Squid Dream?</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html</link>
-      <description>&amp;lt;p&amp;gt;An &amp;lt;a href=&amp;quot;https://sharksandco.com/do-squid-dream-what-scientists-think-about-cephalopod-sleep-1-4236/&amp;quot;&amp;gt;exploration&amp;lt;/a&amp;gt; of the interesting question.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Feb 2026 22:08:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>squid</category>
-    </item>
-    <item>
-      <title>Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities</title>
-      <link>https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities</link>
-      <description>Zscaler&amp;apos;s acquisition of SquareX comes as competitors like CrowdStrike and Palo Alto Networks also invest in secure browser technologies.</description>
-      <pubDate>Fri, 13 Feb 2026 21:58:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
