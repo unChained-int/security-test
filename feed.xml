@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Feb 2026 12:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 18:34:49 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,17 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries</title>
+      <link>https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html</link>
+      <description>A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.
+That&amp;apos;s according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.
+&amp;quot;No exploitation of FortiGate</description>
+      <pubDate>Sat, 21 Feb 2026 20:19:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning</title>
@@ -94,6 +105,24 @@ EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credent
       <guid isPermaLink="true">https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
+      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
+      <description>Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand&amp;apos;s real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim&amp;apos;s username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.</description>
+      <pubDate>Fri, 20 Feb 2026 20:00:30 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Web Fraud 2.0</category>
+      <category>Abnormal AI</category>
+      <category>Callie Baron</category>
+      <category>Jinkusu</category>
+      <category>Piotr Wojtyla</category>
+      <category>Starkiller</category>
     </item>
     <item>
       <title>&amp;apos;God-Like&amp;apos; Attack Machines: AI Agents Ignore Security Policies</title>
@@ -1089,35 +1118,6 @@ The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and 
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands</guid>
       <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Vulnerabilities in Password Managers Allow Hackers to View and Change Passwords</title>
-      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-password-managers/</link>
-      <description>Security researchers have challenged end-to-end encryption claims from popular commercial password managers</description>
-      <pubDate>Mon, 16 Feb 2026 17:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/vulnerabilities-password-managers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Fake ‘Antivirus’ App Spreads Android Malware, Steals Banking Credentials</title>
-      <link>https://www.techrepublic.com/article/news-fake-android-antivirus-trustbastion-malware/</link>
-      <description>&amp;lt;p&amp;gt;A fake Android antivirus app called TrustBastion is spreading malware and stealing banking credentials. Here’s how it works and how to stay protected.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-android-antivirus-trustbastion-malware/&amp;quot;&amp;gt;Fake &amp;amp;#8216;Antivirus&amp;amp;#8217; App Spreads Android Malware, Steals Banking Credentials&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 16 Feb 2026 16:54:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-android-antivirus-trustbastion-malware/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Applications</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>android</category>
-      <category>android malware</category>
-      <category>cybersecurity threats</category>
-      <category>fake antivirus app</category>
-      <category>hugging face</category>
-      <category>mobile security</category>
     </item>
   </channel>
 </rss>
