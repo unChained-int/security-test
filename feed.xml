@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Feb 2026 06:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 12:46:03 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,39 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning</title>
+      <link>https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html</link>
+      <description>Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user&amp;apos;s software codebase for vulnerabilities and suggest patches.
+The capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers.
+&amp;quot;It scans codebases for security vulnerabilities and suggests targeted</description>
+      <pubDate>Sat, 21 Feb 2026 13:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog</title>
+      <link>https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerabilities in question are listed below -
+
+CVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code</description>
+      <pubDate>Sat, 21 Feb 2026 12:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security</title>
+      <link>https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html</link>
+      <description>With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.
+EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,</description>
+      <pubDate>Sat, 21 Feb 2026 10:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>PayPal Flaw Exposed Email Addresses, Social Security Numbers for 6 Months</title>
@@ -61,24 +94,6 @@
       <guid isPermaLink="true">https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
-      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
-      <description>Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand&amp;apos;s real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim&amp;apos;s username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.</description>
-      <pubDate>Fri, 20 Feb 2026 20:00:30 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Web Fraud 2.0</category>
-      <category>Abnormal AI</category>
-      <category>Callie Baron</category>
-      <category>Jinkusu</category>
-      <category>Piotr Wojtyla</category>
-      <category>Starkiller</category>
     </item>
     <item>
       <title>&amp;apos;God-Like&amp;apos; Attack Machines: AI Agents Ignore Security Policies</title>
@@ -1103,22 +1118,6 @@ The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and 
       <category>fake antivirus app</category>
       <category>hugging face</category>
       <category>mobile security</category>
-    </item>
-    <item>
-      <title>SMEs Wrong to Assume They Won’t Be Hit by Cyber-Attacks, NCSC Boss Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/sme-cyber-attack-threat-ncsc/</link>
-      <description>NCSC’s Richard Horne has warned that cybercriminals do not care about business size and called for SMEs to act now to secure their organizations</description>
-      <pubDate>Mon, 16 Feb 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/sme-cyber-attack-threat-ncsc/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>OysterLoader Evolves With New C2 Infrastructure and Obfuscation</title>
-      <link>https://www.infosecurity-magazine.com/news/oysterloader-new-c2-infrastructure/</link>
-      <description>OysterLoader malware evolves into 2026, refining C2 infrastructure, obfuscation &amp;amp; infection stages</description>
-      <pubDate>Mon, 16 Feb 2026 16:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/oysterloader-new-c2-infrastructure/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
