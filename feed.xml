@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Feb 2026 13:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 19:01:59 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,65 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb</title>
+      <link>https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.
+&amp;quot;Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim</description>
+      <pubDate>Mon, 23 Feb 2026 23:29:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Over 200K Australian Driver’s Licences Exposed in youX Cyber Breach</title>
+      <link>https://www.techrepublic.com/article/news-youx-data-breach-australia-drivers-licence-exposure/</link>
+      <description>&amp;lt;p&amp;gt;A youX breach exposed sensitive borrower data in Australia, including over 200,000 driver’s licence numbers, raising fraud and phishing risks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-youx-data-breach-australia-drivers-licence-exposure/&amp;quot;&amp;gt;Over 200K Australian Driver’s Licences Exposed in youX Cyber Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 23 Feb 2026 16:05:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-youx-data-breach-australia-drivers-licence-exposure/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>australia</category>
+      <category>cybersecurity incident</category>
+      <category>data breach</category>
+      <category>driver’s licence numbers</category>
+      <category>fintech</category>
+      <category>identity theft</category>
+      <category>mortgage brokers</category>
+      <category>youx</category>
+    </item>
+    <item>
+      <title>Shai-Hulud-Like Worm Targets Developers via npm and AI Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/shai-hulud-like-worm-devs-npm-ai/</link>
+      <description>Supply chain worm mimicking Shai-Hulud malware spread via malicious npm packages, targeting AI tools has been identified by security researchers</description>
+      <pubDate>Mon, 23 Feb 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shai-hulud-like-worm-devs-npm-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Fraud Investigation Reveals Sophisticated Python Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/fraud-investigation-python-malware/</link>
+      <description>Sophisticated Python malware uncovered in fraud probe shows obfuscation, disposable infrastructure</description>
+      <pubDate>Mon, 23 Feb 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fraud-investigation-python-malware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp;amp; More</title>
+      <link>https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</link>
+      <description>Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar.
+Across devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools</description>
+      <pubDate>Mon, 23 Feb 2026 18:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Russian Cyber Threat Actor Uses GenAI to Compromise Fortinet Firewalls</title>
@@ -538,7 +597,7 @@ The high-severity vulnerability, tracked as CVE-2026-26119, carries a</descripti
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Connected and Compromised: When IoT Devices Turn Into Threats</title>
+      <title>Connected &amp;amp;amp; Compromised: When IoT Devices Turn Into Threats</title>
       <link>https://www.darkreading.com/iot/connected-compromised-iot-devices-turn-threats</link>
       <description>Reused passwords, a lack of network segmentation, and poor sanitization processes make the Internet of Things&amp;apos; attack surfaces more dangerous.</description>
       <pubDate>Thu, 19 Feb 2026 15:18:23 +0000</pubDate>
@@ -710,7 +769,7 @@ The Acronis Threat Research Unit (TRU) said it observed the activity after Janua
     <item>
       <title>Threat Intelligence Has a Human-Shaped Blind Spot</title>
       <link>https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot</link>
-      <description>How I realized what I was taught to about threat intelligence was missing something crucial.</description>
+      <description>How I realized what I was taught about threat intelligence was missing something crucial.</description>
       <pubDate>Wed, 18 Feb 2026 20:56:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot</guid>
       <dc:creator>Dr. Megan Squire</dc:creator>
@@ -1050,52 +1109,6 @@ The Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu
       <category>academic papers</category>
       <category>LLM</category>
       <category>side-channel attacks</category>
-    </item>
-    <item>
-      <title>My Day Getting My Hands Dirty with an NDR System</title>
-      <link>https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html</link>
-      <description>My objective
-As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (NDR) system. My goal was to understand how NDR is used in hunting and incident response, and how it fits into the daily workflow of a Security Operations Center (SOC).
-Corelight’s Investigator software, part of its Open NDR Platform, is</description>
-      <pubDate>Tue, 17 Feb 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Is it OK to let your children post selfies online?</title>
-      <link>https://www.welivesecurity.com/en/kids-online/children-selfies-online/</link>
-      <description>When it comes to our children’s digital lives, prohibition rarely works. It’s our responsibility to help them build a healthy relationship with tech.</description>
-      <pubDate>Tue, 17 Feb 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/kids-online/children-selfies-online/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Kids Online</category>
-    </item>
-    <item>
-      <title>Proofpoint Launches Proofpoint Partner Network to Accelerate Partner Growth and Profitability</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network</link>
-      <description/>
-      <pubDate>Tue, 17 Feb 2026 09:59:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-proofpoint-partner-network</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Infostealer Targets OpenClaw to Loot Victim’s Digital Life</title>
-      <link>https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/</link>
-      <description>Hudson Rock has warned OpenClaw users that infostealers are targeting their configuration files</description>
-      <pubDate>Tue, 17 Feb 2026 09:35:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations</title>
-      <link>https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html</link>
-      <description>New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the &amp;quot;Summarize with AI&amp;quot; button that&amp;apos;s being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).
-The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant</description>
-      <pubDate>Tue, 17 Feb 2026 15:01:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
