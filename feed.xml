@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Feb 2026 07:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 13:03:23 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,81 @@
       <pubDate>Thu, 19 Mar 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/shields-up-key-technologies-reshaping-cybersecurity-defenses</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Russian Cyber Threat Actor Uses GenAI to Compromise Fortinet Firewalls</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/</link>
+      <description>A low-skilled Russian-speaking attacker has used GenAI tools to help deploy a successful attack workflow targeting FortiGate instances</description>
+      <pubDate>Mon, 23 Feb 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>On the Security of Password Managers</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/&amp;quot;&amp;gt;Good article&amp;lt;/a&amp;gt; on password managers that secretly have a backdoor.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;New research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­&amp;amp;#8212;either administrative or the result of a compromise­&amp;amp;#8212;can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 23 Feb 2026 12:03:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>backdoors</category>
+      <category>Password Safe</category>
+      <category>passwords</category>
+    </item>
+    <item>
+      <title>How Exposed Endpoints Increase Risk Across LLM Infrastructure</title>
+      <link>https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html</link>
+      <description>As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in</description>
+      <pubDate>Mon, 23 Feb 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Leading Semiconductor Supplier Advantest Hit by Ransomware Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/advantest-ransomware-attack/</link>
+      <description>Advantest, a Japanese specialist in testing computer chips for major semiconductor manufacturers, has deployed incident response protocols following a cybersecurity incident</description>
+      <pubDate>Mon, 23 Feb 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/advantest-ransomware-attack/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Jackpotting Surge Costs Banks Over $20m, Warns FBI</title>
+      <link>https://www.infosecurity-magazine.com/news/jackpotting-surge-costs-banks-20m/</link>
+      <description>A new FBI Flash alert claims $20m was lost to ATM jackpotting attacks in 2025 alone</description>
+      <pubDate>Mon, 23 Feb 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jackpotting-surge-costs-banks-20m/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens</title>
+      <link>https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html</link>
+      <description>Cybersecurity researchers have disclosed what they say is an active &amp;quot;Shai-Hulud-like&amp;quot; supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft.
+The campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded</description>
+      <pubDate>Mon, 23 Feb 2026 15:50:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>University of Mississippi Medical Center Still Offline After Ransomware Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/university-mississippi-medical/</link>
+      <description>University of Mississippi Medical Center is still scrambling to respond to a ransomware attack last Thursday</description>
+      <pubDate>Mon, 23 Feb 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/university-mississippi-medical/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP</title>
+      <link>https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html</link>
+      <description>The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.
+The activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share</description>
+      <pubDate>Mon, 23 Feb 2026 12:55:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries</title>
@@ -1021,103 +1096,6 @@ The new AI hijacking technique has been codenamed AI Recommendation Poisoning by
       <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Proofpoint aims to protect partners in channel revamp</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-protect-partners-channel-revamp</link>
-      <description/>
-      <pubDate>Tue, 17 Feb 2026 09:09:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/proofpoint-aims-protect-partners-channel-revamp</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Proofpoint Boosts Deal Protection, Profitability With Launch Of New Partner Program</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/proofpoint-boosts-deal-protection-profitability-launch-new-partner-program</link>
-      <description/>
-      <pubDate>Tue, 17 Feb 2026 09:07:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/proofpoint-boosts-deal-protection-profitability-launch-new-partner-program</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>India’s Cybersecurity Cost Equation</title>
-      <link>https://www.techrepublic.com/article/tr-apac-india-cybersecurity-spend-capacity-gap/</link>
-      <description>&amp;lt;p&amp;gt;India’s cybersecurity budgets are rising, but SOC capacity isn’t keeping pace. Here’s how enterprises are measuring ROI and operational efficiency.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/tr-apac-india-cybersecurity-spend-capacity-gap/&amp;quot;&amp;gt;India’s Cybersecurity Cost Equation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 17 Feb 2026 07:47:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/tr-apac-india-cybersecurity-spend-capacity-gap/</guid>
-      <dc:creator>Sasha Menon</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>APAC</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>cybersecurity</category>
-      <category>India and APAC</category>
-      <category>security</category>
-    </item>
-    <item>
-      <title>Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta</title>
-      <link>https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html</link>
-      <description>Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages.
-The feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS.
-&amp;quot;End-to-end encryption is in beta and is not available for all</description>
-      <pubDate>Tue, 17 Feb 2026 12:14:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fake CAPTCHA Scam Tricks Windows Users Into Installing Malware</title>
-      <link>https://www.techrepublic.com/article/news-fake-captcha-scam-stealc-malware-windows/</link>
-      <description>&amp;lt;p&amp;gt;A fake CAPTCHA scam is tricking Windows users into running PowerShell commands that install StealC malware and steal passwords, crypto wallets, and more.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-captcha-scam-stealc-malware-windows/&amp;quot;&amp;gt;Fake CAPTCHA Scam Tricks Windows Users Into Installing Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 16 Feb 2026 19:02:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-captcha-scam-stealc-malware-windows/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>International</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Windows</category>
-      <category>credential theft</category>
-      <category>fake captcha</category>
-      <category>fileless malware</category>
-      <category>information stealer</category>
-      <category>powershell attack</category>
-      <category>social engineering</category>
-      <category>steal malware</category>
-      <category>windows security</category>
-    </item>
-    <item>
-      <title>Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens</title>
-      <link>https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html</link>
-      <description>Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim&amp;apos;s OpenClaw (formerly Clawdbot and Moltbot) configuration environment.
-&amp;quot;This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the &amp;apos;souls&amp;apos; and identities of personal AI [</description>
-      <pubDate>Tue, 17 Feb 2026 00:13:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers</title>
-      <link>https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html</link>
-      <description>A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions.
-&amp;quot;The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,&amp;quot; researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said.</description>
-      <pubDate>Mon, 16 Feb 2026 23:36:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Operation DoppelBrand: Weaponizing Fortune 500 Brands</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands</link>
-      <description>The GS7 cyber-threat group targets US financial institutions with near-perfect imitations of corporate portals to steal credentials and gain remote access.</description>
-      <pubDate>Mon, 16 Feb 2026 18:05:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands</guid>
-      <dc:creator>Elizabeth Montalbano, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
