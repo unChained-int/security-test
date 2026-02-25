@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Feb 2026 02:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:01:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Vendor Tiering Series: Why Tier Your Vendors | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/vendor-tiering-why-tier-vendors</link>
+      <description>When every vendor is a priority, none actually are. Learn how effective vendor tiering defines criticality and maintains a defensible security posture.</description>
+      <pubDate>Wed, 25 Feb 2026 06:39:57 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-tiering-why-tier-vendors</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability</title>
+      <link>https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute</description>
+      <pubDate>Wed, 25 Feb 2026 10:53:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Attackers Now Need Just 29 Minutes to Own a Network</title>
       <link>https://www.darkreading.com/cyber-risk/attackers-now-need-just-29-minutes-to-own-a-network</link>
@@ -1127,37 +1145,6 @@ The vulnerability, tracked as CVE-2026-2329, carries a CVSS score of 9.3 out of 
       <guid isPermaLink="true">https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Substack Breach May Have Leaked Nearly 700,000 User Details Online</title>
-      <link>https://www.techrepublic.com/article/news-substack-data-breach-user-accounts-leaked/</link>
-      <description>&amp;lt;p&amp;gt;Substack says hackers accessed user emails, phone numbers, and internal metadata in October 2025, with a database of 697,313 records later posted online.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-substack-data-breach-user-accounts-leaked/&amp;quot;&amp;gt;Substack Breach May Have Leaked Nearly 700,000 User Details Online&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 18 Feb 2026 16:22:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-substack-data-breach-user-accounts-leaked/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>breachforums</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>data leak</category>
-      <category>hacking</category>
-      <category>privacy</category>
-      <category>substack</category>
-      <category>user data</category>
-    </item>
-    <item>
-      <title>Cryptojacking Campaign Exploits Driver to Boost Monero Mining</title>
-      <link>https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/</link>
-      <description>Cryptojacking campaign used pirated software to deploy a persistent XMRig miner with stealth tactics</description>
-      <pubDate>Wed, 18 Feb 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
