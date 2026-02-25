@@ -5,9 +5,89 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Feb 2026 19:01:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:05:42 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Attackers Now Need Just 29 Minutes to Own a Network</title>
+      <link>https://www.darkreading.com/cyber-risk/attackers-now-need-just-29-minutes-to-own-a-network</link>
+      <description>Credential misuse, AI tools, and security blind spots help attackers move through breached networks faster than ever, CrowdStrike finds.</description>
+      <pubDate>Tue, 24 Feb 2026 21:38:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/attackers-now-need-just-29-minutes-to-own-a-network</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Lazarus Group Picks a New Poison: Medusa Ransomware</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-new-position-medusa-ransomware</link>
+      <description>The North Korean threat group also leveraged Comebacker backdoor, Blindingcan RAT, and info stealer Infohook in its recent attacks.</description>
+      <pubDate>Tue, 24 Feb 2026 21:18:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-new-position-medusa-ransomware</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Alerts Users to Serious Chrome Bugs With Takeover Risk</title>
+      <link>https://www.techrepublic.com/article/news-google-chrome-high-severity-vulnerabilities-update-2026/</link>
+      <description>&amp;lt;p&amp;gt;Google released a Chrome security update patching three high-severity vulnerabilities, including memory flaws that could enable remote attacks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-high-severity-vulnerabilities-update-2026/&amp;quot;&amp;gt;Google Alerts Users to Serious Chrome Bugs With Takeover Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 24 Feb 2026 19:18:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-high-severity-vulnerabilities-update-2026/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Browsers</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>browser vulnerabilities</category>
+      <category>chrome security</category>
+      <category>cve-2026-3061</category>
+      <category>cybersecurity news</category>
+      <category>google chrome</category>
+      <category>memory corruption</category>
+      <category>remote code execution</category>
+      <category>webgpu security</category>
+    </item>
+    <item>
+      <title>iPhone Privacy Alert: Predator Spyware Can Hide Camera, Mic Indicators</title>
+      <link>https://www.techrepublic.com/article/news-predator-spyware-ios-privacy-dots/</link>
+      <description>&amp;lt;p&amp;gt;Predator spyware can suppress iOS camera and mic indicators after full device compromise, researchers say.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-predator-spyware-ios-privacy-dots/&amp;quot;&amp;gt;iPhone Privacy Alert: Predator Spyware Can Hide Camera, Mic Indicators&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 24 Feb 2026 19:00:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-predator-spyware-ios-privacy-dots/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Software</category>
+      <category>Mobility</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Apple privacy</category>
+      <category>commercial spyware</category>
+      <category>enterprise cybersecurity</category>
+      <category>Intellexa</category>
+      <category>ios security</category>
+      <category>Jamf</category>
+      <category>mobile security</category>
+      <category>mobile threat defense</category>
+      <category>Predator spyware</category>
+      <category>zero day</category>
+    </item>
+    <item>
+      <title>RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN</title>
+      <link>https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html</link>
+      <description>A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue.
+The artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure.
+&amp;quot;Attackers can craft hidden instructions inside a</description>
+      <pubDate>Wed, 25 Feb 2026 00:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Cost of Insider Incidents Surges 20% to Nearly $20m</title>
       <link>https://www.infosecurity-magazine.com/news/cost-of-insider-incidents-surges/</link>
@@ -1077,58 +1157,6 @@ The vulnerability, tracked as CVE-2026-2329, carries a CVSS score of 9.3 out of 
       <description>Cryptojacking campaign used pirated software to deploy a persistent XMRig miner with stealth tactics</description>
       <pubDate>Wed, 18 Feb 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI Assistants Used as Covert Command-and-Control Relays</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-assistants-covert-c2-relays/</link>
-      <description>AIs like Grok and Microsoft Copilot can be exploited as covert C2 channels for malware communication</description>
-      <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-assistants-covert-c2-relays/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs</title>
-      <link>https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html</link>
-      <description>Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.
-The extensions, which have been collectively installed more than 125 million times, are Live Server, Code Runner, Markdown Preview Enhanced, and</description>
-      <pubDate>Wed, 18 Feb 2026 18:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Found Twelve New Vulnerabilities in OpenSSL</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html</link>
-      <description>&amp;lt;p&amp;gt;The title of the post is&amp;amp;#8221;&amp;lt;a href=&amp;quot;https://aisle.com/blog/what-ai-security-research-looks-like-when-it-works&amp;quot;&amp;gt;What AI Security Research Looks Like When It Works&amp;lt;/a&amp;gt;,&amp;amp;#8221; and I agree:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In the latest &amp;lt;a href=&amp;quot;https://openssl-library.org/news/vulnerabilities/&amp;quot;&amp;gt;OpenSSL security release&amp;amp;#62;&amp;lt;/a&amp;gt; on January 27, 2026, twelve new zero-day vulnerabilities (meaning unknown to the maintainers at time of disclosure) were announced. Our AI system is responsible for the original discovery of all twelve, each found and responsibly disclosed to the OpenSSL team during the fall and winter of 2025. Of those, 10 were assigned CVE-2025 identifiers and 2 received CVE-2026 identifiers. Adding the 10 to the three we already found in the ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 18 Feb 2026 12:03:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>patching</category>
-      <category>SSL</category>
-      <category>vulnerabilities</category>
-      <category>zero-day</category>
-    </item>
-    <item>
-      <title>Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability</title>
-      <link>https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html</link>
-      <description>In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.
-In 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of&amp;amp;nbsp;continuous atmospheric instability: AI-driven threats that adapt in real time, expanding</description>
-      <pubDate>Wed, 18 Feb 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Record Number of Ransomware Victims and Groups in 2025</title>
-      <link>https://www.infosecurity-magazine.com/news/record-number-ransomware-victims/</link>
-      <description>Searchlight Cyber reports a 30% annual increase in ransomware victim numbers in 2025</description>
-      <pubDate>Wed, 18 Feb 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/record-number-ransomware-victims/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
