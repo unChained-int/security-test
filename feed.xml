@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Feb 2026 02:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:59:24 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access</title>
+      <link>https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html</link>
+      <description>A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.
+The vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain</description>
+      <pubDate>Thu, 26 Feb 2026 11:43:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>The Vendor Tiering Series: Why Tier Your Vendors | UpGuard</title>
       <link>https://upguard-staging.webflow.io/blog/vendor-tiering-why-tier-vendors</link>
@@ -1122,28 +1132,6 @@ The high-severity vulnerability, tracked as CVE-2026-26119, carries a</descripti
       <category>identity theft</category>
       <category>shinyhunters</category>
       <category>social engineering</category>
-    </item>
-    <item>
-      <title>Coffee with the Council Podcast: PCI SSC Publishes First-Ever Annual Report</title>
-      <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-publishes-first-ever-annual-report</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-publishes-first-ever-annual-report&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Coffee with the Council Podcast: PCI SSC Publishes First-Ever Annual Report&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/PCI%20Podcast-Gina-800x444@2x.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome to our podcast series, &amp;lt;em&amp;gt;Coffee with the Council&amp;lt;/em&amp;gt;. I&amp;apos;m Alicia Malone, Director of Communications and Public Relations for the PCI Security Standards Council. Well, it is hard to believe that we are already in February, but as we kick off 2026, we want to take a moment to also acknowledge all that the Council accomplished in 2025, including the recent release of the Council’s first-ever Annual Report. Joining me today to talk about this report and what we can expect in the year ahead is PCI SSC&amp;apos;s Executive Director, Gina Gobeyn. Welcome, Gina!&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Feb 2026 15:34:41 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-publishes-first-ever-annual-report</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Training</category>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Board of Advisors</category>
-      <category>PCI SSC</category>
-      <category>Participation</category>
-      <category>Educational Resource</category>
-      <category>Coffee with the Council podcasts</category>
-      <category>Artificial Intelligence (AI)</category>
     </item>
   </channel>
 </rss>
