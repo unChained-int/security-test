@@ -5,9 +5,78 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Feb 2026 06:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 13:04:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Disrupts ‘Prolific’ and ‘Elusive’ China-Linked Global Hacking Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/google-prolific-china-hacking/</link>
+      <description>UNC2814 hit 53 victims in 42 countries with novel backdoor in decade long cyber espionage operation</description>
+      <pubDate>Thu, 26 Feb 2026 12:09:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-prolific-china-hacking/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>LLMs Generate Predictable Passwords</title>
+      <link>https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html</link>
+      <description>&amp;lt;p&amp;gt;LLMs are &amp;lt;a href=&amp;quot;https://www.irregular.com/publications/vibe-password-generation&amp;quot;&amp;gt;bad&amp;lt;/a&amp;gt; at generating passwords:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;There are strong noticeable patterns among these 50 passwords that can be seen easily:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;All of the passwords start with a letter, usually uppercase G, almost always followed by the digit 7.
+&amp;lt;li&amp;gt;Character choices are highly uneven ­ for example, L , 9, m, 2, $ and # appeared in all 50 passwords, but 5 and @ only appeared in one password each, and most of the letters in the alphabet never appeared at all.
+&amp;lt;li&amp;gt;There are no repeating characters within any password. Probabilistically, this would be very unlikely if the passwords were truly random ­ but Claude preferred to avoid repeating characters, possibly because it “looks like it’s less random”.
+...&amp;lt;/li&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 26 Feb 2026 12:07:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>LLM</category>
+      <category>passwords</category>
+      <category>random numbers</category>
+      <category>reports</category>
+    </item>
+    <item>
+      <title>Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware</title>
+      <link>https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html</link>
+      <description>A &amp;quot;coordinated developer-targeting campaign&amp;quot; is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.
+&amp;quot;The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code</description>
+      <pubDate>Thu, 26 Feb 2026 16:05:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>7 Checks to Cut Expensive Stack Bloat, Without Increasing Risk</title>
+      <link>https://www.techrepublic.com/article/cybersecurity-stack-consolidation-checks-apac/</link>
+      <description>&amp;lt;p&amp;gt;Seven practical checks APAC CISOs can use to reduce cybersecurity stack bloat, cut costs, and improve containment without increasing risk.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/cybersecurity-stack-consolidation-checks-apac/&amp;quot;&amp;gt;7 Checks to Cut Expensive Stack Bloat, Without Increasing Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 26 Feb 2026 10:13:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/cybersecurity-stack-consolidation-checks-apac/</guid>
+      <dc:creator>Sasha Menon</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cybersecurity</category>
+    </item>
+    <item>
+      <title>Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens</title>
+      <link>https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.
+The package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named</description>
+      <pubDate>Thu, 26 Feb 2026 15:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day</title>
+      <link>https://www.infosecurity-magazine.com/news/immediate-patch-cisco-catalyst/</link>
+      <description>The US and allies are urging Cisco Catalyst SD-WAN customers to hunt for signs of exploitation</description>
+      <pubDate>Thu, 26 Feb 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/immediate-patch-cisco-catalyst/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access</title>
       <link>https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html</link>
@@ -1046,92 +1115,6 @@ Samaneh Ghandali, 41, and her husband Mohammadjavad Khosravi (aka Mohammad Khosr
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/abu-dhabi-finance-week-leaked-vip-passport-details</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Agents Are Quietly Redefining Enterprise Security Risk</title>
-      <link>https://www.techrepublic.com/article/news-ai-agents-enterprise-security-zero-trust-moltbook-risk/</link>
-      <description>&amp;lt;p&amp;gt;AI agents now operate across enterprise systems, creating new risk via prompt injection, plugins, and persistent memory. Here’s how to adapt security.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ai-agents-enterprise-security-zero-trust-moltbook-risk/&amp;quot;&amp;gt;AI Agents Are Quietly Redefining Enterprise Security Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Feb 2026 20:00:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ai-agents-enterprise-security-zero-trust-moltbook-risk/</guid>
-      <dc:creator>Tim Freestone</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai agents</category>
-      <category>AI governance</category>
-      <category>autonomous ai</category>
-      <category>cybersecurity risk</category>
-      <category>data exfiltration</category>
-      <category>enterprise security</category>
-      <category>prompt injection</category>
-      <category>zero trust security</category>
-    </item>
-    <item>
-      <title>PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence</title>
-      <link>https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html</link>
-      <description>Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google&amp;apos;s generative artificial intelligence (AI) chatbot, as part of its execution flow and achieves persistence.
-The malware has been codenamed PromptSpy by ESET. The malware is equipped to capture lockscreen data, block uninstallation efforts, gather device information, take screenshots,</description>
-      <pubDate>Thu, 19 Feb 2026 23:22:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown</title>
-      <link>https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html</link>
-      <description>An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law enforcement agencies from 16 African countries.
-The initiative, codenamed Operation Red Card 2.0, took place between December 8, 2025 and January 30, 2026, according to INTERPOL. It targeted infrastructure and actors behind high-yield investment</description>
-      <pubDate>Thu, 19 Feb 2026 23:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center</title>
-      <link>https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html</link>
-      <description>Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.
-Windows Admin Center is a locally deployed, browser-based management tool set that lets users manage their Windows Clients, Servers, and Clusters without the need for connecting to the cloud.
-The high-severity vulnerability, tracked as CVE-2026-26119, carries a</description>
-      <pubDate>Thu, 19 Feb 2026 23:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Remcos RAT Expands Real-Time Surveillance Capabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/remcos-rat-expands-real-time/</link>
-      <description>New Remcos RAT variant enhances real-time surveillance and evasion techniques to compromise Windows</description>
-      <pubDate>Thu, 19 Feb 2026 16:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/remcos-rat-expands-real-time/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Figure Data Breach Exposes Nearly 1 Million Customers Online</title>
-      <link>https://www.techrepublic.com/article/news-figure-data-breach-967200-email-records/</link>
-      <description>&amp;lt;p&amp;gt;Fintech lender Figure suffered a social-engineering breach that led to a data dump online. Have I Been Pwned found 967,200 exposed email records.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-figure-data-breach-967200-email-records/&amp;quot;&amp;gt;Figure Data Breach Exposes Nearly 1 Million Customers Online&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Feb 2026 15:45:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-figure-data-breach-967200-email-records/</guid>
-      <dc:creator>Liz Ticong</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Fintech</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>customer data exposure</category>
-      <category>cybersecurity news</category>
-      <category>data breach</category>
-      <category>financial services</category>
-      <category>fintech security</category>
-      <category>identity theft</category>
-      <category>shinyhunters</category>
-      <category>social engineering</category>
     </item>
   </channel>
 </rss>
