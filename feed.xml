@@ -5,9 +5,113 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Feb 2026 12:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 18:42:13 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks</title>
+      <link>https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html</link>
+      <description>The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.
+Of these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.
+The non-profit entity said the compromises are likely</description>
+      <pubDate>Fri, 27 Feb 2026 23:29:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>5 Nations Alert: Critical Cisco Bug Used in Global Espionage Campaign</title>
+      <link>https://www.techrepublic.com/article/news-cisco-sdwan-flaw-five-eyes-joint-warning/</link>
+      <description>&amp;lt;p&amp;gt;Hackers exploited a critical Cisco SD-WAN flaw, prompting a rare joint warning from the US, UK, Australia, Canada, and New Zealand.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisco-sdwan-flaw-five-eyes-joint-warning/&amp;quot;&amp;gt;5 Nations Alert: Critical Cisco Bug Used in Global Espionage Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 27 Feb 2026 16:25:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisco-sdwan-flaw-five-eyes-joint-warning/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>cisco</category>
+      <category>cisco sd-wan</category>
+      <category>cve-2026-20127</category>
+      <category>cybersecurity</category>
+      <category>five eyes</category>
+      <category>network security</category>
+      <category>privilege escalation</category>
+      <category>vulnerability exploitation</category>
+    </item>
+    <item>
+      <title>The Case for Why Better Breach Transparency Matters</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters</link>
+      <description>It&amp;apos;s become a standard practice for organizations to disclose the bare minimum about a data breach, or worse — not disclose the incident at all.</description>
+      <pubDate>Fri, 27 Feb 2026 16:18:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/why-better-breach-transparency-matters</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor</title>
+      <link>https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html</link>
+      <description>Cybersecurity researchers have disclosed details of a malicious Go module that&amp;apos;s designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.
+The Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate &amp;quot;golang.org/x/crypto&amp;quot; codebase, but injects malicious code that&amp;apos;s responsible for exfiltrating secrets entered via terminal password</description>
+      <pubDate>Fri, 27 Feb 2026 21:03:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>North Korea&amp;apos;s APT37 Expands Toolkit to Breach Air-Gapped Networks</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/</link>
+      <description>The security researchers from Zscaler ThreatLabz have also discovered five new tools deployed by the North Korean hacking group</description>
+      <pubDate>Fri, 27 Feb 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Millions at Risk as Android Mental Health Apps Expose Sensitive Data</title>
+      <link>https://www.techrepublic.com/article/news-android-mental-health-apps-14-7-million-installs/</link>
+      <description>&amp;lt;p&amp;gt;Oversecured flagged 1,575 flaws in 10 Android health apps with 14.7M installs, putting chats, CBT notes, and mood logs at risk, per BleepingComputer.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-android-mental-health-apps-14-7-million-installs/&amp;quot;&amp;gt;Millions at Risk as Android Mental Health Apps Expose Sensitive Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 27 Feb 2026 14:09:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-android-mental-health-apps-14-7-million-installs/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Android</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>android security</category>
+      <category>cybersecurity</category>
+      <category>google apps</category>
+      <category>Google Play apps</category>
+      <category>mental health</category>
+      <category>mental health apps</category>
+      <category>mobile apps</category>
+    </item>
+    <item>
+      <title>Claude Code Security Shows Promise, Not Perfection</title>
+      <link>https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection</link>
+      <description>Claude Code&amp;apos;s introduction rippled across the stock market, but researchers and analysts say its impact was overstated, as they peel back the layers.</description>
+      <pubDate>Fri, 27 Feb 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/claude-code-security-shows-promise-not-perfection</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks</title>
+      <link>https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html</link>
+      <description>The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.
+The campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware</description>
+      <pubDate>Fri, 27 Feb 2026 18:13:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Why Tehran’s Two-Tiered Internet Is So Dangerous</title>
       <link>https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html</link>
@@ -1011,112 +1115,6 @@ That&amp;apos;s according to new findings from Amazon Threat Intelligence, which
       <guid isPermaLink="true">https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning</title>
-      <link>https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html</link>
-      <description>Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user&amp;apos;s software codebase for vulnerabilities and suggest patches.
-The capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers.
-&amp;quot;It scans codebases for security vulnerabilities and suggests targeted</description>
-      <pubDate>Sat, 21 Feb 2026 13:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog</title>
-      <link>https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The vulnerabilities in question are listed below -
-
-CVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code</description>
-      <pubDate>Sat, 21 Feb 2026 12:51:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security</title>
-      <link>https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html</link>
-      <description>With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.
-EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,</description>
-      <pubDate>Sat, 21 Feb 2026 10:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PayPal Flaw Exposed Email Addresses, Social Security Numbers for 6 Months</title>
-      <link>https://www.techrepublic.com/article/news-paypal-working-capital-data-exposure-2025/</link>
-      <description>&amp;lt;p&amp;gt;PayPal disclosed a software error in its Working Capital platform that exposed sensitive customer data, including Social Security numbers, for months in 2025.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-paypal-working-capital-data-exposure-2025/&amp;quot;&amp;gt;PayPal Flaw Exposed Email Addresses, Social Security Numbers for 6 Months&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 21 Feb 2026 02:29:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-paypal-working-capital-data-exposure-2025/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>E-Commerce</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>application security</category>
-      <category>cybersecurity incident</category>
-      <category>data exposure</category>
-      <category>identity theft protection</category>
-      <category>paypal</category>
-      <category>social security numbers</category>
-      <category>software bug</category>
-      <category>working capital loans</category>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Squid Cartoon</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html</link>
-      <description>&amp;lt;p&amp;gt;I like &amp;lt;a href=&amp;quot;https://bsky.app/profile/werd.io/post/3mdv7navllc2l&amp;quot;&amp;gt;this one&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 20 Feb 2026 22:05:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>humor</category>
-      <category>squid</category>
-    </item>
-    <item>
-      <title>Attackers Use New Tool to Scan for React2Shell Exposure</title>
-      <link>https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure</link>
-      <description>Researchers say threat actors wielded the sophisticated — and unfortunately named — toolkit to target high-value networks for React2Shell exploitation.</description>
-      <pubDate>Fri, 20 Feb 2026 21:07:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/attackers-new-tool-scan-react2shell-exposure</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
-      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
-      <description>Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand&amp;apos;s real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim&amp;apos;s username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.</description>
-      <pubDate>Fri, 20 Feb 2026 20:00:30 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Web Fraud 2.0</category>
-      <category>Abnormal AI</category>
-      <category>Callie Baron</category>
-      <category>Jinkusu</category>
-      <category>Piotr Wojtyla</category>
-      <category>Starkiller</category>
-    </item>
-    <item>
-      <title>&amp;apos;God-Like&amp;apos; Attack Machines: AI Agents Ignore Security Policies</title>
-      <link>https://www.darkreading.com/application-security/ai-agents-ignore-security-policies</link>
-      <description>Microsoft Copilot recently summarized and leaked user emails; but any AI agent will go above and beyond to complete assigned tasks, even breaking through their carefully designed guardrails.</description>
-      <pubDate>Fri, 20 Feb 2026 18:31:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-agents-ignore-security-policies</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
