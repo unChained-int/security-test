@@ -5,9 +5,37 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Feb 2026 18:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 02:00:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marquis v. SonicWall Lawsuit Ups the Breach Blame Game</title>
+      <link>https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game</link>
+      <description>When a company gets breached through a third-party security vendor, who should bear responsibility? For one FinTech company, the answer is the firewall provider.</description>
+      <pubDate>Thu, 26 Feb 2026 22:02:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cisco SD-WAN Zero-Day Under Exploitation for 3 Years</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years</link>
+      <description>The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.</description>
+      <pubDate>Thu, 26 Feb 2026 21:45:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown</title>
+      <link>https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts.
+&amp;quot;Instead of relying on traditional servers or domains for command-and-control, Aeternum stores its instructions on the public Polygon blockchain,&amp;quot; Qrator Labs said in a report shared with The</description>
+      <pubDate>Thu, 26 Feb 2026 23:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>ChatGPT Criminals: AI Scams Target Dating and Legal Impersonators</title>
       <link>https://www.techrepublic.com/article/news-chatgpt-ai-scams-dating-legal/</link>
@@ -56,6 +84,14 @@ The campaign is being tracked by Cisco Talos under the moniker UAT-10027. The en
       <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Proofpoint Collaboration Security Integrates with New Extended Plan for AWS Security Hub</title>
+      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security</link>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 14:38:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-collaboration-security-integrates-new-extended-plan-aws-security</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
       <title>ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit &amp;amp; 15+ Stories</title>
@@ -1088,49 +1124,6 @@ The vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers 
       <pubDate>Fri, 20 Feb 2026 12:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ddos-escalation-frequency-power/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Ring Cancels Its Partnership with Flock</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html</link>
-      <description>&amp;lt;p&amp;gt;It&amp;amp;#8217;s a demonstration of how toxic the surveillance-tech company Flock has become when Amazon&amp;amp;#8217;s Ring &amp;lt;a href=&amp;quot;https://www.theverge.com/news/878447/ring-flock-partnership-canceled&amp;quot;&amp;gt;cancels&amp;lt;/a&amp;gt; the partnership between the two companies.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As Hamilton Nolan advises, &amp;lt;a href=&amp;quot;https://www.hamiltonnolan.com/p/remove-your-ring-camera-with-a-claw&amp;quot;&amp;gt;remove&amp;lt;/a&amp;gt; your Ring doorbell.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 20 Feb 2026 12:08:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Amazon</category>
-      <category>law enforcement</category>
-      <category>privacy</category>
-      <category>surveillance</category>
-    </item>
-    <item>
-      <title>ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware</title>
-      <link>https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT).
-&amp;quot;The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage</description>
-      <pubDate>Fri, 20 Feb 2026 17:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Android Malware Hijacks Google Gemini to Stay Hidden</title>
-      <link>https://www.infosecurity-magazine.com/news/android-malware-hijacks-google/</link>
-      <description>A new Android malware implant using Google Gemini to perform persistence tasks was discovered on VirusTotal and analyzed by ESET</description>
-      <pubDate>Fri, 20 Feb 2026 11:35:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/android-malware-hijacks-google/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026</title>
-      <link>https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html</link>
-      <description>With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&amp;amp;nbsp;
-For many organizations, however, these assessments remain largely opaque. Elements such as password hygiene, privileged access management, and the extent of multi-factor authentication (MFA) coverage are</description>
-      <pubDate>Fri, 20 Feb 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
