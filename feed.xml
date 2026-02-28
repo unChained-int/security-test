@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Feb 2026 12:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 18:32:38 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket</title>
+      <link>https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</link>
+      <description>OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control.
+&amp;quot;Our vulnerability lives in the core system itself – no plugins, no marketplace, no user-installed extensions – just the bare OpenClaw gateway, running exactly as documented,&amp;quot; Oasis</description>
+      <pubDate>Sat, 28 Feb 2026 22:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Who is the Kimwolf Botmaster “Dort”?</title>
       <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
@@ -1130,14 +1140,6 @@ Across devices, cloud services, research labs, and even everyday apps, the line 
       <guid isPermaLink="true">https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Russian Cyber Threat Actor Uses GenAI to Compromise Fortinet Firewalls</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/</link>
-      <description>A low-skilled Russian-speaking attacker has used GenAI tools to help deploy a successful attack workflow targeting FortiGate instances</description>
-      <pubDate>Mon, 23 Feb 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
