@@ -5,9 +5,50 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Feb 2026 06:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 12:43:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Who is the Kimwolf Botmaster “Dort”?</title>
+      <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+      <description>In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world&amp;apos;s largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle &amp;quot;Dort&amp;quot; -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher&amp;apos;s home. This post examines what is knowable about Dort based on public information.</description>
+      <pubDate>Sat, 28 Feb 2026 12:01:57 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Breadcrumbs</category>
+      <category>DDoS-for-Hire</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Constella Intelligence</category>
+      <category>CPacket</category>
+      <category>domaintools</category>
+      <category>Dort</category>
+      <category>DortDev</category>
+      <category>Dortsolver</category>
+      <category>Epieos</category>
+      <category>Flashpoint</category>
+      <category>GitHub</category>
+      <category>Intel 471</category>
+      <category>jacobbutler803@gmail.com</category>
+      <category>jay.miner232@gmail.com</category>
+      <category>Kimwolf botnet</category>
+      <category>M1CE</category>
+      <category>Minecraft</category>
+      <category>osint.industries</category>
+      <category>Qoft</category>
+      <category>SpyCloud</category>
+    </item>
+    <item>
+      <title>Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement</title>
+      <link>https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html</link>
+      <description>New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data.
+The findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix &amp;quot;AIza&amp;quot;) embedded in client-side code to provide Google-related services like</description>
+      <pubDate>Sat, 28 Feb 2026 15:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute</title>
       <link>https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html</link>
@@ -1097,29 +1138,6 @@ Across devices, cloud services, research labs, and even everyday apps, the line 
       <pubDate>Mon, 23 Feb 2026 12:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>On the Security of Password Managers</title>
-      <link>https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/&amp;quot;&amp;gt;Good article&amp;lt;/a&amp;gt; on password managers that secretly have a backdoor.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;New research shows that these claims aren’t true in all cases, particularly when account recovery is in place or password managers are set to share vaults or organize users into groups. The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server­&amp;amp;#8212;either administrative or the result of a compromise­&amp;amp;#8212;can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 23 Feb 2026 12:03:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>backdoors</category>
-      <category>Password Safe</category>
-      <category>passwords</category>
-    </item>
-    <item>
-      <title>How Exposed Endpoints Increase Risk Across LLM Infrastructure</title>
-      <link>https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html</link>
-      <description>As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in</description>
-      <pubDate>Mon, 23 Feb 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
