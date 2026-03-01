@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Mar 2026 02:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:44:31 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -48,6 +48,15 @@
       <category>osint.industries</category>
       <category>Qoft</category>
       <category>SpyCloud</category>
+    </item>
+    <item>
+      <title>This month in security with Tony Anscombe – February 2026 edition</title>
+      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/</link>
+      <description>In this roundup, Tony looks at how opportunistic threat actors are taking advantage of weak authentication, unmanaged exposure, and popular AI tools</description>
+      <pubDate>Sat, 28 Feb 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
     </item>
     <item>
       <title>Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement</title>
@@ -1130,16 +1139,6 @@ The activity, per S2 Grupo&amp;apos;s LAB52 threat intelligence team, was active
       <pubDate>Mon, 23 Feb 2026 15:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fraud-investigation-python-malware/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp;amp; More</title>
-      <link>https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</link>
-      <description>Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar.
-Across devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools</description>
-      <pubDate>Mon, 23 Feb 2026 18:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
