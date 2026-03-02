@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Mar 2026 18:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 02:03:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -106,6 +106,15 @@ The findings come from Truffle Security, which discovered nearly 3,000 Google AP
       <description>Major events like the FIFA World Cup need to look beyond traditional physical and cyber security to active and passive wireless threats, say experts.</description>
       <pubDate>Fri, 27 Feb 2026 20:23:17 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/cities-major-events-wireless-drone-defense</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Flaw-Finding AI Assistants Face Criticism for Speed, Accuracy</title>
+      <link>https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy</link>
+      <description>Using AI to find security vulnerabilities holds significant promise, but the initial products fall short of the needs of enterprises and software developers, say experts.</description>
+      <pubDate>Fri, 27 Feb 2026 20:16:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/flaw-finding-ai-assistants-face-criticism-speed-accuracy</guid>
       <dc:creator>Robert Lemos</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
@@ -1130,14 +1139,6 @@ The activity, per S2 Grupo&amp;apos;s LAB52 threat intelligence team, was active
       <description>Supply chain worm mimicking Shai-Hulud malware spread via malicious npm packages, targeting AI tools has been identified by security researchers</description>
       <pubDate>Mon, 23 Feb 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shai-hulud-like-worm-devs-npm-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Fraud Investigation Reveals Sophisticated Python Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/fraud-investigation-python-malware/</link>
-      <description>Sophisticated Python malware uncovered in fraud probe shows obfuscation, disposable infrastructure</description>
-      <pubDate>Mon, 23 Feb 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fraud-investigation-python-malware/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
