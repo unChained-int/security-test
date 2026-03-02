@@ -5,9 +5,86 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Mar 2026 06:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 12:57:38 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LLM-Assisted Deanonymization</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html</link>
+      <description>&amp;lt;p&amp;gt;Turns out that LLMs are &amp;lt;a href=&amp;quot;https://simonlermen.substack.com/p/large-scale-online-deanonymization&amp;quot;&amp;gt;good&amp;lt;/a&amp;gt; at de-anonymization:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&amp;amp;#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 02 Mar 2026 12:05:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>anonymity</category>
+      <category>de-anonymization</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>How to Protect Your SaaS from Bot Attacks with SafeLine WAF</title>
+      <link>https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html</link>
+      <description>Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.
+On paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:
+
+Sign-ups increase, but users aren’t activating.
+Server costs rise faster than revenue.
+Logs are filled with repeated requests from strange user agents.
+
+If</description>
+      <pubDate>Mon, 02 Mar 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ClawJacked Bug Enables Covert AI Agent Hijacking</title>
+      <link>https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/</link>
+      <description>Oasis Security reveals how a new ClawJacked vulnerability could allow attackers to silently take over a victim’s OpenClaw agent</description>
+      <pubDate>Mon, 02 Mar 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Ransomware Payments Decline 8% as Attacks Surge 50%</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-payments-decline-1/</link>
+      <description>Chainalysis reveals a big surge in median ransomware payment size in 2025 despite overall drop in criminal revenue</description>
+      <pubDate>Mon, 02 Mar 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-payments-decline-1/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday</title>
+      <link>https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html</link>
+      <description>A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.
+The vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.
+&amp;quot;Protection mechanism failure in MSHTML Framework allows an unauthorized</description>
+      <pubDate>Mon, 02 Mar 2026 16:06:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Bug in Google&amp;apos;s Gemini AI Panel Opens Door to Hijacking</title>
+      <link>https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking</link>
+      <description>Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.</description>
+      <pubDate>Mon, 02 Mar 2026 10:27:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT</title>
+      <link>https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html</link>
+      <description>Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.
+The packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and</description>
+      <pubDate>Mon, 02 Mar 2026 14:14:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket</title>
       <link>https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html</link>
@@ -1049,97 +1126,6 @@ The distillation attacks generated over 16 million exchanges with its large lang
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/iran-muddywater-new-malware-tensions-mount</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Enigma Cipher Device Still Holds Secrets for Cyber Pros</title>
-      <link>https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros</link>
-      <description>The Nazi relic&amp;apos;s history is riddled with resilience errors, and those lessons still apply to defending against modern cyber threats.</description>
-      <pubDate>Mon, 23 Feb 2026 20:11:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/enigma-cipher-device-secrets-cyber-pros</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Conduent Breach Surges to Over 25M, Could Be Largest in US History</title>
-      <link>https://www.techrepublic.com/article/news-conduent-data-breach-25-million-largest-us-history/</link>
-      <description>&amp;lt;p&amp;gt;New state filings suggest the Conduent breach may affect more than 25 million Americans, with Texas alone reporting 15.4 million impacted residents.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-conduent-data-breach-25-million-largest-us-history/&amp;quot;&amp;gt;Conduent Breach Surges to Over 25M, Could Be Largest in US History&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 23 Feb 2026 19:43:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-conduent-data-breach-25-million-largest-us-history/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>2025 data breach</category>
-      <category>conduent data breach</category>
-      <category>cyber insurance</category>
-      <category>data breach lawsuits</category>
-      <category>government contractor cybersecurity</category>
-      <category>healthcare data breach</category>
-      <category>medical records breach</category>
-      <category>social security number exposure</category>
-    </item>
-    <item>
-      <title>APT28 Targeted European Entities Using Webhook-Based Macro Malware</title>
-      <link>https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html</link>
-      <description>The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.
-The activity, per S2 Grupo&amp;apos;s LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. &amp;quot;The campaign relies on basic tooling and the exploitation of legitimate services</description>
-      <pubDate>Tue, 24 Feb 2026 01:11:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>600+ FortiGate Devices Hacked by AI-Armed Amateur</title>
-      <link>https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur</link>
-      <description>A Russian-speaking hacker used generative AI to compromise the FortiGate firewalls, targeting credentials and backups for possible follow-on ransomware attacks.</description>
-      <pubDate>Mon, 23 Feb 2026 19:37:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb</title>
-      <link>https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.
-&amp;quot;Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim</description>
-      <pubDate>Mon, 23 Feb 2026 23:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Over 200K Australian Driver’s Licences Exposed in youX Cyber Breach</title>
-      <link>https://www.techrepublic.com/article/news-youx-data-breach-australia-drivers-licence-exposure/</link>
-      <description>&amp;lt;p&amp;gt;A youX breach exposed sensitive borrower data in Australia, including over 200,000 driver’s licence numbers, raising fraud and phishing risks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-youx-data-breach-australia-drivers-licence-exposure/&amp;quot;&amp;gt;Over 200K Australian Driver’s Licences Exposed in youX Cyber Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 23 Feb 2026 16:05:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-youx-data-breach-australia-drivers-licence-exposure/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>APAC</category>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>australia</category>
-      <category>cybersecurity incident</category>
-      <category>data breach</category>
-      <category>driver’s licence numbers</category>
-      <category>fintech</category>
-      <category>identity theft</category>
-      <category>mortgage brokers</category>
-      <category>youx</category>
-    </item>
-    <item>
-      <title>Shai-Hulud-Like Worm Targets Developers via npm and AI Tools</title>
-      <link>https://www.infosecurity-magazine.com/news/shai-hulud-like-worm-devs-npm-ai/</link>
-      <description>Supply chain worm mimicking Shai-Hulud malware spread via malicious npm packages, targeting AI tools has been identified by security researchers</description>
-      <pubDate>Mon, 23 Feb 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shai-hulud-like-worm-devs-npm-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
