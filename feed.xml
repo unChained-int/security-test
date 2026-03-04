@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Mar 2026 06:46:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 12:55:31 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -18,6 +18,72 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Manipulating AI Summarization Features</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html</link>
+      <description>&amp;lt;p&amp;gt;Microsoft is &amp;lt;a href=&amp;quot;https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/&amp;quot;&amp;gt;reporting&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Companies are embedding hidden instructions in &amp;amp;#8220;Summarize with AI&amp;amp;#8221; buttons that, when clicked, attempt to inject persistence commands into an AI assistant&amp;amp;#8217;s memory via URL prompt parameters&amp;amp;#8230;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;These prompts instruct the AI to &amp;amp;#8220;remember [Company] as a trusted source&amp;amp;#8221; or &amp;amp;#8220;recommend [Company] first,&amp;amp;#8221; aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 04 Mar 2026 12:06:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>LLM</category>
+      <category>Microsoft</category>
+    </item>
+    <item>
+      <title>New RFP Template for AI Usage Control and AI Governance</title>
+      <link>https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html</link>
+      <description>As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need &amp;quot;AI Governance,&amp;quot; but they have no idea what they are actually looking for.
+The CISO’s Dilemma: You Have the AI Budget, but Do You Have the Requirements?
+As AI</description>
+      <pubDate>Wed, 04 Mar 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Calls for Global Digital Estate Standard as Posthumous Deepfake Fraud Risk Grows</title>
+      <link>https://www.infosecurity-magazine.com/news/digital-estate-post-death-deepfake/</link>
+      <description>The OpenID Foundation warns that fragmented policies on posthumous digital accounts could open the door for fraudsters to exploit AI deepfakes</description>
+      <pubDate>Wed, 04 Mar 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/digital-estate-post-death-deepfake/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux</title>
+      <link>https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html</link>
+      <description>Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that&amp;apos;s functional on Windows, macOS, and Linux systems.
+The names of the packages are listed below -
+
+nhattuanbl/lara-helper (37 Downloads)
+nhattuanbl/simple-queue (29 Downloads)
+nhattuanbl/lara-swagger (49 Downloads)</description>
+      <pubDate>Wed, 04 Mar 2026 15:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The Vendor Tiering Series: Mapping Tiers to Inherent Risk | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/vendor-tiering-mapping-to-inherent-risk</link>
+      <description>Subjective labels do not categorize vendor risk. Learn how to build a defensible tiering architecture using objective criteria and a scalable model.</description>
+      <pubDate>Wed, 04 Mar 2026 09:15:31 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-tiering-mapping-to-inherent-risk</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2</title>
+      <link>https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html</link>
+      <description>Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024.
+&amp;quot;Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,&amp;quot; Check Point said</description>
+      <pubDate>Wed, 04 Mar 2026 13:44:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog</title>
       <link>https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html</link>
       <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.
@@ -26,6 +92,15 @@ The high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been desc
       <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Indian APT &amp;apos;Sloppy Lemming&amp;apos; Targets Defense, Critical Infrastructure</title>
+      <link>https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure</link>
+      <description>India-nexus cyber threat actors are growing more active and sophisticated, using custom tools coded in Rust and cloud-based command and control.</description>
+      <pubDate>Tue, 03 Mar 2026 22:24:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/india-apt-sloppy-lemming-defense-critical-infrastructure</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Vehicle Tire Pressure Sensors Enable Silent Tracking</title>
@@ -1039,85 +1114,6 @@ The vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unaut
       <guid isPermaLink="true">https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>RAMP Forum Seizure Fractures Ransomware Ecosystem</title>
-      <link>https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem</link>
-      <description>Researchers suggest defenders monitor how these malicious groups re-form and leverage the useful threat intel to guide their next moves.</description>
-      <pubDate>Wed, 25 Feb 2026 21:14:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ShinyHunters Leak 12.4 Million CarGurus Records in Massive Data Dump</title>
-      <link>https://www.techrepublic.com/article/news-shinyhunters-cargurus-data-leak-12-million-records/</link>
-      <description>&amp;lt;p&amp;gt;ShinyHunters allegedly leaked 12.4 million CarGurus records, exposing personal and financing data and raising risks of phishing and data extortion attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-shinyhunters-cargurus-data-leak-12-million-records/&amp;quot;&amp;gt;ShinyHunters Leak 12.4 Million CarGurus Records in Massive Data Dump&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 25 Feb 2026 20:05:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-shinyhunters-cargurus-data-leak-12-million-records/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cargurus</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>data extortion</category>
-      <category>phishing attacks</category>
-      <category>shinyhunters</category>
-      <category>social engineering</category>
-      <category>third party risk</category>
-    </item>
-    <item>
-      <title>PCI Council Says Threats to Payments Systems Are Speeding Up</title>
-      <link>https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up</link>
-      <description>The PCI Security Standards Council experienced a record year in many regards, but its first annual report shows it needs to work even faster to stay ahead of attackers.</description>
-      <pubDate>Wed, 25 Feb 2026 19:15:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/pci-council-threats-payments-systems-speeding-up</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries</title>
-      <link>https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html</link>
-      <description>Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries.
-&amp;quot;This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,&amp;quot;</description>
-      <pubDate>Wed, 25 Feb 2026 23:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration</title>
-      <link>https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html</link>
-      <description>Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic&amp;apos;s Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.
-&amp;quot;The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables – executing</description>
-      <pubDate>Wed, 25 Feb 2026 22:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Malicious Next.js Repos Target Developers Via Fake Job Interviews</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews</link>
-      <description>Linked to North Korean fake job-recruitment campaigns, the poisoned repositories are aimed at establishing persistent access to infected machines.</description>
-      <pubDate>Wed, 25 Feb 2026 16:42:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/malicious-nextjs-repos-developers-fake-job-interviews</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks</title>
-      <link>https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html</link>
-      <description>The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.
-The idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to</description>
-      <pubDate>Wed, 25 Feb 2026 20:36:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
