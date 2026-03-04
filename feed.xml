@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Mar 2026 01:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:46:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,16 @@
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate</guid>
       <dc:creator>Dark Reading Staff</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog</title>
+      <link>https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.
+The high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an</description>
+      <pubDate>Wed, 04 Mar 2026 10:05:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Vehicle Tire Pressure Sensors Enable Silent Tracking</title>
@@ -1106,17 +1116,6 @@ The vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unaut
 The idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to</description>
       <pubDate>Wed, 25 Feb 2026 20:36:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It</title>
-      <link>https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html</link>
-      <description>Triage is supposed to make things simpler. In a lot of teams, it does the opposite.
-When you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.
-So where does triage go wrong? Here are five triage</description>
-      <pubDate>Wed, 25 Feb 2026 20:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
