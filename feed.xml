@@ -5,9 +5,43 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Mar 2026 01:57:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:53:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vendor Tiering Best Practices: Categorizing Vendor Risks | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/vendor-tiering-best-practices</link>
+      <description>Vendor tiering is the key to a more efficient Vendor Risk Management program. Learn about its best practices.</description>
+      <pubDate>Wed, 11 Mar 2026 05:54:51 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-tiering-best-practices</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is Vendor Tiering? Optimize Your Vendor Risk Management  | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/what-is-vendor-tiering</link>
+      <description>Learn what Vendor Tiering is and how it could improve the efficiency of your vendor risk management program.</description>
+      <pubDate>Wed, 11 Mar 2026 05:54:23 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/what-is-vendor-tiering</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets</title>
+      <link>https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html</link>
+      <description>Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors.
+The Rust packages, published to crates.io, are listed below -
+
+chrono_anchor
+dnp3times
+time_calibrator
+time_calibrators
+time-sync
+
+The crates, per Socket, impersonate timeapi.io and were published between late February and early March</description>
+      <pubDate>Wed, 11 Mar 2026 10:42:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Middle East Conflict Highlights Cloud Resilience Gaps</title>
       <link>https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps</link>
@@ -154,6 +188,16 @@
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials</title>
+      <link>https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</link>
+      <description>Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&amp;amp;nbsp;
+The activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology</description>
+      <pubDate>Tue, 10 Mar 2026 21:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows</title>
       <link>https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html</link>
       <description>Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.
@@ -162,16 +206,6 @@ The Problem: &amp;quot;The Invisible Employee&amp;quot;
 Think of an AI Agent like a new employee who has</description>
       <pubDate>Tue, 10 Mar 2026 21:51:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials</title>
-      <link>https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</link>
-      <description>Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&amp;amp;nbsp;
-The activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology</description>
-      <pubDate>Tue, 10 Mar 2026 21:51:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -1164,51 +1198,6 @@ The LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 m
       <pubDate>Wed, 04 Mar 2026 21:04:56 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/vmware-aria-operations-bug-exploited-cloud-risk</guid>
       <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Perplexity AI Browser Flaw Could Let Calendar Invites Access Local Files</title>
-      <link>https://www.techrepublic.com/article/news-perplexity-comet-browser-vulnerability-local-files/</link>
-      <description>&amp;lt;p&amp;gt;Researchers say a vulnerability in Perplexity’s Comet AI browser could expose local files and credentials through malicious calendar invites.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-perplexity-comet-browser-vulnerability-local-files/&amp;quot;&amp;gt;Perplexity AI Browser Flaw Could Let Calendar Invites Access Local Files&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 04 Mar 2026 17:55:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-perplexity-comet-browser-vulnerability-local-files/</guid>
-      <dc:creator>Kezia Jungco</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>1Password</category>
-      <category>agentic browsers</category>
-      <category>ai agents</category>
-      <category>AI browser security</category>
-      <category>Comet browser</category>
-      <category>cybersecurity</category>
-      <category>enterprise security</category>
-      <category>perplexity</category>
-      <category>prompt injection</category>
-      <category>Zenity Labs</category>
-    </item>
-    <item>
-      <title>149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict</title>
-      <link>https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html</link>
-      <description>Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion.
-&amp;quot;The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,&amp;quot; Radware said in a Tuesday</description>
-      <pubDate>Wed, 04 Mar 2026 22:51:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Stranger Things Meets Cybersecurity: Lessons from the Hive Mind</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind</link>
-      <description>Events and concepts from the Stranger Things television series illustrate how enterprises can defend their networks and stay &amp;amp;quot;right side up.&amp;amp;quot;</description>
-      <pubDate>Wed, 04 Mar 2026 17:09:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/stranger-things-meets-cybersecurity-lessons-hive-mind</guid>
-      <dc:creator>Nadir Izrael</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
