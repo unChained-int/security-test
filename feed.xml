@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Mar 2026 02:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:55:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed</title>
+      <link>https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched</description>
+      <pubDate>Thu, 12 Mar 2026 10:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cyber TPRM vs Compliance TPRM: Which is right for you? | UpGuard</title>
+      <link>https://upguard-staging.webflow.io/blog/cyber-tprm-vs-compliance-tprm</link>
+      <description>Cyber TPRM and compliance TPRM answer different questions and serve different buyers. Learn how to tell them apart and decide which is best for you.</description>
+      <pubDate>Thu, 12 Mar 2026 02:59:47 +0000</pubDate>
+      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cyber-tprm-vs-compliance-tprm</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>INC Ransomware Group Holds Healthcare Hostage in Oceania</title>
       <link>https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania</link>
@@ -1203,24 +1221,6 @@ CVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affec
       <guid isPermaLink="true">https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Nation-State Actor Embraces AI Malware Assembly Line</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line</link>
-      <description>Pakistan&amp;apos;s APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses.</description>
-      <pubDate>Thu, 05 Mar 2026 21:56:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform</title>
-      <link>https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform</link>
-      <description>The phishing-as-a-service platform was popular among cyber threat actors because of its ability to bypass multifactor authentication defenses.</description>
-      <pubDate>Thu, 05 Mar 2026 21:23:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
