@@ -5,9 +5,64 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Mar 2026 06:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 12:58:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CISA Issues Emergency Directive Over Exploited Cisco SD-WAN Flaws</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-cisco-sd-wan-flaws-directive/</link>
+      <description>CISA issued urgent directive as attackers exploit Cisco SD-WAN flaw granting admin access to networks</description>
+      <pubDate>Thu, 12 Mar 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-cisco-sd-wan-flaws-directive/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Attackers Don&amp;apos;t Just Send Phishing Emails. They Weaponize Your SOC&amp;apos;s Workload</title>
+      <link>https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html</link>
+      <description>The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a contained incident to a breach.
+For years, the cybersecurity industry has focused on the front door of phishing defense: employee training, email gateways that</description>
+      <pubDate>Thu, 12 Mar 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Police Scotland Fined After Sharing Victim’s Phone Data</title>
+      <link>https://www.infosecurity-magazine.com/news/police-scotland-fined-sharing/</link>
+      <description>The ICO has fined Police Scotland after it shared the entire contents of a victim’s phone with her alleged attacker</description>
+      <pubDate>Thu, 12 Mar 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/police-scotland-fined-sharing/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit</title>
+      <link>https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</link>
+      <description>Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.
+The vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was</description>
+      <pubDate>Thu, 12 Mar 2026 15:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Iran Claim Massive Cyber-Attack on MedTech Firm Stryker</title>
+      <link>https://www.infosecurity-magazine.com/news/iran-massive-wiper-attack-medtech/</link>
+      <description>The pro-Iran Handala group claims to have wiped 200,000 systems in destructive wiper malware attack on US firm Stryker</description>
+      <pubDate>Thu, 12 Mar 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iran-massive-wiper-attack-medtech/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets</title>
+      <link>https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html</link>
+      <description>Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.
+The Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.
+PixRevolution, according to</description>
+      <pubDate>Thu, 12 Mar 2026 13:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed</title>
       <link>https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html</link>
@@ -1159,68 +1214,6 @@ At a high level, the obfuscated batch script is used to deploy a second</descrip
       <category>hacking</category>
       <category>LLM</category>
       <category>Mexico</category>
-    </item>
-    <item>
-      <title>The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity</title>
-      <link>https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html</link>
-      <description>Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.
-Risk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.</description>
-      <pubDate>Fri, 06 Mar 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor</title>
-      <link>https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html</link>
-      <description>New research from Broadcom&amp;apos;s Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies&amp;apos; networks, including banks, airports, non-profit, and the Israeli arm of a software company.
-The activity has been attributed to a state-sponsored hacking group called MuddyWater (aka Seedworm). It&amp;apos;s affiliated with the Iranian</description>
-      <pubDate>Fri, 06 Mar 2026 15:53:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>What cybersecurity actually does for your business</title>
-      <link>https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/</link>
-      <description>The ability to continue operating safely in an unsafe environment where competitors cannot is a competitive advantage that is rarely measured or discussed</description>
-      <pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks</title>
-      <link>https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html</link>
-      <description>A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants.
-The activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow.
-It&amp;apos;s worth</description>
-      <pubDate>Fri, 06 Mar 2026 13:52:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer</title>
-      <link>https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html</link>
-      <description>Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.
-The activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command</description>
-      <pubDate>Fri, 06 Mar 2026 12:14:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog</title>
-      <link>https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The critical-severity vulnerabilities are listed below -
-
-CVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting</description>
-      <pubDate>Fri, 06 Mar 2026 12:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
