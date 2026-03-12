@@ -5,9 +5,75 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Mar 2026 18:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:03:31 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>INC Ransomware Group Holds Healthcare Hostage in Oceania</title>
+      <link>https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania</link>
+      <description>Government agencies, emergency clinics, and others in Australia, New Zealand, and Tonga have had serious run-ins with the prolific ransomware outfit.</description>
+      <pubDate>Wed, 11 Mar 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Patch Alert: Microsoft Fixes Nearly 80 Bugs, Including Critical Office Flaws</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-march-patch-tuesday-78-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft’s March Patch Tuesday fixes 78 vulnerabilities, including Office preview pane flaws, an Excel Copilot data leak risk, and an AI-discovered 9.8 severity bug.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-march-patch-tuesday-78-vulnerabilities/&amp;quot;&amp;gt;Patch Alert: Microsoft Fixes Nearly 80 Bugs, Including Critical Office Flaws&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 11 Mar 2026 21:19:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-march-patch-tuesday-78-vulnerabilities/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>ai cybersecurity</category>
+      <category>cybersecurity updates</category>
+      <category>excel copilot security</category>
+      <category>microsoft office security</category>
+      <category>Microsoft Patch Tuesday</category>
+      <category>microsoft security patches</category>
+      <category>microsoft vulnerabilities</category>
+      <category>sql server vulnerability</category>
+    </item>
+    <item>
+      <title>‘Agents of Chaos’: New Study Shows AI Agents Can Leak Data, Be Easily Manipulated</title>
+      <link>https://www.techrepublic.com/article/news-ai-agents-security-risks-governance/</link>
+      <description>&amp;lt;p&amp;gt;As enterprise AI agent adoption accelerates, a new study exposes a governance gap that leaves most organizations unable to stop their own systems&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ai-agents-security-risks-governance/&amp;quot;&amp;gt;‘Agents of Chaos’: New Study Shows AI Agents Can Leak Data, Be Easily Manipulated&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 11 Mar 2026 20:59:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ai-agents-security-risks-governance/</guid>
+      <dc:creator>Tim Freestone450</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Chatbots</category>
+      <category>Cybersecurity</category>
+      <category>Innovation</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai agents</category>
+      <category>ai compliance</category>
+      <category>ai risk management</category>
+      <category>ai security</category>
+      <category>artificial intelligence governance</category>
+      <category>data security</category>
+      <category>enterprise ai</category>
+      <category>social engineering attacks</category>
+    </item>
+    <item>
+      <title>Xygeni GitHub Action Compromised Via Tag Poison</title>
+      <link>https://www.darkreading.com/application-security/xygeni-github-action-compromised-via-tag-poison</link>
+      <description>Attackers operated an active C2 implant for up to a week and compromised AppSec vendor Xygeni&amp;apos;s xygeni/xygeni-action in that time.</description>
+      <pubDate>Wed, 11 Mar 2026 20:22:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/xygeni-github-action-compromised-via-tag-poison</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>France: National Cybersecurity Agency Reports Ransomware Attack Drop in 2025</title>
       <link>https://www.infosecurity-magazine.com/news/france-anssi-ransomware-attack/</link>
@@ -1155,67 +1221,6 @@ CVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affec
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hackers Used New Exploit Kit to Compromise Thousands of iPhones</title>
-      <link>https://www.techrepublic.com/article/news-coruna-exploit-kit-thousands-of-iphones-compromised/</link>
-      <description>&amp;lt;p&amp;gt;Thousands of iPhones were compromised using the Coruna exploit kit, which chained 23 iOS vulnerabilities into advanced attacks used for espionage and cybercrime.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-coruna-exploit-kit-thousands-of-iphones-compromised/&amp;quot;&amp;gt;Hackers Used New Exploit Kit to Compromise Thousands of iPhones&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 05 Mar 2026 20:27:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-coruna-exploit-kit-thousands-of-iphones-compromised/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Hardware</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>coruna exploit kit</category>
-      <category>cyber espionage</category>
-      <category>google threat intelligence group</category>
-      <category>ios security</category>
-      <category>ios vulnerabilities</category>
-      <category>iphone hacking</category>
-      <category>mobile exploit frameworks</category>
-      <category>mobile security threats</category>
-    </item>
-    <item>
-      <title>Cisco Drops 48 New Firewall Vulnerabilities, 2 Critical</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical</link>
-      <description>Edge bugs are so fetch, and Cisco just patched 50 new ones, including some heavy hitters with 10 out of 10 scores on the CVSS scale.</description>
-      <pubDate>Thu, 05 Mar 2026 20:11:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/cisco-48-firewall-vulnerabilities-2-critical</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>How to Comply with HECVAT in 2026 (Free Checklist) | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/how-to-comply-with-hecvat</link>
-      <description>If you&amp;apos;re a vendor supporting the education sector, this checklist will help you prepare for any HECVAT questionnaires that come your way.</description>
-      <pubDate>Thu, 05 Mar 2026 19:52:40 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/how-to-comply-with-hecvat</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Israel Hacked Traffic Cameras in Iran</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.timesofisrael.com/report-israel-hacked-tehran-traffic-cameras-to-track-khamenei-ahead-of-assassination/&amp;quot;&amp;gt;Multiple&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836&amp;quot;&amp;gt;news&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.channelnewsasia.com/world/iran-war-inside-plan-kill-ali-khamenei-5966861&amp;quot;&amp;gt;outlets&amp;lt;/a&amp;gt; are reporting on Israel&amp;amp;#8217;s hacking of Iranian traffic cameras and how they assisted with the killing of that country&amp;amp;#8217;s leadership.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;i&amp;gt;The New York Times&amp;lt;/i&amp;gt; has an &amp;amp;#60;a href=&amp;quot;https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html&amp;quot;&amp;amp;#60;article&amp;lt;/a&amp;gt; on the intelligence operation more generally.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 05 Mar 2026 17:31:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>assassinations</category>
-      <category>cameras</category>
-      <category>cars</category>
-      <category>CIA</category>
-      <category>hacking</category>
-      <category>infrastructure</category>
-      <category>intelligence</category>
-      <category>Israel</category>
     </item>
   </channel>
 </rss>
