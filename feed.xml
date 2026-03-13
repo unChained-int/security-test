@@ -5,9 +5,52 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:57:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Academia and the “AI Brain Drain”</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html</link>
+      <description>&amp;lt;p&amp;gt;In 2025, Google, Amazon, Microsoft and Meta collectively spent US$380 billion on building artificial-intelligence tools. That number is expected to surge still higher this year, to $650 billion, to fund the building of physical infrastructure, such as data centers (see &amp;lt;a href=&amp;quot;https://go.nature.com/3lzf79q&amp;quot;&amp;gt;go.nature.com/3lzf79q&amp;lt;/a&amp;gt;). Moreover, these firms are spending lavishly on one particular segment: top technical talent.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Meta reportedly offered a single AI researcher, who had cofounded a start-up firm focused on training AI agents to use computers, a compensation package of $250 million over four years (see ...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 13 Mar 2026 11:04:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>Law Enforcement Dismantles SocksEscort Proxy Network in Operation Lightning</title>
+      <link>https://www.infosecurity-magazine.com/news/socksescort-proxy-network-op/</link>
+      <description>Operation Lightning sees international law enforcement partners shut down ‘SocksEscort,’ a major malicious proxy service used by cybercriminals worldwide</description>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/socksescort-proxy-network-op/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8</title>
+      <link>https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html</link>
+      <description>Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild.
+The list of vulnerabilities is as follows -
+
+CVE-2026-3909 (CVSS score: 8.8) - An out-of-bounds write vulnerability in the Skia 2D graphics library that allows a remote attacker to perform out-of-bounds memory access via a crafted HTML</description>
+      <pubDate>Fri, 13 Mar 2026 14:47:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation</title>
+      <link>https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html</link>
+      <description>Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel&amp;apos;s AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees.
+The nine confused deputy vulnerabilities have been collectively codenamed CrackArmor by the Qualys Threat Research Unit (TRU). The</description>
+      <pubDate>Fri, 13 Mar 2026 13:48:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries</title>
       <link>https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html</link>
@@ -1123,78 +1166,6 @@ QuickLens - Search Screen with</description>
       <pubDate>Mon, 09 Mar 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ghanaian-pleads-guilty-100m/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure</title>
-      <link>https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html</link>
-      <description>High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign.
-The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed</description>
-      <pubDate>Mon, 09 Mar 2026 12:51:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The Vendor Tiering Series: Mapping Tiers to Inherent Risk | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-tiering-mapping-to-inherent-risk</link>
-      <description>Subjective labels do not categorize vendor risk. Learn how to build a defensible tiering architecture using objective criteria and a scalable model.</description>
-      <pubDate>Mon, 09 Mar 2026 05:13:17 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-tiering-mapping-to-inherent-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How AI Assistants are Moving the Security Goalposts</title>
-      <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
-      <description>AI-based assistants or &amp;quot;agents&amp;quot; -- autonomous programs that have access to the user&amp;apos;s computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.</description>
-      <pubDate>Sun, 08 Mar 2026 23:35:42 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Web Fraud 2.0</category>
-      <category>agentic AI</category>
-      <category>AI agents</category>
-      <category>AI assistant</category>
-      <category>Amazon AWS</category>
-      <category>Anthropic</category>
-      <category>CJ Moses</category>
-      <category>Claude</category>
-      <category>ClawdBot</category>
-      <category>Cline</category>
-      <category>Copilot</category>
-      <category>DVULN</category>
-      <category>FortiGate</category>
-      <category>grith.ai</category>
-      <category>James Wilson</category>
-      <category>Jamieson O&amp;apos;Reilly</category>
-      <category>Laura Ellis</category>
-      <category>Matt Schlicht</category>
-      <category>Meta</category>
-      <category>microsoft</category>
-      <category>Moltbook</category>
-      <category>Moltbot</category>
-      <category>OpenClaw</category>
-      <category>Orca Security</category>
-      <category>Rapid7</category>
-      <category>Risky Business</category>
-      <category>Roi Nisimi</category>
-      <category>Saurav Hiremath</category>
-      <category>Simon Willison</category>
-      <category>Snyk</category>
-      <category>Summer Yue</category>
-    </item>
-    <item>
-      <title>OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues</title>
-      <link>https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html</link>
-      <description>OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that&amp;apos;s designed to find, validate, and propose fixes for vulnerabilities.
-The feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month.
-&amp;quot;It builds deep context about your project to identify</description>
-      <pubDate>Sat, 07 Mar 2026 21:58:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
