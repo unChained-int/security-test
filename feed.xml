@@ -5,9 +5,143 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Mar 2026 13:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 19:01:46 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenClaw, the Fastest-Adopted Software Ever, Is Also a Security Blind Spot</title>
+      <link>https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/</link>
+      <description>&amp;lt;p&amp;gt;OpenClaw is already running inside enterprises, often unnoticed. Learn why banning it fails and how CISOs must shift to data-centric AI governance.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/&amp;quot;&amp;gt;OpenClaw, the Fastest-Adopted Software Ever, Is Also a Security Blind Spot&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 17 Mar 2026 18:46:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/</guid>
+      <dc:creator>Tim Freestone</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>Developer</category>
+      <category>News</category>
+      <category>NVIDIA</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai agents</category>
+      <category>AI security risks</category>
+      <category>ciso strategy</category>
+      <category>cybersecurity</category>
+      <category>data governance</category>
+      <category>enterprise security</category>
+      <category>openclaw</category>
+      <category>shadow it</category>
+    </item>
+    <item>
+      <title>AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE</title>
+      <link>https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.
+In a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter&amp;apos;s sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells</description>
+      <pubDate>Tue, 17 Mar 2026 22:09:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Android OS-Level Attack Bypasses Mobile Payment Security</title>
+      <link>https://www.infosecurity-magazine.com/news/android-attack-bypasses-payment/</link>
+      <description>Android’s LSPosed-based attack hijacks payment apps via runtime manipulation and SIM-binding bypass</description>
+      <pubDate>Tue, 17 Mar 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/android-attack-bypasses-payment/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>China Probe: How a Fake Fitness Tracker Became an AI ‘Top Pick’</title>
+      <link>https://www.techrepublic.com/article/news-fake-tracker-tricks-chatbots-china/</link>
+      <description>&amp;lt;p&amp;gt;A fake fitness tracker fooled AI chatbots in China, exposing risks of AI poisoning and prompting calls for regulation. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-tracker-tricks-chatbots-china/&amp;quot;&amp;gt;China Probe: How a Fake Fitness Tracker Became an AI ‘Top Pick’&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 17 Mar 2026 16:13:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-tracker-tricks-chatbots-china/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Security</category>
+      <category>AI governance</category>
+      <category>AI poisoning</category>
+      <category>ai regulation</category>
+      <category>chatbot risk</category>
+      <category>china tech</category>
+      <category>data integrity</category>
+      <category>enterprise ai</category>
+      <category>generative ai</category>
+      <category>GEO</category>
+      <category>misinformation</category>
+    </item>
+    <item>
+      <title>Warlock Ransomware Group Augments Post-Exploitation Activities</title>
+      <link>https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities</link>
+      <description>In a recent attack, the group showcased stealthier cross-network activity, thanks to its use of a new BYOVD technique and other tools.</description>
+      <pubDate>Tue, 17 Mar 2026 15:36:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;CursorJack’ Attack Path Exposes Code Execution Risk in AI Development Environment</title>
+      <link>https://www.infosecurity-magazine.com/news/cursor-jack-attack-path-ai/</link>
+      <description>CursorJack shows how malicious MCP deeplinks in Cursor IDE can trigger user-approved code execution</description>
+      <pubDate>Tue, 17 Mar 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cursor-jack-attack-path-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>The AI Exchange: Innovators in Payment Security Featuring Toast, Inc.</title>
+      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-toast-inc</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-toast-inc&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring Toast, Inc.&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Toast%20800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 17 Mar 2026 14:43:40 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-toast-inc</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Awareness</category>
+      <category>Interview</category>
+      <category>Artificial Intelligence (AI)</category>
+    </item>
+    <item>
+      <title>LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader</title>
+      <link>https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html</link>
+      <description>The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.
+The use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials</description>
+      <pubDate>Tue, 17 Mar 2026 20:04:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Confirms Windows 11 Bug Crippling PCs, Blocking Access to Core Drive</title>
+      <link>https://www.techrepublic.com/article/news-windows-11-bug-c-drive-access-denied-samsung-fix/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft says a Windows 11 issue tied to Samsung Galaxy Connect can block access to the C: drive and prevent key apps from opening.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-11-bug-c-drive-access-denied-samsung-fix/&amp;quot;&amp;gt;Microsoft Confirms Windows 11 Bug Crippling PCs, Blocking Access to Core Drive&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 17 Mar 2026 14:26:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-11-bug-c-drive-access-denied-samsung-fix/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Applications</category>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>Samsung</category>
+      <category>Security</category>
+      <category>Windows</category>
+      <category>access denied error</category>
+      <category>c drive error</category>
+      <category>galaxy connect</category>
+      <category>microsoft update</category>
+      <category>samsung laptops</category>
+      <category>windows 11 bug</category>
+      <category>windows security update</category>
+      <category>windows troubleshooting</category>
+    </item>
     <item>
       <title>Surge in Nation State Attacks on UK Firms Amid Cyber Warfare Fears</title>
       <link>https://www.infosecurity-magazine.com/news/nation-state-attacks-uk-firms/</link>
@@ -91,7 +225,7 @@ The vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosur
     <item>
       <title>China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years</title>
       <link>https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs</link>
-      <description>Researchers uncovered an extensive cyberespionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.</description>
+      <description>Researchers uncovered an extensive cyber espionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.</description>
       <pubDate>Tue, 17 Mar 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs</guid>
       <dc:creator>Rob Wright</dc:creator>
@@ -159,7 +293,7 @@ The vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosur
     <item>
       <title>Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026</title>
       <link>https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026</link>
-      <description>Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Olympics from evolving threats.</description>
+      <description>Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Games from evolving threats.</description>
       <pubDate>Mon, 16 Mar 2026 20:28:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026</guid>
       <dc:creator>Kristina Beek</dc:creator>
@@ -1130,107 +1264,6 @@ The attack, at its core, takes advantage of AI browsers&amp;apos; tendency to re
       <guid isPermaLink="true">https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker</title>
-      <link>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</link>
-      <description>A hacktivist group with links to Iran&amp;apos;s intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker&amp;apos;s largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker&amp;apos;s main U.S. headquarters says the company is currently experiencing a building emergency.</description>
-      <pubDate>Wed, 11 Mar 2026 16:20:13 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Latest Warnings</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>The Coming Storm</category>
-      <category>Handala</category>
-      <category>Handala Hack</category>
-      <category>Irish Examiner</category>
-      <category>Microsoft Intune</category>
-      <category>Ministry of Intelligence and Security</category>
-      <category>Palo Alto Networks</category>
-      <category>Stryker</category>
-      <category>Void Manticore</category>
-      <category>wiper attack</category>
-    </item>
-    <item>
-      <title>Infosecurity Europe Announces 2026 Keynote Line Up</title>
-      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-2026-keynote/</link>
-      <description>Infosecurity Europe 2026 reveals its keynote line-up, featuring Jason Fox, Shlomo Kramer, Cynthia Kaiser and more, with sessions on AI, cloud security and post quantum threats</description>
-      <pubDate>Wed, 11 Mar 2026 16:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-2026-keynote/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Researchers Uncover ‘LeakyLooker’ Vulnerabilities in Google Looker Studio</title>
-      <link>https://www.infosecurity-magazine.com/news/google-looker-studios-security-gaps/</link>
-      <description>LeakyLooker flaws in Google Looker Studio let attackers run cross-tenant SQL attacks on cloud data</description>
-      <pubDate>Wed, 11 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-looker-studios-security-gaps/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Iran appears to have conducted a significant cyberattack against a U.S. company, a first since the war started</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war</link>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:17:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/iran-appears-have-conducted-significant-cyberattack-against-us-company-first-war</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Pro-Iran hackers claim cyberattack on major US medical device maker</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/pro-iran-hackers-claim-cyberattack-major-us-medical-device-maker</link>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:16:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/pro-iran-hackers-claim-cyberattack-major-us-medical-device-maker</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Spotlight On: Amazon, a New Principal Participating Organization</title>
-      <link>https://blog.pcisecuritystandards.org/spotlight-on-amazon-a-new-principal-participating-organization</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/spotlight-on-amazon-a-new-principal-participating-organization&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Spotlight On: Amazon, a New Principal Participating Organization&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Amazon_blog_800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome Amazon, a new Principal Participating Organization (PPO) at the PCI Security Standards Council! In this special spotlight edition of our PCI Perspectives Blog, Amazon Principal Industry Specialist, Balaji Palanisamy, introduces us to his company and how they are helping to shape the future of payment security. &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 11 Mar 2026 14:52:09 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/spotlight-on-amazon-a-new-principal-participating-organization</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Participation</category>
-      <category>Principal PO Spotlight</category>
-    </item>
-    <item>
-      <title>Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials</title>
-      <link>https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html</link>
-      <description>Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution.
-The vulnerabilities are listed below -
-
-CVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE)
-CVE-2026-27493 (CVSS score: 9.5) - Unauthenticated</description>
-      <pubDate>Wed, 11 Mar 2026 20:21:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict</title>
-      <link>https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict</link>
-      <description>Two attacks on Qatari entities signal a shift in focus for China-backed actors and demonstrate how quickly they can pivot in response to geopolitical events.</description>
-      <pubDate>Wed, 11 Mar 2026 14:46:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Compromised WordPress Sites Deliver ClickFix Attacks in Global Infostealer Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/wordpress-clickfix-infostealer/</link>
-      <description>Over 250 legitimate websites, including news outlets and  a US Senate candidate’s official webpage, been compromised to infect visitors with infostealers, warn Rapid7 researchers</description>
-      <pubDate>Wed, 11 Mar 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/wordpress-clickfix-infostealer/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
