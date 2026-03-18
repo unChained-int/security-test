@@ -5,16 +5,127 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Mar 2026 07:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:10:24 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23</title>
+      <title>Meta, TikTok Steal Users&amp;apos; Sensitive PII When They Click on Ads</title>
+      <link>https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</link>
+      <description>Tracking pixels let social media companies spy on their own customers when they click over to advertiser sites, gleaning credit card info, currency type, and more.</description>
+      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>SideWinder Espionage Campaign Expands Across Southeast Asia</title>
+      <link>https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</link>
+      <description>The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.</description>
+      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI-Enabled Adversaries Compress Time-to-Exploit Following Vulnerability Disclosure</title>
+      <link>https://www.infosecurity-magazine.com/news/exploitation-accelerates-in-2025/</link>
+      <description>Rapid7 says median time from publication to CISA KEV inclusion dropped to five days</description>
+      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/exploitation-accelerates-in-2025/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE</title>
       <link>https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html</link>
       <description>Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges.
 The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set</description>
-      <pubDate>Wed, 18 Mar 2026 10:36:00 +0530</pubDate>
+      <pubDate>Wed, 18 Mar 2026 18:00:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Claude Code Security and Magecart: Getting the Threat Model Right</title>
+      <link>https://thehackernews.com/2026/03/claude-code-security-and-magecart.html</link>
+      <description>When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it – because the malicious code never actually touches your repo. As teams adopt Claude Code Security for static analysis, this is the exact technical boundary where AI code scanning stops and client-side runtime execution begins.
+A detailed analysis of where Claude</description>
+      <pubDate>Wed, 18 Mar 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/claude-code-security-and-magecart.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors</title>
+      <link>https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html</link>
+      <description>Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hosts.
+The nine vulnerabilities, discovered by Eclypsium, span four different products from GL-iNet Comet RM-1, Angeet/Yeeso ES3 KVM, Sipeed NanoKVM, and JetKVM. The most severe of them allow</description>
+      <pubDate>Wed, 18 Mar 2026 17:12:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Vidar Stealer 2.0 Exploits GitHub, Reddit to Deliver Malware via Fake Game Cheats</title>
+      <link>https://www.infosecurity-magazine.com/news/vidar-stealer-exploits-github/</link>
+      <description>The Vidar 2.0 infostealers is deployed through fake free game cheats on GitHub and Reddit</description>
+      <pubDate>Wed, 18 Mar 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/vidar-stealer-exploits-github/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Meta’s AI Glasses and Privacy</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/metas-ai-glasses-and-privacy.html</link>
+      <description>&amp;lt;p&amp;gt;Surprising no one, Meta&amp;amp;#8217;s new AI glasses are a &amp;lt;a href=&amp;quot;https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster&amp;quot;&amp;gt;privacy disaster&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;I&amp;amp;#8217;m not sure what can be done here. This is a technology that will exist, whether we like it or not.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Meanwhile, there is a new Android app that &amp;lt;a href=&amp;quot;https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/&amp;quot;&amp;gt;detects&amp;lt;/a&amp;gt; when there are smart glasses nearby.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 18 Mar 2026 11:07:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/metas-ai-glasses-and-privacy.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>Meta</category>
+      <category>privacy</category>
+    </item>
+    <item>
+      <title>Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels</title>
+      <link>https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html</link>
+      <description>Security teams today are not short on tools or data. They are overwhelmed by both.&amp;amp;nbsp;
+Yet within the terabytes of alerts, exposures, and misconfigurations – security teams still struggle to understand context:&amp;amp;nbsp;
+Q: Which exposures, misconfigurations, and vulnerabilities chain together to create viable attack paths to crown jewels?
+Even the most mature security teams can’t answer that</description>
+      <pubDate>Wed, 18 Mar 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Issues Will Drive Half of Incident Response Efforts by 2028, Says Gartner</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-issues-half-incident-response/</link>
+      <description>Gartner has urged security teams to get involved in AI projects from the start to avoid costly incident response</description>
+      <pubDate>Wed, 18 Mar 2026 09:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-issues-half-incident-response/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit</title>
+      <link>https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html</link>
+      <description>A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.
+Tracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attacker to seize control of a susceptible system.
+&amp;quot;This flaw (CVE-2026-3888) allows an unprivileged local attacker to escalate privileges to full root access</description>
+      <pubDate>Wed, 18 Mar 2026 13:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS</title>
+      <link>https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html</link>
+      <description>Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.
+The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit&amp;apos;s Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.
+The</description>
+      <pubDate>Wed, 18 Mar 2026 12:01:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -1133,123 +1244,6 @@ The malware, which is designed to infect Windows systems and was first discovere
       <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/cyber-fallout-iran-war-what-have-radar/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Business Security</category>
-    </item>
-    <item>
-      <title>Meta Rolls Out New Scam Alerts Across Facebook, WhatsApp, and Messenger</title>
-      <link>https://www.techrepublic.com/article/news-meta-ai-scam-detection-facebook-messenger-whatsapp/</link>
-      <description>&amp;lt;p&amp;gt;Meta is rolling out new scam alerts across Facebook, WhatsApp, and Messenger as it ramps up AI-driven fraud detection and advertiser verification.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-meta-ai-scam-detection-facebook-messenger-whatsapp/&amp;quot;&amp;gt;Meta Rolls Out New Scam Alerts Across Facebook, WhatsApp, and Messenger&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 12 Mar 2026 14:12:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-meta-ai-scam-detection-facebook-messenger-whatsapp/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Applications</category>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>Meta</category>
-      <category>Security</category>
-      <category>ai scam detection</category>
-      <category>facebook security</category>
-      <category>messenger security</category>
-      <category>meta</category>
-      <category>online scams</category>
-      <category>scam prevention</category>
-      <category>social media security</category>
-      <category>whatsapp scams</category>
-    </item>
-    <item>
-      <title>How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs</title>
-      <link>https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html</link>
-      <description>Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps</description>
-      <pubDate>Thu, 12 Mar 2026 19:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack &amp;amp; More</title>
-      <link>https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html</link>
-      <description>Another Thursday, another pile of weird security stuff that somehow happened in just seven days. Some of it is clever. Some of it is lazy. A few bits fall into that uncomfortable category of “yeah… this is probably going to show up in real incidents sooner than we’d like.”
-The pattern this week feels familiar in a slightly annoying way. Old tricks are getting polished. New research shows how</description>
-      <pubDate>Thu, 12 Mar 2026 18:44:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Issues Emergency Directive Over Exploited Cisco SD-WAN Flaws</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-cisco-sd-wan-flaws-directive/</link>
-      <description>CISA issued urgent directive as attackers exploit Cisco SD-WAN flaw granting admin access to networks</description>
-      <pubDate>Thu, 12 Mar 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-cisco-sd-wan-flaws-directive/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attackers Don&amp;apos;t Just Send Phishing Emails. They Weaponize Your SOC&amp;apos;s Workload</title>
-      <link>https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html</link>
-      <description>The most dangerous phishing campaigns aren’t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a contained incident to a breach.
-For years, the cybersecurity industry has focused on the front door of phishing defense: employee training, email gateways that</description>
-      <pubDate>Thu, 12 Mar 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Police Scotland Fined After Sharing Victim’s Phone Data</title>
-      <link>https://www.infosecurity-magazine.com/news/police-scotland-fined-sharing/</link>
-      <description>The ICO has fined Police Scotland after it shared the entire contents of a victim’s phone with her alleged attacker</description>
-      <pubDate>Thu, 12 Mar 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/police-scotland-fined-sharing/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit</title>
-      <link>https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</link>
-      <description>Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.
-The vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was</description>
-      <pubDate>Thu, 12 Mar 2026 15:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iran Claims Massive Cyber-Attack on MedTech Firm Stryker</title>
-      <link>https://www.infosecurity-magazine.com/news/iran-massive-wiper-attack-medtech/</link>
-      <description>The pro-Iran Handala group claims to have wiped 200,000 systems in destructive wiper malware attack on US firm Stryker</description>
-      <pubDate>Thu, 12 Mar 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iran-massive-wiper-attack-medtech/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets</title>
-      <link>https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html</link>
-      <description>Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.
-The Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.
-PixRevolution, according to</description>
-      <pubDate>Thu, 12 Mar 2026 13:26:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed</title>
-      <link>https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched</description>
-      <pubDate>Thu, 12 Mar 2026 10:48:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>A Guy Who Wrote the Code Died in 2005. I Still Have to Secure It</title>
-      <link>https://www.darkreading.com/cyber-risk/a-guy-who-wrote-code-died-in-2005-i-still-must-secure-it</link>
-      <description>The real front line of American cybersecurity is a bidding war on eBay for 30-year-old industrial controllers.</description>
-      <pubDate>Wed, 11 Mar 2026 22:03:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/a-guy-who-wrote-code-died-in-2005-i-still-must-secure-it</guid>
-      <dc:creator>Chuck Everette</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
