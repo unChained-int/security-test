@@ -5,17 +5,80 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Mar 2026 13:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 18:58:42 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta, TikTok Steal Users&amp;apos; Sensitive PII When They Click on Ads</title>
-      <link>https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</link>
-      <description>Tracking pixels let social media companies spy on their own customers when they click over to advertiser sites, gleaning credit card info, currency type, and more.</description>
-      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</guid>
-      <dc:creator>Nate Nelson</dc:creator>
+      <title>OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs</title>
+      <link>https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html</link>
+      <description>The U.S. Department of the Treasury&amp;apos;s Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People&amp;apos;s Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs.
+&amp;quot;The North Korean</description>
+      <pubDate>Wed, 18 Mar 2026 22:56:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple Rolls Out Real-Time Security Fixes Across iPhone, iPad, and Mac</title>
+      <link>https://www.techrepublic.com/article/news-apple-background-security-improvements-webkit-fix/</link>
+      <description>&amp;lt;p&amp;gt;Apple launches Background Security Improvements to fix vulnerabilities in real time, starting with a WebKit flaw affecting Safari on iPhone, iPad, and Mac.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-background-security-improvements-webkit-fix/&amp;quot;&amp;gt;Apple Rolls Out Real-Time Security Fixes Across iPhone, iPad, and Mac&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 18 Mar 2026 16:15:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-background-security-improvements-webkit-fix/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Hardware</category>
+      <category>International</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Smartphones</category>
+      <category>Software</category>
+      <category>apple patches</category>
+      <category>apple security updates</category>
+      <category>background security improvements</category>
+      <category>cybersecurity news</category>
+      <category>ios 26</category>
+      <category>macos security</category>
+      <category>safari security</category>
+      <category>webkit vulnerability</category>
+    </item>
+    <item>
+      <title>Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access</title>
+      <link>https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html</link>
+      <description>Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that&amp;apos;s exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.
+The vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to</description>
+      <pubDate>Wed, 18 Mar 2026 21:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New Ubuntu Flaw Enables Local Attackers to Gain Root Access</title>
+      <link>https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/</link>
+      <description>CVE-2026-3888 Ubuntu snap flaw lets local users escalate to root via timing-based exploit</description>
+      <pubDate>Wed, 18 Mar 2026 15:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>&amp;apos;Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft</link>
+      <description>A prompt injection vulnerability paired with other flaws can turn a Google search into a full attack chain that could threaten enterprise networks.</description>
+      <pubDate>Wed, 18 Mar 2026 15:05:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Crypto Scam &amp;quot;ShieldGuard&amp;quot; Dismantled After Malware Discovery</title>
+      <link>https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/</link>
+      <description>ShieldGuard Chrome extension posed as a crypto security tool but stole wallets and drained user data</description>
+      <pubDate>Wed, 18 Mar 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>SideWinder Espionage Campaign Expands Across Southeast Asia</title>
@@ -24,6 +87,15 @@
       <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</guid>
       <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Meta, TikTok Steal Personal &amp;amp;amp; Financial Info When Users Click Ads</title>
+      <link>https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</link>
+      <description>Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more.</description>
+      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</guid>
+      <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1179,71 +1251,6 @@ The malware, which is designed to infect Windows systems and was first discovere
       <guid isPermaLink="true">https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why Stryker&amp;apos;s Outage Is a Disaster Recovery Wake-Up Call</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call</link>
-      <description>The Iranian cyberattack on Stryker is the kind of stress test that business continuity and disaster recovery programs often do not plan for.</description>
-      <pubDate>Thu, 12 Mar 2026 16:30:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/stryker-outage-disaster-recovery-wake-up-call</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>PixRevolution Malware Hijacks Brazil&amp;apos;s PIX Transfers in Real Time</title>
-      <link>https://www.infosecurity-magazine.com/news/pixrevolution-malware-brazils-pix/</link>
-      <description>PixRevolution Android trojan hijacks Brazil’s PIX payments in real time using accessibility abuse</description>
-      <pubDate>Thu, 12 Mar 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/pixrevolution-malware-brazils-pix/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Critical Zero-Click Flaw in n8n Allows Full Server Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-zeroclick-flaw-n8n-pillar/</link>
-      <description>The critical vulnerability affecting both cloud and self-hosted n8n instances requires no authentication or even n8n account to be exploited</description>
-      <pubDate>Thu, 12 Mar 2026 15:28:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/critical-zeroclick-flaw-n8n-pillar/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>What Orgs Can Learn From Olympics, World Cup IR Plans</title>
-      <link>https://www.darkreading.com/cyber-risk/olympics-world-cup-takeaways-ir-plans</link>
-      <description>In this edition of &amp;amp;quot;Reporters&amp;apos; Notebook,&amp;amp;quot; we discuss cyberattackers targeting the Milan-Cortina Winter Games, adding them to a long list of global sporting events in the crosshairs. Though the attack surface is grander, there are key incident-response takeaways for regular enterprises, too.</description>
-      <pubDate>Thu, 12 Mar 2026 14:33:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/olympics-world-cup-takeaways-ir-plans</guid>
-      <dc:creator>Tara Seals</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Iran-Linked Hacktivists Hit Stryker, Knocking Employees Offline Across Multiple Countries</title>
-      <link>https://www.techrepublic.com/article/news-stryker-cyberattack-global-systems-disruption/</link>
-      <description>&amp;lt;p&amp;gt;A cyberattack disrupted global operations at medical device maker Stryker, knocking employees offline and raising concerns about destructive wiper attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-stryker-cyberattack-global-systems-disruption/&amp;quot;&amp;gt;Iran-Linked Hacktivists Hit Stryker, Knocking Employees Offline Across Multiple Countries&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 12 Mar 2026 14:30:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-stryker-cyberattack-global-systems-disruption/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cyberattack</category>
-      <category>data breach</category>
-      <category>hacktivism</category>
-      <category>healthcare cybersecurity</category>
-      <category>iran-linked hackers</category>
-      <category>medical device security</category>
-      <category>stryker</category>
-      <category>wiper malware</category>
-    </item>
-    <item>
-      <title>Cyber fallout from the Iran war: What to have on your radar</title>
-      <link>https://www.welivesecurity.com/en/business-security/cyber-fallout-iran-war-what-have-radar/</link>
-      <description>The cybersecurity implications of the war in the Middle East extend far beyond the region. Here’s where to focus your defenses.</description>
-      <pubDate>Thu, 12 Mar 2026 14:17:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/cyber-fallout-iran-war-what-have-radar/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
     </item>
   </channel>
 </rss>
