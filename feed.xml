@@ -5,9 +5,21 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Mar 2026 02:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:57:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks</title>
+      <link>https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild.
+The vulnerabilities in question are as follows -
+
+CVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting</description>
+      <pubDate>Thu, 19 Mar 2026 11:35:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>C2 Implant &amp;apos;SnappyClient&amp;apos; Targets Crypto Wallets</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets</link>
@@ -1218,29 +1230,6 @@ CVE-2026-21667 (</description>
       <category>iPad</category>
       <category>iPhone</category>
       <category>smartphones</category>
-    </item>
-    <item>
-      <title>Security Flaw in WordPress Plugin Puts 400,000 Websites at Risk</title>
-      <link>https://www.techrepublic.com/article/news-wordpress-ally-plugin-vulnerability-400k-sites/</link>
-      <description>&amp;lt;p&amp;gt;A security flaw in the Ally WordPress plugin used on more than 400,000 sites could allow attackers to extract sensitive data without logging in.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-wordpress-ally-plugin-vulnerability-400k-sites/&amp;quot;&amp;gt;Security Flaw in WordPress Plugin Puts 400,000 Websites at Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 12 Mar 2026 19:51:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-wordpress-ally-plugin-vulnerability-400k-sites/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Applications</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity threat</category>
-      <category>elementor</category>
-      <category>sql injection</category>
-      <category>website security</category>
-      <category>wordpress plugin vulnerability</category>
-      <category>wordpress plugins</category>
-      <category>wordpress security</category>
-      <category>wordpress vulnerability</category>
     </item>
   </channel>
 </rss>
