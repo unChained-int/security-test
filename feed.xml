@@ -5,9 +5,80 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Mar 2026 12:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:50:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets</title>
+      <link>https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html</link>
+      <description>Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.
+The latest incident impacted GitHub Actions &amp;quot;aquasecurity/trivy-action&amp;quot; and &amp;quot;aquasecurity/setup-trivy,&amp;quot; which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow</description>
+      <pubDate>Fri, 20 Mar 2026 23:17:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple Mail’s ‘Trusted Sender’ Label Misused in New Phishing Scheme</title>
+      <link>https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/</link>
+      <description>&amp;lt;p&amp;gt;Apple Mail’s “trusted sender” label can mislead users, as scammers exploit it to disguise phishing emails and create a false sense of security.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/&amp;quot;&amp;gt;Apple Mail’s ‘Trusted Sender’ Label Misused in New Phishing Scheme&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Mar 2026 17:29:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>apple mail</category>
+      <category>cybersecurity threats</category>
+      <category>data protection</category>
+      <category>email security</category>
+      <category>online safety</category>
+      <category>phishing scams</category>
+      <category>social engineering</category>
+      <category>spoofed emails</category>
+    </item>
+    <item>
+      <title>Cyber OpSec Fail: Beast Gang Exposes Ransomware Server</title>
+      <link>https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server</link>
+      <description>Files on a central cloud server used by the ransomware group highlight a systematic, aggressive attack on network backups as a key TTP.</description>
+      <pubDate>Fri, 20 Mar 2026 16:31:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure</title>
+      <link>https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html</link>
+      <description>A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities.
+The security defect, tracked as CVE-2026-33017 (CVSS score: 9.3), is a case of missing authentication combined with code injection that could result in remote code execution.
+&amp;quot;The POST /api/v1</description>
+      <pubDate>Fri, 20 Mar 2026 20:45:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Interlock Ransomware Targets Cisco Enterprise Firewalls</title>
+      <link>https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls</link>
+      <description>The ransomware gang, known for double-extortion attacks, had access to a critical Cisco firewall vulnerability weeks before it was publicly disclosed.</description>
+      <pubDate>Fri, 20 Mar 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/interlock-ransomware-targets-cisco-enterprise-firewalls</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>All aboard: the NIST Cybersecurity for IoT Program is headed to our next stop! Share your input on where we’re headed during our Future Directions Two-Day Workshop on March 31st.</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/all-aboard-nist-cybersecurity-iot-program-headed-our-next-stop-share</link>
+      <description>Workshop Details… We’re looking forward to hearing from the community during our “Future Directions” Workshop! Date: March 31 - April 1, 2026 Where: NIST’s Gaithersburg campus! Registration and Details: HERE Can’t make it? We still want to hear from you – email us at &amp;lt;span class=&amp;quot;spamspan&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;u&amp;quot;&amp;gt;IoTSecurity&amp;lt;/span&amp;gt; [at] &amp;lt;span class=&amp;quot;d&amp;quot;&amp;gt;nist.gov&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;t&amp;quot;&amp;gt; (IoTSecurity[at]nist[dot]gov)&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;. All Aboard for Product Cybersecurity The NIST Cybersecurity for Internet of Things (IoT) Program was established to help real-world practitioners navigate the gray areas between IT and connected products. This provides clarity when it comes to challenges, available existing resources, and understanding where</description>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nist.gov/blogs/cybersecurity-insights/all-aboard-nist-cybersecurity-iot-program-headed-our-next-stop-share</guid>
+      <dc:creator>Michael Fagan</dc:creator>
+      <source url="https://www.nist.gov/blogs/cybersecurity-insights/rss.xml">Cybersecurity Insights</source>
+    </item>
     <item>
       <title>Proton Mail Shared User Information with the Police</title>
       <link>https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html</link>
@@ -115,16 +186,25 @@ These attacks employ malicious web content to target out-of-date versions of iOS
     <item>
       <title>AI Conundrum: Why MCP Security Can&amp;apos;t Be Patched Away</title>
       <link>https://www.darkreading.com/application-security/mcp-security-patched</link>
-      <description>MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says at RSAC 2026 Conference.</description>
+      <description>RSAC Conference Preview: MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says.</description>
       <pubDate>Thu, 19 Mar 2026 21:54:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/mcp-security-patched</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>With Government&amp;apos;s Role Uncertain, Businesses Unite to Combat Fraud</title>
+      <link>https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud</link>
+      <description>Major industry leaders agree to share information and collaborate to boost defenses in the wake of distressing online scams.</description>
+      <pubDate>Thu, 19 Mar 2026 20:43:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Native Launches With Security Control Plane for Multicloud</title>
       <link>https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud</link>
-      <description>The cloud security startup&amp;apos;s platform translates and enforces security policies across AWS, Azure, Google Cloud and Oracle using provider-native controls.</description>
+      <description>The cloud security startup&amp;apos;s platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.</description>
       <pubDate>Thu, 19 Mar 2026 20:08:11 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud</guid>
       <dc:creator>Dark Reading Staff</dc:creator>
@@ -1096,94 +1176,6 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
 The campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware</description>
       <pubDate>Mon, 16 Mar 2026 14:37:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse</title>
-      <link>https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html</link>
-      <description>Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.
-The change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.
-AAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened</description>
-      <pubDate>Mon, 16 Mar 2026 11:13:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cyber TPRM vs Compliance TPRM: Which is right for you? | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/cyber-tprm-vs-compliance-tprm</link>
-      <description>Cyber TPRM and compliance TPRM answer different questions and serve different buyers. Learn how to tell them apart and decide which is best for you.</description>
-      <pubDate>Mon, 16 Mar 2026 05:02:03 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/cyber-tprm-vs-compliance-tprm</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Vendor Tiering Series: Tiering that Scales | UpGuard</title>
-      <link>https://upguard-staging.webflow.io/blog/vendor-tiering-that-scales</link>
-      <description>An effective TPRM program begins with a logical framework. Learn how to tier vendors using weighted risk scoring to maintain a defensible program.</description>
-      <pubDate>Sun, 15 Mar 2026 23:22:53 +0000</pubDate>
-      <guid isPermaLink="true">https://upguard-staging.webflow.io/blog/vendor-tiering-that-scales</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Google, Microsoft, Amazon, and Others Unite Under New Anti-Scam Pact</title>
-      <link>https://www.techrepublic.com/article/news-big-tech-anti-scam-accord/</link>
-      <description>&amp;lt;p&amp;gt;Google, Meta, Amazon, OpenAI, and others join a new voluntary accord to share signals, tighten safeguards, and fight online scams across platforms.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-big-tech-anti-scam-accord/&amp;quot;&amp;gt;Google, Microsoft, Amazon, and Others Unite Under New Anti-Scam Pact&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sun, 15 Mar 2026 17:10:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-big-tech-anti-scam-accord/</guid>
-      <dc:creator>Liz Ticong</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Amazon</category>
-      <category>Artificial Intelligence</category>
-      <category>Collaboration</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech Industry</category>
-      <category>adobe</category>
-      <category>cybersecurity</category>
-      <category>linkedin</category>
-      <category>meta</category>
-      <category>openai</category>
-      <category>scam</category>
-    </item>
-    <item>
-      <title>OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration</title>
-      <link>https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html</link>
-      <description>China&amp;apos;s National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent.
-In a post shared on WeChat, CNCERT noted that the platform&amp;apos;s &amp;quot;inherently weak default security configurations,&amp;quot; coupled with its</description>
-      <pubDate>Sat, 14 Mar 2026 21:47:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html</link>
-      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;I’m giving the &amp;lt;a href=&amp;quot;https://www.chu.cam.ac.uk/event/computer-science-lecture-2026/&amp;quot;&amp;gt;Ross Anderson Lecture&amp;lt;/a&amp;gt; at the University of Cambridge’s Churchill College at 5:30 PM GMT on Thursday, March 19, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://www.rsaconference.com/usa&amp;quot;&amp;gt;RSAC 2026&amp;lt;/a&amp;gt; in San Francisco, California, USA, on Wednesday, March 25, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m part of an event on “Canada and AI Sovereignty,” hosted by the University of Toronto’s &amp;lt;a href=&amp;quot;https://munkschool.utoronto.ca/event/canada-and-ai-sovereignty&amp;quot;&amp;gt;Munk School of Global Affairs &amp;amp;#38; Public Policy&amp;lt;/a&amp;gt;, which will be held online via Zoom at 4:00 PM ET on Monday, March 30, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://www.democracyxchange.org/&amp;quot;&amp;gt;DemocracyXChange 2026...&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
-      <pubDate>Sat, 14 Mar 2026 16:02:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html</guid>
-      <dc:creator>B. Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Schneier news</category>
-    </item>
-    <item>
-      <title>GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers</title>
-      <link>https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html</link>
-      <description>Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a &amp;quot;significant escalation&amp;quot; in how it propagates through the Open VSX registry.
-&amp;quot;Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive</description>
-      <pubDate>Sat, 14 Mar 2026 18:25:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
