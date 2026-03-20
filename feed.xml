@@ -5,9 +5,58 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 02:02:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+      <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+      <description>The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.</description>
+      <pubDate>Fri, 20 Mar 2026 00:49:19 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>DDoS-for-Hire</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Aisuru</category>
+      <category>Defense Criminal Investigative Service</category>
+      <category>JackSkid</category>
+      <category>Kimwolf</category>
+      <category>Mossad botnet</category>
+      <category>Rebecca Day</category>
+      <category>Synthient</category>
+    </item>
+    <item>
+      <title>AI Conundrum: Why MCP Security Can&amp;apos;t Be Patched Away</title>
+      <link>https://www.darkreading.com/application-security/mcp-security-patched</link>
+      <description>MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says at RSAC 2026 Conference.</description>
+      <pubDate>Thu, 19 Mar 2026 21:54:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/mcp-security-patched</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers</title>
+      <link>https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html</link>
+      <description>Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.
+&amp;quot;Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate</description>
+      <pubDate>Fri, 20 Mar 2026 00:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security</title>
+      <link>https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html</link>
+      <description>A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable drivers.
+EDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This</description>
+      <pubDate>Fri, 20 Mar 2026 00:22:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Ransomware Affiliate Exposes Details of &amp;apos;The Gentlemen&amp;apos; Operation</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-affiliate-gentlemen/</link>
@@ -1164,69 +1213,6 @@ The effort is part of an international law enforcement operation that involved 7
       <guid isPermaLink="true">https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Expansions, Cyberthreats, and Industry Shifts Define This Week in Tech</title>
-      <link>https://www.techrepublic.com/article/ai-expansions-cyberthreats-and-industry-shifts-define-this-week-in-tech/</link>
-      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from March 9–13.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ai-expansions-cyberthreats-and-industry-shifts-define-this-week-in-tech/&amp;quot;&amp;gt;AI Expansions, Cyberthreats, and Industry Shifts Define This Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Mar 2026 14:00:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/ai-expansions-cyberthreats-and-industry-shifts-define-this-week-in-tech/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Anthropic</category>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Meta</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>OpenAI</category>
-      <category>Samsung</category>
-      <category>Weekly Roundup</category>
-      <category>adobe</category>
-      <category>ai news</category>
-      <category>anthropic</category>
-      <category>apple news</category>
-      <category>Daily Tech Insider</category>
-      <category>google news</category>
-      <category>grammarly</category>
-      <category>Newsletter Roundup</category>
-      <category>openai</category>
-      <category>openai news</category>
-      <category>samsung</category>
-      <category>security breaches</category>
-      <category>tech news</category>
-    </item>
-    <item>
-      <title>Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials</title>
-      <link>https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html</link>
-      <description>Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques.
-&amp;quot;The campaign redirects users searching for legitimate enterprise software to malicious ZIP files on attacker-controlled websites to deploy digitally signed trojans that masquerade as trusted VPN clients</description>
-      <pubDate>Fri, 13 Mar 2026 19:08:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Investigating a New Click-Fix Variant</title>
-      <link>https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html</link>
-      <description>Disclaimer: This report has been prepared by the Threat Research Center to enhance cybersecurity awareness and support the strengthening of defense capabilities. It is based on independent research and observations of the current threat landscape available at the time of publication. The content is intended for informational and preparedness purposes only.
-Read more blogs around threat</description>
-      <pubDate>Fri, 13 Mar 2026 18:58:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Most Google Cloud Attacks Start With Bug Exploitation</title>
-      <link>https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation</link>
-      <description>Forget stolen credentials and misconfigurations. Thanks to AI, the new top cause of compromises in the cloud is vulnerability exploits that beat patching cycles.</description>
-      <pubDate>Fri, 13 Mar 2026 13:20:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
