@@ -5,9 +5,31 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Mar 2026 18:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 01:57:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Jumbo Flying Squid in the South Pacific</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html</link>
+      <description>&amp;lt;p&amp;gt;The population needs &amp;lt;a href=&amp;quot;https://www.pew.org/en/research-and-analysis/articles/2026/02/23/jumbo-flying-squid-need-conservation-action&amp;quot;&amp;gt;better&amp;lt;/a&amp;gt; conservation.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Mar 2026 21:06:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>Patch Now: Oracle&amp;apos;s Fusion Middleware Has Critical RCE Flaw</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw</link>
+      <description>Attackers can execute arbitrary code without authentication if Oracle&amp;apos;s Identity or Web Services Managers are exposed to the Web.</description>
+      <pubDate>Fri, 20 Mar 2026 19:30:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets</title>
       <link>https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html</link>
@@ -19,10 +41,10 @@ The latest incident impacted GitHub Actions &amp;quot;aquasecurity/trivy-action&
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Apple Mail’s ‘Trusted Sender’ Label Misused in New Phishing Scheme</title>
+      <title>Fake ‘Trusted Sender’ Labels Misused in New Apple Mail Phishing Scheme</title>
       <link>https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/</link>
-      <description>&amp;lt;p&amp;gt;Apple Mail’s “trusted sender” label can mislead users, as scammers exploit it to disguise phishing emails and create a false sense of security.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/&amp;quot;&amp;gt;Apple Mail’s ‘Trusted Sender’ Label Misused in New Phishing Scheme&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt;Fake “trusted sender” labels can mislead users, as scammers embed them into email bodies to disguise phishing emails and create a false sense of security.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/&amp;quot;&amp;gt;Fake ‘Trusted Sender’ Labels Misused in New Apple Mail Phishing Scheme&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
       <pubDate>Fri, 20 Mar 2026 17:29:41 +0000</pubDate>
       <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-mail-trusted-sender-phishing-scam/</guid>
       <dc:creator>Aminu Abdullahi</dc:creator>
@@ -60,6 +82,79 @@ The security defect, tracked as CVE-2026-33017 (CVSS score: 9.3), is a case of m
       <guid isPermaLink="true">https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Factories, Security Flaws, and Workforce Shifts Define This Week in Tech</title>
+      <link>https://www.techrepublic.com/article/ai-factories-security-flaws-and-workforce-shifts-define-this-week-in-tech/</link>
+      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from March 16–20.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ai-factories-security-flaws-and-workforce-shifts-define-this-week-in-tech/&amp;quot;&amp;gt;AI Factories, Security Flaws, and Workforce Shifts Define This Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Mar 2026 14:01:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/ai-factories-security-flaws-and-workforce-shifts-define-this-week-in-tech/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Anthropic</category>
+      <category>Apple</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data Centers</category>
+      <category>Enterprises</category>
+      <category>Google</category>
+      <category>iOS</category>
+      <category>Meta</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>NVIDIA</category>
+      <category>Robots</category>
+      <category>Security</category>
+      <category>Technology</category>
+      <category>Weekly Roundup</category>
+      <category>Windows</category>
+      <category>ai</category>
+      <category>ai agents</category>
+      <category>ai infrastructure</category>
+      <category>android security</category>
+      <category>anthropic</category>
+      <category>app store</category>
+      <category>artificial intelligence</category>
+      <category>Astral</category>
+      <category>automation</category>
+      <category>boston dynamics</category>
+      <category>CISA</category>
+      <category>claude</category>
+      <category>codex</category>
+      <category>consumer tech</category>
+      <category>copilot</category>
+      <category>cybersecurity</category>
+      <category>Daily Tech Insider</category>
+      <category>data center</category>
+      <category>end-to-end encryption</category>
+      <category>enterprise ai</category>
+      <category>enterprise tech</category>
+      <category>gemini</category>
+      <category>ghost robotics</category>
+      <category>google maps</category>
+      <category>GTC 2026</category>
+      <category>humanoid robots</category>
+      <category>instagram</category>
+      <category>Intune</category>
+      <category>iOS exploit</category>
+      <category>iphone security</category>
+      <category>jensen huang</category>
+      <category>layoffs</category>
+      <category>mediatek</category>
+      <category>meta</category>
+      <category>microsoft authenticator</category>
+      <category>nebius</category>
+      <category>Newsletter Roundup</category>
+      <category>nvidia</category>
+      <category>openai</category>
+      <category>phishing</category>
+      <category>robotics</category>
+      <category>rras</category>
+      <category>tech layoffs</category>
+      <category>vera rubin</category>
+      <category>Windows 11</category>
+      <category>xiaomi</category>
     </item>
     <item>
       <title>Interlock Ransomware Targets Cisco Enterprise Firewalls</title>
@@ -1146,38 +1241,6 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
       <pubDate>Mon, 16 Mar 2026 11:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fbi-calls-help-track-steam-malware/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>UK: Companies House Web Glitch Exposes Corporate Details to Fraudsters</title>
-      <link>https://www.infosecurity-magazine.com/news/companies-house-glitch-exposes/</link>
-      <description>An issue with the Companies House website has put the personal and corporate information of millions at risk</description>
-      <pubDate>Mon, 16 Mar 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/companies-house-glitch-exposes/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Possible New Result in Quantum Factorization</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html</link>
-      <description>&amp;lt;p&amp;gt;I&amp;amp;#8217;m skeptical about&amp;amp;#8212;and not qualified to review&amp;amp;#8212;this &amp;lt;a href=&amp;quot;https://www.preprints.org/manuscript/202510.1649&amp;quot;&amp;gt;new result&amp;lt;/a&amp;gt; in factorization with a quantum computer, but if it&amp;amp;#8217;s true it&amp;amp;#8217;s a &amp;lt;a href=&amp;quot;https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/&amp;quot;&amp;gt;theoretical improvement&amp;lt;/a&amp;gt; in the speed of factoring large numbers with a quantum computer.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:46:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>cryptanalysis</category>
-      <category>quantum computing</category>
-      <category>RSA</category>
-    </item>
-    <item>
-      <title>DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage</title>
-      <link>https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html</link>
-      <description>Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo&amp;apos;s LAB52 threat intelligence team.
-The campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware</description>
-      <pubDate>Mon, 16 Mar 2026 14:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
