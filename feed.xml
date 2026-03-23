@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Mar 2026 02:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 07:09:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems</title>
+      <link>https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html</link>
+      <description>Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.
+The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that&amp;apos;s consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It&amp;apos;s</description>
+      <pubDate>Mon, 23 Mar 2026 11:45:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks</title>
       <link>https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html</link>
@@ -33,7 +43,7 @@ The vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of
       <title>Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages</title>
       <link>https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html</link>
       <description>The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm.
-The name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on</description>
+The name is a reference to the fact that the malware uses an ICP canister, which denotes a tamperproof smart contract on</description>
       <pubDate>Sat, 21 Mar 2026 13:55:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -76,8 +86,8 @@ CVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple</description>
     <item>
       <title>Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets</title>
       <link>https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html</link>
-      <description>Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.
-The latest incident impacted GitHub Actions &amp;quot;aquasecurity/trivy-action&amp;quot; and &amp;quot;aquasecurity/setup-trivy,&amp;quot; which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow</description>
+      <description>Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware capable of stealing sensitive CI/CD secrets.
+The latest incident impacted GitHub Actions &amp;quot;aquasecurity/trivy-action&amp;quot; and &amp;quot;aquasecurity/setup-trivy,&amp;quot; which are used to scan Docker container images for vulnerabilities and set up GitHub Actions</description>
       <pubDate>Fri, 20 Mar 2026 23:17:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1215,29 +1225,6 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
       <pubDate>Mon, 16 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crackarmor-linux-privilege/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>875 Million Android Phones Face Risk Due to Hidden Chip Flaw</title>
-      <link>https://www.techrepublic.com/article/news-android-chip-flaw-875m/</link>
-      <description>&amp;lt;p&amp;gt;A MediaTek chip flaw could put up to 875 million Android phones at risk, exposing how a locked device can still be vulnerable below the surface.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-android-chip-flaw-875m/&amp;quot;&amp;gt;875 Million Android Phones Face Risk Due to Hidden Chip Flaw&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:10:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-android-chip-flaw-875m/</guid>
-      <dc:creator>Liz Ticong</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Hardware</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>android</category>
-      <category>android phones</category>
-      <category>chips</category>
-      <category>cybersecurity</category>
-      <category>hardware devices</category>
-      <category>security</category>
-      <category>smartphones</category>
     </item>
   </channel>
 </rss>
