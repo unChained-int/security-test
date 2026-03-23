@@ -5,9 +5,68 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 13:06:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Xbox One Hacked</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html</link>
+      <description>&amp;lt;p&amp;gt;It&amp;amp;#8217;s an &amp;lt;a href=&amp;quot;https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level&amp;quot;&amp;gt;impressive feat&amp;lt;/a&amp;gt;, over a decade after the box was released:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Since reset glitching wasn&amp;amp;#8217;t possible, Gaasedelen thought some &amp;lt;a href=&amp;quot;https://www.tomshardware.com/news/yet-another-amd-zen-secure-encrypted-virtualization-vulnerability-demonstrated-by-researchers&amp;quot;&amp;gt;voltage glitching&amp;lt;/a&amp;gt; could do the trick. So, instead of tinkering with the system rest pin(s) the hacker targeted the momentary collapse of the CPU voltage rail. This was quite a feat, as Gaasedelen couldn&amp;amp;#8217;t &amp;amp;#8216;see&amp;amp;#8217; into the Xbox One, so had to develop new hardware introspection tools.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Eventually, the Bliss exploit was formulated, where two precise voltage glitches were made to land in succession. One skipped the loop where the ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 23 Mar 2026 11:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>hacking</category>
+      <category>Microsoft</category>
+    </item>
+    <item>
+      <title>Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware</title>
+      <link>https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html</link>
+      <description>Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.
+The email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening</description>
+      <pubDate>Mon, 23 Mar 2026 16:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Orders US Government to Patch Maximum Severity Cisco Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-orders-us-government-patch/</link>
+      <description>CISA added CVE-2026-20131 to its KEV catalog as it is being used in ransomware campaigns</description>
+      <pubDate>Mon, 23 Mar 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-orders-us-government-patch/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Operation Alice Takes Down 370,000+ Dark Web Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/operation-alice-370000-dark-web/</link>
+      <description>German-led policing effort against fraud operation disrupts countless CSAM and cybercrime sites</description>
+      <pubDate>Mon, 23 Mar 2026 09:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/operation-alice-370000-dark-web/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper</title>
+      <link>https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html</link>
+      <description>Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments.
+The last known clean release of Trivy on Docker Hub is 0.69.3. The malicious versions 0.69.4, 0.69.5, and 0.69.6 have since been removed from the container image library.
+&amp;quot;New image tags 0.69.5 and</description>
+      <pubDate>Mon, 23 Mar 2026 14:01:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Proofpoint Redefines Email and Data Security for the Agentic Workspace</title>
+      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace</link>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 06:59:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
     <item>
       <title>Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems</title>
       <link>https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html</link>
@@ -1141,90 +1200,6 @@ The vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosur
       <category>outlook login errors</category>
       <category>outlook outage</category>
       <category>outlook sync bug</category>
-    </item>
-    <item>
-      <title>Android 17 Leaks Reveal Major Redesign, AI Features, and Privacy Upgrades</title>
-      <link>https://www.techrepublic.com/article/news-android-17-leaks-features-beta-release-rumors/</link>
-      <description>&amp;lt;p&amp;gt;Android 17 beta is here. Here’s what is confirmed so far, what leaks suggest, and which rumored features may arrive later in 2026.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-android-17-leaks-features-beta-release-rumors/&amp;quot;&amp;gt;Android 17 Leaks Reveal Major Redesign, AI Features, and Privacy Upgrades&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 16 Mar 2026 19:23:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-android-17-leaks-features-beta-release-rumors/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>android 17</category>
-      <category>android ai features</category>
-      <category>android beta</category>
-      <category>android leaks</category>
-      <category>android update</category>
-      <category>google android</category>
-      <category>google io</category>
-      <category>mobile operating systems</category>
-    </item>
-    <item>
-      <title>Industrial Systems Under Siege: 77% of OT Environments Suffer Cyber Breaches</title>
-      <link>https://www.techrepublic.com/article/news-industrial-cybersecurity-ot-security-survey/</link>
-      <description>&amp;lt;p&amp;gt;Industrial systems face rising cyber threats as OT security lags modernization. A new survey reveals widespread breaches and growing risks to critical infrastructure.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-industrial-cybersecurity-ot-security-survey/&amp;quot;&amp;gt;Industrial Systems Under Siege: 77% of OT Environments Suffer Cyber Breaches&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 16 Mar 2026 18:22:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-industrial-cybersecurity-ot-security-survey/</guid>
-      <dc:creator>Drew Robb</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>IT Operations</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>critical infrastructure</category>
-      <category>critical infrastructure security</category>
-      <category>cyberattacks</category>
-      <category>industrial control systems</category>
-      <category>industrial cybersecurity</category>
-      <category>operational technology</category>
-      <category>ot security</category>
-      <category>siemens energy</category>
-    </item>
-    <item>
-      <title>Researchers Warn of Global Surge in Fake Shipment Tracking Scams</title>
-      <link>https://www.infosecurity-magazine.com/news/global-surge-fake-shipment/</link>
-      <description>Some of these campaigns are linked to Darcula, a Chinese-language phishing-as-a-service platform</description>
-      <pubDate>Mon, 16 Mar 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/global-surge-fake-shipment/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents &amp;amp; More</title>
-      <link>https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html</link>
-      <description>Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling.
-This week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,</description>
-      <pubDate>Mon, 16 Mar 2026 19:47:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attackers Abuse LiveChat to Phish Credit Card, Personal Data</title>
-      <link>https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data</link>
-      <description>A social engineering campaign impersonating PayPal and Amazon uses customer support interactions to acquire sensitive info.</description>
-      <pubDate>Mon, 16 Mar 2026 14:10:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/attackers-livechat-phish-credit-card-personal-data</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CrackArmor Flaws Expose Linux Systems to Privilege Escalation</title>
-      <link>https://www.infosecurity-magazine.com/news/crackarmor-linux-privilege/</link>
-      <description>CrackArmor AppArmor flaws let local Linux users gain root, break containers and enable DoS attacks</description>
-      <pubDate>Mon, 16 Mar 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crackarmor-linux-privilege/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
