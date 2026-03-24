@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Mar 2026 02:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 07:03:44 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -24,6 +24,15 @@
       <pubDate>Mon, 23 Mar 2026 21:43:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets</guid>
       <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Ransomware&amp;apos;s New Era: Moving at AI Speed</title>
+      <link>https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed</link>
+      <description>Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data</description>
+      <pubDate>Mon, 23 Mar 2026 21:40:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1182,14 +1191,6 @@ In a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>&amp;apos;CursorJack’ Attack Path Exposes Code Execution Risk in AI Development Environment</title>
-      <link>https://www.infosecurity-magazine.com/news/cursor-jack-attack-path-ai/</link>
-      <description>CursorJack shows how malicious MCP deeplinks in Cursor IDE can trigger user-approved code execution</description>
-      <pubDate>Tue, 17 Mar 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cursor-jack-attack-path-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
