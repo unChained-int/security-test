@@ -5,9 +5,18 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Mar 2026 02:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:01:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Iran Hacktivists Make Noise but Have Little Impact on War</title>
+      <link>https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war</link>
+      <description>Iran-aligned groups are trying to make their mark in the Gulf, but the results have fallen short of remarkable.</description>
+      <pubDate>Wed, 25 Mar 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit</title>
       <link>https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain</link>
@@ -35,7 +44,7 @@
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise</title>
+      <title>TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise</title>
       <link>https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html</link>
       <description>TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor.
 Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on</description>
@@ -254,6 +263,15 @@ Cloud security</description>
       <pubDate>Tue, 24 Mar 2026 10:32:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-initial-access-broker/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Cloud workload security: Mind the gaps</title>
+      <link>https://www.welivesecurity.com/en/business-security/cloud-workload-security-mind-gaps/</link>
+      <description>As IT infrastructure expands, visibility and control often lag behind – until an incident forces a reckoning</description>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/cloud-workload-security-mind-gaps/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
     </item>
     <item>
       <title>Handala Group Tied to Iranian Hack‑and‑Leak Operations, FBI Reveals</title>
@@ -1170,23 +1188,6 @@ The vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of in
       <guid isPermaLink="true">https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Ubuntu Flaw Enables Local Attackers to Gain Root Access</title>
-      <link>https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/</link>
-      <description>CVE-2026-3888 Ubuntu snap flaw lets local users escalate to root via timing-based exploit</description>
-      <pubDate>Wed, 18 Mar 2026 15:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>&amp;apos;Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft</link>
-      <description>A prompt injection vulnerability paired with other flaws can turn a Google search into a full attack chain that could threaten enterprise networks.</description>
-      <pubDate>Wed, 18 Mar 2026 15:05:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
