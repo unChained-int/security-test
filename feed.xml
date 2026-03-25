@@ -5,9 +5,45 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Mar 2026 19:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:08:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit</title>
+      <link>https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain</link>
+      <description>TeamPCP is the likely cyber threat actor behind attacks on Trivy, Checkmarx&amp;apos;s KICS and VS Code plug-ins, and the LiteLLM AI library — and all signs point to more attacks to come.</description>
+      <pubDate>Tue, 24 Mar 2026 21:28:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>How AI Coding Tools Crushed the Endpoint Security Fortress</title>
+      <link>https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security</link>
+      <description>Security vendors have spent years building up defenses around the endpoint, but one researcher says AI coding tools have brought the walls down.</description>
+      <pubDate>Tue, 24 Mar 2026 21:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>RSA Conference: UK NCSC Head Urges Industry to Develop Vibe Coding Safeguards</title>
+      <link>https://www.infosecurity-magazine.com/news/rsac-uk-ncsc-urges-vibe-coding/</link>
+      <description>The head of the UK’s NCSC is calling the cybersecurity industry to “seize the disruptive vibe coding opportunity” to make software more secure</description>
+      <pubDate>Tue, 24 Mar 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rsac-uk-ncsc-urges-vibe-coding/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 Likely via Trivy CI/CD Compromise</title>
+      <link>https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html</link>
+      <description>TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor.
+Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on</description>
+      <pubDate>Tue, 24 Mar 2026 23:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR</title>
       <link>https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html</link>
@@ -1151,40 +1187,6 @@ The vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of in
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Crypto Scam &amp;quot;ShieldGuard&amp;quot; Dismantled After Malware Discovery</title>
-      <link>https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/</link>
-      <description>ShieldGuard Chrome extension posed as a crypto security tool but stole wallets and drained user data</description>
-      <pubDate>Wed, 18 Mar 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Researchers: Meta, TikTok Steal Personal &amp;amp;amp; Financial Info When Users Click Ads</title>
-      <link>https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</link>
-      <description>Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more, according to an analysis.</description>
-      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SideWinder Espionage Campaign Expands Across Southeast Asia</title>
-      <link>https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</link>
-      <description>The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.</description>
-      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI-Enabled Adversaries Compress Time-to-Exploit Following Vulnerability Disclosure</title>
-      <link>https://www.infosecurity-magazine.com/news/exploitation-accelerates-in-2025/</link>
-      <description>Rapid7 says median time from publication to CISA KEV inclusion dropped to five days</description>
-      <pubDate>Wed, 18 Mar 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/exploitation-accelerates-in-2025/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
