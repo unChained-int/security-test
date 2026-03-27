@@ -5,9 +5,36 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Mar 2026 19:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 02:22:54 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Is the FCC&amp;apos;s Router Ban the Wrong Fix?</title>
+      <link>https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix</link>
+      <description>The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.</description>
+      <pubDate>Thu, 26 Mar 2026 19:48:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles</link>
+      <description>More than a decade since the 2015 Jeep hack, the cybersecurity of vehicles remains of the utmost importance.</description>
+      <pubDate>Thu, 26 Mar 2026 19:48:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles</guid>
+      <dc:creator>Bree Fowler</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Flaw in Langflow AI Platform Under Attack</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack</link>
+      <description>Threats actors pounced on the code injection vulnerability within hours of its disclosure, demonstrating that organizations have little time to address critical bugs.</description>
+      <pubDate>Thu, 26 Mar 2026 19:14:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Microsoft 365 Under Siege: Phishing Campaign Bypasses MFA Across 5 Countries</title>
       <link>https://www.techrepublic.com/article/news-microsoft-365-phishing-bypasses-security-codes/</link>
@@ -1103,37 +1130,6 @@ The last known clean release of Trivy on Docker Hub is 0.69.3. The malicious ver
       <pubDate>Mon, 23 Mar 2026 06:59:49 +0000</pubDate>
       <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-redefines-email-and-data-security-agentic-workspace</guid>
       <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems</title>
-      <link>https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html</link>
-      <description>Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.
-The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that&amp;apos;s consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It&amp;apos;s</description>
-      <pubDate>Mon, 23 Mar 2026 11:45:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks</title>
-      <link>https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html</link>
-      <description>Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday.
-&amp;quot;The campaign</description>
-      <pubDate>Sat, 21 Mar 2026 18:47:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager</title>
-      <link>https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html</link>
-      <description>Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution.
-The vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.0.
-&amp;quot;This vulnerability is remotely exploitable without authentication,&amp;quot; Oracle said in an advisory. &amp;quot;If successfully</description>
-      <pubDate>Sat, 21 Mar 2026 15:54:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
