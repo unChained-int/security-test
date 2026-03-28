@@ -5,9 +5,41 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Mar 2026 06:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 12:54:18 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug</title>
+      <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
+      <description>A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.
+The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.
+Per</description>
+      <pubDate>Sat, 28 Mar 2026 14:41:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation</title>
+      <link>https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.
+&amp;quot;When a</description>
+      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
+      <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
+      <description>Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.
+The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,</description>
+      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Bioluminescent Bacteria in Squid</title>
       <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</link>
@@ -1098,37 +1130,6 @@ According to the U.S. Department of Justice (DoJ), Aleksei Olegovich Volkov faci
       <guid isPermaLink="true">https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks</title>
-      <link>https://thehackernews.com/2026/03/citrix-urges-patching-critical.html</link>
-      <description>Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application.
-The vulnerabilities are listed below -
-
-CVE-2026-3055 (CVSS score: 9.3) - Insufficient input validation leading to memory overread
-CVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user</description>
-      <pubDate>Tue, 24 Mar 2026 11:29:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/citrix-urges-patching-critical.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI in the SOC: What Could Go Wrong?</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong</link>
-      <description>Two cybersecurity leaders tested out AI in their respective SOCs for six months — and here&amp;apos;s what they learned.</description>
-      <pubDate>Mon, 23 Mar 2026 22:07:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Trivy Supply Chain Attack Targets CI/CD Secrets</title>
-      <link>https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets</link>
-      <description>A threat actor used the open source security tool to deploy an infostealer into CI/CD workflows and steal cloud credentials, SSH keys, tokens, and other sensitive secrets.</description>
-      <pubDate>Mon, 23 Mar 2026 21:43:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
