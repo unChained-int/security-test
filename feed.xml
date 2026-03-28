@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Mar 2026 02:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 06:58:42 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -218,6 +218,15 @@ The relative safety, peace and prosperity that much of the world has enjoyed sin
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>RSAC 2026 wrap-up – Week in security with Tony Anscombe</title>
+      <link>https://www.welivesecurity.com/en/videos/rsac-2026-wrap-up-week-security-tony-anscombe/</link>
+      <description>This year, AI agents took the center stage – as a defensive capability, but more pressingly as a risk many organizations haven&amp;apos;t caught up with</description>
+      <pubDate>Fri, 27 Mar 2026 10:38:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/rsac-2026-wrap-up-week-security-tony-anscombe/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
+    </item>
+    <item>
       <title>Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware</title>
       <link>https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html</link>
       <description>A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker.
@@ -236,6 +245,15 @@ Both LangChain and LangGraph are open-source frameworks that are used to build a
       <guid isPermaLink="true">https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>A cunning predator: How Silver Fox preys on Japanese firms this tax season</title>
+      <link>https://www.welivesecurity.com/en/business-security/cunning-predator-how-silver-fox-preys-japanese-firms-tax-season/</link>
+      <description>Silver Fox is back in Japan, spoofing tax and HR emails timed to the one season when no one thinks twice about opening them</description>
+      <pubDate>Fri, 27 Mar 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/cunning-predator-how-silver-fox-preys-japanese-firms-tax-season/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Business Security</category>
     </item>
     <item>
       <title>Coruna, DarkSword &amp;amp;amp; Democratizing Nation-State Exploit Kits</title>
@@ -1110,24 +1128,6 @@ CVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user</description>
       <pubDate>Mon, 23 Mar 2026 21:43:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets</guid>
       <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Ransomware&amp;apos;s New Era: Moving at AI Speed</title>
-      <link>https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed</link>
-      <description>Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data.</description>
-      <pubDate>Mon, 23 Mar 2026 21:40:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CISOs Debate Human Role in AI-Powered Security</title>
-      <link>https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security</link>
-      <description>The idea of a &amp;amp;quot;human in the loop&amp;amp;quot; in AI deployment was challenged during a security executive panel at the RSAC 2026 Conference this week.</description>
-      <pubDate>Mon, 23 Mar 2026 20:26:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
