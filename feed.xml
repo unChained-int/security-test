@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 29 Mar 2026 07:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 12:55:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -30,6 +30,16 @@ Per</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
+      <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
+      <description>Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.
+The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,</description>
+      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation</title>
       <link>https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</link>
       <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
@@ -37,16 +47,6 @@ The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which coul
 &amp;quot;When a</description>
       <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
-      <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
-      <description>Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.
-The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,</description>
-      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
