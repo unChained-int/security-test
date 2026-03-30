@@ -5,9 +5,75 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:18:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection</title>
+      <link>https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/</link>
+      <description>Researchers at ReliaQuest warn of persistent malware campaign targeting enterprise credentials</description>
+      <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>The State of Secrets Sprawl 2026: 9 Takeaways for CISOs</title>
+      <link>https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html</link>
+      <description>Secrets sprawl isn&amp;apos;t slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian&amp;apos;s State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded.
+This year&amp;apos;s findings reveal three core trends: AI has</description>
+      <pubDate>Mon, 30 Mar 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple’s Camera Indicator Lights</title>
+      <link>https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html</link>
+      <description>&amp;lt;p&amp;gt;A &amp;lt;a href=&amp;quot;https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator&amp;quot;&amp;gt;thoughtful review&amp;lt;/a&amp;gt; of Apple&amp;amp;#8217;s system to alert users that the camera is on. It&amp;amp;#8217;s really well-designed, and important in a world where malware could surreptitiously start recording.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The reason it&amp;amp;#8217;s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the fact that hardware is generally more secure than software, because it&amp;amp;#8217;s harder to tamper with. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it&amp;amp;#8217;s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 30 Mar 2026 11:08:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Apple</category>
+      <category>cameras</category>
+      <category>malware</category>
+    </item>
+    <item>
+      <title>Critical Citrix NetScaler Vulnerability Exploited in the Wild</title>
+      <link>https://www.infosecurity-magazine.com/news/critical-citrix-netscaler/</link>
+      <description>Researchers from watchTowr and Defused have found evidence that attackers are actively exploiting CVE-2026-3055, a critical NetScaler vulnerability</description>
+      <pubDate>Mon, 30 Mar 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/critical-citrix-netscaler/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels</title>
+      <link>https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html</link>
+      <description>Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that&amp;apos;s distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.
+The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables&amp;quot; to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling</description>
+      <pubDate>Mon, 30 Mar 2026 15:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ICO Fines UK Nuisance Call Scammers £100,000</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-fines-uk-nuisance-call/</link>
+      <description>The UK Information Commissioner’s Office has handed a £100,000 fine to Birmingham-based TMAC</description>
+      <pubDate>Mon, 30 Mar 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ico-fines-uk-nuisance-call/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>European Commission Confirms Cloud Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/european-commission-cloud-data/</link>
+      <description>The European Commission has revealed details of a data breach impacting its AWS infrastructure</description>
+      <pubDate>Mon, 30 Mar 2026 08:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/european-commission-cloud-data/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign</title>
       <link>https://thehackernews.com/2026/03/three-china-linked-clusters-target.html</link>
@@ -1049,88 +1115,6 @@ Multiple security vendors, including Endor Labs and JFrog, revealed that litellm
       <pubDate>Tue, 24 Mar 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/foreign-minister-kuleba/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>How a Large Bank Uses AI Digital Twins for Threat Hunting</title>
-      <link>https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting</link>
-      <description>JPMorganChase uses digital fingerprints and digital twins to spot online attackers and malicious behaviors while also reducing pesky false alerts.</description>
-      <pubDate>Tue, 24 Mar 2026 13:16:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting</guid>
-      <dc:creator>Bree Fowler</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Enterprise Cybersecurity Software Fails 20% of the Time, Warns Absolute Security</title>
-      <link>https://www.infosecurity-magazine.com/news/cybersecurity-software-failure-20/</link>
-      <description>Poor patch management, increasingly complex IT environments and continued use of obsolete software puts organizations at risk from cyber threats, says the Absolute Security 2026 Resilience Risk Index</description>
-      <pubDate>Tue, 24 Mar 2026 13:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybersecurity-software-failure-20/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Proposes Better Identity, Guardrails for AI Agents</title>
-      <link>https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents</link>
-      <description>Companies need better controls to manage key threats rising from the growth of agentic AI. These new features provide a starting point.</description>
-      <pubDate>Tue, 24 Mar 2026 12:28:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills</title>
-      <link>https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html</link>
-      <description>Cybersecurity has changed fast. Roles are more&amp;amp;nbsp;specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. 
-These challenges do not</description>
-      <pubDate>Tue, 24 Mar 2026 17:31:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials</title>
-      <link>https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html</link>
-      <description>Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data.
-The activity is being tracked by ReversingLabs as the Ghost campaign. The list of identified packages, all published by a user named mikilanjillo, is below -
-
-react-performance-suite
-react-state-optimizer-core
-react-fast-utilsa
-ai-fast-auto-trader</description>
-      <pubDate>Tue, 24 Mar 2026 17:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Team Mirai and Democracy</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html</link>
-      <description>&amp;lt;p&amp;gt;Japan’s &amp;lt;a href=&amp;quot;https://theconversation.com/japans-ruling-party-secures-historic-election-victory-but-challenges-lie-ahead-275279&amp;quot; rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;election&amp;lt;/a&amp;gt; last month and the rise of the country’s newest and most innovative political party, &amp;lt;a href=&amp;quot;https://team-mir.ai/&amp;quot; rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Team Mirai&amp;lt;/a&amp;gt;, illustrates the viability of a different way to do politics.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;In this model, technology is used to make democratic processes stronger, instead of undermining them. It is harnessed to root out corruption, instead of serving as a cash cow for campaign donations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Imagine an election where every voter has the opportunity to opine directly to politicians on precisely the issues they care about. They’re not expected to spend hours becoming policy experts. Instead, an ...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 24 Mar 2026 11:03:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>democracy</category>
-      <category>Japan</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials</title>
-      <link>https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html</link>
-      <description>Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack.
-The workflows, both maintained by the supply chain security company Checkmarx, are listed below -
-
-checkmarx/ast-github-action
-checkmarx/kics-github-action
-
-Cloud security</description>
-      <pubDate>Tue, 24 Mar 2026 16:08:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
