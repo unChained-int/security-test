@@ -5,9 +5,94 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:01:38 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Black Hat USA</title>
+      <link>https://www.darkreading.com/events/black-hat-usa</link>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Drive Expands AI Ransomware Detection, File Recovery to More Users</title>
+      <link>https://www.techrepublic.com/article/news-google-drive-ransomware-detection-file-recovery/</link>
+      <description>&amp;lt;p&amp;gt;Google expands Drive ransomware detection and file recovery with its latest AI model, which detects 14 times more infections as the features move beyond beta.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-drive-ransomware-detection-file-recovery/&amp;quot;&amp;gt;Google Drive Expands AI Ransomware Detection, File Recovery to More Users&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 31 Mar 2026 18:01:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-drive-ransomware-detection-file-recovery/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>cybersecurity</category>
+      <category>file recovery</category>
+      <category>google drive</category>
+      <category>Google Workspace</category>
+      <category>ransomware</category>
+      <category>ransomware protection</category>
+    </item>
+    <item>
+      <title>TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks</title>
+      <link>https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html</link>
+      <description>A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos.
+The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,</description>
+      <pubDate>Tue, 31 Mar 2026 21:33:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Rethinking Vulnerability Management Strategies for Mid-Market Security</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security</link>
+      <description>Intruder&amp;apos;s Chris Wallis argues mid-market teams should prioritize CVE remediation speed over vulnerability counts, while expanding defenses beyond CVEs to include attack surface management.</description>
+      <pubDate>Tue, 31 Mar 2026 15:35:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security</guid>
+      <dc:creator>Terry Sweeney</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI and Quantum Are Forcing a Rethink of Digital Trust</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust</link>
+      <description>In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.</description>
+      <pubDate>Tue, 31 Mar 2026 15:29:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust</guid>
+      <dc:creator>Terry Sweeney</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Iran Deploys &amp;apos;Pseudo-Ransomware,&amp;apos; Revives Pay2Key Operations</title>
+      <link>https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations</link>
+      <description>Iranian APTs are blurring the lines between state-sponsored and cybercriminal activities to target high-impact US organizations.</description>
+      <pubDate>Tue, 31 Mar 2026 13:31:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts</title>
+      <link>https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html</link>
+      <description>Cybersecurity researchers have disclosed a security &amp;quot;blind spot&amp;quot; in Google Cloud&amp;apos;s Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization&amp;apos;s cloud environment.
+According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused</description>
+      <pubDate>Tue, 31 Mar 2026 18:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ChatGPT Security Issue Enabled Data Theft via Single Prompt</title>
+      <link>https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</link>
+      <description>OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole</description>
+      <pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets</title>
       <link>https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</link>
@@ -17,22 +102,22 @@
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
+      <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
+      <description>The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments.
+This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors</description>
+      <pubDate>Tue, 31 Mar 2026 17:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains</title>
       <link>https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html</link>
       <description>Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT.
 &amp;quot;The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating</description>
       <pubDate>Tue, 31 Mar 2026 17:16:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
-      <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
-      <description>The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments.
-This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors</description>
-      <pubDate>Tue, 31 Mar 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -89,11 +174,20 @@ According to StepSecurity, the two</description>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>AI-Driven Code Surge Is Forcing a Rethink of AppSec</title>
+      <link>https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec</link>
+      <description>In a conversation with Dark Reading’s Terry Sweeney, Black Duck CEO Jason Schmitt explains how AI is reshaping application security and why it must evolve to keep pace.</description>
+      <pubDate>Mon, 30 Mar 2026 18:42:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec</guid>
+      <dc:creator>Terry Sweeney</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation</title>
-      <link>https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation</link>
+      <link>https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation</link>
       <description>CVE-2025-53521 was initially disclosed in October as a high-severity denial-of-service (DoS) flaw, but new information has revealed the bug is actually much more dangerous.</description>
       <pubDate>Mon, 30 Mar 2026 18:24:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation</guid>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
@@ -1028,93 +1122,6 @@ According to TASS and MVD Media, a news website linked to the Russian Interior M
       <category>telus digital</category>
       <category>third party risk</category>
       <category>vendor security</category>
-    </item>
-    <item>
-      <title>US: FCC Bans Foreign-Made Routers Over National Security Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/us-fcc-bans-foreign-made-routers/</link>
-      <description>The US Federal Communications Commission has placed all “consumer-grade” internet routers produced outside the US on its “covered list”</description>
-      <pubDate>Wed, 25 Mar 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-fcc-bans-foreign-made-routers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI-Native Security Is a Must to Counter AI-Based Attacks</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/ai-native-security-counter-attacks</link>
-      <description>Attacks by artificial intelligence agents are a reality. Experts at Nvidia&amp;apos;s GTC conference say defenders need to use the same tools to fight them off.</description>
-      <pubDate>Wed, 25 Mar 2026 12:26:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-native-security-counter-attacks</guid>
-      <dc:creator>Agam Shah</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>TeamPCP Expands Supply Chain Campaign With LiteLLM PyPI Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/teampcp-litellm-pypi-supply-chain/</link>
-      <description>Python package LiteLLM compromised with credential-stealing malware linked to TeamPCP threat group</description>
-      <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/teampcp-litellm-pypi-supply-chain/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The Kill Chain Is Obsolete When Your AI Agent Is the Threat</title>
-      <link>https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</link>
-      <description>In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.
-This incident is worrying, but there&amp;apos;s a scenario that should</description>
-      <pubDate>Wed, 25 Mar 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ex-NSA Directors Discuss &amp;apos;Red Line&amp;apos; for Offensive Cyberattacks</title>
-      <link>https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks</link>
-      <description>Four former NSA chiefs representing a near-complete history of US Cyber Command debate the role of offensive cyber in the government at RSAC.</description>
-      <pubDate>Wed, 25 Mar 2026 11:55:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ex-nsa-directors-red-line-offensive-cyberattacks</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks</title>
-      <link>https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html</link>
-      <description>The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch ransomware attacks against U.S. companies.
-Ilya Angelov, 40, of Tolyatti, Russia, was also fined $100,000. Angelov, who went by the online aliases &amp;quot;milan&amp;quot; and &amp;quot;okart,&amp;quot; is said to have co-managed a Russia-based cybercriminal group known as TA551 (aka</description>
-      <pubDate>Wed, 25 Mar 2026 17:22:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse</title>
-      <link>https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html</link>
-      <description>Cybersecurity researchers are calling attention to an active device code phishing campaign that&amp;apos;s targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany.
-The activity, per Huntress, was first spotted on February 19, 2026, with subsequent cases appearing at an accelerated pace since then. Notably, the campaign leverages</description>
-      <pubDate>Wed, 25 Mar 2026 17:04:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Sen. Wyden Warns of Another Section 702 Abuse</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html</link>
-      <description>&amp;lt;p&amp;gt;Sen. Ron Wyden is &amp;lt;a href=&amp;quot;https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/&amp;quot;&amp;gt;warning us&amp;lt;/a&amp;gt; of an abuse of Section 702:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Wyden took to the Senate floor to deliver a lengthy speech, ostensibly about the since approved (with support of many Democrats) nomination of Joshua Rudd to lead the NSA. Wyden was protesting that nomination, but in the context of Rudd being unwilling to agree to basic constitutional limitations on NSA surveillance. But that&amp;amp;#8217;s just a jumping off point ahead of Section 702&amp;amp;#8217;s upcoming reauthorization deadline. Buried in the speech is a passage that should set off every alarm bell:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;There&amp;amp;#8217;s another example of secret law related to Section 702, one that directly affects the privacy rights of Americans. For years, I have asked various administrations to declassify this matter. Thus far they have all refused, although I am still waiting for a response from DNI Gabbard. I strongly believe that this matter can and should be declassified and that Congress needs to debate it openly before Section 702 is reauthorized. In fact, ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 25 Mar 2026 11:02:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>NSA</category>
-      <category>privacy</category>
-      <category>surveillance</category>
-    </item>
-    <item>
-      <title>Experts Sound Alarm Over “Prompt Poaching” Browser Extensions</title>
-      <link>https://www.infosecurity-magazine.com/news/experts-prompt-poaching-browser/</link>
-      <description>Expel has warned of malicious Chrome extensions stealing users’ AI conversations</description>
-      <pubDate>Wed, 25 Mar 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/experts-prompt-poaching-browser/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
