@@ -5,9 +5,20 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:13:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account</title>
+      <link>https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html</link>
+      <description>The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency.
+Versions 1.14.1 and 0.30.4 of Axios have been found to inject &amp;quot;plain-crypto-js&amp;quot; version 4.2.1 as a fake dependency.
+According to StepSecurity, the two versions were published using the compromised npm credentials of the primary Axios</description>
+      <pubDate>Tue, 31 Mar 2026 11:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>AI-Powered &amp;apos;DeepLoad&amp;apos; Malware Steals Credentials, Evades Detection</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection</link>
@@ -1097,15 +1108,6 @@ The action was designed to safeguard Americans and the underlying communications
       <pubDate>Tue, 24 Mar 2026 21:28:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain</guid>
       <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>How AI Coding Tools Crushed the Endpoint Security Fortress</title>
-      <link>https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security</link>
-      <description>Security vendors have spent years building up defenses around the endpoint, but one researcher says AI coding tools have brought the walls down.</description>
-      <pubDate>Tue, 24 Mar 2026 21:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security</guid>
-      <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
