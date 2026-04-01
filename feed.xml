@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Apr 2026 02:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:19:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms</title>
+      <link>https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html</link>
+      <description>Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.
+&amp;quot;No sensitive customer data or credentials were involved or exposed,&amp;quot; an Anthropic spokesperson said in a statement shared with CNBC News. &amp;quot;This was a release packaging issue caused by human error, not a security</description>
+      <pubDate>Wed, 01 Apr 2026 11:42:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>New North Korean AI Hiring Scheme Targets US Companies</title>
@@ -1115,14 +1125,6 @@ According to TASS and MVD Media, a news website linked to the Russian Interior M
       <guid isPermaLink="true">https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cloud Phones Linked to Rising Financial Fraud Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/cloud-phones-financial-fraud/</link>
-      <description>Cloud Android phones fuel financial fraud, evading detection and enabling dropper accounts</description>
-      <pubDate>Wed, 25 Mar 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cloud-phones-financial-fraud/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
