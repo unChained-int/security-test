@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:33:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,68 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New North Korean AI Hiring Scheme Targets US Companies</title>
+      <link>https://www.techrepublic.com/article/news-north-korean-ai-hiring-scheme-us-companies/</link>
+      <description>&amp;lt;p&amp;gt;North Korean operatives are using AI-generated resumes and stolen identities to infiltrate US companies, turning hiring pipelines into a new attack vector.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-north-korean-ai-hiring-scheme-us-companies/&amp;quot;&amp;gt;New North Korean AI Hiring Scheme Targets US Companies&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 31 Mar 2026 21:19:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-north-korean-ai-hiring-scheme-us-companies/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>ai hiring fraud</category>
+      <category>cybersecurity hiring</category>
+      <category>dprk hackers</category>
+      <category>identity theft</category>
+      <category>insider threat</category>
+      <category>north korea cyber threat</category>
+      <category>remote work security</category>
+      <category>social engineering</category>
+    </item>
+    <item>
+      <title>Axios NPM Package Compromised in Precision Attack</title>
+      <link>https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack</link>
+      <description>The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.</description>
+      <pubDate>Tue, 31 Mar 2026 20:55:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google&amp;apos;s Vertex AI Has an Over-Privileged Problem</title>
+      <link>https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem</link>
+      <description>Palo Alto researchers show how attackers could exploit AI agents on Google&amp;apos;s Vertex AI to steal data and break into restricted cloud infrastructure.</description>
+      <pubDate>Tue, 31 Mar 2026 20:26:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials</title>
+      <link>https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials</link>
+      <description>The threat group&amp;apos;s shift to speedy attacks on AWS, Azure, and SaaS instances shows organizations need to respond quickly to compromised credentials.</description>
+      <pubDate>Tue, 31 Mar 2026 20:02:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Android Developer Verification Rollout Begins Ahead of September Enforcement</title>
+      <link>https://thehackernews.com/2026/03/android-developer-verification-rollout.html</link>
+      <description>Google on Monday said it&amp;apos;s officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while &amp;quot;hiding behind anonymity.&amp;quot;
+The development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.
+As part of this</description>
+      <pubDate>Tue, 31 Mar 2026 23:58:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/android-developer-verification-rollout.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Google Drive Expands AI Ransomware Detection, File Recovery to More Users</title>
@@ -58,6 +120,14 @@ The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of inte
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Maryland Man Charged Over $53m Uranium Finance Crypto Hack</title>
+      <link>https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/</link>
+      <description>Maryland man accused of $53m Uranium Finance hack, exploited smart contract flaws, laundered funds</description>
+      <pubDate>Tue, 31 Mar 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>AI and Quantum Are Forcing a Rethink of Digital Trust</title>
       <link>https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust</link>
       <description>In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.</description>
@@ -65,6 +135,14 @@ The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of inte
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust</guid>
       <dc:creator>Terry Sweeney</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Phantom Project Bundles Infostealer, Crypter and RAT For Sale</title>
+      <link>https://www.infosecurity-magazine.com/news/phantom-project-infostealer-nov-25/</link>
+      <description>Phantom Stealer .NET harvests browser credentials, cookies, cards, sessions, as stealer-as-a-service</description>
+      <pubDate>Tue, 31 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phantom-project-infostealer-nov-25/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Iran Deploys &amp;apos;Pseudo-Ransomware,&amp;apos; Revives Pay2Key Operations</title>
@@ -125,7 +203,7 @@ This is the defining challenge of the new era of digital warfare: the weaponizat
       <title>Inventors of Quantum Cryptography Win Turing Award</title>
       <link>https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html</link>
       <description>&amp;lt;p&amp;gt;Charles Bennett and Gilles Brassard have &amp;lt;a href=&amp;quot;https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html&amp;quot;&amp;gt;won&amp;lt;/a&amp;gt; the 2026 Turing Award for inventing quantum cryptography.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;I am incredibly pleased to see them get this recognition. I have always thought the technology to be fantastic, even though I think it&amp;amp;#8217;s largely unnecessary. I wrote up my thoughts back in 2008, in an &amp;amp;#60;a href+https://www.schneier.com/essays/archives/2008/10/quantum_cryptography.html&amp;amp;#8221;&amp;amp;#62;essay&amp;lt;/a&amp;gt; titled &amp;amp;#8220;Quantum Cryptography: As Awesome As It Is Pointless.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;I am incredibly pleased to see them get this recognition. I have always thought the technology to be fantastic, even though I think it&amp;amp;#8217;s largely unnecessary. I wrote up my thoughts back in 2008, in an &amp;lt;a&amp;gt;essay&amp;lt;/a&amp;gt; titled &amp;amp;#8220;Quantum Cryptography: As Awesome As It Is Pointless.&amp;amp;#8221;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Back then, I wrote:&amp;lt;/p&amp;gt;
 &amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;While I like the science of quantum cryptography&amp;amp;#8212;my undergraduate degree was in physics&amp;amp;#8212;I don&amp;amp;#8217;t see any commercial value in it. I don&amp;amp;#8217;t believe it solves any security problem that needs solving. I don&amp;amp;#8217;t believe that it&amp;amp;#8217;s worth paying for, and I can&amp;amp;#8217;t imagine anyone but a few technophiles buying and deploying it. Systems that use it don&amp;amp;#8217;t magically become unbreakable, because the quantum part doesn&amp;amp;#8217;t address the weak points of the system...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
       <pubDate>Tue, 31 Mar 2026 11:05:32 +0000</pubDate>
@@ -152,6 +230,15 @@ This is the defining challenge of the new era of digital warfare: the weaponizat
       <pubDate>Tue, 31 Mar 2026 08:45:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>This month in security with Tony Anscombe – March 2026 edition</title>
+      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-march-2026/</link>
+      <description>The past four weeks have seen a slew of new cybersecurity wake-up calls that showed why every organization needs a well-thought-out cyber-resilience plan</description>
+      <pubDate>Tue, 31 Mar 2026 08:27:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-march-2026/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
     </item>
     <item>
       <title>Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account</title>
@@ -1036,92 +1123,6 @@ According to TASS and MVD Media, a news website linked to the Russian Interior M
       <pubDate>Wed, 25 Mar 2026 16:05:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cloud-phones-financial-fraud/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Blame Game: Why Public Cyber Attribution Carries Risks</title>
-      <link>https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks</link>
-      <description>Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.</description>
-      <pubDate>Wed, 25 Mar 2026 16:03:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-exploit-id-industrial-scale/</link>
-      <description>Cybersecurity company’s annual report issues warning over a “mass-marketed impersonation crisis” over attackers abusing legitimate credentials</description>
-      <pubDate>Wed, 25 Mar 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-exploit-id-industrial-scale/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Phishers Pose as Palo Alto Networks&amp;apos; Recruiters for Months in Job Scam</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam</link>
-      <description>A series of campaigns that began in August aim to defraud job candidates, using psychological tactics and data scraped from LinkedIn profiles.</description>
-      <pubDate>Wed, 25 Mar 2026 15:05:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Dominates RSAC Innovation Sandbox</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox</link>
-      <description>Ten finalists had three minutes to make their case for being the most innovative, promising young security company of the year. Geordie AI wins the 2026 contest.</description>
-      <pubDate>Wed, 25 Mar 2026 15:03:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox</guid>
-      <dc:creator>Fahmida Y. Rashid</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SANS: Top 5 Most Dangerous New Attack Techniques to Watch</title>
-      <link>https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques</link>
-      <description>For the first time, SANS Institute&amp;apos;s five top attack techniques all have one thing in common — AI.</description>
-      <pubDate>Wed, 25 Mar 2026 14:40:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data</title>
-      <link>https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html</link>
-      <description>Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs.
-&amp;quot;It logs keystrokes, dumps cookies and session tokens, captures screenshots, and</description>
-      <pubDate>Wed, 25 Mar 2026 19:56:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why a &amp;apos;Near-Miss&amp;apos; Database Is Key to Improving Information Sharing</title>
-      <link>https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing</link>
-      <description>Organizations disclose attack details, though information may be limited. What if they did the same with close calls?</description>
-      <pubDate>Wed, 25 Mar 2026 14:09:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/experts-near-miss-database-improve-information-sharing</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Nearly 7M Email Addresses Exposed in Crunchyroll Third-Party Breach</title>
-      <link>https://www.techrepublic.com/article/news-crunchyroll-data-breach-third-party-vendor/</link>
-      <description>&amp;lt;p&amp;gt;Hackers claim they stole 6.8 million Crunchyroll email addresses through a third-party vendor breach, exposing support ticket data and other user details.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-crunchyroll-data-breach-third-party-vendor/&amp;quot;&amp;gt;Nearly 7M Email Addresses Exposed in Crunchyroll Third-Party Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 25 Mar 2026 13:59:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-crunchyroll-data-breach-third-party-vendor/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>APAC</category>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>crunchyroll breach</category>
-      <category>cybersecurity news</category>
-      <category>data breach</category>
-      <category>data exposure</category>
-      <category>supply chain attack</category>
-      <category>telus digital</category>
-      <category>third party risk</category>
-      <category>vendor security</category>
     </item>
   </channel>
 </rss>
