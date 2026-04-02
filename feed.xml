@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:12:51 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,91 @@
       <description/>
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Bank Trojan &amp;apos;Casbaneiro&amp;apos; Worms Through Latin America</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america</link>
+      <description>Augmented Marauder&amp;apos;s multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.</description>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners</title>
+      <link>https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html</link>
+      <description>A&amp;amp;nbsp;financially motivated operation&amp;amp;nbsp;codenamed REF1695&amp;amp;nbsp;has been&amp;amp;nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&amp;amp;nbsp;2023.
+&amp;quot;Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,&amp;quot; Elastic</description>
+      <pubDate>Thu, 02 Apr 2026 17:12:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The State of Trusted Open Source Report</title>
+      <link>https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html</link>
+      <description>In December&amp;amp;nbsp;2025, we shared the first-ever The State of Trusted Open&amp;amp;nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These&amp;amp;nbsp;insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and</description>
+      <pubDate>Thu, 02 Apr 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Possible US Government iPhone Hacking Tool Leaked</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html</link>
+      <description>&amp;lt;p&amp;gt;Wired &amp;lt;a href=&amp;quot;https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/&amp;quot;&amp;gt;writes&amp;lt;/a&amp;gt; (alternate &amp;lt;a href=&amp;quot;https://archive.ph/vN8U5&amp;quot;&amp;gt;source&amp;lt;/a&amp;gt;):&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Security researchers at Google on Tuesday &amp;lt;a href=&amp;quot;https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit&amp;quot;&amp;gt;released a report&amp;lt;/a&amp;gt; describing what they&amp;amp;#8217;re calling &amp;amp;#8220;Coruna,&amp;amp;#8221; a highly sophisticated iPhone hacking toolkit that includes five complete hacking techniques capable of bypassing all the defenses of an iPhone to silently install malware on a device when it visits a website containing the exploitation code. In total, Coruna takes advantage of 23 distinct vulnerabilities in iOS, a rare collection of hacking components that suggests it was created by a well-resourced, likely state-sponsored group of hackers...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 02 Apr 2026 10:05:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Apple</category>
+      <category>cryptocurrency</category>
+      <category>cybersecurity</category>
+      <category>hacking</category>
+      <category>iOS</category>
+      <category>iPhone</category>
+      <category>malware</category>
+      <category>NSA</category>
+      <category>Russia</category>
+    </item>
+    <item>
+      <title>WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action</title>
+      <link>https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html</link>
+      <description>Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&amp;amp;nbsp;spyware.
+According to reports from Italian&amp;amp;nbsp;newspaper La Repubblica and news&amp;amp;nbsp;agency ANSA, the vast majority of the targets are located in Italy. It&amp;apos;s assessed that the threat actors behind the activity used social engineering</description>
+      <pubDate>Thu, 02 Apr 2026 15:21:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Most CNI Firms Face Up to £5m in Downtime from OT Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/</link>
+      <description>E2e-assure says 80% of critical infrastructure providers could face millions in downtime from cyber-attacks</description>
+      <pubDate>Thu, 02 Apr 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit</title>
+      <link>https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html</link>
+      <description>Apple&amp;amp;nbsp;on&amp;amp;nbsp;Wednesday expanded the availability of iOS 18.7.7&amp;amp;nbsp;and iPadOS 18.7.7&amp;amp;nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known&amp;amp;nbsp;as DarkSword.
+&amp;quot;We enabled the availability of iOS 18.7.7&amp;amp;nbsp;for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security</description>
+      <pubDate>Thu, 02 Apr 2026 12:39:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense</link>
+      <description>A chief medical information officer provided a peek into what hospitals face when they inevitably suffer a ransomware attack—whether it leads to short or long-term outages.</description>
+      <pubDate>Wed, 01 Apr 2026 22:04:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1037,92 +1122,6 @@ Both LangChain and LangGraph are open-source frameworks that are used to build a
       <guid isPermaLink="true">https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>A cunning predator: How Silver Fox preys on Japanese firms this tax season</title>
-      <link>https://www.welivesecurity.com/en/business-security/cunning-predator-how-silver-fox-preys-japanese-firms-tax-season/</link>
-      <description>Silver Fox is back in Japan, spoofing tax and HR emails timed to the one season when no one thinks twice about opening them</description>
-      <pubDate>Fri, 27 Mar 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/cunning-predator-how-silver-fox-preys-japanese-firms-tax-season/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>Coruna, DarkSword &amp;amp;amp; Democratizing Nation-State Exploit Kits</title>
-      <link>https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits</link>
-      <description>Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.</description>
-      <pubDate>Thu, 26 Mar 2026 19:56:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Is the FCC&amp;apos;s Router Ban the Wrong Fix?</title>
-      <link>https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix</link>
-      <description>The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.</description>
-      <pubDate>Thu, 26 Mar 2026 19:48:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles</link>
-      <description>More than a decade since the 2015 Jeep hack, the cybersecurity of vehicles remains of the utmost importance.</description>
-      <pubDate>Thu, 26 Mar 2026 19:48:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles</guid>
-      <dc:creator>Bree Fowler</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical Flaw in Langflow AI Platform Under Attack</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack</link>
-      <description>Threats actors pounced on the code injection vulnerability within hours of its disclosure, demonstrating that organizations have little time to address critical bugs.</description>
-      <pubDate>Thu, 26 Mar 2026 19:14:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft 365 Under Siege: Phishing Campaign Bypasses MFA Across 5 Countries</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-365-phishing-bypasses-security-codes/</link>
-      <description>&amp;lt;p&amp;gt;A global phishing campaign targeting Microsoft 365 bypasses security codes using a legitimate login feature, impacting hundreds of organizations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-365-phishing-bypasses-security-codes/&amp;quot;&amp;gt;Microsoft 365 Under Siege: Phishing Campaign Bypasses MFA Across 5 Countries&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 26 Mar 2026 18:25:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-365-phishing-bypasses-security-codes/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>account security</category>
-      <category>cloud security</category>
-      <category>cybersecurity threats</category>
-      <category>data breach</category>
-      <category>Microsoft 365</category>
-      <category>oauth</category>
-      <category>phishing attack</category>
-      <category>social engineering</category>
-    </item>
-    <item>
-      <title>China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks</title>
-      <link>https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html</link>
-      <description>A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.
-The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that&amp;apos;s also tracked as Earth Bluecrow,</description>
-      <pubDate>Thu, 26 Mar 2026 23:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-generated-code-vulnerabilities/</link>
-      <description>Security researchers from Georgia Tech have observed a surge in reported CVEs for which the flaw was introduced by AI-generated code</description>
-      <pubDate>Thu, 26 Mar 2026 16:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-generated-code-vulnerabilities/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
