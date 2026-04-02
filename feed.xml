@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:56:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,6 +17,76 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026</link>
+      <description>AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.</description>
+      <pubDate>Thu, 02 Apr 2026 21:14:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026</guid>
+      <dc:creator>Becky Bracken, Kristina Beek</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>US Bans All Foreign-Made Consumer Routers</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html</link>
+      <description>&amp;lt;p&amp;gt;This is for &amp;lt;a href=&amp;quot;https://docs.fcc.gov/public/attachments/DOC-420034A1.pdf&amp;quot;&amp;gt;new routers&amp;lt;/a&amp;gt;; you don&amp;amp;#8217;t have to throw away your existing ones:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The Executive Branch determination noted that foreign-produced routers (1) introduce &amp;amp;#8220;a supply chain vulnerability that could disrupt the U.S. economy, critical infrastructure, and national defense&amp;amp;#8221; and (2) pose &amp;amp;#8220;a severe cybersecurity risk that could be leveraged to immediately and severely disrupt U.S. critical infrastructure and directly harm U.S. persons.&amp;amp;#8221;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;More &amp;lt;a href=&amp;quot;https://www.bbc.com/news/articles/c74787w149zo&amp;quot;&amp;gt;information&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Any new router made outside the US will now need to be approved by the FCC before it can be imported, marketed, or sold in the country...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 02 Apr 2026 17:28:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>China</category>
+      <category>cyberattack</category>
+      <category>hardware</category>
+      <category>national security policy</category>
+    </item>
+    <item>
+      <title>RSAC 2026: AI Dominates, But Community Remains Key to Security</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community</link>
+      <description>As AI took center stage at this year&amp;apos;s conference, experts debated automation, oversight and the evolving role of human intelligence in cybersecurity — despite the US government&amp;apos;s notable absence.</description>
+      <pubDate>Thu, 02 Apr 2026 15:56:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community</guid>
+      <dc:creator>Kristina Beek, Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise</title>
+      <link>https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html</link>
+      <description>Cisco&amp;amp;nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges.
+The&amp;amp;nbsp;vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8&amp;amp;nbsp;out of a maximum of&amp;amp;nbsp;10.0.
+&amp;quot;This</description>
+      <pubDate>Thu, 02 Apr 2026 20:51:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New &amp;apos;Storm&amp;apos; Infostealer Remotely Decrypts Stolen Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</link>
+      <description>This modern infostealer adopted server-side decryption of stolen credentials to bypass security controls</description>
+      <pubDate>Thu, 02 Apr 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>NCSC Issues Security Alert Over Hackers Targeting WhatsApp and Signal Accounts</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-alert-hackers-whatsapp-signal/</link>
+      <description>The UK’s cybersecurity agency offered advice to “high-risk’ individuals” on how to protect against social engineering and cyber-attacks</description>
+      <pubDate>Thu, 02 Apr 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-alert-hackers-whatsapp-signal/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Apple Expands iOS 18 Security Updates Amid DarkSword Threat</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-ios-18-updates-darksword/</link>
+      <description>iOS/iPadOS 18.7.7 updates expanded to protect older devices from DarkSword web exploit kit</description>
+      <pubDate>Thu, 02 Apr 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apple-ios-18-updates-darksword/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Bank Trojan &amp;apos;Casbaneiro&amp;apos; Worms Through Latin America</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america</link>
       <description>Augmented Marauder&amp;apos;s multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.</description>
@@ -24,6 +94,32 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Observe Sub-One-Hour Ransomware Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-subonehour-ransomware/</link>
+      <description>Halcyon says Akira is now capable of carrying out an entire ransomware attack in less than an hour</description>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-subonehour-ransomware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>GitHub Used as Covert Channel in Multi-Stage Malware Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/</link>
+      <description>LNK files use GitHub C2, embedded decoders and PowerShell for persistence and data exfiltration</description>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion &amp;amp; 10 More Stories</title>
+      <link>https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html</link>
+      <description>The&amp;amp;nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&amp;amp;nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&amp;amp;nbsp;week.
+Things&amp;amp;nbsp;are moving fast. The&amp;amp;nbsp;list includes researchers chaining small bugs together to create massive backdoors, old software flaws</description>
+      <pubDate>Thu, 02 Apr 2026 18:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners</title>
@@ -95,7 +191,7 @@ According to reports from Italian&amp;amp;nbsp;newspaper La Repubblica and news&
     <item>
       <title>Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense</title>
       <link>https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense</link>
-      <description>A chief medical information officer provided a peek into what hospitals face when they inevitably suffer a ransomware attack—whether it leads to short or long-term outages.</description>
+      <description>A chief medical information officer describes what hospitals face when they inevitably suffer a ransomware attack—whether it leads to short- or long-term outages.</description>
       <pubDate>Wed, 01 Apr 2026 22:04:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense</guid>
       <dc:creator>Arielle Waldman</dc:creator>
@@ -1011,115 +1107,6 @@ The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI
 &amp;quot;The pipeline had a single boolean return value that meant both &amp;apos;no scanners are configured&amp;apos; and &amp;apos;all scanners failed to run,&amp;apos;&amp;quot; Koi</description>
       <pubDate>Fri, 27 Mar 2026 19:27:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Infrastructure Attacks With Physical Consequences Down 25%</title>
-      <link>https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down</link>
-      <description>Operational technology (OT) at industrial and critical infrastructure sites seem to have been benefitting from a lull in ransomware, and hackers&amp;apos; relative ignorance of OT systems.</description>
-      <pubDate>Fri, 27 Mar 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Google Issues High-Risk Security Patch for 3.5 Billion Chrome Users: What You Need to Know</title>
-      <link>https://www.techrepublic.com/article/news-chrome-update-8-vulnerabilities-3-5-billion-users/</link>
-      <description>&amp;lt;p&amp;gt;Google patches eight high-severity Chrome vulnerabilities affecting 3.5 billion users. Here’s why you should update and relaunch your browser now.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-chrome-update-8-vulnerabilities-3-5-billion-users/&amp;quot;&amp;gt;Google Issues High-Risk Security Patch for 3.5 Billion Chrome Users: What You Need to Know&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 27 Mar 2026 13:13:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-chrome-update-8-vulnerabilities-3-5-billion-users/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Browsers</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>browser vulnerabilities</category>
-      <category>chrome patch</category>
-      <category>chrome security</category>
-      <category>cybersecurity news</category>
-      <category>google chrome update</category>
-      <category>high severity vulnerabilities</category>
-      <category>software update</category>
-      <category>web browser security</category>
-    </item>
-    <item>
-      <title>Google Sets 2029 Deadline for Quantum-Safe Cryptography</title>
-      <link>https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography</link>
-      <description>The post-quantum future may be coming sooner than you think, as Google plans to have PQC migration in place by 2029.</description>
-      <pubDate>Fri, 27 Mar 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Quantum Computing Threat to Encryption Is Closer Than Expected, Warns Google</title>
-      <link>https://www.infosecurity-magazine.com/news/quantum-encryption-q-day-closer/</link>
-      <description>‘Q-Day’ and the cybersecurity problems it brings could come as early as 2029 as Google accelerates its post-quantum cryptography migration</description>
-      <pubDate>Fri, 27 Mar 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/quantum-encryption-q-day-closer/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion</title>
-      <link>https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html</link>
-      <description>Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.
-Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors for malvertising and distributing malware.
-&amp;quot;TikTok has been historically abused to distribute</description>
-      <pubDate>Fri, 27 Mar 2026 17:33:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK Cracks Down on Chinese Crypto Marketplace for Funding Southeast Asia Scam Hubs</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-sanction-chinese-crypto/</link>
-      <description>The UK government has sanctioned Xinbi, described as “the second-largest illicit online marketplace ever”</description>
-      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-sanction-chinese-crypto/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>We Are At War</title>
-      <link>https://thehackernews.com/2026/03/we-are-at-war.html</link>
-      <description>Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it.&amp;amp;nbsp;
-Introduction: One tech power to rule them all is a thing of the past&amp;amp;nbsp;
-The relative safety, peace and prosperity that much of the world has enjoyed since 1945 was not accidental. It emerged from the ashes</description>
-      <pubDate>Fri, 27 Mar 2026 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/we-are-at-war.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>RSAC 2026 wrap-up – Week in security with Tony Anscombe</title>
-      <link>https://www.welivesecurity.com/en/videos/rsac-2026-wrap-up-week-security-tony-anscombe/</link>
-      <description>This year, AI agents took the center stage – as a defensive capability, but more pressingly as a risk many organizations haven&amp;apos;t caught up with</description>
-      <pubDate>Fri, 27 Mar 2026 10:38:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/rsac-2026-wrap-up-week-security-tony-anscombe/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Video</category>
-    </item>
-    <item>
-      <title>Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware</title>
-      <link>https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html</link>
-      <description>A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker.
-&amp;quot;Bearlyfy (also known as Labubu) operates as a dual-purpose group aimed at inflicting maximum damage upon Russian businesses;</description>
-      <pubDate>Fri, 27 Mar 2026 15:34:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks</title>
-      <link>https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html</link>
-      <description>Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history.
-Both LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of</description>
-      <pubDate>Fri, 27 Mar 2026 13:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
