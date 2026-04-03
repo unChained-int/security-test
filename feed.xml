@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Apr 2026 07:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 13:02:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,78 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Source Code Leaks Highlight Lack of Supply Chain Oversight</title>
+      <link>https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight</link>
+      <description>Or, why the software supply chain should be treated as critical infrastructure with guardrails built in at every layer.</description>
+      <pubDate>Fri, 03 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry</title>
+      <link>https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry</link>
+      <description>Once CrowdStrike’s nemesis, Microsoft is now a collaborator. A shared interest in Formula 1 helped thaw the years-long fierce rivalry.</description>
+      <pubDate>Fri, 03 Apr 2026 11:53:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Company that Secretly Records and Publishes Zoom Meetings</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html</link>
+      <description>&amp;lt;p&amp;gt;WebinarTV searches the internet for public Zoom invites, joins the meetings, secretly records them, and &amp;lt;a href=&amp;quot;https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/&amp;quot;&amp;gt;publishes&amp;lt;/a&amp;gt; (alternate &amp;lt;a href=&amp;quot;https://archive.ph/TYd4L&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;) the recordings. It doesn&amp;amp;#8217;t use the Zoom record feature, so Zoom can&amp;amp;#8217;t do anything about it.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 03 Apr 2026 11:08:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>privacy</category>
+      <category>surveillance</category>
+      <category>videos</category>
+    </item>
+    <item>
+      <title>UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack</title>
+      <link>https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html</link>
+      <description>The&amp;amp;nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&amp;amp;nbsp;as UNC1069.
+Maintainer Jason Saayman said the attackers tailored their social engineering efforts &amp;quot;specifically to me&amp;quot; by first approaching him under the guise of the founder of a</description>
+      <pubDate>Fri, 03 Apr 2026 16:34:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Why Third-Party Risk Is the Biggest Gap in Your Clients&amp;apos; Security Posture</title>
+      <link>https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html</link>
+      <description>The next major&amp;amp;nbsp;breach hitting your clients probably won&amp;apos;t come&amp;amp;nbsp;from inside their&amp;amp;nbsp;walls. It&amp;apos;ll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That&amp;apos;s the new attack surface, and most organizations are underprepared for&amp;amp;nbsp;it.
+Cynomi&amp;apos;s new&amp;amp;nbsp;guide, Securing the Modern Perimeter: The Rise of Third-Party</description>
+      <pubDate>Fri, 03 Apr 2026 16:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images</title>
+      <link>https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html</link>
+      <description>Cybersecurity researchers&amp;amp;nbsp;have discovered a new version of&amp;amp;nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&amp;amp;nbsp;trojan was discovered targeting both the mobile operating&amp;amp;nbsp;systems.
+The&amp;amp;nbsp;malware&amp;amp;nbsp;has&amp;amp;nbsp;been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while</description>
+      <pubDate>Fri, 03 Apr 2026 14:40:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK</title>
+      <link>https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html</link>
+      <description>Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&amp;amp;nbsp;2026.
+&amp;quot;Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift’s Security Council administrative powers,&amp;quot; the&amp;amp;</description>
+      <pubDate>Fri, 03 Apr 2026 14:05:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026</title>
@@ -28,7 +100,7 @@
     <item>
       <title>Not Toying Around: Hasbro Attack May Take &amp;apos;Weeks&amp;apos; to Remediate</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate</link>
-      <description>The company&amp;apos;s 8-K filing notes &amp;amp;quot;unauthorized access&amp;amp;quot; and that it&amp;apos;s activated business continuity plans and taken some systems offline.</description>
+      <description>The company&amp;apos;s 8-K filing notes &amp;amp;quot;unauthorized access&amp;amp;quot; and that it has activated business continuity plans and taken some systems offline.</description>
       <pubDate>Thu, 02 Apr 2026 20:28:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate</guid>
       <dc:creator>Nate Nelson</dc:creator>
@@ -1036,80 +1108,6 @@ The campaigns have led to the deployment of various malware families, including 
       <pubDate>Mon, 30 Mar 2026 00:23:06 +0000</pubDate>
       <guid isPermaLink="true">https://origin.upguard.com/blog/shadow-ai-data-leak</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack</title>
-      <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
-      <description>Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.
-Handala Hack Team, which carried out the breach, said on its website that Patel &amp;quot;will now find his name among the list of successfully hacked victims.&amp;quot; In a statement</description>
-      <pubDate>Sat, 28 Mar 2026 21:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug</title>
-      <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
-      <description>A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.
-The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.
-Per</description>
-      <pubDate>Sat, 28 Mar 2026 14:41:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
-      <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
-      <description>Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.
-The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,</description>
-      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation</title>
-      <link>https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.
-&amp;quot;When a</description>
-      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Bioluminescent Bacteria in Squid</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</link>
-      <description>&amp;lt;p&amp;gt;The Hawaiian bobtail squid has &amp;lt;a href=&amp;quot;https://phys.org/news/2026-03-bioluminescent-bacterial-partner-essential-squid.html&amp;quot;&amp;gt;bioluminescent bacteria&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 27 Mar 2026 20:18:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>squid</category>
-    </item>
-    <item>
-      <title>Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits</title>
-      <link>https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html</link>
-      <description>Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.
-The development was first reported by MacRumors.
-&amp;quot;Apple is aware of attacks targeting out-of-date iOS software, including the version on your iPhone. Install this critical update to protect your iPhone,&amp;quot; the</description>
-      <pubDate>Fri, 27 Mar 2026 22:52:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files</title>
-      <link>https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html</link>
-      <description>TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.
-The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are</description>
-      <pubDate>Fri, 27 Mar 2026 22:23:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
