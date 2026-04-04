@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Apr 2026 18:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 02:05:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,29 @@
       <description/>
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Jurassic Fish Chokes on Squid</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html</link>
+      <description>&amp;lt;p&amp;gt;Here&amp;amp;#8217;s a &amp;lt;a href=&amp;quot;https://timesofindia.indiatimes.com/etimes/animals/how-a-jurassic-fish-choked-to-death-on-a-floating-squid-150-million-years-ago/articleshow/129823852.cms&amp;quot;&amp;gt;fossil&amp;lt;/a&amp;gt; of a 150-million year old fish that choked to death on a &amp;lt;i&amp;gt;belemnite rostrum&amp;lt;/i&amp;gt;: the hard, internal shell of an extinct, squid-like animal.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Original &amp;lt;a href=&amp;quot;https://www.nature.com/articles/s41598-025-00163-7&amp;quot;&amp;gt;paper&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 03 Apr 2026 21:07:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>Inconsistent Privacy Labels Don&amp;apos;t Tell Users What They Are Getting</title>
+      <link>https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough</link>
+      <description>Data privacy labels are a great idea for mobile apps, but the current versions just aren&amp;apos;t good enough.</description>
+      <pubDate>Fri, 03 Apr 2026 21:05:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough</guid>
+      <dc:creator>Bree Fowler</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -195,7 +218,7 @@ The campaign has been attributed&amp;amp;nbsp;to TA416, a cluster of activity th
     <item>
       <title>Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain</title>
       <link>https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain</link>
-      <description>The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open-source artifacts across containers, libraries, Actions and skills.</description>
+      <description>The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open source artifacts across containers, libraries, agent skills, and GitHub Actions.</description>
       <pubDate>Fri, 03 Apr 2026 12:57:28 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain</guid>
       <dc:creator>Jeffrey Schwartz</dc:creator>
@@ -1157,38 +1180,6 @@ According to StepSecurity, the two</description>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Cybercriminals Exploit Tax Season With New Phishing Tactics</title>
-      <link>https://www.infosecurity-magazine.com/news/tax-season-new-phishing-tactics/</link>
-      <description>Tax-season phishing floods deliver RMM malware, credential theft, BEC and tax-form scams</description>
-      <pubDate>Mon, 30 Mar 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/tax-season-new-phishing-tactics/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Breach FBI Director Kash Patel’s Email, Leak Messages Online</title>
-      <link>https://www.techrepublic.com/article/news-iran-linked-hackers-breach-kash-patel/</link>
-      <description>&amp;lt;p&amp;gt;Iran-linked hackers breached FBI Director Kash Patel’s personal email, leaking older messages in a retaliatory cyberattack with no classified data exposed.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-iran-linked-hackers-breach-kash-patel/&amp;quot;&amp;gt;Iran-Linked Hackers Breach FBI Director Kash Patel’s Email, Leak Messages Online&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 30 Mar 2026 14:01:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-iran-linked-hackers-breach-kash-patel/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>cyberattack</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>email security</category>
-      <category>fbi</category>
-      <category>iran hackers</category>
-      <category>kash patel</category>
-      <category>threat intelligence</category>
     </item>
   </channel>
 </rss>
