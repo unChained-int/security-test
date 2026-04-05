@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 05 Apr 2026 02:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:05:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,27 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants</title>
+      <link>https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html</link>
+      <description>Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent&amp;amp;nbsp;implant.
+&amp;quot;Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,</description>
+      <pubDate>Sun, 05 Apr 2026 10:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS</title>
+      <link>https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html</link>
+      <description>Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&amp;amp;nbsp;wild.
+The&amp;amp;nbsp;vulnerability, tracked&amp;amp;nbsp;as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation.
+&amp;quot;An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an</description>
+      <pubDate>Sun, 05 Apr 2026 10:02:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Friday Squid Blogging: Jurassic Fish Chokes on Squid</title>
@@ -1160,25 +1181,6 @@ According to StepSecurity, the two</description>
       <pubDate>Mon, 30 Mar 2026 16:25:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords</guid>
       <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials</title>
-      <link>https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html</link>
-      <description>A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad.
-&amp;quot;It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures passwords and sessions even if the primary loader is blocked,&amp;quot; ReliaQuest researchers Thassanai</description>
-      <pubDate>Mon, 30 Mar 2026 21:17:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Storm Brews Over Critical, No-Click Telegram Flaw</title>
-      <link>https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw</link>
-      <description>The vulnerability, which is allegedly triggered by a corrupted sticker in the messaging app, received a 9.8 CVSS score, but Telegram denies it exists.</description>
-      <pubDate>Mon, 30 Mar 2026 15:01:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
