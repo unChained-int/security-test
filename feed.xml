@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 04 Apr 2026 18:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 02:27:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -288,6 +288,14 @@ The&amp;amp;nbsp;malware&amp;amp;nbsp;has&amp;amp;nbsp;been found to conceal its
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>New Phishing Platform Used in Credential Theft Campaigns Against C-Suite Execs</title>
+      <link>https://www.infosecurity-magazine.com/news/new-phishing-platform-credential/</link>
+      <description>A large-scale credential theft campaign targeting senior executives has been linked to a previously unknown automated phishing platform called Venom</description>
+      <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-phishing-platform-credential/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026</title>
       <link>https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026</link>
       <description>AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.</description>
@@ -432,6 +440,30 @@ The&amp;amp;nbsp;vulnerability, tracked as CVE-2026-20093, carries a CVSS score 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>New &amp;apos;Storm&amp;apos; Infostealer Remotely Decrypts Stolen Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</link>
+      <description>This modern infostealer adopted server-side decryption of stolen credentials to bypass security controls</description>
+      <pubDate>Thu, 02 Apr 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>NCSC Issues Security Alert Over Hackers Targeting WhatsApp and Signal Accounts</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-alert-hackers-whatsapp-signal/</link>
+      <description>The UK’s cybersecurity agency offered advice to “high-risk’ individuals” on how to protect against social engineering and cyber-attacks</description>
+      <pubDate>Thu, 02 Apr 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-alert-hackers-whatsapp-signal/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Apple Expands iOS 18 Security Updates Amid DarkSword Threat</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-ios-18-updates-darksword/</link>
+      <description>iOS/iPadOS 18.7.7 updates expanded to protect older devices from DarkSword web exploit kit</description>
+      <pubDate>Thu, 02 Apr 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apple-ios-18-updates-darksword/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Bank Trojan &amp;apos;Casbaneiro&amp;apos; Worms Through Latin America</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america</link>
       <description>Augmented Marauder&amp;apos;s multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.</description>
@@ -439,6 +471,22 @@ The&amp;amp;nbsp;vulnerability, tracked as CVE-2026-20093, carries a CVSS score 
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Observe Sub-One-Hour Ransomware Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-subonehour-ransomware/</link>
+      <description>Halcyon says Akira is now capable of carrying out an entire ransomware attack in less than an hour</description>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-subonehour-ransomware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>GitHub Used as Covert Channel in Multi-Stage Malware Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/</link>
+      <description>LNK files use GitHub C2, embedded decoders and PowerShell for persistence and data exfiltration</description>
+      <pubDate>Thu, 02 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion &amp;amp; 10 More Stories</title>
@@ -498,6 +546,14 @@ According to reports from Italian&amp;amp;nbsp;newspaper La Repubblica and news&
       <guid isPermaLink="true">https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Most CNI Firms Face Up to £5m in Downtime from OT Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/</link>
+      <description>E2e-assure says 80% of critical infrastructure providers could face millions in downtime from cyber-attacks</description>
+      <pubDate>Thu, 02 Apr 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit</title>
@@ -610,6 +666,14 @@ As part of the attacks, the threat actors, tracked as UAC-0255, sent emails on M
       <category>windows malware</category>
     </item>
     <item>
+      <title>Google Introduces Android Dev Verification Amid Openness Debate</title>
+      <link>https://www.infosecurity-magazine.com/news/google-android-dev-verification/</link>
+      <description>Android requires dev identity verification for sideloaded apps; phased global rollout from September</description>
+      <pubDate>Wed, 01 Apr 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-android-dev-verification/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Venom Stealer MaaS Platform Commoditizes ClickFix Attacks</title>
       <link>https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks</link>
       <description>A new service on the cybercrime market provides automated capabilities to create persistent information-stealing social engineering attacks.</description>
@@ -656,6 +720,14 @@ The activity, beginning in late February 2026, leverages these scripts to initia
       <category>quantum computing</category>
     </item>
     <item>
+      <title>New Venom Stealer MaaS Platform Automates Continuous Data Theft</title>
+      <link>https://www.infosecurity-magazine.com/news/venom-stealer-maas-automates-data/</link>
+      <description>Venom Stealer malware-as-a-service automates ClickFix social engineering, credential and crypto exfiltration</description>
+      <pubDate>Wed, 01 Apr 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/venom-stealer-maas-automates-data/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Block the Prompt, Not the Work: The End of &amp;quot;Doctor No&amp;quot;</title>
       <link>https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html</link>
       <description>There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&amp;amp;rsquo;t build. It doesn&amp;amp;rsquo;t enable. Its entire function is to say &amp;quot;No.&amp;quot;
@@ -677,6 +749,14 @@ The activity has been attributed to a Brazilian cybercrime threat actor tracked 
       <guid isPermaLink="true">https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Chinese Hackers Target European Governments in Espionage Campaigns</title>
+      <link>https://www.infosecurity-magazine.com/news/china-hackers-ta416-europe/</link>
+      <description>Chinese state-backed group TA416 had suspended its cyber espionage operations in Europe since 2023, noted Proofpoint</description>
+      <pubDate>Wed, 01 Apr 2026 12:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-hackers-ta416-europe/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released</title>
@@ -732,6 +812,14 @@ Threat actors now use malware less frequently in favor of what’s already insid
       <category>taxonomies</category>
     </item>
     <item>
+      <title>Eight in 10 UK Manufacturers Hit by Cyber Incident in a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/eight-10-uk-manufacturers-hit/</link>
+      <description>Most UK manufacturers compromised last year suffered financial loss, says ESET</description>
+      <pubDate>Wed, 01 Apr 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/eight-10-uk-manufacturers-hit/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Digital assets after death: Managing risks to your loved one’s digital estate</title>
       <link>https://www.welivesecurity.com/en/cybersecurity/digital-assets-death-managing-risks-your-loved-ones-digital-estate/</link>
       <description>Fraudsters often target the accounts of the deceased or their grieving relatives. Here’s how to keep the scammers at bay.</description>
@@ -739,6 +827,14 @@ Threat actors now use malware less frequently in favor of what’s already insid
       <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/digital-assets-death-managing-risks-your-loved-ones-digital-estate/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Digital Security</category>
+    </item>
+    <item>
+      <title>Hackers Hijack Axios npm Package to Spread RATs</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-hijack-axios-npm-package/</link>
+      <description>Threat actors hijacked the popular npm package axios to spread RAT malware after compromising an open‑source maintainer’s account, researchers warn</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-hijack-axios-npm-package/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069</title>
@@ -865,6 +961,14 @@ The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of inte
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Maryland Man Charged Over $53m Uranium Finance Crypto Hack</title>
+      <link>https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/</link>
+      <description>Maryland man accused of $53m Uranium Finance hack, exploited smart contract flaws, laundered funds</description>
+      <pubDate>Tue, 31 Mar 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>AI and Quantum Are Forcing a Rethink of Digital Trust</title>
       <link>https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust</link>
       <description>In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.</description>
@@ -872,6 +976,14 @@ The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of inte
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust</guid>
       <dc:creator>Terry Sweeney</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Phantom Project Bundles Infostealer, Crypter and RAT For Sale</title>
+      <link>https://www.infosecurity-magazine.com/news/phantom-project-infostealer-nov-25/</link>
+      <description>Phantom Stealer .NET harvests browser credentials, cookies, cards, sessions, as stealer-as-a-service</description>
+      <pubDate>Tue, 31 Mar 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phantom-project-infostealer-nov-25/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Iran Deploys &amp;apos;Pseudo-Ransomware,&amp;apos; Revives Pay2Key Operations</title>
@@ -891,6 +1003,22 @@ According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI 
       <guid isPermaLink="true">https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ChatGPT Security Issue Enabled Data Theft via Single Prompt</title>
+      <link>https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</link>
+      <description>OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole</description>
+      <pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets</title>
+      <link>https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</link>
+      <description>TeamPCP is exploring ways to monetize the secrets harvested during supply chain attacks, with identified ties to the Lapsus$ and Vect ransomware gangs</description>
+      <pubDate>Tue, 31 Mar 2026 12:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
@@ -935,6 +1063,22 @@ This is the defining challenge of the new era of digital warfare: the weaponizat
       <category>history of cryptography</category>
       <category>quantum computing</category>
       <category>quantum cryptography</category>
+    </item>
+    <item>
+      <title>Employee Data Breaches Surge to Seven-Year High</title>
+      <link>https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/</link>
+      <description>Analysis from law firm Nockolds suggests non-cyber incidents are driving up employee data breaches</description>
+      <pubDate>Tue, 31 Mar 2026 10:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>NCSC Urges Immediate Patching of F5 BIG-IP Bug</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/</link>
+      <description>The National Cyber Security Centre wants UK firms to patch CVE-2025-53521</description>
+      <pubDate>Tue, 31 Mar 2026 08:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>This month in security with Tony Anscombe – March 2026 edition</title>
@@ -1035,200 +1179,6 @@ According to StepSecurity, the two</description>
       <pubDate>Mon, 30 Mar 2026 15:01:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Breach FBI Director Kash Patel’s Email, Leak Messages Online</title>
-      <link>https://www.techrepublic.com/article/news-iran-linked-hackers-breach-kash-patel/</link>
-      <description>&amp;lt;p&amp;gt;Iran-linked hackers breached FBI Director Kash Patel’s personal email, leaking older messages in a retaliatory cyberattack with no classified data exposed.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-iran-linked-hackers-breach-kash-patel/&amp;quot;&amp;gt;Iran-Linked Hackers Breach FBI Director Kash Patel’s Email, Leak Messages Online&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 30 Mar 2026 14:01:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-iran-linked-hackers-breach-kash-patel/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>cyberattack</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>email security</category>
-      <category>fbi</category>
-      <category>iran hackers</category>
-      <category>kash patel</category>
-      <category>threat intelligence</category>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More</title>
-      <link>https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</link>
-      <description>Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention.
-There&amp;apos;s a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring</description>
-      <pubDate>Mon, 30 Mar 2026 19:26:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>3 SOC Process Fixes That Unlock Tier 1 Productivity</title>
-      <link>https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html</link>
-      <description>What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure</description>
-      <pubDate>Mon, 30 Mar 2026 18:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels</title>
-      <link>https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html</link>
-      <description>Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that&amp;apos;s distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.
-The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables&amp;quot; to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling</description>
-      <pubDate>Mon, 30 Mar 2026 17:48:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The State of Secrets Sprawl 2026: 9 Takeaways for CISOs</title>
-      <link>https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html</link>
-      <description>Secrets sprawl isn&amp;apos;t slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian&amp;apos;s State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded.
-This year&amp;apos;s findings reveal three core trends: AI has</description>
-      <pubDate>Mon, 30 Mar 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>15 Top Cybersecurity CEOs On The Future Of AI Agents: RSAC 2026</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/15-top-cybersecurity-ceos-future-ai-agents-rsac-2026</link>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 11:25:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/15-top-cybersecurity-ceos-future-ai-agents-rsac-2026</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Apple’s Camera Indicator Lights</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html</link>
-      <description>&amp;lt;p&amp;gt;A &amp;lt;a href=&amp;quot;https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator&amp;quot;&amp;gt;thoughtful review&amp;lt;/a&amp;gt; of Apple&amp;amp;#8217;s system to alert users that the camera is on. It&amp;amp;#8217;s really well-designed, and important in a world where malware could surreptitiously start recording.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The reason it&amp;amp;#8217;s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the fact that hardware is generally more secure than software, because it&amp;amp;#8217;s harder to tamper with. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it&amp;amp;#8217;s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 30 Mar 2026 11:08:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Apple</category>
-      <category>cameras</category>
-      <category>malware</category>
-    </item>
-    <item>
-      <title>Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign</title>
-      <link>https://thehackernews.com/2026/03/three-china-linked-clusters-target.html</link>
-      <description>Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a &amp;quot;complex and well-resourced operation.&amp;quot;
-The campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL</description>
-      <pubDate>Mon, 30 Mar 2026 12:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/three-china-linked-clusters-target.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Shadow AI: Managing the Security Risks of Unsanctioned AI Tools | UpGuard</title>
-      <link>https://origin.upguard.com/blog/unsanctioned-ai-tools</link>
-      <description>Uncover the hidden risks of unapproved AI tools in your organization. Learn to detect, manage, and secure sensitive data from shadow AI threats.</description>
-      <pubDate>Mon, 30 Mar 2026 00:23:06 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/unsanctioned-ai-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Shadow AI Data Leak Problem No One&amp;apos;s Talking About | UpGuard</title>
-      <link>https://origin.upguard.com/blog/shadow-ai-data-leak</link>
-      <description>Is your team unknowingly leaking sensitive data through its AI usage? Discover the dangers of Shadow AI and strategies for secure AI adoption at work.</description>
-      <pubDate>Mon, 30 Mar 2026 00:23:06 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/shadow-ai-data-leak</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack</title>
-      <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
-      <description>Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.
-Handala Hack Team, which carried out the breach, said on its website that Patel &amp;quot;will now find his name among the list of successfully hacked victims.&amp;quot; In a statement</description>
-      <pubDate>Sat, 28 Mar 2026 21:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug</title>
-      <link>https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</link>
-      <description>A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.
-The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.
-Per</description>
-      <pubDate>Sat, 28 Mar 2026 14:41:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign</title>
-      <link>https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</link>
-      <description>Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.
-The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,</description>
-      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation</title>
-      <link>https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.
-&amp;quot;When a</description>
-      <pubDate>Sat, 28 Mar 2026 12:37:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Bioluminescent Bacteria in Squid</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</link>
-      <description>&amp;lt;p&amp;gt;The Hawaiian bobtail squid has &amp;lt;a href=&amp;quot;https://phys.org/news/2026-03-bioluminescent-bacterial-partner-essential-squid.html&amp;quot;&amp;gt;bioluminescent bacteria&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 27 Mar 2026 20:18:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>squid</category>
-    </item>
-    <item>
-      <title>Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits</title>
-      <link>https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html</link>
-      <description>Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.
-The development was first reported by MacRumors.
-&amp;quot;Apple is aware of attacks targeting out-of-date iOS software, including the version on your iPhone. Install this critical update to protect your iPhone,&amp;quot; the</description>
-      <pubDate>Fri, 27 Mar 2026 22:52:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files</title>
-      <link>https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html</link>
-      <description>TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data.
-The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are</description>
-      <pubDate>Fri, 27 Mar 2026 22:23:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>China Upgrades the Backdoor It Uses to Spy on Telcos Globally</title>
-      <link>https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos</link>
-      <description>Chinese APT Red Menshen&amp;apos;s super-advanced BPFdoor malware defeats traditional cybersecurity protections. All telcos can do, really, is try hunting it down.</description>
-      <pubDate>Fri, 27 Mar 2026 16:48:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos</guid>
-      <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
