@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 18:58:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,118 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The Context Gap: How Nearly Half of Your Time is Lost to Investigation | UpGuard</title>
+      <link>https://origin.upguard.com/blog/context-gap-time-lost-to-investigation</link>
+      <description>Security teams waste 43% of their response time on manual context gathering, making high-context intelligence a necessity in modern cybersecurity.</description>
+      <pubDate>Mon, 06 Apr 2026 17:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/context-gap-time-lost-to-investigation</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea</title>
+      <link>https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html</link>
+      <description>Threat&amp;amp;nbsp;actors likely associated with the Democratic People&amp;apos;s Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&amp;amp;nbsp;Korea.
+The&amp;amp;nbsp;attack chain,&amp;amp;nbsp;per Fortinet FortiGuard&amp;amp;nbsp;Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF</description>
+      <pubDate>Mon, 06 Apr 2026 21:54:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New Fortinet Flaw Allows Unauthorized Access to Enterprise Systems</title>
+      <link>https://www.techrepublic.com/article/news-fortinet-forticlient-ems-zero-day-active-exploitation/</link>
+      <description>&amp;lt;p&amp;gt;Fortinet warns of a critical FortiClient EMS zero-day vulnerability that is currently being exploited, allowing attackers to bypass authentication and execute commands.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fortinet-forticlient-ems-zero-day-active-exploitation/&amp;quot;&amp;gt;New Fortinet Flaw Allows Unauthorized Access to Enterprise Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 06 Apr 2026 15:35:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fortinet-forticlient-ems-zero-day-active-exploitation/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Enterprise Technology</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cve-2026-35616</category>
+      <category>cybersecurity threats</category>
+      <category>enterprise security</category>
+      <category>forticlient ems</category>
+      <category>fortinet</category>
+      <category>network security</category>
+      <category>vulnerability exploitation</category>
+      <category>zero-day vulnerability</category>
+    </item>
+    <item>
+      <title>Automated Credential Harvesting Campaign Exploits React2Shell Flaw</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell</link>
+      <description>An emerging threat cluster tracked as UAT-10608 is exploiting vulnerable Web-exposed Next.js apps and using an automated tool to exfiltrate credentials, secrets, and other system data.</description>
+      <pubDate>Mon, 06 Apr 2026 15:31:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Rolls Out Fix: New macOS Update Could Protect 100M Mac Users</title>
+      <link>https://www.techrepublic.com/article/news-apple-macos-update-terminal-malware-warning-clickfix/</link>
+      <description>&amp;lt;p&amp;gt;Apple’s macOS 26.4 update adds a Terminal warning to help stop ClickFix-style attacks by flagging potentially harmful pasted commands.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-macos-update-terminal-malware-warning-clickfix/&amp;quot;&amp;gt;Apple Rolls Out Fix: New macOS Update Could Protect 100M Mac Users&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 06 Apr 2026 14:20:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-macos-update-terminal-malware-warning-clickfix/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Operating System</category>
+      <category>Security</category>
+      <category>apple cybersecurity</category>
+      <category>apple updates</category>
+      <category>clickfix</category>
+      <category>cybersecurity threats</category>
+      <category>mac malware</category>
+      <category>macos security</category>
+      <category>social engineering attacks</category>
+      <category>terminal commands</category>
+    </item>
+    <item>
+      <title>Shadow AI in Healthcare Is Here to Stay</title>
+      <link>https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay</link>
+      <description>Medical professionals are not going to stop using AI tools to manage growing workloads. Organizations should prioritize bolstering security protocols to limit their blast radius.</description>
+      <pubDate>Mon, 06 Apr 2026 14:07:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>OWASP GenAI Security Project Gets Update, New Tools Matrix</title>
+      <link>https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix</link>
+      <description>In recognition of 21 generative AI risks, the standards groups recommends that companies take separate but linked approaches to defending GenAI and agentic AI systems.</description>
+      <pubDate>Mon, 06 Apr 2026 13:49:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps</title>
+      <link>https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html</link>
+      <description>Your attack surface no&amp;amp;nbsp;longer lives&amp;amp;nbsp;on one operating system, and neither do the campaigns targeting&amp;amp;nbsp;it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, taking advantage of the fact that many SOC&amp;amp;nbsp;workflows are still fragmented by&amp;amp;nbsp;platform.&amp;amp;nbsp;
+For security leaders, this creates&amp;amp;nbsp;a</description>
+      <pubDate>Mon, 06 Apr 2026 18:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More</title>
+      <link>https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html</link>
+      <description>This&amp;amp;nbsp;week had real hits. The&amp;amp;nbsp;key software got tampered with. Active&amp;amp;nbsp;bugs showed up in the tools people use every day. Some&amp;amp;nbsp;attacks didn’t even need much effort because the path was already&amp;amp;nbsp;there.
+One weak spot now spreads wider than before. What&amp;amp;nbsp;starts small can reach a lot of systems fast. New&amp;amp;nbsp;bugs, faster use, less time to&amp;amp;nbsp;react.
+That’s this week. Read&amp;amp;</description>
+      <pubDate>Mon, 06 Apr 2026 18:16:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers</title>
@@ -1111,94 +1223,6 @@ According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI 
       <pubDate>Tue, 31 Mar 2026 13:01:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets</title>
-      <link>https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</link>
-      <description>TeamPCP is exploring ways to monetize the secrets harvested during supply chain attacks, with identified ties to the Lapsus$ and Vect ransomware gangs</description>
-      <pubDate>Tue, 31 Mar 2026 12:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority</title>
-      <link>https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</link>
-      <description>The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments.
-This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors</description>
-      <pubDate>Tue, 31 Mar 2026 17:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains</title>
-      <link>https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html</link>
-      <description>Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT.
-&amp;quot;The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating</description>
-      <pubDate>Tue, 31 Mar 2026 17:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Axios Future of Cybersecurity: Russians suspected of using iPhone spyware</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware</link>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 11:26:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/axios-future-cybersecurity-russians-suspected-using-iphone-spyware</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Inventors of Quantum Cryptography Win Turing Award</title>
-      <link>https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html</link>
-      <description>&amp;lt;p&amp;gt;Charles Bennett and Gilles Brassard have &amp;lt;a href=&amp;quot;https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html&amp;quot;&amp;gt;won&amp;lt;/a&amp;gt; the 2026 Turing Award for inventing quantum cryptography.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;I am incredibly pleased to see them get this recognition. I have always thought the technology to be fantastic, even though I think it&amp;amp;#8217;s largely unnecessary. I wrote up my thoughts back in 2008, in an &amp;lt;a&amp;gt;essay&amp;lt;/a&amp;gt; titled &amp;amp;#8220;Quantum Cryptography: As Awesome As It Is Pointless.&amp;amp;#8221;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Back then, I wrote:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;While I like the science of quantum cryptography&amp;amp;#8212;my undergraduate degree was in physics&amp;amp;#8212;I don&amp;amp;#8217;t see any commercial value in it. I don&amp;amp;#8217;t believe it solves any security problem that needs solving. I don&amp;amp;#8217;t believe that it&amp;amp;#8217;s worth paying for, and I can&amp;amp;#8217;t imagine anyone but a few technophiles buying and deploying it. Systems that use it don&amp;amp;#8217;t magically become unbreakable, because the quantum part doesn&amp;amp;#8217;t address the weak points of the system...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 31 Mar 2026 11:05:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>history of cryptography</category>
-      <category>quantum computing</category>
-      <category>quantum cryptography</category>
-    </item>
-    <item>
-      <title>Employee Data Breaches Surge to Seven-Year High</title>
-      <link>https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/</link>
-      <description>Analysis from law firm Nockolds suggests non-cyber incidents are driving up employee data breaches</description>
-      <pubDate>Tue, 31 Mar 2026 10:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>NCSC Urges Immediate Patching of F5 BIG-IP Bug</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/</link>
-      <description>The National Cyber Security Centre wants UK firms to patch CVE-2025-53521</description>
-      <pubDate>Tue, 31 Mar 2026 08:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>This month in security with Tony Anscombe – March 2026 edition</title>
-      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-march-2026/</link>
-      <description>The past four weeks have seen a slew of new cybersecurity wake-up calls that showed why every organization needs a well-thought-out cyber-resilience plan</description>
-      <pubDate>Tue, 31 Mar 2026 08:27:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-march-2026/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Video</category>
-    </item>
-    <item>
-      <title>Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account</title>
-      <link>https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html</link>
-      <description>The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems.
-Versions 1.14.1 and 0.30.4 of Axios have been found to inject &amp;quot;plain-crypto-js&amp;quot; version 4.2.1 as a fake dependency.
-According to StepSecurity, the two</description>
-      <pubDate>Tue, 31 Mar 2026 11:38:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
