@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Apr 2026 02:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:42:27 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,16 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks</title>
+      <link>https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html</link>
+      <description>Germany&amp;apos;s Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.
+The threat actor, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum. He&amp;amp;nbsp;</description>
+      <pubDate>Mon, 06 Apr 2026 12:29:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
@@ -1182,16 +1192,6 @@ According to StepSecurity, the two</description>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability</title>
-      <link>https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html</link>
-      <description>A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point.
-&amp;quot;A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaking user messages, uploaded files, and other sensitive content,&amp;quot; the cybersecurity company said in</description>
-      <pubDate>Mon, 30 Mar 2026 23:35:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
