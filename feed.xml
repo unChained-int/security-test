@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 07 Apr 2026 02:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:16:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,25 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The Context Gap: How Nearly Half of Your Time is Lost to Investigation | UpGuard</title>
+      <link>https://origin.upguard.com/blog/context-gap-time-lost-to-investigation</link>
+      <description>Security teams waste 43% of their response time on manual context gathering, making high-context intelligence a necessity in modern cybersecurity.</description>
+      <pubDate>Tue, 07 Apr 2026 06:44:48 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/context-gap-time-lost-to-investigation</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed</title>
+      <link>https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html</link>
+      <description>Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck.
+The vulnerability in question&amp;amp;nbsp;is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remote code execution.
+&amp;quot;The CustomMCP node allows users to input configuration settings for connecting</description>
+      <pubDate>Tue, 07 Apr 2026 11:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>AI-Assisted Supply Chain Attack Targets GitHub</title>
@@ -70,14 +89,6 @@ The&amp;amp;nbsp;activity, assessed to be ongoing, was carried out in three dist
       <guid isPermaLink="true">https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The Context Gap: How Nearly Half of Your Time is Lost to Investigation | UpGuard</title>
-      <link>https://origin.upguard.com/blog/context-gap-time-lost-to-investigation</link>
-      <description>Security teams waste 43% of their response time on manual context gathering, making high-context intelligence a necessity in modern cybersecurity.</description>
-      <pubDate>Mon, 06 Apr 2026 17:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/context-gap-time-lost-to-investigation</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea</title>
@@ -1226,14 +1237,6 @@ The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of inte
       <guid isPermaLink="true">https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Maryland Man Charged Over $53m Uranium Finance Crypto Hack</title>
-      <link>https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/</link>
-      <description>Maryland man accused of $53m Uranium Finance hack, exploited smart contract flaws, laundered funds</description>
-      <pubDate>Tue, 31 Mar 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
