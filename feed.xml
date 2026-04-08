@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:19:23 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,84 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)</title>
+      <link>https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html</link>
+      <description>The Fragmented State of Modern Enterprise&amp;amp;nbsp;Identity
+Enterprise IAM is approaching a breaking point. As&amp;amp;nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous&amp;amp;nbsp;systems.&amp;amp;nbsp;
+The result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and</description>
+      <pubDate>Wed, 08 Apr 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/</link>
+      <description>Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical software</description>
+      <pubDate>Wed, 08 Apr 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Python Supply-Chain Compromise</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html</link>
+      <description>&amp;lt;p&amp;gt;This is &amp;lt;a href=&amp;quot;https://www.truesec.com/hub/blog/malicious-pypi-package-litellm-supply-chain-compromise&amp;quot;&amp;gt;news&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;A malicious supply chain compromise has been identified in the Python Package Index package litellm version 1.82.8. The published wheel contains a malicious .pth file (litellm_init.pth, 34,628 bytes) which is automatically executed by the Python interpreter on every startup, without requiring any explicit import of the litellm module.&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;There are a lot of really boring things we need to do to help secure all of these critical libraries: SBOMs, SLSA, SigStore. But we have to do them.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 08 Apr 2026 10:25:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>cybersecurity</category>
+      <category>malware</category>
+      <category>supply chain</category>
+    </item>
+    <item>
+      <title>US Thwarts DNS Hijacking Network Controlled by Russian APT28 Hackers</title>
+      <link>https://www.infosecurity-magazine.com/news/us-thwarts-dns-hijacking-network/</link>
+      <description>The FBI deployed a method to unplug US-based routers compromised by APT28 from the threat actor’s malicious network</description>
+      <pubDate>Wed, 08 Apr 2026 10:03:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-thwarts-dns-hijacking-network/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Anthropic&amp;apos;s Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems</title>
+      <link>https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html</link>
+      <description>Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&amp;amp;nbsp;called Project&amp;amp;nbsp;Glasswing&amp;amp;nbsp;that&amp;amp;nbsp;will use a preview version of its new frontier model, Claude Mythos,&amp;amp;nbsp;to find and address security vulnerabilities.
+The model will&amp;amp;nbsp;be used by&amp;amp;nbsp;a small&amp;amp;nbsp;set of organizations, including Amazon Web Services, Apple, Broadcom, Cisco, CrowdStrike,&amp;amp;</description>
+      <pubDate>Wed, 08 Apr 2026 14:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Claude Discovers Apache ActiveMQ Bug Hidden for 13 Years</title>
+      <link>https://www.infosecurity-magazine.com/news/claude-apache-activemq-bug-hidden/</link>
+      <description>Anthropic’s Claude AI has helped researchers find a vulnerability in Apache ActiveMQ Classic</description>
+      <pubDate>Wed, 08 Apr 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/claude-apache-activemq-bug-hidden/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Iran‑Backed Threat Actors Hit US CNI Providers via Internet‑Facing OT Assets</title>
+      <link>https://www.infosecurity-magazine.com/news/iranbacked-hackers-cni-ot-assets/</link>
+      <description>CISA has revealed Iranian attacks causing disruption and financial loss at US critical infrastructure firms</description>
+      <pubDate>Wed, 08 Apr 2026 08:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iranbacked-hackers-cni-ot-assets/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust</title>
+      <link>https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html</link>
+      <description>The North Korea-linked persistent campaign known&amp;amp;nbsp;as Contagious&amp;amp;nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.
+&amp;quot;The threat actor&amp;apos;s packages were designed to impersonate legitimate developer tooling [...], while quietly functioning as malware loaders, extending Contagious Interview’s established playbook into a coordinated</description>
+      <pubDate>Wed, 08 Apr 2026 13:17:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>How to Comply with HECVAT in 2026 (Free Checklist) | UpGuard</title>
@@ -70,7 +148,7 @@
     <item>
       <title>Grafana Patches AI Bug That Could Have Leaked User Data</title>
       <link>https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data</link>
-      <description>By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders as benign and return sensitive data to the attacker&amp;apos;s server.</description>
+      <description>By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders that appear benign but return sensitive data to the attacker&amp;apos;s server.</description>
       <pubDate>Tue, 07 Apr 2026 19:52:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data</guid>
       <dc:creator>Alexander Culafi</dc:creator>
@@ -250,7 +328,7 @@ The vulnerability, tracked&amp;amp;nbsp;as CVE-2026-34040 (CVSS score: 8.8), ste
     <item>
       <title>Focusing on the People in Cybersecurity at RSAC 2026 Conference</title>
       <link>https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026</link>
-      <description>AI dominated the RSAC 2026 Conference and showed it&amp;apos;s still humans in cybersecurity who matter most.</description>
+      <description>AI dominated RSAC 2026 Conference, but it&amp;apos;s still the humans in cybersecurity who matter most.</description>
       <pubDate>Tue, 07 Apr 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/focusing-people-cybersecurity-rsac2026</guid>
       <dc:creator>Melinda Marks</dc:creator>
@@ -1114,99 +1192,6 @@ Things&amp;amp;nbsp;are moving fast. The&amp;amp;nbsp;list includes researchers 
       <guid isPermaLink="true">https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The State of Trusted Open Source Report</title>
-      <link>https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html</link>
-      <description>In December&amp;amp;nbsp;2025, we shared the first-ever The State of Trusted Open&amp;amp;nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These&amp;amp;nbsp;insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and</description>
-      <pubDate>Thu, 02 Apr 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Possible US Government iPhone Hacking Tool Leaked</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html</link>
-      <description>&amp;lt;p&amp;gt;Wired &amp;lt;a href=&amp;quot;https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/&amp;quot;&amp;gt;writes&amp;lt;/a&amp;gt; (alternate &amp;lt;a href=&amp;quot;https://archive.ph/vN8U5&amp;quot;&amp;gt;source&amp;lt;/a&amp;gt;):&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Security researchers at Google on Tuesday &amp;lt;a href=&amp;quot;https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit&amp;quot;&amp;gt;released a report&amp;lt;/a&amp;gt; describing what they&amp;amp;#8217;re calling &amp;amp;#8220;Coruna,&amp;amp;#8221; a highly sophisticated iPhone hacking toolkit that includes five complete hacking techniques capable of bypassing all the defenses of an iPhone to silently install malware on a device when it visits a website containing the exploitation code. In total, Coruna takes advantage of 23 distinct vulnerabilities in iOS, a rare collection of hacking components that suggests it was created by a well-resourced, likely state-sponsored group of hackers...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 02 Apr 2026 10:05:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Apple</category>
-      <category>cryptocurrency</category>
-      <category>cybersecurity</category>
-      <category>hacking</category>
-      <category>iOS</category>
-      <category>iPhone</category>
-      <category>malware</category>
-      <category>NSA</category>
-      <category>Russia</category>
-    </item>
-    <item>
-      <title>WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action</title>
-      <link>https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html</link>
-      <description>Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&amp;amp;nbsp;spyware.
-According to reports from Italian&amp;amp;nbsp;newspaper La Repubblica and news&amp;amp;nbsp;agency ANSA, the vast majority of the targets are located in Italy. It&amp;apos;s assessed that the threat actors behind the activity used social engineering</description>
-      <pubDate>Thu, 02 Apr 2026 15:21:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Most CNI Firms Face Up to £5m in Downtime from OT Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/</link>
-      <description>E2e-assure says 80% of critical infrastructure providers could face millions in downtime from cyber-attacks</description>
-      <pubDate>Thu, 02 Apr 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit</title>
-      <link>https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html</link>
-      <description>Apple&amp;amp;nbsp;on&amp;amp;nbsp;Wednesday expanded the availability of iOS 18.7.7&amp;amp;nbsp;and iPadOS 18.7.7&amp;amp;nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known&amp;amp;nbsp;as DarkSword.
-&amp;quot;We enabled the availability of iOS 18.7.7&amp;amp;nbsp;for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security</description>
-      <pubDate>Thu, 02 Apr 2026 12:39:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense</link>
-      <description>A chief medical information officer describes what hospitals face when they inevitably suffer a ransomware attack—whether it leads to short- or long-term outages.</description>
-      <pubDate>Wed, 01 Apr 2026 22:04:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>LatAm&amp;apos;s Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut</title>
-      <link>https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut</link>
-      <description>A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America&amp;apos;s labor pool, and why organizations may want to expand their talent search.</description>
-      <pubDate>Wed, 01 Apr 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Is “Hackback” Official US Cybersecurity Strategy?</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html</link>
-      <description>&amp;lt;p&amp;gt;The 2026 US &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://www.whitehouse.gov/wp-content/uploads/2026/03/president-trumps-cyber-strategy-for-america.pdf&amp;quot;&amp;gt;Cyber Strategy for America&amp;lt;/a&amp;gt;&amp;amp;#8221; document is mostly the same thing we&amp;amp;#8217;ve seen out of the White House for over a decade, but with a more aggressive tone.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;But one sentence stood out: &amp;amp;#8220;We will unleash the private sector by creating incentives to identify and disrupt adversary networks and scale our national capabilities.&amp;amp;#8221; This sounds like a call for hackback: giving private companies permission to conduct offensive cyber operations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;i&amp;gt;The Economist&amp;lt;/i&amp;gt; &amp;lt;a href=&amp;quot;https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back&amp;quot;&amp;gt;noticed&amp;lt;/a&amp;gt; (alternate &amp;lt;a href=&amp;quot;https://archive.ph/vwuA1&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;) this, too.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;I think this is an &amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2007/04/cyberattack.html&amp;quot;&amp;gt;incredibly dumb idea&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In warfare, the notion of counterattack is extremely powerful. Going after the enemy­&amp;amp;#8212;its positions, its supply lines, its factories, its infrastructure&amp;amp;#8212;­is an age-old military tactic. But in peacetime, we call it revenge, and consider it dangerous. Anyone accused of a crime deserves a fair trial. The accused has the right to defend himself, to face his accuser, to an attorney, and to be presumed innocent until proven guilty...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 01 Apr 2026 16:57:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cybersecurity</category>
-      <category>hackback</category>
-      <category>hacking</category>
-      <category>national security policy</category>
     </item>
   </channel>
 </rss>
