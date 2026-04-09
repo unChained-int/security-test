@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:26:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,96 @@
       <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/black-hat-usa</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories</title>
+      <link>https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html</link>
+      <description>Thursday. Another week, another batch of things that probably should&amp;apos;ve been caught sooner but&amp;amp;nbsp;weren&amp;apos;t.
+This&amp;amp;nbsp;one&amp;apos;s got some range — old vulnerabilities getting new life, a few &amp;quot;why was that even possible&amp;quot; moments, attackers leaning on platforms and tools you&amp;apos;d normally trust without thinking twice. Quiet&amp;amp;nbsp;escalations more than loud zero-days, but the kind that matter more in</description>
+      <pubDate>Thu, 09 Apr 2026 18:27:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The Hidden Security Risks of Shadow AI in Enterprises</title>
+      <link>https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html</link>
+      <description>As&amp;amp;nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&amp;amp;nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While&amp;amp;nbsp;similar to the phenomenon of</description>
+      <pubDate>Thu, 09 Apr 2026 17:01:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Atomic Stealer MacOS ClickFix Attack Bypasses Apple Security Warnings</title>
+      <link>https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/</link>
+      <description>macOS 26.4 update introduced security warnings into Terminal to prevent ClickFix attacks, so attackers have shifted to Script Editor instead</description>
+      <pubDate>Thu, 09 Apr 2026 11:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025</title>
+      <link>https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html</link>
+      <description>Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&amp;amp;nbsp;2025.
+The finding, detailed by EXPMON&amp;apos;s Haifei Li, has&amp;amp;nbsp;been described as a highly-sophisticated PDF exploit.&amp;amp;nbsp;The artifact (&amp;quot;Invoice540.pdf&amp;quot;) first appeared on the VirusTotal platform on November 28, 2025.&amp;amp;nbsp;A second&amp;amp;nbsp;</description>
+      <pubDate>Thu, 09 Apr 2026 16:45:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>On Microsoft’s Lousy Cloud Security</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html</link>
+      <description>&amp;lt;p&amp;gt;ProPublica has a &amp;lt;a href=&amp;quot;https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/&amp;quot;&amp;gt;scoop&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In late 2024, the federal government&amp;amp;#8217;s cybersecurity evaluators rendered a troubling verdict on one of Microsoft&amp;amp;#8217;s biggest cloud computing offerings.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The tech giant&amp;amp;#8217;s &amp;amp;#8220;lack of proper detailed security documentation&amp;amp;#8221; left reviewers with a &amp;amp;#8220;lack of confidence in assessing the system&amp;amp;#8217;s overall security posture,&amp;amp;#8221; according to an internal government report reviewed by ProPublica.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Or, as one member of the team put it: &amp;amp;#8220;The package is a pile of shit.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;For years, reviewers said, Microsoft had tried and failed to fully explain how it protects sensitive information in the cloud as it hops from server to server across the digital terrain. Given that and other unknowns, government experts couldn&amp;amp;#8217;t vouch for the technology&amp;amp;#8217;s security...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 09 Apr 2026 10:51:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>cloud computing</category>
+      <category>cybersecurity</category>
+      <category>Microsoft</category>
+      <category>national security policy</category>
+      <category>security theater</category>
+    </item>
+    <item>
+      <title>Middle East Hack-for-Hire Operation Traced to South Asian Cyber Espionage Group</title>
+      <link>https://www.infosecurity-magazine.com/news/middle-east-hack-operation-bitter/</link>
+      <description>A spear-phishing campaign which spread across the Middle East between 2023 and 2024 has now been linked to Bitter APT group</description>
+      <pubDate>Thu, 09 Apr 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/middle-east-hack-operation-bitter/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region</title>
+      <link>https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html</link>
+      <description>An&amp;amp;nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings&amp;amp;nbsp;from Access&amp;amp;nbsp;Now, Lookout,&amp;amp;nbsp;and SMEX.
+Two&amp;amp;nbsp;of the targets included prominent Egyptian journalists and government critics, Mostafa</description>
+      <pubDate>Thu, 09 Apr 2026 16:10:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Governance Gaps Emerge as AI Agents Drive 76% Increase in NHIs</title>
+      <link>https://www.infosecurity-magazine.com/news/governance-gaps-agents-76-increase/</link>
+      <description>SANS Institute reveals that AI agents are behind a 76% surge in non-human identities</description>
+      <pubDate>Thu, 09 Apr 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/governance-gaps-agents-76-increase/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Warns of New Threat Group Targeting BPOs and Helpdesks</title>
+      <link>https://www.infosecurity-magazine.com/news/google-warns-group-targeting-bpos/</link>
+      <description>Google’s threat intel team warns UNC6783, a new extortion group possibly linked to the “Raccoon” persona, is targeting BPOs and enterprises</description>
+      <pubDate>Thu, 09 Apr 2026 08:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-warns-group-targeting-bpos/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Higher Education Community Vendor Assessment Toolkit (Free Template) | UpGuard</title>
@@ -1065,139 +1155,6 @@ The campaign has been attributed&amp;amp;nbsp;to TA416, a cluster of activity th
       <category>Awareness</category>
       <category>Interview</category>
       <category>Artificial Intelligence (AI)</category>
-    </item>
-    <item>
-      <title>Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting</title>
-      <link>https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting</link>
-      <description>As organizations disclose breaches tied to TeamPCP&amp;apos;s supply chain attacks, ShinyHunters and Lapsus$ are getting involved, taking credit, and creating a murky situation for enterprises.</description>
-      <pubDate>Fri, 03 Apr 2026 15:11:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Breakthroughs, Security Breaches, and Industry Shakeups Define the Week in Tech</title>
-      <link>https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-industry-shakeups-define-the-week-in-tech/</link>
-      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from March 30–April 3.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-industry-shakeups-define-the-week-in-tech/&amp;quot;&amp;gt;AI Breakthroughs, Security Breaches, and Industry Shakeups Define the Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 03 Apr 2026 14:00:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/ai-breakthroughs-security-breaches-and-industry-shakeups-define-the-week-in-tech/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Anthropic</category>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>ChatGPT</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>Google</category>
-      <category>Information Technology</category>
-      <category>iOS</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Open source</category>
-      <category>Robots</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>United Kingdom</category>
-      <category>Weekly Roundup</category>
-      <category>ai news</category>
-      <category>ai robotics</category>
-      <category>alibaba</category>
-      <category>android</category>
-      <category>anthropic news</category>
-      <category>apple news</category>
-      <category>chatgpt</category>
-      <category>claude</category>
-      <category>Daily Tech Insider</category>
-      <category>data breach</category>
-      <category>deepseek</category>
-      <category>gemini</category>
-      <category>google news</category>
-      <category>hasbro</category>
-      <category>layoffs</category>
-      <category>Newsletter Roundup</category>
-      <category>openai news</category>
-      <category>oracle</category>
-      <category>Qwen</category>
-      <category>robot</category>
-      <category>security breaches</category>
-      <category>siri</category>
-      <category>spacex</category>
-      <category>tech news</category>
-    </item>
-    <item>
-      <title>Picking Up &amp;apos;Skull Vibrations&amp;apos;? Could Be XR Headset Authentication</title>
-      <link>https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication</link>
-      <description>&amp;amp;quot;Skull vibration harmonics generated by vital signs&amp;amp;quot; can be used to sign in to VR, AR, and MR headsets, according to emerging research.</description>
-      <pubDate>Fri, 03 Apr 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Claude Source Code Leak Highlights Big Supply Chain Missteps</title>
-      <link>https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight</link>
-      <description>Or, why the software supply chain should be treated as critical infrastructure with guardrails built in at every layer.</description>
-      <pubDate>Fri, 03 Apr 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/source-code-leaks-highlight-lack-supply-chain-oversight</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Chainguard Unveils Factory 2.0 to Automate Hardening the Software Supply Chain</title>
-      <link>https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain</link>
-      <description>The rebuilt Chainguard platform adds deeper security designed to continuously reconcile open source artifacts across containers, libraries, agent skills, and GitHub Actions.</description>
-      <pubDate>Fri, 03 Apr 2026 12:57:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/chainguard-factory-automate-hardening-software-supply-chain</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry</title>
-      <link>https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry</link>
-      <description>Once CrowdStrike&amp;apos;s nemesis, Microsoft is now a collaborator. A shared interest in Formula 1 helped thaw the years-long fierce rivalry.</description>
-      <pubDate>Fri, 03 Apr 2026 11:53:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Company that Secretly Records and Publishes Zoom Meetings</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html</link>
-      <description>&amp;lt;p&amp;gt;WebinarTV searches the internet for public Zoom invites, joins the meetings, secretly records them, and &amp;lt;a href=&amp;quot;https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/&amp;quot;&amp;gt;publishes&amp;lt;/a&amp;gt; (alternate &amp;lt;a href=&amp;quot;https://archive.ph/TYd4L&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;) the recordings. It doesn&amp;amp;#8217;t use the Zoom record feature, so Zoom can&amp;amp;#8217;t do anything about it.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 03 Apr 2026 11:08:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>privacy</category>
-      <category>surveillance</category>
-      <category>videos</category>
-    </item>
-    <item>
-      <title>UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack</title>
-      <link>https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html</link>
-      <description>The&amp;amp;nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&amp;amp;nbsp;as UNC1069.
-Maintainer Jason Saayman said the attackers tailored their social engineering efforts &amp;quot;specifically to me&amp;quot; by first approaching him under the guise of the founder of a</description>
-      <pubDate>Fri, 03 Apr 2026 16:34:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why Third-Party Risk Is the Biggest Gap in Your Clients&amp;apos; Security Posture</title>
-      <link>https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html</link>
-      <description>The next major&amp;amp;nbsp;breach hitting your clients probably won&amp;apos;t come&amp;amp;nbsp;from inside their&amp;amp;nbsp;walls. It&amp;apos;ll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That&amp;apos;s the new attack surface, and most organizations are underprepared for&amp;amp;nbsp;it.
-Cynomi&amp;apos;s new&amp;amp;nbsp;guide, Securing the Modern Perimeter: The Rise of Third-Party</description>
-      <pubDate>Fri, 03 Apr 2026 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
