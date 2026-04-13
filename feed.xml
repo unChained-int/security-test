@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Apr 2026 02:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:02:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cyber TPRM vs Compliance TPRM: Which is right for you? | UpGuard</title>
+      <link>https://origin.upguard.com/blog/cyber-tprm-vs-compliance-tprm</link>
+      <description>Cyber TPRM and compliance TPRM answer different questions and serve different buyers. Learn how to tell them apart and decide which is best for you.</description>
+      <pubDate>Mon, 13 Apr 2026 07:50:22 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/cyber-tprm-vs-compliance-tprm</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident</title>
+      <link>https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html</link>
+      <description>OpenAI&amp;amp;nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&amp;amp;nbsp;internal system&amp;amp;nbsp;was compromised.
+&amp;quot;Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,&amp;quot;&amp;amp;nbsp;OpenAI said in a post last week. &amp;quot;We found</description>
+      <pubDate>Mon, 13 Apr 2026 12:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads</title>
       <link>https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html</link>
@@ -1131,23 +1149,6 @@ The vulnerability, tracked&amp;amp;nbsp;as CVE-2026-34040 (CVSS score: 8.8), ste
       <category>Hong Kong</category>
       <category>passwords</category>
       <category>police</category>
-    </item>
-    <item>
-      <title>Fortinet Releases Emergency Patch After FortiClient EMS Bug Is Exploited</title>
-      <link>https://www.infosecurity-magazine.com/news/fortinet-emergency-patch-ems-bug/</link>
-      <description>Fortinet has updated its FortiClient EMS product after zero-day attacks surfaced</description>
-      <pubDate>Tue, 07 Apr 2026 09:26:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fortinet-emergency-patch-ems-bug/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>As breakout time accelerates, prevention-first cybersecurity takes center stage</title>
-      <link>https://www.welivesecurity.com/en/business-security/breakout-time-accelerates-prevention-first-cybersecurity-center-stage/</link>
-      <description>Threat actors are using AI to supercharge tried-and-tested TTPs. When attacks move this fast, cyber-defenders need to rethink their own strategy.</description>
-      <pubDate>Tue, 07 Apr 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/breakout-time-accelerates-prevention-first-cybersecurity-center-stage/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
     </item>
   </channel>
 </rss>
