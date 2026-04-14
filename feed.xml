@@ -5,31 +5,46 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Apr 2026 19:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:30:54 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Booking.com Hack Exposes Customer Data, Sparks Travel Scam Fears</title>
-      <link>https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/</link>
-      <description>&amp;lt;p&amp;gt;Booking.com confirms a data breach that exposed traveler details, raising urgent concerns about highly targeted phishing scams and customer safety.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/&amp;quot;&amp;gt;Booking.com Hack Exposes Customer Data, Sparks Travel Scam Fears&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Apr 2026 17:36:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>booking.com breach</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>hacking</category>
-      <category>online fraud</category>
-      <category>personal data exposure</category>
-      <category>phishing scams</category>
-      <category>travel security</category>
+      <title>CSA: CISOs Should Prepare for Post-Mythos Exploit Storm</title>
+      <link>https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm</link>
+      <description>Security experts warn of an &amp;amp;quot;AI vulnerability storm&amp;amp;quot; triggered by the introduction of Anthropic&amp;apos;s Claude Mythos in a new paper from the Cloud Security Alliance (CSA).</description>
+      <pubDate>Mon, 13 Apr 2026 21:29:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Adobe Patches Actively Exploited Zero-Day That Lingered for Months</title>
+      <link>https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day</link>
+      <description>An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.</description>
+      <pubDate>Mon, 13 Apr 2026 20:52:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Empty Attestations: OT Lacks the Tools for Cryptographic Readiness</title>
+      <link>https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness</link>
+      <description>OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.</description>
+      <pubDate>Mon, 13 Apr 2026 19:10:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness</guid>
+      <dc:creator>Brad McInnis</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025</title>
+      <link>https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html</link>
+      <description>Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT.
+A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well as track mouse inputs, log keystrokes, take screenshots, and collect system metadata.
+&amp;quot;One of the</description>
+      <pubDate>Mon, 13 Apr 2026 22:45:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>On Anthropic’s Mythos Preview and Project Glasswing</title>
@@ -1125,50 +1140,6 @@ The model will&amp;amp;nbsp;be used by&amp;amp;nbsp;a small&amp;amp;nbsp;set of 
       <category>National Cyber Security Centre</category>
       <category>Ryan English</category>
       <category>TP-Link</category>
-    </item>
-    <item>
-      <title>Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign</title>
-      <link>https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html</link>
-      <description>The Russia-linked threat actor known&amp;amp;nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May&amp;amp;nbsp;2025.
-The large-scale exploitation campaign has&amp;amp;nbsp;been codenamed&amp;amp;nbsp;</description>
-      <pubDate>Tue, 07 Apr 2026 22:18:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk</title>
-      <link>https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html</link>
-      <description>In&amp;amp;nbsp;the rapid evolution of&amp;amp;nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&amp;amp;nbsp;leaders: Identity programs are maturing, yet the risk is actually increasing.
-According to new research from&amp;amp;nbsp;the Ponemon&amp;amp;nbsp;Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems.&amp;amp;nbsp;These&amp;amp;nbsp;&amp;quot;dark</description>
-      <pubDate>Tue, 07 Apr 2026 21:59:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New FBI Warning: Chinese Apps Could Expose User Data</title>
-      <link>https://www.techrepublic.com/article/news-fbi-warns-foreign-apps-data-security-risks/</link>
-      <description>&amp;lt;p&amp;gt;The FBI is warning Americans about data security risks tied to foreign-developed mobile apps, especially those linked to China.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fbi-warns-foreign-apps-data-security-risks/&amp;quot;&amp;gt;New FBI Warning: Chinese Apps Could Expose User Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 07 Apr 2026 16:25:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fbi-warns-foreign-apps-data-security-risks/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>APAC</category>
-      <category>Applications</category>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>app security</category>
-      <category>chinese apps</category>
-      <category>cybersecurity</category>
-      <category>data privacy</category>
-      <category>data protection</category>
-      <category>fbi</category>
-      <category>mobile security</category>
-      <category>us china relations</category>
     </item>
   </channel>
 </rss>
