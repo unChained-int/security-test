@@ -5,9 +5,32 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Apr 2026 02:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:44:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers</title>
+      <link>https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html</link>
+      <description>A critical security vulnerability&amp;amp;nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the&amp;amp;nbsp;wild.
+The vulnerability in question&amp;amp;nbsp;is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4&amp;amp;nbsp;out of&amp;amp;nbsp;10.0.
+It relates to a case of unrestricted file upload that stems from improper validation of</description>
+      <pubDate>Tue, 14 Apr 2026 11:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software</title>
+      <link>https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The list of vulnerabilities is as follows -
+
+CVE-2026-21643 (CVSS score: 9.1) -  An SQL injection vulnerability in  Fortinet FortiClient EMS that could allow an unauthenticated attacker to</description>
+      <pubDate>Tue, 14 Apr 2026 11:09:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>CSA: CISOs Should Prepare for Post-Mythos Exploit Storm</title>
       <link>https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm</link>
@@ -27,6 +50,30 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>GrafanaGhost: The AI That Leaked Everything Without Being Hacked</title>
+      <link>https://www.techrepublic.com/article/news-grafanaghost-ai-data-exfiltration-security-risk/</link>
+      <description>&amp;lt;p&amp;gt;A newly disclosed vulnerability reveals how AI assistants can become invisible channels for data exfiltration — and why security enforcement must shift to the data layer.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-grafanaghost-ai-data-exfiltration-security-risk/&amp;quot;&amp;gt;GrafanaGhost: The AI That Leaked Everything Without Being Hacked&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 13 Apr 2026 20:28:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-grafanaghost-ai-data-exfiltration-security-risk/</guid>
+      <dc:creator>Tim Freestone</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>ai risk</category>
+      <category>ai security</category>
+      <category>cloud security</category>
+      <category>cybersecurity threats</category>
+      <category>data exfiltration</category>
+      <category>grafana</category>
+      <category>prompt injection</category>
+      <category>vulnerability disclosure</category>
+    </item>
+    <item>
       <title>Empty Attestations: OT Lacks the Tools for Cryptographic Readiness</title>
       <link>https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness</link>
       <description>OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.</description>
@@ -34,6 +81,29 @@
       <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness</guid>
       <dc:creator>Brad McInnis</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Booking.com Hack Exposes Customer Data, Sparks Travel Scam Fears</title>
+      <link>https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/</link>
+      <description>&amp;lt;p&amp;gt;Booking.com confirms a data breach that exposed traveler details, raising urgent concerns about highly targeted phishing scams and customer safety.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/&amp;quot;&amp;gt;Booking.com Hack Exposes Customer Data, Sparks Travel Scam Fears&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 13 Apr 2026 17:36:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-booking-com-data-breach-traveler-scam-risk/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>booking.com breach</category>
+      <category>cybersecurity</category>
+      <category>data breach</category>
+      <category>hacking</category>
+      <category>online fraud</category>
+      <category>personal data exposure</category>
+      <category>phishing scams</category>
+      <category>travel security</category>
     </item>
     <item>
       <title>JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025</title>
@@ -1066,80 +1136,6 @@ The model will&amp;amp;nbsp;be used by&amp;amp;nbsp;a small&amp;amp;nbsp;set of 
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Grafana Patches AI Bug That Could Have Leaked User Data</title>
-      <link>https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data</link>
-      <description>By hiding malicious instructions on an attacker-controlled Web page, AI could ingest orders that appear benign but return sensitive data to the attacker&amp;apos;s server.</description>
-      <pubDate>Tue, 07 Apr 2026 19:52:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/grafana-patches-ai-bug-leaked-user-data</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Trump’s Proposed CISA Cuts Spark Alarm Among Cybersecurity Experts</title>
-      <link>https://www.techrepublic.com/article/news-trump-cisa-budget-cuts-2027/</link>
-      <description>&amp;lt;p&amp;gt;Trump’s proposed budget cuts to CISA raise concerns about U.S. cyber defense, as experts warn of reduced collaboration and threat intelligence sharing.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-trump-cisa-budget-cuts-2027/&amp;quot;&amp;gt;Trump’s Proposed CISA Cuts Spark Alarm Among Cybersecurity Experts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 07 Apr 2026 18:24:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-trump-cisa-budget-cuts-2027/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>Tech Industry</category>
-      <category>CISA</category>
-      <category>critical infrastructure</category>
-      <category>cyber defense</category>
-      <category>cybersecurity</category>
-      <category>federal budget</category>
-      <category>public private partnership</category>
-      <category>threat intelligence</category>
-      <category>trump administration</category>
-    </item>
-    <item>
-      <title>Cybersecurity in the Age of Instant Software</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html</link>
-      <description>&amp;lt;p&amp;gt;AI is rapidly changing how software is written, deployed, and used. Trends point to a future where AIs can write custom software quickly and easily: “instant software.” Taken to an extreme, it might become easier for a user to have an AI write an application on demand&amp;amp;#8212;a spreadsheet, for example&amp;amp;#8212;and delete it when you’re done using it than to buy one commercially. Future systems could include a mix: both traditional long-term software and ephemeral instant software that is constantly being written, deployed, modified, and deleted.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;AI is changing cybersecurity as well. In particular, AI systems are getting better at finding and patching vulnerabilities in code. This has implications for both attackers and defenders, depending on the ways this and related technologies improve...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 07 Apr 2026 17:07:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>computer security</category>
-      <category>cybersecurity</category>
-      <category>LLM</category>
-      <category>patching</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-      <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-      <description>Hackers linked to Russia&amp;apos;s military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.</description>
-      <pubDate>Tue, 07 Apr 2026 17:02:44 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Internet of Things (IoT)</category>
-      <category>Latest Warnings</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>The Coming Storm</category>
-      <category>APT 28</category>
-      <category>Black Lotus Labs</category>
-      <category>Danny Adamitis</category>
-      <category>Fancy Bear</category>
-      <category>Forest Blizzard</category>
-      <category>Lumen</category>
-      <category>Microsoft Office</category>
-      <category>MikroTik</category>
-      <category>National Cyber Security Centre</category>
-      <category>Ryan English</category>
-      <category>TP-Link</category>
     </item>
   </channel>
 </rss>
