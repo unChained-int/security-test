@@ -5,9 +5,64 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Apr 2026 19:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 02:29:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Bets $10 Billion to Boost Japan&amp;apos;s AI, Cybersecurity</title>
+      <link>https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity</link>
+      <description>The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships — the latest move by a hyperscaler to compete for sovereign AI and data centers.</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Patch Tuesday, April 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</link>
+      <description>Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed &amp;quot;BlueHammer.&amp;quot; Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.</description>
+      <pubDate>Tue, 14 Apr 2026 21:47:59 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Time to Patch</category>
+      <category>Action1</category>
+      <category>adobe reader</category>
+      <category>Automox</category>
+      <category>BlueHammer</category>
+      <category>CVE-2026-32201</category>
+      <category>CVE-2026-33120</category>
+      <category>CVE-2026-33825</category>
+      <category>CVE-2026-34621</category>
+      <category>Google Chrome</category>
+      <category>Mike Walters</category>
+      <category>Patch Tuesday April 2026</category>
+      <category>Ryan Braunstein</category>
+      <category>Satnam Narang</category>
+      <category>SharePoint Server</category>
+      <category>Tenable</category>
+      <category>Will Dormann</category>
+    </item>
+    <item>
+      <title>Privilege Elevation Dominates Massive Microsoft Patch Update</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update</link>
+      <description>Elevation-of-privilege bugs accounted for more than half of the 165 vulnerabilities patched, with two zero-days in that mix.</description>
+      <pubDate>Tue, 14 Apr 2026 21:22:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/privilege-elevation-dominates-microsoft-patch-update</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>EDR-Killer Ecosystem Expansion Requires Stronger BYOVD Defenses</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses</link>
+      <description>Stopping EDR killers, which employ bring-your-own-vulnerable-driver (BYOVD) attack techniques, is difficult, but not impossible.</description>
+      <pubDate>Tue, 14 Apr 2026 20:20:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/edr-killer-ecosystem-expansion-requires-stronger-byovd-defenses</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Adobe Issues Emergency Patch for Critical PDF Flaw Exploited For Months</title>
       <link>https://www.techrepublic.com/article/news-adobe-critical-pdf-flaw-exploited-months-emergency-patch/</link>
@@ -49,7 +104,7 @@
       <category>Principal PO Spotlight</category>
     </item>
     <item>
-      <title>Wargame Exercise Demonstrates How Social Media Manipulation Works</title>
+      <title>War Game Exercise Demonstrates How Social Media Manipulation Works</title>
       <link>https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation</link>
       <description>In an educational game called &amp;amp;quot;Capture the Narrative,&amp;amp;quot; students created bots to sway a fictional election, simulating influence in real-world political scenarios.</description>
       <pubDate>Tue, 14 Apr 2026 16:06:14 +0000</pubDate>
@@ -238,6 +293,15 @@ CVE-2026-21643 (CVSS score: 9.1) -&amp;amp;nbsp; An SQL injection vulnerability 
       <guid isPermaLink="true">https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads</title>
+      <link>https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads</link>
+      <description>Security teams can&amp;apos;t test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.</description>
+      <pubDate>Mon, 13 Apr 2026 21:48:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads</guid>
+      <dc:creator>Matthew Andriani</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>CSA: CISOs Should Prepare for Post-Mythos Exploit Storm</title>
@@ -1113,50 +1177,6 @@ Two&amp;amp;nbsp;of the targets included prominent Egyptian journalists and gove
       <category>siem</category>
       <category>SOC Analyst</category>
       <category>Threat hunting</category>
-    </item>
-    <item>
-      <title>Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices</title>
-      <link>https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html</link>
-      <description>Cybersecurity researchers have lifted the curtain on a stealthy botnet that&amp;apos;s designed for distributed denial-of-service (DDoS)&amp;amp;nbsp;attacks.
-Called Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It&amp;apos;s capable of targeting a wide range of IoT devices, such as routers and gateways, spanning multiple architectures.
-&amp;quot;Built for</description>
-      <pubDate>Wed, 08 Apr 2026 22:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google API Keys Quietly Gain Access to Gemini on Android Devices</title>
-      <link>https://www.infosecurity-magazine.com/news/google-api-keys-access-gemini/</link>
-      <description>Google API key flaw exposes mobile apps to Gemini AI access, private files and billing risks</description>
-      <pubDate>Wed, 08 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-api-keys-access-gemini/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Fraud Rockets Higher in Mobile-First Latin America</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america</link>
-      <description>Cyber-fraudsters move quickly from compromised devices to account takeover to funds transfer, shifting money before many financial institutions can react.</description>
-      <pubDate>Wed, 08 Apr 2026 15:45:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical Vulnerability in Ninja Forms Exposes WordPress Sites</title>
-      <link>https://www.infosecurity-magazine.com/news/flaw-ninja-forms-wordpress/</link>
-      <description>Ninja Forms File Upload RCE via unauthenticated arbitrary file upload; update to 3.3.27 immediately</description>
-      <pubDate>Wed, 08 Apr 2026 15:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/flaw-ninja-forms-wordpress/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range</link>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 14:43:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
