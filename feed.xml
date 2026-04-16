@@ -5,9 +5,94 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Apr 2026 07:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:29:13 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NIST Drops NVD Enrichment for Pre-March 2026 Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/nvd-enrichment-premarch-2026/</link>
+      <description>NIST’s National Vulnerability Database will now prioritize enriching new and exploited flaws to address the record growth of reported CVEs</description>
+      <pubDate>Thu, 16 Apr 2026 12:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nvd-enrichment-premarch-2026/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment</title>
+      <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
+      <description>In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&amp;amp;nbsp;phishing. Not&amp;amp;nbsp;weak passwords. Unmanaged non-human identities that nobody was&amp;amp;nbsp;watching.
+For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&amp;amp;nbsp;andOAuth grants. When&amp;amp;nbsp;projects end or employees leave, most</description>
+      <pubDate>Thu, 16 Apr 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution</title>
+      <link>https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html</link>
+      <description>Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the&amp;amp;nbsp;service.
+The details of the vulnerabilities are below&amp;amp;nbsp;-
+
+CVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)</description>
+      <pubDate>Thu, 16 Apr 2026 16:57:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks</title>
+      <link>https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html</link>
+      <description>A &amp;quot;novel&amp;quot; social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency&amp;amp;nbsp;sectors.
+Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage</description>
+      <pubDate>Thu, 16 Apr 2026 16:32:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu</title>
+      <link>https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html</link>
+      <description>A&amp;amp;nbsp;bank approved a Taboola pixel. That&amp;amp;nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&amp;amp;nbsp;occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation.
+
+Read the full technical breakdown in the Security Intelligence&amp;amp;nbsp;Brief.&amp;amp;nbsp;Download now&amp;amp;nbsp;→
+The &amp;quot;First-Hop Bias&amp;quot; Blind&amp;amp;nbsp;Spot
+Most&amp;amp;</description>
+      <pubDate>Thu, 16 Apr 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Human Trust of AI Agents</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html</link>
+      <description>&amp;lt;p&amp;gt;Interesting research: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/pdf/2505.11011&amp;quot;&amp;gt;Humans expect rationality and cooperation from LLM opponents in strategic games&amp;lt;/a&amp;gt;.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; As Large Language Models (LLMs) integrate into our social and economic interactions, we need to deepen our understanding of how humans respond to LLMs opponents in strategic settings. We present the results of the first controlled monetarily-incentivised laboratory experiment looking at differences in human behaviour in a multi-player p-beauty contest against other humans and LLMs. We use a within-subject design in order to compare behaviour at the individual level. We show that, in this environment, human subjects choose significantly lower numbers when playing against LLMs than humans, which is mainly driven by the increased prevalence of &amp;amp;#8216;zero&amp;amp;#8217; Nash-equilibrium choices. This shift is mainly driven by subjects with high strategic reasoning ability. Subjects who play the zero Nash-equilibrium choice motivate their strategy by appealing to perceived LLM&amp;amp;#8217;s reasoning ability and, unexpectedly, propensity towards cooperation. Our findings provide foundational insights into the multi-player human-LLM interaction in simultaneous choice games, uncover heterogeneities in both subjects&amp;amp;#8217; behaviour and beliefs about LLM&amp;amp;#8217;s play when playing against them, and suggest important implications for mechanism design in mixed human-LLM systems...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 16 Apr 2026 09:41:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>games</category>
+      <category>LLM</category>
+      <category>trust</category>
+    </item>
+    <item>
+      <title>Systemic Flaw in MCP Protocol Could Expose 150 Million Downloads</title>
+      <link>https://www.infosecurity-magazine.com/news/systemic-flaw-mcp-expose-150/</link>
+      <description>Ox Security claims as many as 200,000 servers are exposed by newly discovered MCP vulnerability</description>
+      <pubDate>Thu, 16 Apr 2026 09:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/systemic-flaw-mcp-expose-150/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Automotive Ransomware Attacks Double in a Year</title>
+      <link>https://www.infosecurity-magazine.com/news/automotive-ransomware-attacks/</link>
+      <description>Halcyon says ransomware now accounts for more than two-fifths of cyber-attacks targeting carmakers</description>
+      <pubDate>Thu, 16 Apr 2026 08:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/automotive-ransomware-attacks/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign</title>
       <link>https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html</link>
@@ -596,7 +681,7 @@ CVE-2026-21643 (CVSS score: 9.1) -&amp;amp;nbsp; An SQL injection vulnerability 
     <item>
       <title>Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads</title>
       <link>https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads</link>
-      <description>Security teams can&amp;apos;t test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.</description>
+      <description>Security teams can&amp;apos;t test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax-filing deadlines.</description>
       <pubDate>Mon, 13 Apr 2026 21:48:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads</guid>
       <dc:creator>Matthew Andriani</dc:creator>
@@ -1096,112 +1181,6 @@ The vulnerability in question&amp;amp;nbsp;is CVE-2026-39987 (CVSS score: 9.3), 
       <pubDate>Fri, 10 Apr 2026 07:03:57 +0000</pubDate>
       <guid isPermaLink="true">https://origin.upguard.com/blog/shadow-it</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers</title>
-      <link>https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html</link>
-      <description>Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor.
-The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a popular WordPress slider plugin with more than 800,000 active installations across its free and Pro</description>
-      <pubDate>Fri, 10 Apr 2026 11:58:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Russia&amp;apos;s &amp;apos;Fancy Bear&amp;apos; APT Continues Its Global Onslaught</title>
-      <link>https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</link>
-      <description>Victims don&amp;apos;t need to match the cyber espionage group&amp;apos;s technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.</description>
-      <pubDate>Thu, 09 Apr 2026 20:50:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>&amp;apos;BlueHammer&amp;apos; Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues</link>
-      <description>Under the alias &amp;apos;Chaotic Eclipse,&amp;apos; a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.</description>
-      <pubDate>Thu, 09 Apr 2026 20:13:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hackers Exploit Adobe PDF Flaw for Months to Steal Data, No Fix Yet</title>
-      <link>https://www.techrepublic.com/article/news-adobe-acrobat-zero-day-pdf-exploit-months/</link>
-      <description>&amp;lt;p&amp;gt;A critical Adobe Acrobat zero-day has been exploited for months via malicious PDFs to steal data and potentially take over systems, with no patch yet available.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-adobe-acrobat-zero-day-pdf-exploit-months/&amp;quot;&amp;gt;Hackers Exploit Adobe PDF Flaw for Months to Steal Data, No Fix Yet&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Apr 2026 18:33:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-adobe-acrobat-zero-day-pdf-exploit-months/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Applications</category>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>International</category>
-      <category>Security</category>
-      <category>Adobe Acrobat</category>
-      <category>adobe reader vulnerability</category>
-      <category>cybersecurity threats</category>
-      <category>data breach risks</category>
-      <category>pdf malware</category>
-      <category>phishing attacks</category>
-      <category>remote code execution</category>
-      <category>zero day exploit</category>
-    </item>
-    <item>
-      <title>Do Ceasefires Slow Cyberattacks? History Suggests Not</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history</link>
-      <description>The cybersecurity community is waiting with bated breath to see if Iranian hackers will honor a ceasefire that doesn&amp;apos;t actually name or directly involve them.</description>
-      <pubDate>Thu, 09 Apr 2026 18:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs</title>
-      <link>https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html</link>
-      <description>Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&amp;amp;nbsp;(SDK) called&amp;amp;nbsp;EngageLab&amp;amp;nbsp;SDK that could have put millions of cryptocurrency wallet users at&amp;amp;nbsp;risk.
-&amp;quot;This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private&amp;amp;nbsp;data,&amp;quot; the Microsoft Defender</description>
-      <pubDate>Thu, 09 Apr 2026 22:56:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns</title>
-      <link>https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html</link>
-      <description>A previously undocumented threat cluster&amp;amp;nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook.
-&amp;quot;LucidRook is a sophisticated stager that embeds a Lua interpreter and Rust-compiled libraries within a dynamic-link library (DLL) to download and</description>
-      <pubDate>Thu, 09 Apr 2026 21:53:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Apple Scam Hits Millions of iPhone Users Worldwide, Draining Bank Accounts</title>
-      <link>https://www.techrepublic.com/article/news-apple-iphone-scam-targeting-millions-2026/</link>
-      <description>&amp;lt;p&amp;gt;Apple warns of a new scam targeting millions of iPhone users. Learn the red flags, how it works, and how to protect your account and finances.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-iphone-scam-targeting-millions-2026/&amp;quot;&amp;gt;New Apple Scam Hits Millions of iPhone Users Worldwide, Draining Bank Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Apr 2026 15:42:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-iphone-scam-targeting-millions-2026/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>EU</category>
-      <category>Hardware</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>apple pay fraud</category>
-      <category>apple scam</category>
-      <category>cybersecurity threats</category>
-      <category>iphone security</category>
-      <category>mobile security</category>
-      <category>phishing scams</category>
-      <category>scam alerts</category>
-      <category>social engineering</category>
     </item>
   </channel>
 </rss>
