@@ -5,9 +5,51 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:18:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Coast Guard&amp;apos;s New Cybersecurity Rules Offers Lessons for CISOs</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos</link>
+      <description>The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.</description>
+      <pubDate>Fri, 17 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>DDoS-For-Hire Services Disrupted by International Police Action in ‘Operation PowerOff’</title>
+      <link>https://www.infosecurity-magazine.com/news/ddos-services-hit-by-police/</link>
+      <description>Coordinated action by FBI, Europol and others seizes infrastructure, makes arrests – and sends warning letters to known DDoS service users</description>
+      <pubDate>Fri, 17 Apr 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ddos-services-hit-by-police/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Mythos and Cybersecurity</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html</link>
+      <description>&amp;lt;p&amp;gt;Last week, Anthropic pulled back the curtain on &amp;lt;a href=&amp;quot;https://red.anthropic.com/2026/mythos-preview/&amp;quot;&amp;gt;Claude Mythos Preview&amp;lt;/a&amp;gt;, an AI model so capable at finding and exploiting software vulnerabilities that the company &amp;lt;a href=&amp;quot;https://globalnews.ca/news/11769446/anthropic-ai-model-too-powerful/&amp;quot;&amp;gt;decided&amp;lt;/a&amp;gt; it was too dangerous to release to the public. Instead, access has been &amp;lt;a href=&amp;quot;https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/&amp;quot;&amp;gt;restricted&amp;lt;/a&amp;gt; to roughly 50 organizations&amp;amp;#8212;Microsoft, Apple, Amazon Web Services, CrowdStrike and other vendors of critical infrastructure&amp;amp;#8212;under an initiative called &amp;lt;a href=&amp;quot;https://www.anthropic.com/glasswing&amp;quot;&amp;gt;Project Glasswing&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The announcement was accompanied by a barrage of hair-raising anecdotes: &amp;lt;a href=&amp;quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades&amp;quot;&amp;gt;thousands&amp;lt;/a&amp;gt; of vulnerabilities uncovered across &amp;lt;a href=&amp;quot;https://www.helpnetsecurity.com/2026/04/08/anthropic-claude-mythos-preview-identify-vulnerabilities/&amp;quot;&amp;gt;every major...&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 17 Apr 2026 11:02:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html</guid>
+      <dc:creator>B. Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cybersecurity</category>
+      <category>LLM</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul</title>
+      <link>https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html</link>
+      <description>Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025.
+The new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user&amp;apos;s location in</description>
+      <pubDate>Fri, 17 Apr 2026 16:17:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions</title>
       <link>https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html</link>
@@ -125,6 +167,15 @@ To that end, the agency&amp;amp;nbsp;has added the vulnerability, tracked&amp;am
       <guid isPermaLink="true">https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities</link>
+      <description>The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.</description>
+      <pubDate>Thu, 16 Apr 2026 21:47:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>North Korea Uses ClickFix to Target macOS Users&amp;apos; Data</title>
@@ -313,19 +364,6 @@ The details of the vulnerabilities are below&amp;amp;nbsp;-
 CVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)</description>
       <pubDate>Thu, 16 Apr 2026 16:57:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu</title>
-      <link>https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html</link>
-      <description>A&amp;amp;nbsp;bank approved a Taboola pixel. That&amp;amp;nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&amp;amp;nbsp;occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation.
-
-Read the full technical breakdown in the Security Intelligence&amp;amp;nbsp;Brief.&amp;amp;nbsp;Download now&amp;amp;nbsp;→
-The &amp;quot;First-Hop Bias&amp;quot; Blind&amp;amp;nbsp;Spot
-Most&amp;amp;</description>
-      <pubDate>Thu, 16 Apr 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -1098,42 +1136,6 @@ A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocu
       <pubDate>Mon, 13 Apr 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mailbox-rule-abuse-stealthy-post/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts</title>
-      <link>https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html</link>
-      <description>The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit&amp;amp;nbsp;called W3LL to steal thousands of victims&amp;apos; account credentials and attempt more than $20 million in&amp;amp;nbsp;fraud.
-In tandem, authorities detained the alleged developer, who has&amp;amp;</description>
-      <pubDate>Mon, 13 Apr 2026 20:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mirax Android Trojan Turns Devices Into Residential Proxy Nodes</title>
-      <link>https://www.infosecurity-magazine.com/news/mirax-trojan-devices-proxy-nodes/</link>
-      <description>Security researchers warn of Mirax, an emerging Android banking trojan using MaaS, remote access and residential proxies to target European users</description>
-      <pubDate>Mon, 13 Apr 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mirax-trojan-devices-proxy-nodes/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More</title>
-      <link>https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html</link>
-      <description>Monday&amp;amp;nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&amp;amp;nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It&amp;amp;nbsp;is one of those mornings where the gap between a quiet shift and a full-blown incident response is basically</description>
-      <pubDate>Mon, 13 Apr 2026 18:31:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Your MTTD Looks Great. Your Post-Alert Gap Doesn&amp;apos;t</title>
-      <link>https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html</link>
-      <description>Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&amp;amp;nbsp;Alto Networks&amp;apos; Wendi&amp;amp;nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike&amp;apos;s 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant&amp;apos;s M-Trends</description>
-      <pubDate>Mon, 13 Apr 2026 17:11:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
