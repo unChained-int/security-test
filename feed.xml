@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 18 Apr 2026 02:23:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:06:50 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet</title>
+      <link>https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html</link>
+      <description>Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42.
+The attack targeting TBK DVR devices has been found to exploit CVE-2024-3721 (CVSS score: 6.3), a medium-severity command injection vulnerability affecting</description>
+      <pubDate>Sat, 18 Apr 2026 11:31:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: New Giant Squid Video</title>
       <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html</link>
@@ -235,6 +245,15 @@ The new policy updates relate to contact and location permissions in Android, al
       <guid isPermaLink="true">https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>That data breach alert might be a trap</title>
+      <link>https://www.welivesecurity.com/en/scams/data-breach-alert-might-be-trap/</link>
+      <description>Ignoring a real breach notification invites risk, but falling for a bogus one could be even worse. Stop reacting on autopilot.</description>
+      <pubDate>Fri, 17 Apr 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/data-breach-alert-might-be-trap/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Scams</category>
     </item>
     <item>
       <title>NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions</title>
@@ -1175,27 +1194,6 @@ It relates to a case of unrestricted file upload that stems from improper valida
       <guid isPermaLink="true">https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software</title>
-      <link>https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on&amp;amp;nbsp;Monday added half a dozen security flaws to its Known Exploited Vulnerabilities&amp;amp;nbsp;(KEV) catalog, citing evidence of active exploitation.
-The list of vulnerabilities is as follows&amp;amp;nbsp;-
-
-CVE-2026-21643 (CVSS score: 9.1) -&amp;amp;nbsp; An SQL injection vulnerability in&amp;amp;nbsp; Fortinet FortiClient EMS that could allow an</description>
-      <pubDate>Tue, 14 Apr 2026 11:09:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads</title>
-      <link>https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads</link>
-      <description>Security teams can&amp;apos;t test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax-filing deadlines.</description>
-      <pubDate>Mon, 13 Apr 2026 21:48:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads</guid>
-      <dc:creator>Matthew Andriani</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
