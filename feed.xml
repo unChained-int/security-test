@@ -5,9 +5,89 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:22:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North Korea&amp;apos;s Lazarus Targets macOS Users via ClickFix</title>
+      <link>https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix</link>
+      <description>Lazarus continues leveraging ClickFix for initial access and data theft, in this case, against Mac-centric organizations and their high-value leaders.</description>
+      <pubDate>Fri, 24 Apr 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Rush is Reviving Old Cybersecurity Mistakes, Mandiant VP Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-old-cybersecurity-mistakes/</link>
+      <description>AI tools are not just creating new vulnerabilities, they are reviving old security failures, warned Jurgen Kutscher, VP of Mandiant Consulting</description>
+      <pubDate>Fri, 24 Apr 2026 12:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-old-cybersecurity-mistakes/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine</title>
+      <link>https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html</link>
+      <description>The AI Agent Authority Gap - From Ungoverned to Delegation
+As discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly.
+The issue is not simply that agents are new actors. It is that agents are delegated actors. They do not emerge with independent authority. They are triggered, invoked, provisioned, or</description>
+      <pubDate>Fri, 24 Apr 2026 17:19:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases</title>
+      <link>https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html</link>
+      <description>Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025.
+&amp;quot;Once launched, these apps redirect users to browser pages designed to look similar to the App Store and distribute trojanized versions of legitimate wallets,&amp;quot; Kaspersky</description>
+      <pubDate>Fri, 24 Apr 2026 17:18:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hiding Bluetooth Trackers in Mail</title>
+      <link>https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html</link>
+      <description>&amp;lt;p&amp;gt;It was used to &amp;lt;a href=&amp;quot;https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours&amp;quot;&amp;gt;track&amp;lt;/a&amp;gt; a Dutch naval ship:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Dutch journalist Just Vervaart, working for regional media network Omroep Gelderland, followed the directions posted on the Dutch government website and mailed a postcard with a hidden tracker inside. Because of this, they were able to track the ship for about a day, watching it sail from Heraklion, Crete, before it turned towards Cyprus. While it only showed the location of that one vessel, knowing that it was part of a carrier strike group sailing in the Mediterranean could potentially put the entire fleet at risk...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 24 Apr 2026 11:01:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Bluetooth</category>
+      <category>tracking</category>
+    </item>
+    <item>
+      <title>Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2</title>
+      <link>https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html</link>
+      <description>Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access.
+Zscaler ThreatLabz, which discovered the campaign last month, has attributed it with high confidence to Tropic Trooper (aka</description>
+      <pubDate>Fri, 24 Apr 2026 14:59:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Npm Supply Chain Malware Attack Targets Developers With Worm-Like Propagation</title>
+      <link>https://www.infosecurity-magazine.com/news/npm-supply-chain-worm-canister/</link>
+      <description>Malicious npm packages spread via worm-like propagation and steal developer credentials</description>
+      <pubDate>Fri, 24 Apr 2026 08:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/npm-supply-chain-worm-canister/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure</title>
+      <link>https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html</link>
+      <description>A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure.
+The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data.
+&amp;quot;A server-side</description>
+      <pubDate>Fri, 24 Apr 2026 12:54:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets</title>
       <link>https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets</link>
@@ -36,10 +116,10 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware</title>
+      <title>UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware</title>
       <link>https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html</link>
       <description>A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.
-&amp;quot;As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account</description>
+&amp;quot;As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account</description>
       <pubDate>Thu, 23 Apr 2026 23:46:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -96,9 +176,8 @@
     <item>
       <title>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign</title>
       <link>https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html</link>
-      <description>Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.
-&amp;quot;The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in &amp;apos;bw1.js,&amp;apos; a file included in the package contents,&amp;quot; the application security company said.
-&amp;quot;The attack appears to have leveraged</description>
+      <description>Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket.
+&amp;quot;The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in &amp;apos;bw1.js,&amp;apos; a file included in the package contents,&amp;quot; the</description>
       <pubDate>Thu, 23 Apr 2026 19:12:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1131,85 +1210,6 @@ Everything moves quickly. Prompts land cleanly. The system produces impressive o
 But most AI initiatives don&amp;apos;t fail because of bad technology. They stall because what worked in the demo doesn&amp;apos;t survive contact with real operations. The gap between a</description>
       <pubDate>Mon, 20 Apr 2026 17:00:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Is “Satoshi Nakamoto” Really Adam Back?</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html</link>
-      <description>&amp;lt;p&amp;gt;The &amp;lt;i&amp;gt;New York Times&amp;lt;/i&amp;gt; has a &amp;lt;a href=&amp;quot;https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html&amp;quot;&amp;gt;long article&amp;lt;/a&amp;gt; where the author lays out an impressive array of circumstantial evidence that the inventor of Bitcoin is the cypherpunk Adam Back.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;I don&amp;amp;#8217;t know. The article is convincing, but it&amp;amp;#8217;s written to be convincing.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;I can&amp;amp;#8217;t remember if I ever met Adam. I was a member of the Cypherpunks mailing list for a while, but I was never really an active participant. I spent more time on the Usenet newsgroup sci.crypt. I knew a bunch of the Cypherpunks, though, from various conferences around the world at the time. I really have no opinion about who Satoshi Nakamoto really is...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 20 Apr 2026 11:07:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>bitcoin</category>
-      <category>cryptocurrency</category>
-      <category>pseudonymity</category>
-    </item>
-    <item>
-      <title>Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain</title>
-      <link>https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html</link>
-      <description>Cybersecurity researchers have discovered a critical &amp;quot;by design&amp;quot; weakness in the Model Context Protocol&amp;apos;s (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain.
-&amp;quot;This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to</description>
-      <pubDate>Mon, 20 Apr 2026 16:12:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/</link>
-      <description>The National Cyber Security Centre has shared an update of its resilience-building efforts for the NHS</description>
-      <pubDate>Mon, 20 Apr 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>What the ransom note won’t say</title>
-      <link>https://www.welivesecurity.com/en/ransomware/what-ransom-note-doesnt-say/</link>
-      <description>An attack is what you see, but a business operation is what you’re up against</description>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/ransomware/what-ransom-note-doesnt-say/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Ransomware</category>
-    </item>
-    <item>
-      <title>Crypto Exchange Grinex Blames Western Spies for $13m Theft</title>
-      <link>https://www.infosecurity-magazine.com/news/crypto-exchange-grinex-western/</link>
-      <description>Russian crypto-exchange Grinex claims Western intelligence agencies were behind a $13m heist</description>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crypto-exchange-grinex-western/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems</title>
-      <link>https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html</link>
-      <description>Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.
-The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.</description>
-      <pubDate>Mon, 20 Apr 2026 13:04:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Using TPRM to Protect Intellectual Property in University Research | UpGuard</title>
-      <link>https://origin.upguard.com/blog/tprm-and-university-ip</link>
-      <description>Learn how third-party risk management can help universities defend themselves against third-party risks and protect their valuable intellectual property.</description>
-      <pubDate>Mon, 20 Apr 2026 03:37:24 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/tprm-and-university-ip</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials</title>
-      <link>https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html</link>
-      <description>Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to &amp;quot;certain&amp;quot; internal Vercel systems.
-The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company.
-&amp;quot;The attacker used that access to take over the employee&amp;apos;s Vercel Google Workspace account,</description>
-      <pubDate>Mon, 20 Apr 2026 09:05:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
