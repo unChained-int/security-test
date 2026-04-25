@@ -5,9 +5,21 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 25 Apr 2026 02:25:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:15:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline</title>
+      <link>https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The list of vulnerabilities is below -
+
+CVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in</description>
+      <pubDate>Sat, 25 Apr 2026 10:38:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: How Squid Survived Extinction Events</title>
       <link>https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html</link>
@@ -23,8 +35,8 @@
     <item>
       <title>FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches</title>
       <link>https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency&amp;apos;s Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with malware called FIRESTARTER.
-FIRESTARTER, per CISA and the U.K.&amp;apos;s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access and</description>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency&amp;apos;s Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER.
+FIRESTARTER, per CISA and the U.K.&amp;apos;s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access</description>
       <pubDate>Fri, 24 Apr 2026 22:36:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -198,6 +210,15 @@ Zscaler ThreatLabz, which discovered the campaign last month, has attributed it 
       <guid isPermaLink="true">https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The calm before the ransom: What you see is not all there is</title>
+      <link>https://www.welivesecurity.com/en/ransomware/calm-ransom-what-you-see-is-not-all-there-is/</link>
+      <description>A breach claims the systems as well as the confidence that was, in retrospect, a major vulnerability</description>
+      <pubDate>Fri, 24 Apr 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/ransomware/calm-ransom-what-you-see-is-not-all-there-is/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Ransomware</category>
     </item>
     <item>
       <title>Npm Supply Chain Malware Attack Targets Developers With Worm-Like Propagation</title>
@@ -1158,56 +1179,6 @@ CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in P
       <category>mcp vulnerability</category>
       <category>model context protocol</category>
       <category>zero trust security</category>
-    </item>
-    <item>
-      <title>Microsoft Defender Flaws Exploited on Windows, Two Left Unpatched</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-defender-flaws-exploited-windows-10-11/</link>
-      <description>&amp;lt;p&amp;gt;Although the team with Microsoft moved swiftly to patch the BlueHammer vulnerability, other exploits still threaten Microsoft Defender and Windows users.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-defender-flaws-exploited-windows-10-11/&amp;quot;&amp;gt;Microsoft Defender Flaws Exploited on Windows, Two Left Unpatched&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 20 Apr 2026 18:18:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-defender-flaws-exploited-windows-10-11/</guid>
-      <dc:creator>J.R. Johnivan</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Windows</category>
-      <category>cybersecurity threats</category>
-      <category>endpoint security</category>
-      <category>Microsoft Defender</category>
-      <category>privilege escalation</category>
-      <category>system-level access</category>
-      <category>vulnerability patching</category>
-      <category>windows security</category>
-      <category>zero day exploits</category>
-    </item>
-    <item>
-      <title>Over 800 Android Apps Targeted in PIN-Stealing Trojan Campaign</title>
-      <link>https://www.techrepublic.com/article/news-android-malware-stealing-pin-overlay-attack/</link>
-      <description>&amp;lt;p&amp;gt;Four Android banking malware campaigns are targeting more than 800 apps by abusing overlays, Accessibility permissions, and sideloaded fake apps to steal PINs.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-android-malware-stealing-pin-overlay-attack/&amp;quot;&amp;gt;Over 800 Android Apps Targeted in PIN-Stealing Trojan Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 20 Apr 2026 18:03:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-android-malware-stealing-pin-overlay-attack/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Hardware</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>accessibility abuse</category>
-      <category>android malware</category>
-      <category>android security</category>
-      <category>banking trojan</category>
-      <category>cybersecurity threats</category>
-      <category>mobile security</category>
-      <category>overlay attacks</category>
-      <category>phishing attacks</category>
     </item>
   </channel>
 </rss>
