@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 25 Apr 2026 07:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 13:03:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software</title>
+      <link>https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html</link>
+      <description>Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran&amp;apos;s nuclear program by destroying uranium enrichment centrifuges.
+According to a new report published by SentinelOne, the previously undocumented cyber sabotage framework dates back to 2005, primarily targeting high-precision calculation software to tamper</description>
+      <pubDate>Sat, 25 Apr 2026 14:56:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline</title>
       <link>https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html</link>
@@ -1155,30 +1165,6 @@ CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in P
       <category>saas security</category>
       <category>salesforce</category>
       <category>shinyhunters</category>
-    </item>
-    <item>
-      <title>The MCP Disclosure Is the AI Era’s ‘Open Redirect’ Moment</title>
-      <link>https://www.techrepublic.com/article/news-mcp-ai-security-vulnerability-data-layer-governance/</link>
-      <description>&amp;lt;p&amp;gt;The MCP flaw reveals a systemic AI security gap, exposing enterprise systems to supply chain attacks and forcing a shift toward data-layer governance.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-mcp-ai-security-vulnerability-data-layer-governance/&amp;quot;&amp;gt;The MCP Disclosure Is the AI Era’s ‘Open Redirect’ Moment&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 20 Apr 2026 19:22:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-mcp-ai-security-vulnerability-data-layer-governance/</guid>
-      <dc:creator>Tim Freestone</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Anthropic</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>agentic ai</category>
-      <category>ai security</category>
-      <category>ai supply chain attacks</category>
-      <category>cybersecurity trends</category>
-      <category>data security</category>
-      <category>mcp vulnerability</category>
-      <category>model context protocol</category>
-      <category>zero trust security</category>
     </item>
   </channel>
 </rss>
