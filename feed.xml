@@ -5,9 +5,17 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 27 Apr 2026 02:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:23:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BlackFile Group Targets Retail and Hospitality with Vishing Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/</link>
+      <description>Researchers uncover a new data theft and extortion group dubbed “BlackFile”</description>
+      <pubDate>Mon, 27 Apr 2026 08:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software</title>
       <link>https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html</link>
@@ -250,9 +258,8 @@ Zscaler ThreatLabz, which discovered the campaign last month, has attributed it 
     <item>
       <title>LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure</title>
       <link>https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html</link>
-      <description>A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure.
-The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data.
-&amp;quot;A server-side</description>
+      <description>A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure.
+The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access</description>
       <pubDate>Fri, 24 Apr 2026 12:54:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1137,15 +1144,6 @@ CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in P
       <pubDate>Mon, 20 Apr 2026 21:01:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach</guid>
       <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Serial-to-IP Devices Hide Thousands of Old &amp;amp;amp; New Bugs</title>
-      <link>https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs</link>
-      <description>The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.</description>
-      <pubDate>Mon, 20 Apr 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs</guid>
-      <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
