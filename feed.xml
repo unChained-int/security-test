@@ -5,9 +5,37 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Apr 2026 02:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:24:04 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North Korean Hackers Target Crypto Firms with ClickFix and AI-Made Zoom Lures</title>
+      <link>https://www.infosecurity-magazine.com/news/bluenoroff-dprk-hackers-target/</link>
+      <description>Arctic Wolf attributed this large-scale spear-phishing campaign to BlueNoroff, a financially motivated subgroup of the Lazarus Group</description>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bluenoroff-dprk-hackers-target/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover</title>
+      <link>https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html</link>
+      <description>An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort.
+Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent&amp;apos;s identity lifecycle operations in a</description>
+      <pubDate>Tue, 28 Apr 2026 12:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202</title>
+      <link>https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html</link>
+      <description>Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.
+The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this</description>
+      <pubDate>Tue, 28 Apr 2026 11:20:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>UNC6692 Combines Social Engineering, Malware, Cloud Abuse</title>
       <link>https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse</link>
@@ -1095,35 +1123,6 @@ The vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring sy
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation</title>
-      <link>https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html</link>
-      <description>Threat actors associated with The Gentlemen ransomware‑as‑a‑service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC.
-According to new research published by Check Point, the command-and-control (C2 or C&amp;amp;amp;C) server linked to SystemBC has led to the discovery of a botnet of more than 1,570 victims.
-&amp;quot;SystemBC establishes SOCKS5 network tunnels within</description>
-      <pubDate>Tue, 21 Apr 2026 23:48:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trojanized Android App Fuels New Wave of NFC Fraud</title>
-      <link>https://www.infosecurity-magazine.com/news/trojanized-android-handle-nfc/</link>
-      <description>NGate malware abuses HandyPay app to steal NFC card data and PINs in Brazil</description>
-      <pubDate>Tue, 21 Apr 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trojanized-android-handle-nfc/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters</title>
-      <link>https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html</link>
-      <description>Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them.
-The vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed</description>
-      <pubDate>Tue, 21 Apr 2026 21:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
