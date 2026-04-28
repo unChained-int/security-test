@@ -5,9 +5,18 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 27 Apr 2026 19:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 02:50:01 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UNC6692 Combines Social Engineering, Malware, Cloud Abuse</title>
+      <link>https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse</link>
+      <description>A newly discovered threat actor is using Microsoft Teams, AWS S3 buckets, and custom &amp;amp;quot;Snow&amp;amp;quot; malware in a multipronged campaign.</description>
+      <pubDate>Mon, 27 Apr 2026 20:12:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Unpatched &amp;apos;PhantomRPC&amp;apos; Flaw in Windows Enables Privilege Escalation</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation</link>
@@ -1115,15 +1124,6 @@ The vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout R
       <guid isPermaLink="true">https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk</link>
-      <description>The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.</description>
-      <pubDate>Tue, 21 Apr 2026 15:29:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
