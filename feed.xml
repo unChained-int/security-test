@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 29 Apr 2026 02:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 08:16:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Shadow Supply Chain: A Pivot To Usage-Based Discovery | UpGuard</title>
+      <link>https://origin.upguard.com/blog/the-pivot-to-usage-based-discovery</link>
+      <description>Pivot from &amp;quot;purchase-based&amp;quot; to usage-based discovery. See how browser telemetry and identity logs work together to secure your true vendor footprint.</description>
+      <pubDate>Wed, 29 Apr 2026 06:36:42 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/the-pivot-to-usage-based-discovery</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure</title>
+      <link>https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html</link>
+      <description>In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI&amp;apos;s LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.
+The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying</description>
+      <pubDate>Wed, 29 Apr 2026 11:04:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures</link>
@@ -1104,55 +1122,6 @@ The supply chain worm has been detected by both Socket and StepSecurity, with th
       <guid isPermaLink="true">https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft: Most Windows 11 Users Don’t Need Third-Party Antivirus</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-windows-11-no-third-party-antivirus-needed/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft says Windows 11’s built-in security is strong enough for most users, though power users and enterprises may still want third-party protection.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-windows-11-no-third-party-antivirus-needed/&amp;quot;&amp;gt;Microsoft: Most Windows 11 Users Don’t Need Third-Party Antivirus&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Apr 2026 17:28:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-windows-11-no-third-party-antivirus-needed/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>Windows</category>
-      <category>antivirus software</category>
-      <category>cybersecurity</category>
-      <category>endpoint security</category>
-      <category>Microsoft Defender</category>
-      <category>microsoft windows</category>
-      <category>ransomware protection</category>
-      <category>third-party antivirus</category>
-      <category>windows 11 security</category>
-    </item>
-    <item>
-      <title>New Apple Phishing Scam Uses Fake $899 iPhone Purchase Alert</title>
-      <link>https://www.techrepublic.com/article/news-apple-phishing-scam-fake-899-iphone-purchase-alert/</link>
-      <description>&amp;lt;p&amp;gt;An Apple account notification has been exploited in a new email phishing attack that comes with a fake iPhone purchase claim.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-phishing-scam-fake-899-iphone-purchase-alert/&amp;quot;&amp;gt;New Apple Phishing Scam Uses Fake $899 iPhone Purchase Alert&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Apr 2026 17:20:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-phishing-scam-fake-899-iphone-purchase-alert/</guid>
-      <dc:creator>Esther Shein</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>cybersecurity</category>
-      <category>fraud</category>
-      <category>iphone</category>
-      <category>paypal</category>
-      <category>phishing</category>
-      <category>phishing scam</category>
-      <category>scam alert</category>
     </item>
   </channel>
 </rss>
