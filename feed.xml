@@ -5,9 +5,19 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:21:18 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution</title>
+      <link>https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html</link>
+      <description>Google has addressed a maximum severity security flaw in Gemini CLI -- the &amp;quot;@google/gemini-cli&amp;quot; npm package and the &amp;quot;google-github-actions/run-gemini-cli&amp;quot; GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems.
+&amp;quot;The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,&amp;quot;</description>
+      <pubDate>Thu, 30 Apr 2026 12:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Microsoft Confirms Windows Flaw Is Being Exploited After Incomplete Patch</title>
       <link>https://www.techrepublic.com/article/news-microsoft-windows-zero-click-flaw-incomplete-patch/</link>
@@ -301,6 +311,7 @@ The room goes quiet because an honest answer requires context – which is somet
       <category>Cyberwarfare</category>
       <category>Nation-State</category>
       <category>Bahrain</category>
+      <category>Featured</category>
       <category>Handala</category>
       <category>influence</category>
       <category>Iran</category>
@@ -348,12 +359,7 @@ The room goes quiet because an honest answer requires context – which is somet
       <title>Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately</title>
       <link>https://thehackernews.com/2026/04/critical-cpanel-authentication.html</link>
       <description>cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.
-The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions -
-
-11.110.0.97
-11.118.0.63
-11.126.0.54
-11.132.0.29</description>
+The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in</description>
       <pubDate>Wed, 29 Apr 2026 15:07:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/critical-cpanel-authentication.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1129,14 +1135,6 @@ Zscaler ThreatLabz, which discovered the campaign last month, has attributed it 
       <guid isPermaLink="true">https://www.welivesecurity.com/en/ransomware/calm-ransom-what-you-see-is-not-all-there-is/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Ransomware</category>
-    </item>
-    <item>
-      <title>Npm Supply Chain Malware Attack Targets Developers With Worm-Like Propagation</title>
-      <link>https://www.infosecurity-magazine.com/news/npm-supply-chain-worm-canister/</link>
-      <description>Malicious npm packages spread via worm-like propagation and steal developer credentials</description>
-      <pubDate>Fri, 24 Apr 2026 08:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/npm-supply-chain-worm-canister/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
