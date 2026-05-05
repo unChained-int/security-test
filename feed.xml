@@ -5,9 +5,209 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 05 May 2026 08:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:52:45 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hacker Conversations: Joey Melo on Hacking AI</title>
+      <link>https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/</link>
+      <description>&amp;lt;p&amp;gt;AI red team specialist details his methods for manipulating AI guardrails through jailbreaking and data poisoning, helping developers harden machine learning models.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/&amp;quot;&amp;gt;Hacker Conversations: Joey Melo on Hacking AI&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Hacker Conversations</category>
+      <category>AI</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft</title>
+      <link>https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/</link>
+      <description>&amp;lt;p&amp;gt;Dubbed Bleeding Llama, the heap out-of-bounds read issue can be exploited remotely, without authentication.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/&amp;quot;&amp;gt;Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 12:39:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>Bleeding Llama</category>
+      <category>Ollama</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Critical Remote Code Execution Vulnerability Patched in Android</title>
+      <link>https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/</link>
+      <description>&amp;lt;p&amp;gt;CVE-2026-0073 affects Android’s System component and it can be exploited without any user interaction. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/&amp;quot;&amp;gt;Critical Remote Code Execution Vulnerability Patched in Android&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 11:58:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Mobile &amp;amp; Wireless</category>
+      <category>Vulnerabilities</category>
+      <category>Android</category>
+      <category>Patch</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed</title>
+      <link>https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html</link>
+      <description>Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don&amp;apos;t see it. Your MFA doesn&amp;apos;t stop it. And when an attacker gets hold of one, they don&amp;apos;t need a password.
+OAuth</description>
+      <pubDate>Tue, 05 May 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>How the Story of a USB Penetration Test Went Viral</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral</link>
+      <description>Two decades ago Dark Reading posted its first blockbuster — a column by a pen tester who sprinkled rigged thumb drives around a credit union parking lot and let curious employees do the rest. This episode looks back at the history-making piece with its author Steve Stasiukonis, Dark Reading senior editor Becky Bracken, and Dark Reading&amp;apos;s editor-in-chief Kelly Jackson Higgins.</description>
+      <pubDate>Tue, 05 May 2026 11:56:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral</guid>
+      <dc:creator>Dark Reading Editorial Team</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks</title>
+      <link>https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html</link>
+      <description>Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck.
+The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary code execution.
+&amp;quot;MetInfo CMS versions 7.9, 8.0, and 8.1 contain an unauthenticated PHP code</description>
+      <pubDate>Tue, 05 May 2026 17:26:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server</title>
+      <link>https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/</link>
+      <description>&amp;lt;p&amp;gt;The most severe of these security defects could allow remote attackers to execute arbitrary code.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/&amp;quot;&amp;gt;Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 11:19:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Apache</category>
+      <category>HTTP Server</category>
+      <category>MINA</category>
+      <category>Patch</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>AI Adoption Outpaces Safety Policies, Leaving Organizations Exposed to Cyber Risk</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/</link>
+      <description>ISACA report warns that while AI has become the norm, many organizations are yet to formally apply safety or security policies around its use</description>
+      <pubDate>Tue, 05 May 2026 11:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Karakurt Ransomware Negotiator Sentenced to Prison</title>
+      <link>https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/</link>
+      <description>&amp;lt;p&amp;gt;Deniss Zolotarjovs was directly involved in extortion strategies and in negotiations with victim companies.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/&amp;quot;&amp;gt;Karakurt Ransomware Negotiator Sentenced to Prison&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 10:55:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Ransomware</category>
+      <category>hacker</category>
+      <category>Karakurt</category>
+      <category>sentenced</category>
+    </item>
+    <item>
+      <title>DarkSword Malware</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/darksword-malware.html</link>
+      <description>&amp;lt;p&amp;gt;DarkSword is a sophisticated piece of &amp;lt;a href=&amp;quot;https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain&amp;quot;&amp;gt;malware&amp;lt;/a&amp;gt;&amp;amp;#8212;probably government designed&amp;amp;#8212;that targets iOS.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least November 2025, GTIG has observed multiple commercial surveillance vendors and suspected state-sponsored actors utilizing DarkSword in distinct campaigns. These threat actors have deployed the exploit chain against targets in Saudi Arabia, Turkey, Malaysia, and Ukraine...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 10:42:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/darksword-malware.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Apple</category>
+      <category>cybercrime</category>
+      <category>exploits</category>
+      <category>iOS</category>
+      <category>malware</category>
+      <category>vulnerabilities</category>
+      <category>zero-day</category>
+    </item>
+    <item>
+      <title>We Scanned 1 Million Exposed AI Services. Here&amp;apos;s How Bad the Security Actually Is</title>
+      <link>https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html</link>
+      <description>While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security.
+In the wake of the</description>
+      <pubDate>Tue, 05 May 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>NCSC Warns of an AI-Fuelled “Vulnerability Patch Wave”</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/</link>
+      <description>The UK&amp;apos;s National Cyber Security Centre is urging organizations to prepare for glut of new software updates</description>
+      <pubDate>Tue, 05 May 2026 09:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs</title>
+      <link>https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/</link>
+      <description>&amp;lt;p&amp;gt;The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/&amp;quot;&amp;gt;MetInfo, Weaver E-cology Vulnerabilities in Attackers&amp;amp;#8217; Crosshairs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 09:27:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>China</category>
+      <category>exploited</category>
+      <category>MetInfo</category>
+      <category>vulnerability</category>
+      <category>Weaver E-cology</category>
+    </item>
+    <item>
+      <title>ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows</title>
+      <link>https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html</link>
+      <description>The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China.
+While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the</description>
+      <pubDate>Tue, 05 May 2026 14:37:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities</title>
+      <link>https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/&amp;quot;&amp;gt;WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 05 May 2026 09:01:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Featured</category>
+      <category>Patch</category>
+      <category>spoofing</category>
+      <category>vulnerability</category>
+      <category>WhatsApp</category>
+    </item>
+    <item>
+      <title>Trellix Reveals Unauthorized Access to Source Code</title>
+      <link>https://www.infosecurity-magazine.com/news/trellix-reveals-unauthorized/</link>
+      <description>Security vendor Trellix has suffered a breach involving unauthorized access</description>
+      <pubDate>Tue, 05 May 2026 08:55:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trellix-reveals-unauthorized/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API</title>
       <link>https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html</link>
@@ -181,21 +381,6 @@ The game has shifted from breach to occupation. They’re living inside SaaS ses
       <category>Mergers</category>
     </item>
     <item>
-      <title>DigiCert Revokes Certificates After Support Portal Hack</title>
-      <link>https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/</link>
-      <description>&amp;lt;p&amp;gt;Hackers delivered malware via a customer chat channel, infected an analyst’s system, and accessed the internal support portal.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/&amp;quot;&amp;gt;DigiCert Revokes Certificates After Support Portal Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 04 May 2026 12:46:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>certificates</category>
-      <category>DigiCert</category>
-      <category>Featured</category>
-      <category>malware</category>
-    </item>
-    <item>
       <title>Canvas Breach May Put 275M Users, 9,000 Schools at Risk</title>
       <link>https://www.techrepublic.com/article/news-canvas-instructure-breach-275m-users/</link>
       <description>&amp;lt;p&amp;gt;Instructure confirms a Canvas breach involving user information and messages as hackers claim 275M users and nearly 9,000 schools were affected.&amp;lt;/p&amp;gt;
@@ -265,23 +450,6 @@ The activity involved using phishing emails that mimic correspondence from the I
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Exploitation of ‘Copy Fail’ Linux Vulnerability Begins</title>
-      <link>https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/</link>
-      <description>&amp;lt;p&amp;gt;CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/&amp;quot;&amp;gt;Exploitation of &amp;amp;#8216;Copy Fail&amp;amp;#8217; Linux Vulnerability Begins&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 04 May 2026 10:42:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Endpoint Security</category>
-      <category>Vulnerabilities</category>
-      <category>Copy Fail</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Linux</category>
-      <category>Linux vulnerability</category>
-    </item>
-    <item>
       <title>Hacking Polymarket</title>
       <link>https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html</link>
       <description>&amp;lt;p&amp;gt;Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates &amp;lt;a href=&amp;quot;https://en.wikipedia.org/wiki/Assassination_market&amp;quot;&amp;gt;assassination&amp;lt;/a&amp;gt;), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have &amp;lt;a href=&amp;quot;https://www.theguardian.com/world/2026/mar/18/polymarket-gamblers-threaten-israeli-journalist-missile-strike-wager&amp;quot;&amp;gt;threatened&amp;lt;/a&amp;gt; a journalist because his story was being used to verify an event. And now, gamblers are taking &amp;lt;a href=&amp;quot;https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html&amp;quot;&amp;gt;hair dryers&amp;lt;/a&amp;gt; to weather sensors to rig weather bets.&amp;lt;/p&amp;gt;
@@ -298,23 +466,6 @@ The activity involved using phishing emails that mimic correspondence from the I
       <category>insiders</category>
     </item>
     <item>
-      <title>OpenAI Rolls Out Advanced Security for ChatGPT Accounts</title>
-      <link>https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/</link>
-      <description>&amp;lt;p&amp;gt;Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/&amp;quot;&amp;gt;OpenAI Rolls Out Advanced Security for ChatGPT Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 04 May 2026 09:29:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Identity &amp;amp; Access</category>
-      <category>account security</category>
-      <category>Advanced Account Security</category>
-      <category>AI</category>
-      <category>ChatGPT</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
       <title>Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks</title>
       <link>https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html</link>
       <description>A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel.
@@ -325,41 +476,12 @@ The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the</descripti
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Over 40,000 Servers Compromised in Ongoing cPanel Exploitation</title>
-      <link>https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/</link>
-      <description>&amp;lt;p&amp;gt;The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/&amp;quot;&amp;gt;Over 40,000 Servers Compromised in Ongoing cPanel Exploitation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 04 May 2026 08:25:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>cPanel</category>
-      <category>exploited</category>
-    </item>
-    <item>
       <title>OpenAI To Extend Cyber Program to Government Agencies</title>
       <link>https://www.infosecurity-magazine.com/news/openai-extend-cyber-program/</link>
       <description>OpenAI announced its intention to expand the Trusted Access for Cyber program for cyber defenders at the federal, state and local government levels</description>
       <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-extend-cyber-program/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats</title>
-      <link>https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/</link>
-      <description>&amp;lt;p&amp;gt;Hackers disrupted services and stole names, email addresses, student ID numbers, and user messages.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/&amp;quot;&amp;gt;Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 04 May 2026 07:02:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>education</category>
-      <category>Featured</category>
-      <category>Instructure</category>
-      <category>ShinyHunters</category>
     </item>
     <item>
       <title>Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M</title>
@@ -372,20 +494,6 @@ The crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems</title>
-      <link>https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/</link>
-      <description>&amp;lt;p&amp;gt;Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide resources to help augment warfighter decision-making in complex operational environments,” the Defense Department said.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/&amp;quot;&amp;gt;US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sun, 03 May 2026 16:21:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>Government</category>
-    </item>
-    <item>
       <title>CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV</title>
       <link>https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html</link>
       <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
@@ -394,20 +502,6 @@ The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of loc
       <guid isPermaLink="true">https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Bluekit Phishing Kit Features AI Assistant</title>
-      <link>https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/</link>
-      <description>&amp;lt;p&amp;gt;Still under development, Bluekit provides users with automated domain registration and an AI Assistant.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/&amp;quot;&amp;gt;New Bluekit Phishing Kit Features AI Assistant&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 02 May 2026 10:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Phishing</category>
-      <category>Bluekit</category>
-      <category>phishing</category>
-      <category>phishing kit</category>
     </item>
     <item>
       <title>Trellix Confirms Source Code Breach With Unauthorized Repository Access</title>
@@ -1132,97 +1226,6 @@ The problem? Most defensive workflows</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Claude Mythos Fears Startle Japan&amp;apos;s Financial Services Sector</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/claude-mythos-fears-startle-japans-financial-services-sector</link>
-      <description/>
-      <pubDate>Wed, 29 Apr 2026 11:59:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/claude-mythos-fears-startle-japans-financial-services-sector</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)</title>
-      <link>https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html</link>
-      <description>Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: &amp;quot;So, are we actually safer now?&amp;quot;
-Crickets.
-The room goes quiet because an honest answer requires context – which is something that patch counts and CVSS scores were never designed to provide. Exposure</description>
-      <pubDate>Wed, 29 Apr 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Critical Flaw Turns Vect Ransomware into Data Destroying Wiper</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/</link>
-      <description>The Vect 2.0 ransomware wipes large files instead of merely encrypting them, making recovery impossible – even for the attackers</description>
-      <pubDate>Wed, 29 Apr 2026 10:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Claude Mythos Has Found 271 Zero-Days in Firefox</title>
-      <link>https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html</link>
-      <description>&amp;lt;p&amp;gt;That&amp;amp;#8217;s &amp;lt;a href=&amp;quot;https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/&amp;quot;&amp;gt;a lot&amp;lt;/a&amp;gt;. No, it&amp;amp;#8217;s an extraordinary number:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week&amp;amp;#8217;s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 29 Apr 2026 10:12:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>Firefox</category>
-      <category>zero-day</category>
-    </item>
-    <item>
-      <title>A Quarter of Healthcare Organizations Report Medical Device Cyber-Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/quarter-healthcare-medical-device/</link>
-      <description>RunSafe report reveals most attacks on medical devices disrupt patient care</description>
-      <pubDate>Wed, 29 Apr 2026 10:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/quarter-healthcare-medical-device/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately</title>
-      <link>https://thehackernews.com/2026/04/critical-cpanel-authentication.html</link>
-      <description>cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.
-The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in</description>
-      <pubDate>Wed, 29 Apr 2026 15:07:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/critical-cpanel-authentication.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV</title>
-      <link>https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The vulnerabilities are listed below -
-
-CVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in&amp;amp;nbsp; ConnectWise ScreenConnect</description>
-      <pubDate>Wed, 29 Apr 2026 14:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure</title>
-      <link>https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html</link>
-      <description>In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI&amp;apos;s LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.
-The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying</description>
-      <pubDate>Wed, 29 Apr 2026 11:04:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures</link>
-      <description>The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.</description>
-      <pubDate>Tue, 28 Apr 2026 21:38:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
