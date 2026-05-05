@@ -5,9 +5,50 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 04 May 2026 19:27:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:40:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Defender Bug Triggers False Malware Alerts for DigiCert Certificates</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-defender-digicert-certificates-false-positive/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft fixed a Defender false positive that flagged legitimate DigiCert certificates as malware, disrupting Windows trust stores for some IT teams.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-defender-digicert-certificates-false-positive/&amp;quot;&amp;gt;Microsoft Defender Bug Triggers False Malware Alerts for DigiCert Certificates&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 04 May 2026 21:12:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-defender-digicert-certificates-false-positive/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>code signing</category>
+      <category>digicert</category>
+      <category>endpoint security</category>
+      <category>false positive</category>
+      <category>malware detection</category>
+      <category>Microsoft Defender</category>
+      <category>root certificates</category>
+      <category>windows security</category>
+    </item>
+    <item>
+      <title>RMM Tools Fuel Stealthy Phishing Campaign</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign</link>
+      <description>Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.</description>
+      <pubDate>Mon, 04 May 2026 20:56:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability</title>
+      <link>https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability</link>
+      <description>Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there&amp;apos;s been zero-day activity for at least a month.</description>
+      <pubDate>Mon, 04 May 2026 19:14:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks</title>
       <link>https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/</link>
@@ -31,6 +72,31 @@ The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, mos
       <guid isPermaLink="true">https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Indirect Prompt Injection Is Now a Real-World AI Security Threat</title>
+      <link>https://www.techrepublic.com/article/news-ai-agents-prompt-injection-data-security/</link>
+      <description>&amp;lt;p&amp;gt;AI agents are now being weaponized through prompt injection, exposing why model guardrails are not enough to protect enterprise data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ai-agents-prompt-injection-data-security/&amp;quot;&amp;gt;Indirect Prompt Injection Is Now a Real-World AI Security Threat&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 04 May 2026 18:01:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ai-agents-prompt-injection-data-security/</guid>
+      <dc:creator>Tim Freestone</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Chatbots</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>Innovation</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>ai agents</category>
+      <category>ai security</category>
+      <category>cybersecurity</category>
+      <category>data exfiltration</category>
+      <category>data governance</category>
+      <category>enterprise security</category>
+      <category>llm security</category>
+      <category>prompt injection</category>
     </item>
     <item>
       <title>Trellix Source Code Repository Breached</title>
@@ -129,6 +195,14 @@ The game has shifted from breach to occupation. They’re living inside SaaS ses
       <category>leak</category>
       <category>shinyhunters. security</category>
       <category>stolen data</category>
+    </item>
+    <item>
+      <title>Small Defense Firms Lack Network Data to Stop Nation-State Hackers, Analyst Says</title>
+      <link>https://www.infosecurity-magazine.com/news/small-defense-firms-lack-network/</link>
+      <description>Team Cymru’s Stephen Campbell warned that small US defense contractors are not well prepared to face cyber intrusions through edge devices</description>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/small-defense-firms-lack-network/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Stronger Cybersecurity, Stronger Business: NIST Celebrates 2026 National Small Business Week</title>
@@ -241,6 +315,14 @@ The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the</descripti
       <category>Vulnerabilities</category>
       <category>cPanel</category>
       <category>exploited</category>
+    </item>
+    <item>
+      <title>OpenAI To Extend Cyber Program to Government Agencies</title>
+      <link>https://www.infosecurity-magazine.com/news/openai-extend-cyber-program/</link>
+      <description>OpenAI announced its intention to expand the Trusted Access for Cyber program for cyber defenders at the federal, state and local government levels</description>
+      <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-extend-cyber-program/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats</title>
@@ -1154,86 +1236,6 @@ The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL inject
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later</guid>
       <dc:creator>Dark Reading Editorial Team</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Feuding Ransomware Groups Leak Each Other&amp;apos;s Data</title>
-      <link>https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data</link>
-      <description>When 0APT and KryBit attacked each other, they exposed infrastructure and operational data, giving defenders rare insight into ransomware operations.</description>
-      <pubDate>Tue, 28 Apr 2026 20:13:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Vidar Rises to Top of Chaotic Infostealer Market</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market</link>
-      <description>The malware has filled the gap created by last year&amp;apos;s law enforcement takedowns of Lumma and Rhadamanthys.</description>
-      <pubDate>Tue, 28 Apr 2026 19:07:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push</title>
-      <link>https://thehackernews.com/2026/04/researchers-discover-critical-github.html</link>
-      <description>Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single &amp;quot;git push&amp;quot; command.
-The flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve</description>
-      <pubDate>Tue, 28 Apr 2026 23:49:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/researchers-discover-critical-github.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign</title>
-      <link>https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html</link>
-      <description>A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot).
-&amp;quot;The malware disguises itself as a Minecraft hack called &amp;apos;Slinky,&amp;apos;&amp;quot; Brazil-based cybersecurity company ZenoX said in a technical report. &amp;quot;It uses the official game icon to induce voluntary execution,</description>
-      <pubDate>Tue, 28 Apr 2026 23:09:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ADT Confirms Major Data Breach Exposing Millions of Names, Partial SSNs</title>
-      <link>https://www.techrepublic.com/article/news-adt-data-breach-millions-customer-records/</link>
-      <description>&amp;lt;p&amp;gt;ADT confirmed a data breach exposing customer names, addresses, phone numbers, and partial SSNs, with millions of records reportedly affected.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-adt-data-breach-millions-customer-records/&amp;quot;&amp;gt;ADT Confirms Major Data Breach Exposing Millions of Names, Partial SSNs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 28 Apr 2026 16:49:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-adt-data-breach-millions-customer-records/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>adt</category>
-      <category>customer data</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>identity theft</category>
-      <category>phishing</category>
-      <category>shinyhunters</category>
-      <category>social engineering</category>
-    </item>
-    <item>
-      <title>Coffee with the Council Podcast: Stronger Together – The Value of Participating with PCI SSC</title>
-      <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-stronger-together-the-value-of-participating-with-pci-ssc</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-stronger-together-the-value-of-participating-with-pci-ssc&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Coffee with the Council Podcast: Stronger Together – The Value of Participating with PCI SSC&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-04%20Podcast%20Blog%20Header%20800x444-po.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Hello everyone, and welcome to our podcast series, &amp;lt;em&amp;gt;Coffee with the Council&amp;lt;/em&amp;gt;. I&amp;apos;m Mark Meissner, Senior Vice President for Education and Engagement at the PCI Security Standards Council. Today I&amp;apos;m joined by a panel of current Principal Participating Organizations, or PPOs. The Principal PO program is one of three levels of participation with the Council and defined as a strategic level of leadership and influence with the Council. PPOs get access to exclusive strategy sessions with the Executive Committee, with PCI Council staff, and stakeholders to discuss standards direction, drive technical discussions, and have direct input into Council initiatives. &amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 28 Apr 2026 15:32:09 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-stronger-together-the-value-of-participating-with-pci-ssc</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Participation</category>
-      <category>Participating Organizations</category>
-      <category>Coffee with the Council podcasts</category>
     </item>
   </channel>
 </rss>
