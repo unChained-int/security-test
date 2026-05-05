@@ -5,9 +5,29 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 05 May 2026 02:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:08:10 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API</title>
+      <link>https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html</link>
+      <description>A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild.
+The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the &amp;quot;/papi/esearch/data/devops/</description>
+      <pubDate>Tue, 05 May 2026 13:07:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries</title>
+      <link>https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html</link>
+      <description>Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens.
+The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,</description>
+      <pubDate>Tue, 05 May 2026 12:05:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Microsoft Defender Bug Triggers False Malware Alerts for DigiCert Certificates</title>
       <link>https://www.techrepublic.com/article/news-microsoft-defender-digicert-certificates-false-positive/</link>
@@ -66,7 +86,7 @@
     <item>
       <title>Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools</title>
       <link>https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</link>
-      <description>An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.
+      <description>An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.
 The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters</description>
       <pubDate>Mon, 04 May 2026 23:36:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</guid>
@@ -109,6 +129,7 @@ The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, mos
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Data Breaches</category>
       <category>data breach</category>
+      <category>Featured</category>
       <category>security company hacked</category>
       <category>source code</category>
       <category>Trellix</category>
@@ -227,8 +248,8 @@ In a sense, this is a fairly conventional story.</description>
       <title>Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia</title>
       <link>https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html</link>
       <description>The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.
-The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities.
-&amp;quot;Both waves followed a nearly identical</description>
+The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities in January 2026.
+&amp;quot;Both waves followed a nearly</description>
       <pubDate>Mon, 04 May 2026 17:27:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1201,40 +1222,6 @@ The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL inject
       <pubDate>Tue, 28 Apr 2026 21:38:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures</guid>
       <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ClickUp Data Leak Exposes Enterprise Emails for Over a Year</title>
-      <link>https://www.techrepublic.com/article/news-clickup-api-key-email-exposure/</link>
-      <description>&amp;lt;p&amp;gt;A hardcoded ClickUp API key exposed hundreds of corporate and government emails for over a year, raising new SaaS security concerns.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-clickup-api-key-email-exposure/&amp;quot;&amp;gt;ClickUp Data Leak Exposes Enterprise Emails for Over a Year&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 28 Apr 2026 21:22:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-clickup-api-key-email-exposure/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Collaboration</category>
-      <category>Cybersecurity</category>
-      <category>Enterprise Technology</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>api security</category>
-      <category>ClickUp</category>
-      <category>data exposure</category>
-      <category>feature flags</category>
-      <category>hardcoded api key</category>
-      <category>phishing attacks</category>
-      <category>saas security</category>
-      <category>third party risk</category>
-    </item>
-    <item>
-      <title>NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later</title>
-      <link>https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later</link>
-      <description>Chris Inglis was the head civilian in charge at the NSA when the Snowden leaks exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and &amp;amp;quot;enculturation.&amp;amp;quot;</description>
-      <pubDate>Tue, 28 Apr 2026 20:38:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later</guid>
-      <dc:creator>Dark Reading Editorial Team</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
