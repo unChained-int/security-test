@@ -5,14 +5,77 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 08 May 2026 02:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:41:09 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover</title>
+      <link>https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/</link>
+      <description>&amp;lt;p&amp;gt;Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/&amp;quot;&amp;gt;Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 08 May 2026 06:53:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>Chrome</category>
+      <category>Claude</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks</title>
+      <link>https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/</link>
+      <description>&amp;lt;p&amp;gt;CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/&amp;quot;&amp;gt;Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 08 May 2026 05:41:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>EPMM</category>
+      <category>exploited</category>
+      <category>Ivanti</category>
+      <category>vulnerability</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions</title>
+      <link>https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html</link>
+      <description>Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.
+Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers</description>
+      <pubDate>Fri, 08 May 2026 10:42:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Canvas Breach Disrupts Schools &amp;amp; Colleges Nationwide</title>
+      <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
+      <description>An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service&amp;apos;s login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.</description>
+      <pubDate>Fri, 08 May 2026 02:58:46 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Data Breaches</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Ransomware</category>
+      <category>Canvas hack</category>
+      <category>Charles Carmakal</category>
+      <category>Cloudskope</category>
+      <category>Dipan Mann</category>
+      <category>Instructure hack</category>
+      <category>Mandiant Consulting</category>
+      <category>ShinyHunters</category>
+      <category>Steve Proud</category>
+    </item>
     <item>
       <title>What is a Proxy Server? How They Work + Security Risks | UpGuard</title>
       <link>https://origin.upguard.com/blog/proxy-server</link>
       <description>A proxy server is an intermediary server that retrieves data from an Internet source on behalf of a user. Learn more about how they work and their uses.</description>
-      <pubDate>Fri, 08 May 2026 00:57:59 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 01:02:49 +0000</pubDate>
       <guid isPermaLink="true">https://origin.upguard.com/blog/proxy-server</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
@@ -89,6 +152,7 @@ It allows &amp;quot;a remotely authenticated user with administrative access to 
       <category>China</category>
       <category>China APT</category>
       <category>exploited</category>
+      <category>Featured</category>
       <category>firewall</category>
       <category>Palo Alto Networks</category>
       <category>Zero-Day</category>
@@ -250,18 +314,6 @@ The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer o
       <category>Supply Chain</category>
     </item>
     <item>
-      <title>Webinar Today: Securing Identity Across Humans, Machines and AI</title>
-      <link>https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/</link>
-      <description>&amp;lt;p&amp;gt;From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/&amp;quot;&amp;gt;Webinar Today: Securing Identity Across Humans, Machines and AI&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Identity &amp;amp; Access</category>
-      <category>Webinar</category>
-    </item>
-    <item>
       <title>ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories</title>
       <link>https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html</link>
       <description>Bad week.
@@ -270,21 +322,6 @@ Turns out the easiest way to get hacked in 2026 is still the same old garbage: s
       <guid isPermaLink="true">https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cisco Patches High-Severity Vulnerabilities in Enterprise Products</title>
-      <link>https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/</link>
-      <description>&amp;lt;p&amp;gt;Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/&amp;quot;&amp;gt;Cisco Patches High-Severity Vulnerabilities in Enterprise Products&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 07 May 2026 11:24:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Network Security</category>
-      <category>Vulnerabilities</category>
-      <category>Cisco</category>
-      <category>Patch</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Smart Glasses for the Authorities</title>
@@ -1088,27 +1125,6 @@ The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the</descripti
 The crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal</description>
       <pubDate>Mon, 04 May 2026 11:29:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV</title>
-      <link>https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
-The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an</description>
-      <pubDate>Sun, 03 May 2026 11:56:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trellix Confirms Source Code Breach With Unauthorized Repository Access</title>
-      <link>https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html</link>
-      <description>Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a &amp;quot;portion&amp;quot; of its source code.
-It said it &amp;quot;recently identified&amp;quot; the compromise of its source code repository and that it began working with &amp;quot;leading forensic experts&amp;quot; to resolve the matter immediately. It also said it has notified law enforcement of the matter.
-Trellix did not disclose the</description>
-      <pubDate>Sat, 02 May 2026 12:11:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
