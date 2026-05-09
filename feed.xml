@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 09 May 2026 07:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 13:16:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -29,6 +29,30 @@ CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the featu
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
+      <title>ShinyHunters Extorts Universities in New Instructure Canvas Hack</title>
+      <link>https://www.techrepublic.com/article/news-shinyhunters-canvas-portal-defacement/</link>
+      <description>&amp;lt;p&amp;gt;ShinyHunters-linked attackers defaced Canvas portals, disrupting finals week access and exposing SaaS security risks for schools.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-shinyhunters-canvas-portal-defacement/&amp;quot;&amp;gt;ShinyHunters Extorts Universities in New Instructure Canvas Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 08 May 2026 21:15:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-shinyhunters-canvas-portal-defacement/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>canvas</category>
+      <category>cyberattack</category>
+      <category>data breach</category>
+      <category>education cybersecurity</category>
+      <category>extortion</category>
+      <category>instructure</category>
+      <category>saas security</category>
+      <category>shinyhunters</category>
+    </item>
+    <item>
       <title>Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia</title>
       <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html</link>
       <description>&amp;lt;p&amp;gt;Evidence of them has &amp;lt;a href=&amp;quot;https://nautil.us/giant-squid-discovered-lurking-off-the-australian-coast-1280546&amp;quot;&amp;gt;been&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://oceanographicmagazine.com/news/giant-squid-found-in-western-australian-waters-in-edna-study/&amp;quot;&amp;gt;found&amp;lt;/a&amp;gt; by analyzing DNA in the seawater.&amp;lt;/p&amp;gt;
@@ -42,6 +66,32 @@ CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the featu
       <category>squid</category>
     </item>
     <item>
+      <title>AWS Rex Is a Big Step for Agentic AI Security, But Not the Final Layer</title>
+      <link>https://www.techrepublic.com/article/news-aws-rex-agentic-ai-data-security-gap/</link>
+      <description>&amp;lt;p&amp;gt;AWS Rex adds runtime guardrails for agentic AI, but security leaders still need data-layer controls to satisfy compliance and audit demands.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-aws-rex-agentic-ai-data-security-gap/&amp;quot;&amp;gt;AWS Rex Is a Big Step for Agentic AI Security, But Not the Final Layer&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 08 May 2026 20:19:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-aws-rex-agentic-ai-data-security-gap/</guid>
+      <dc:creator>Tim Freestone</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Amazon</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>Innovation</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>agentic ai</category>
+      <category>ai security</category>
+      <category>AWS</category>
+      <category>cedar policy</category>
+      <category>compliance</category>
+      <category>data security</category>
+      <category>prompt injection</category>
+      <category>rex</category>
+    </item>
+    <item>
       <title>ShinyHunters Claims Second Attack Against Instructure</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure</link>
       <description>The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.</description>
@@ -49,6 +99,29 @@ CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the featu
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Play Scam Apps Hit 7.3M Downloads with Fake Call Logs</title>
+      <link>https://www.techrepublic.com/article/news-callphantom-google-play-scam/</link>
+      <description>&amp;lt;p&amp;gt;ESET found 28 CallPhantom scam apps on Google Play that promised fake call logs and had reached more than 7.3 million downloads before being removed.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-callphantom-google-play-scam/&amp;quot;&amp;gt;Google Play Scam Apps Hit 7.3M Downloads with Fake Call Logs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 08 May 2026 18:57:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-callphantom-google-play-scam/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Android</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>android apps</category>
+      <category>app store fraud</category>
+      <category>callphantom</category>
+      <category>cybersecurity</category>
+      <category>eset research</category>
+      <category>google play</category>
+      <category>mobile security</category>
+      <category>scam apps</category>
     </item>
     <item>
       <title>TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms</title>
@@ -74,6 +147,29 @@ The activity is being tracked by Elastic Security Labs under the moniker REF3076
       <category>Uncategorized</category>
       <category>gambling</category>
       <category>insiders</category>
+    </item>
+    <item>
+      <title>Millions of Windows PCs Face a Secure Boot Update Deadline in 2026</title>
+      <link>https://www.techrepublic.com/article/news-windows-secure-boot-certificates-2026/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft Secure Boot certificates from 2011 begin expiring in June 2026. Here’s how to check whether your Windows PC has the 2023 update.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-secure-boot-certificates-2026/&amp;quot;&amp;gt;Millions of Windows PCs Face a Secure Boot Update Deadline in 2026&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 08 May 2026 16:21:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-secure-boot-certificates-2026/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Windows</category>
+      <category>cybersecurity</category>
+      <category>extended security updates</category>
+      <category>secure boot</category>
+      <category>uefi</category>
+      <category>windows</category>
+      <category>windows 10</category>
+      <category>Windows 11</category>
     </item>
     <item>
       <title>Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads</title>
@@ -1051,56 +1147,6 @@ The multi-stage campaign, observed between April 14 and 16, 2026, targeted more 
       <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Physical Cargo Theft Gets a Boost From Cybercriminals</title>
-      <link>https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals</link>
-      <description>Cargo theft is no longer about small groups of criminals operating on the ground, but transnational cybercriminal syndicates using access to supply chain systems to reroute goods.</description>
-      <pubDate>Mon, 04 May 2026 21:38:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Defender Bug Triggers False Malware Alerts for DigiCert Certificates</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-defender-digicert-certificates-false-positive/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft fixed a Defender false positive that flagged legitimate DigiCert certificates as malware, disrupting Windows trust stores for some IT teams.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-defender-digicert-certificates-false-positive/&amp;quot;&amp;gt;Microsoft Defender Bug Triggers False Malware Alerts for DigiCert Certificates&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 04 May 2026 21:12:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-defender-digicert-certificates-false-positive/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>code signing</category>
-      <category>digicert</category>
-      <category>endpoint security</category>
-      <category>false positive</category>
-      <category>malware detection</category>
-      <category>Microsoft Defender</category>
-      <category>root certificates</category>
-      <category>windows security</category>
-    </item>
-    <item>
-      <title>RMM Tools Fuel Stealthy Phishing Campaign</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign</link>
-      <description>Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.</description>
-      <pubDate>Mon, 04 May 2026 20:56:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability</title>
-      <link>https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability</link>
-      <description>Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there&amp;apos;s been zero-day activity for at least a month.</description>
-      <pubDate>Mon, 04 May 2026 19:14:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
