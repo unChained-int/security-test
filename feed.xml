@@ -5,9 +5,29 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 09 May 2026 02:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:55:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now</title>
+      <link>https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html</link>
+      <description>cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.
+The list of vulnerabilities is as follows -
+
+CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the &amp;quot;feature::LOADFEATUREFILE&amp;quot; adminbin call that could result</description>
+      <pubDate>Sat, 09 May 2026 12:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>What is a Proxy Server? How They Work + Security Risks | UpGuard</title>
+      <link>https://origin.upguard.com/blog/proxy-server</link>
+      <description>A proxy server is an intermediary server that retrieves data from an Internet source on behalf of a user. Learn more about how they work and their uses.</description>
+      <pubDate>Sat, 09 May 2026 03:19:32 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/proxy-server</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia</title>
       <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html</link>
@@ -280,14 +300,6 @@ Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-3
       <category>Mandiant Consulting</category>
       <category>ShinyHunters</category>
       <category>Steve Proud</category>
-    </item>
-    <item>
-      <title>What is a Proxy Server? How They Work + Security Risks | UpGuard</title>
-      <link>https://origin.upguard.com/blog/proxy-server</link>
-      <description>A proxy server is an intermediary server that retrieves data from an Internet source on behalf of a user. Learn more about how they work and their uses.</description>
-      <pubDate>Fri, 08 May 2026 01:02:49 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/proxy-server</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>The Shadow Supply Chain: A 72.9% Gap In Your Vendor Inventory | UpGuard</title>
@@ -1089,16 +1101,6 @@ The multi-stage campaign, observed between April 14 and 16, 2026, targeted more 
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools</title>
-      <link>https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</link>
-      <description>An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.
-The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters</description>
-      <pubDate>Mon, 04 May 2026 23:36:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
