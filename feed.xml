@@ -5,9 +5,31 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 08 May 2026 19:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:45:54 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html</link>
+      <description>&amp;lt;p&amp;gt;Evidence of them has &amp;lt;a href=&amp;quot;https://nautil.us/giant-squid-discovered-lurking-off-the-australian-coast-1280546&amp;quot;&amp;gt;been&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://oceanographicmagazine.com/news/giant-squid-found-in-western-australian-waters-in-edna-study/&amp;quot;&amp;gt;found&amp;lt;/a&amp;gt; by analyzing DNA in the seawater.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 08 May 2026 21:03:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>ShinyHunters Claims Second Attack Against Instructure</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure</link>
+      <description>The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.</description>
+      <pubDate>Fri, 08 May 2026 20:08:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms</title>
       <link>https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html</link>
@@ -388,21 +410,21 @@ The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer o
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>AI-Driven Cyberattack on Mexico Couldn&amp;apos;t Breach OT Systems</title>
-      <link>https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems</link>
-      <description>The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.</description>
-      <pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>&amp;apos;TrustFall&amp;apos; Convention Exposes Claude Code Execution Risk</title>
       <link>https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk</link>
       <description>Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.</description>
       <pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk</guid>
       <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI-Driven Cyberattack on Mexico Couldn&amp;apos;t Breach OT Systems</title>
+      <link>https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems</link>
+      <description>The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.</description>
+      <pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems</guid>
+      <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -855,6 +877,14 @@ The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been describ
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>AI and the New Threat Landscape | Sumit Dhawan with NightDragon | RSAC 2026</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/ai-and-new-threat-landscape-sumit-dhawan-nightdragon-rsac-2026</link>
+      <description/>
+      <pubDate>Tue, 05 May 2026 15:33:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/ai-and-new-threat-landscape-sumit-dhawan-nightdragon-rsac-2026</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
       <title>North Korean APT Targets Yanbian Gamers via Trojanized Platform</title>
       <link>https://www.infosecurity-magazine.com/news/scarcruft-birdcall-android-yanbian/</link>
       <description>ESET warns that North Korean hackers compromised a Yanbian gaming site in a supply‑chain attack, trojanizing Windows and Android software to spy on users</description>
@@ -1069,51 +1099,6 @@ The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, mos
       <guid isPermaLink="true">https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Indirect Prompt Injection Is Now a Real-World AI Security Threat</title>
-      <link>https://www.techrepublic.com/article/news-ai-agents-prompt-injection-data-security/</link>
-      <description>&amp;lt;p&amp;gt;AI agents are now being weaponized through prompt injection, exposing why model guardrails are not enough to protect enterprise data.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ai-agents-prompt-injection-data-security/&amp;quot;&amp;gt;Indirect Prompt Injection Is Now a Real-World AI Security Threat&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 04 May 2026 18:01:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ai-agents-prompt-injection-data-security/</guid>
-      <dc:creator>Tim Freestone</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>Innovation</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai agents</category>
-      <category>ai security</category>
-      <category>cybersecurity</category>
-      <category>data exfiltration</category>
-      <category>data governance</category>
-      <category>enterprise security</category>
-      <category>llm security</category>
-      <category>prompt injection</category>
-    </item>
-    <item>
-      <title>Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass</title>
-      <link>https://thehackernews.com/2026/05/progress-patches-critical-moveit.html</link>
-      <description>Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.
-MOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts.&amp;amp;nbsp;
-The</description>
-      <pubDate>Mon, 04 May 2026 22:04:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/progress-patches-critical-moveit.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia</title>
-      <link>https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia</link>
-      <description>More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.</description>
-      <pubDate>Mon, 04 May 2026 14:39:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
