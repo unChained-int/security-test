@@ -5,9 +5,20 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 10 May 2026 08:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 13:16:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak</title>
+      <link>https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html</link>
+      <description>Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.
+The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed&amp;amp;nbsp;Bleeding Llama by Cyera.
+Ollama is a</description>
+      <pubDate>Sun, 10 May 2026 18:11:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now</title>
       <link>https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html</link>
@@ -1135,16 +1146,6 @@ While prior versions of the backdoor have primarily targeted Windows users only,
 The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the &amp;quot;/papi/esearch/data/devops/</description>
       <pubDate>Tue, 05 May 2026 13:07:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries</title>
-      <link>https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html</link>
-      <description>Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens.
-The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,</description>
-      <pubDate>Tue, 05 May 2026 12:05:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
