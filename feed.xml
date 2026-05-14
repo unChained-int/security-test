@@ -5,9 +5,46 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 14 May 2026 03:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 08:36:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Researcher Drops YellowKey, GreenPlasma Windows Zero-Days</title>
+      <link>https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/</link>
+      <description>&amp;lt;p&amp;gt;YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/&amp;quot;&amp;gt;Researcher Drops YellowKey, GreenPlasma Windows Zero-Days&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 14 May 2026 07:27:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>BitLocker</category>
+      <category>Chaotic Eclipse</category>
+      <category>GreenPlasma</category>
+      <category>Windows</category>
+      <category>YellowKey</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption</title>
+      <link>https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html</link>
+      <description>Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks.
+Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel&amp;apos;s XFRM</description>
+      <pubDate>Thu, 14 May 2026 12:36:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE</title>
+      <link>https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html</link>
+      <description>Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.
+The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a</description>
+      <pubDate>Thu, 14 May 2026 11:30:09 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Checkbox Assessments Aren&amp;apos;t Fit to Measure to Risk</title>
       <link>https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk</link>
@@ -119,6 +156,7 @@
       <category>Data Breaches</category>
       <category>Ransomware</category>
       <category>data breach</category>
+      <category>Featured</category>
       <category>Foxconn</category>
     </item>
     <item>
@@ -433,20 +471,6 @@ Of the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rate
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Hundreds of Malicious Packages Force RubyGems to Suspend Registrations</title>
-      <link>https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/</link>
-      <description>&amp;lt;p&amp;gt;More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/&amp;quot;&amp;gt;Hundreds of Malicious Packages Force RubyGems to Suspend Registrations&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 13 May 2026 07:30:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Featured</category>
-      <category>Ruby</category>
-      <category>RubyGems</category>
-    </item>
-    <item>
       <title>Android Adds Intrusion Logging for Sophisticated Spyware Forensics</title>
       <link>https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html</link>
       <description>Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.
@@ -526,7 +550,7 @@ The feature, it</description>
       <link>https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html</link>
       <description>Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.
 Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.
-The vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free</description>
+The vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a</description>
       <pubDate>Tue, 12 May 2026 22:14:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1206,27 +1230,6 @@ The activity is being tracked by Elastic Security Labs under the moniker REF3076
       <category>windows</category>
       <category>windows 10</category>
       <category>Windows 11</category>
-    </item>
-    <item>
-      <title>Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads</title>
-      <link>https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html</link>
-      <description>Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss.
-The 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over</description>
-      <pubDate>Fri, 08 May 2026 20:38:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>One Click, Total Shutdown: The &amp;quot;Patient Zero&amp;quot; Webinar on Killing Stealth Breaches</title>
-      <link>https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html</link>
-      <description>The hardest part of cybersecurity isn&amp;apos;t the technology, it’s the people.
-Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one &amp;quot;Patient Zero&amp;quot; infection.
-In 2026, hackers are using AI to make these &amp;quot;first clicks&amp;quot; nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down</description>
-      <pubDate>Fri, 08 May 2026 19:31:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
