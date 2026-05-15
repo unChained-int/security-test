@@ -5,9 +5,36 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 14 May 2026 19:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:26:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems</title>
+      <link>https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps</link>
+      <description>A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.</description>
+      <pubDate>Fri, 15 May 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>SecurityScorecard Snags Driftnet to Level Up Threat Intelligence</title>
+      <link>https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence</link>
+      <description>The acquisition looks to boost visibility into third-party ecosystems, which are becoming a bigger concern as vectors for supply chain attacks.</description>
+      <pubDate>Thu, 14 May 2026 20:57:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Maximum Severity Cisco SD-WAN Bug Exploited in the Wild</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited</link>
+      <description>This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco&amp;apos;s network control system.</description>
+      <pubDate>Thu, 14 May 2026 20:25:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access</title>
       <link>https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html</link>
@@ -539,21 +566,21 @@ The activity has been attributed by Bitdefender with moderate-to-high confidence
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>China&amp;apos;s &amp;apos;FamousSparrow&amp;apos; APT Nests in South Caucasus Energy Firm</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</link>
-      <description>The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.</description>
-      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly</title>
       <link>https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools</link>
       <description>In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.</description>
       <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools</guid>
       <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China&amp;apos;s &amp;apos;FamousSparrow&amp;apos; APT Nests in South Caucasus Energy Firm</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</link>
+      <description>The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.</description>
+      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</guid>
+      <dc:creator>Robert Lemos</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1146,38 +1173,6 @@ Somebody poisoned a trusted download again, somebody else turned cloud servers i
       <guid isPermaLink="true">https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cyber Espionage Group Targets Aviation Firms to Steal Map Data</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data</link>
-      <description>The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries&amp;apos; world view.</description>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Your Purple Team Isn&amp;apos;t Purple — It&amp;apos;s Just Red and Blue in the Same Room</title>
-      <link>https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html</link>
-      <description>Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that&amp;apos;s longer than the exploitation window itself.
-Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its</description>
-      <pubDate>Mon, 11 May 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>LLMs and Text-in-Text Steganography</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html</link>
-      <description>&amp;lt;p&amp;gt;Turns out that LLMs are &amp;lt;a href=&amp;quot;https://arxiv.org/abs/2510.20075&amp;quot;&amp;gt;really good&amp;lt;/a&amp;gt; at hiding text messages in other text messages.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 11 May 2026 11:04:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>LLM</category>
-      <category>steganography</category>
     </item>
   </channel>
 </rss>
