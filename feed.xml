@@ -5,9 +5,76 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 15 May 2026 03:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:47:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>China-Linked Hackers Deploy New TencShell Malware Against Global Manufacturer</title>
+      <link>https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/</link>
+      <description>A suspected China-linked threat actor targeted the Indian branch of a global manufacturer leveraging an open source offensive toolkit</description>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Chrome 148 Update Patches Critical Vulnerabilities</title>
+      <link>https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/&amp;quot;&amp;gt;Chrome 148 Update Patches Critical Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 15 May 2026 07:25:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Chrome</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026</title>
+      <link>https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/</link>
+      <description>&amp;lt;p&amp;gt;The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/&amp;quot;&amp;gt;Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 15 May 2026 06:28:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Cisco</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>SD-WAN</category>
+      <category>UAT-8616</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email</title>
+      <link>https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html</link>
+      <description>Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.
+The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.
+&amp;quot;</description>
+      <pubDate>Fri, 15 May 2026 11:49:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Six MCP Security Incidents Every Security Leader Should Know | UpGuard</title>
+      <link>https://origin.upguard.com/blog/mcp-security-incidents</link>
+      <description>From registry poisoning to filesystem wipes: discover the 6 MCP security incidents every leader must know to secure their AI agent workflows in 2026.</description>
+      <pubDate>Fri, 15 May 2026 05:31:25 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/mcp-security-incidents</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits</title>
+      <link>https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html</link>
+      <description>The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026.
+The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It&amp;apos;s</description>
+      <pubDate>Fri, 15 May 2026 10:58:03 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems</title>
       <link>https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps</link>
@@ -332,35 +399,13 @@ The security defects have been codenamed YellowKey and GreenPlasma, respectively
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>High-Severity Vulnerability Patched in VMware Fusion</title>
-      <link>https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/</link>
-      <description>&amp;lt;p&amp;gt;The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/&amp;quot;&amp;gt;High-Severity Vulnerability Patched in VMware Fusion&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 14 May 2026 08:42:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>patches</category>
-      <category>VMware</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Researcher Drops YellowKey, GreenPlasma Windows Zero-Days</title>
-      <link>https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/</link>
-      <description>&amp;lt;p&amp;gt;YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/&amp;quot;&amp;gt;Researcher Drops YellowKey, GreenPlasma Windows Zero-Days&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 14 May 2026 07:27:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>BitLocker</category>
-      <category>Chaotic Eclipse</category>
-      <category>GreenPlasma</category>
-      <category>Windows</category>
-      <category>YellowKey</category>
-      <category>Zero-Day</category>
+      <title>FrostyNeighbor: Fresh mischief and digital shenanigans</title>
+      <link>https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/</link>
+      <description>ESET researchers uncovered new activities attributed to FrostyNeighbor, updating its compromise chain to support the group’s continual cyberespionage operations</description>
+      <pubDate>Thu, 14 May 2026 08:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
     </item>
     <item>
       <title>New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption</title>
@@ -408,14 +453,6 @@ The vulnerability, discovered by depthfirst, is a heap buffer overflow issue imp
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Six MCP Security Incidents Every Security Leader Should Know | UpGuard</title>
-      <link>https://origin.upguard.com/blog/mcp-security-incidents</link>
-      <description>From registry poisoning to filesystem wipes: discover the 6 MCP security incidents every leader must know to secure their AI agent workflows in 2026.</description>
-      <pubDate>Wed, 13 May 2026 19:04:51 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/mcp-security-incidents</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>AI GitHub Agents: How One Issue Leaked Private Repos | UpGuard</title>
@@ -1138,41 +1175,6 @@ The activity is said to be the work of cybercrime threat actors who appear to</d
       <pubDate>Mon, 11 May 2026 14:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/dirty-frag-linux-kernel/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Fake Claude Code Page Pushes PowerShell Stealer at Devs</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-claude-code-installer/</link>
-      <description>Ontinue uncovers fake Claude Code installer pushing PowerShell stealer abusing Chrome&amp;apos;s IElevator2</description>
-      <pubDate>Mon, 11 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-claude-code-installer/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Hackers Use AI for Exploit Development, Attack Automation</title>
-      <link>https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation</link>
-      <description>Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.</description>
-      <pubDate>Mon, 11 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hackers Observed Using AI to Develop Zero-Day for the First Time</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/</link>
-      <description>Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source software</description>
-      <pubDate>Mon, 11 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More</title>
-      <link>https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html</link>
-      <description>Rough Monday.
-Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay</description>
-      <pubDate>Mon, 11 May 2026 18:06:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
