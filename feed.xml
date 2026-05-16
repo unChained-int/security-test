@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 16 May 2026 13:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 19:03:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,25 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
       <dc:creator>Shlomie Liberow</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming</title>
+      <link>https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html</link>
+      <description>A critical security vulnerability impacting the
+  Funnel Builder
+  plugin for WordPress has come under active exploitation in the wild to
+  inject malicious JavaScript code
+  into WooCommerce checkout pages with the goal of stealing payment data.
+
+
+
+  Details of the activity were
+  published
+  by Sansec this week. The vulnerability currently does not have an official CVE identifier. It</description>
+      <pubDate>Sat, 16 May 2026 20:50:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>PoC Code Published for Critical NGINX Vulnerability</title>
@@ -45,6 +64,32 @@
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>squid</category>
+    </item>
+    <item>
+      <title>Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More</title>
+      <link>https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/</link>
+      <description>&amp;lt;p&amp;gt;This vibe coding cheat sheet explains how plain-language prompts can build apps fast, plus the planning, testing, and security checks needed.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/&amp;quot;&amp;gt;Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 15 May 2026 19:32:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Chatbots</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>Innovation</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>ai agents</category>
+      <category>ai app builders</category>
+      <category>ai coding</category>
+      <category>ai tools</category>
+      <category>cybersecurity</category>
+      <category>prompt engineering</category>
+      <category>software development</category>
+      <category>vibe coding</category>
     </item>
     <item>
       <title>New Windows Update May Undo Bad Driver Updates on Its Own</title>
@@ -1180,36 +1225,6 @@ The affected npm packages have been modified to include an obfuscated JavaScript
       <guid isPermaLink="true">https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Copy.Fail Linux Vulnerability</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html</link>
-      <description>&amp;lt;p&amp;gt;This is the &amp;lt;a href=&amp;quot;https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/&amp;quot;&amp;gt;worst&amp;lt;/a&amp;gt; Linux vulnerability in years.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;TL;DR&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC.
-&amp;lt;li&amp;gt;It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time straight into the page cache of a file the attacker does not own.
-&amp;lt;li&amp;gt;The exploit works unmodified across Ubuntu, RHEL, Debian, SUSE, Amazon Linux, Fedora and most others. No race condition, no per-distro offsets.
-&amp;lt;li&amp;gt;The file on disk is never modified. AIDE, Tripwire and checksum-based monitoring see nothing.
-...&amp;lt;/li&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 12 May 2026 11:06:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Linux</category>
-      <category>patching</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Why Agentic AI Is Security&amp;apos;s Next Blind Spot</title>
-      <link>https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html</link>
-      <description>Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point.&amp;amp;nbsp;
-The more urgent</description>
-      <pubDate>Tue, 12 May 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
