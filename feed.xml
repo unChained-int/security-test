@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 16 May 2026 08:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 13:20:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,22 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
       <dc:creator>Shlomie Liberow</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PoC Code Published for Critical NGINX Vulnerability</title>
+      <link>https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/</link>
+      <description>&amp;lt;p&amp;gt;Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/&amp;quot;&amp;gt;PoC Code Published for Critical NGINX Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 16 May 2026 10:02:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploit</category>
+      <category>Featured</category>
+      <category>Nginx</category>
+      <category>PoC</category>
+      <category>vulnerability</category>
     </item>
     <item>
       <title>Friday Squid Blogging: Bigfin Squid</title>
@@ -552,21 +568,6 @@ Active since at least 2016, Ghostwriter has been linked to both cyber espionage 
       <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fragnesia-linux-kernel-lpe-root/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere</title>
-      <link>https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/</link>
-      <description>&amp;lt;p&amp;gt;Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/&amp;quot;&amp;gt;Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Vulnerabilities</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>Mythos</category>
     </item>
     <item>
       <title>Foxconn Attack Highlights Manufacturing&amp;apos;s Cyber Crisis</title>
