@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 17 May 2026 13:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 19:07:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,16 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
       <dc:creator>Shlomie Liberow</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE</title>
+      <link>https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</link>
+      <description>A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.
+The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the</description>
+      <pubDate>Sun, 17 May 2026 17:27:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt</title>
@@ -1218,16 +1228,6 @@ Security operations teams are drowning in alerts. But the real problem isn&amp;a
 A recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently</description>
       <pubDate>Tue, 12 May 2026 17:28:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI &amp;amp; More Packages</title>
-      <link>https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html</link>
-      <description>TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign.
-The affected npm packages have been modified to include an obfuscated JavaScript file (&amp;quot;router_init.js&amp;quot;) that&amp;apos;s designed to profile the execution</description>
-      <pubDate>Tue, 12 May 2026 17:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
