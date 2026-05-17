@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 17 May 2026 02:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:20:34 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,20 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
       <dc:creator>Shlomie Liberow</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt</title>
+      <link>https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html</link>
+      <description>Grafana has disclosed that an &amp;quot;unauthorized party&amp;quot; obtained a token that granted them the ability to access the company&amp;apos;s GitHub environment and download its codebase.
+
+
+  &amp;quot;Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,&amp;quot; Grafana
+  said
+  in a series of</description>
+      <pubDate>Sun, 17 May 2026 12:43:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming</title>
@@ -1216,15 +1230,6 @@ The affected npm packages have been modified to include an obfuscated JavaScript
       <guid isPermaLink="true">https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain</title>
-      <link>https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain</link>
-      <description>Hundreds of npm packages infected by the self-propagating, credential-stealing worm from TeamPCP are related to the open source TanStack ecosystem.</description>
-      <pubDate>Tue, 12 May 2026 11:07:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
