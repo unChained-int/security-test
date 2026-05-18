@@ -5,9 +5,45 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 18 May 2026 10:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 15:30:50 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Interpol Launches Sweeping Cybercrime Crackdown in MENA Region</title>
+      <link>https://www.infosecurity-magazine.com/news/interpol-cybercrime-crackdown-mena/</link>
+      <description>Over 200 people were arrested in an anti-cybercrime operation that spanned 13 countries across the Middle East and North Africa</description>
+      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/interpol-cybercrime-crackdown-mena/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More</title>
+      <link>https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html</link>
+      <description>Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted.
+The pattern is clear. One weak dependency can leak keys. One leaked key can open cloud access. One cloud foothold can become a production</description>
+      <pubDate>Mon, 18 May 2026 19:20:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The Infosecurity Europe Cyber Startup Competition: Meet the Finalists</title>
+      <link>https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/</link>
+      <description>New for 2026, the Infosecurity Europe Startup competition will see five finalists pitch their ideas in front of a live audience, including senior industry leaders, investors and buyers</description>
+      <pubDate>Mon, 18 May 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>How to Reduce Phishing Exposure Before It Turns into Business Disruption</title>
+      <link>https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html</link>
+      <description>What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread.
+Early phishing detection closes that gap. It helps teams move from uncertainty to evidence faster,</description>
+      <pubDate>Mon, 18 May 2026 18:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>The Boring Stuff is Dangerous Now</title>
       <link>https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</link>
@@ -16,6 +52,108 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
       <dc:creator>Shlomie Liberow</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Millions Impacted Across Several US Healthcare Data Breaches</title>
+      <link>https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/</link>
+      <description>&amp;lt;p&amp;gt;Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/&amp;quot;&amp;gt;Millions Impacted Across Several US Healthcare Data Breaches&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 18 May 2026 12:58:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+    </item>
+    <item>
+      <title>‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery</title>
+      <link>https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/</link>
+      <description>&amp;lt;p&amp;gt;Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/&amp;quot;&amp;gt;&amp;amp;#8216;Claw Chain&amp;amp;#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 18 May 2026 12:14:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>OpenClaw</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand</title>
+      <link>https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/</link>
+      <description>&amp;lt;p&amp;gt;The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/&amp;quot;&amp;gt;7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 18 May 2026 11:25:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>7-Eleven</category>
+      <category>data breach</category>
+      <category>Salesforce</category>
+      <category>ShinyHunters</category>
+    </item>
+    <item>
+      <title>Developer Workstations Are Now Part of the Software Supply Chain</title>
+      <link>https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html</link>
+      <description>Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is</description>
+      <pubDate>Mon, 18 May 2026 16:53:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Zero-Day Exploit Against Windows BitLocker</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html</link>
+      <description>&amp;lt;p&amp;gt;It&amp;amp;#8217;s &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/&amp;quot;&amp;gt;nasty&amp;lt;/a&amp;gt;, but it requires physical access to the computer:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The exploit, named YellowKey, was &amp;lt;a href=&amp;quot;https://github.com/Nightmare-Eclipse/YellowKey&amp;quot;&amp;gt;published&amp;lt;/a&amp;gt; earlier this week by a researcher who goes by the alias Nightmare-Eclipse. It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption protection Microsoft provides to make disk contents off-limits to anyone without the decryption key, which is stored in a secured piece of hardware known as a trusted platform module (TPM). BitLocker is a mandatory protection for many organizations, including those that contract with governments...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 18 May 2026 11:08:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>BitLocker</category>
+      <category>exploits</category>
+      <category>Windows</category>
+      <category>zero-day</category>
+    </item>
+    <item>
+      <title>Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws</title>
+      <link>https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html</link>
+      <description>Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.
+Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.
+&amp;quot;External control of a file name</description>
+      <pubDate>Mon, 18 May 2026 16:24:05 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE</title>
+      <link>https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/</link>
+      <description>&amp;lt;p&amp;gt;The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/&amp;quot;&amp;gt;Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 18 May 2026 10:38:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploit</category>
+      <category>MiniPlasma</category>
+      <category>unpatched</category>
+      <category>vulnerability</category>
+      <category>Windows</category>
+    </item>
+    <item>
+      <title>NCSC Publishes Guidance on Securing Agentic AI Use</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/</link>
+      <description>The UK’s National Cyber Security Centre is helping organizations to understand agentic AI security risks</description>
+      <pubDate>Mon, 18 May 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>First Shai-Hulud Worm Clones Emerge</title>
@@ -47,6 +185,33 @@
       <pubDate>Mon, 18 May 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bank-england-fca-treasury-alarm/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems</title>
+      <link>https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html</link>
+      <description>Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.
+Codenamed MiniPlasma, the vulnerability impacts &amp;quot;cldflt.sys,&amp;quot; which refers to the Windows Cloud Files Mini Filter Driver,</description>
+      <pubDate>Mon, 18 May 2026 14:27:34 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware</title>
+      <link>https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html</link>
+      <description>Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.
+The list of identified packages is below -
+
+chalk-tempalte (825 Downloads)
+@deadcode09284814/axios-util (284 Downloads)
+axois-utils (963 Downloads)
+color-style-utils (934 Downloads)
+
+&amp;quot;One of the packages (chalk-tempalte)</description>
+      <pubDate>Mon, 18 May 2026 14:27:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Grafana Confirms Breach After Hackers Claim They Stole Data</title>
@@ -88,16 +253,6 @@ According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet too
 &amp;quot;Fast16&amp;apos;s hook engine is selectively interested in</description>
       <pubDate>Mon, 18 May 2026 12:16:37 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems</title>
-      <link>https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html</link>
-      <description>Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.
-Codenamed MiniPlasma, the vulnerability impacts &amp;quot;cldflt.sys,&amp;quot; which refers to the Windows Cloud Files Mini Filter Driver,</description>
-      <pubDate>Mon, 18 May 2026 10:29:21 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -197,6 +352,15 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>squid</category>
+    </item>
+    <item>
+      <title>Congress Puts Heat on Instructure After Canvas Outage</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</link>
+      <description>The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &amp;amp;quot;agreement&amp;amp;quot; with the ShinyHunters cybercriminals.</description>
+      <pubDate>Fri, 15 May 2026 20:19:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More</title>
@@ -372,23 +536,6 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</title>
-      <link>https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/&amp;quot;&amp;gt;Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 15 May 2026 12:06:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Email Security</category>
-      <category>Vulnerabilities</category>
-      <category>Exchange</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Microsoft Exchange</category>
-      <category>Zero-Day</category>
-    </item>
-    <item>
       <title>Cyber Pioneers Ponder Past as Prologue</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue</link>
       <description>Robert &amp;amp;quot;RSnake&amp;amp;quot; Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.</description>
@@ -396,21 +543,6 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue</guid>
       <dc:creator>Kelly Jackson Higgins, Becky Bracken</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>American Lending Center Data Breach Affects 123,000 Individuals</title>
-      <link>https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/</link>
-      <description>&amp;lt;p&amp;gt;The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/&amp;quot;&amp;gt;American Lending Center Data Breach Affects 123,000 Individuals&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 15 May 2026 11:06:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Ransomware</category>
-      <category>ALC</category>
-      <category>American Lending Center</category>
-      <category>data breach</category>
     </item>
     <item>
       <title>Bypassing On-Camera Age-Verification Checks</title>
@@ -442,41 +574,6 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
       <guid isPermaLink="true">https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI Hit by TanStack Supply Chain Attack</title>
-      <link>https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/</link>
-      <description>&amp;lt;p&amp;gt;Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/&amp;quot;&amp;gt;OpenAI Hit by TanStack Supply Chain Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 15 May 2026 10:37:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Supply Chain Security</category>
-      <category>AI</category>
-      <category>certificates</category>
-      <category>Featured</category>
-      <category>OpenAI</category>
-      <category>supply chain attack</category>
-      <category>TanStack</category>
-    </item>
-    <item>
-      <title>TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code</title>
-      <link>https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/</link>
-      <description>&amp;lt;p&amp;gt;The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/&amp;quot;&amp;gt;TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 15 May 2026 09:47:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Supply Chain Security</category>
-      <category>malware</category>
-      <category>Shai-Hulud</category>
-      <category>source code</category>
-      <category>TeamPCP</category>
-      <category>worm</category>
     </item>
     <item>
       <title>Why geopolitical turmoil is a gift for scammers, and how to stay safe</title>
@@ -549,15 +646,6 @@ The vulnerability is a critical authentication bypass tracked as CVE-2026-20182.
       <pubDate>Thu, 14 May 2026 20:25:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited</guid>
       <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Congress Puts Heat on Instructure After Canvas Outage</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</link>
-      <description>The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &amp;amp;quot;agreement&amp;amp;quot; with the ShinyHunters cybercriminals.</description>
-      <pubDate>Thu, 14 May 2026 20:19:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</guid>
-      <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1125,99 +1213,6 @@ The feature, it</description>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Over 1 Million Baby Monitors, Security Cameras Exposed Through Meari Flaws</title>
-      <link>https://www.techrepublic.com/article/news-meari-iot-baby-monitor-camera-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Meari IoT flaws reportedly exposed baby monitor images, camera activity, and device data across more than 1 million connected devices.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-meari-iot-baby-monitor-camera-vulnerabilities/&amp;quot;&amp;gt;Over 1 Million Baby Monitors, Security Cameras Exposed Through Meari Flaws&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 12 May 2026 18:47:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-meari-iot-baby-monitor-camera-vulnerabilities/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Amazon</category>
-      <category>Cybersecurity</category>
-      <category>Hardware</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>baby monitors</category>
-      <category>cloudedge</category>
-      <category>cybersecurity</category>
-      <category>iot security</category>
-      <category>meari technology</category>
-      <category>security cameras</category>
-      <category>smart home security</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution</title>
-      <link>https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html</link>
-      <description>Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.
-Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.
-The vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a</description>
-      <pubDate>Tue, 12 May 2026 22:14:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI Launches &amp;apos;Daybreak&amp;apos; to Help Build Secure By Design Software</title>
-      <link>https://www.infosecurity-magazine.com/news/openai-daybreak-secure-by-design/</link>
-      <description>With Daybreak, OpenAI wants its frontier AI models to be used to deploy secure by design software from the ground up</description>
-      <pubDate>Tue, 12 May 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-daybreak-secure-by-design/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>1 in 15 MCP Servers are Lookalikes: Is Your Org at Risk? | UpGuard</title>
-      <link>https://origin.upguard.com/blog/mcp-server-lookalikes</link>
-      <description>For every official MCP server, up to 15 lookalikes exist. Learn to identify these registry-layer threats and discover methods to protect your organization.</description>
-      <pubDate>Tue, 12 May 2026 14:57:26 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/mcp-server-lookalikes</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>MCP: The AI Protocol Quietly Expanding Your Attack Surface | UpGuard</title>
-      <link>https://origin.upguard.com/blog/mcp-ai-protocol-expanding-your-attack-surface</link>
-      <description>As AI tools adopt MCP, security teams face a new shadow IT crisis. Learn what MCP is, why these servers carry risk, and how to begin gaining visibility.</description>
-      <pubDate>Tue, 12 May 2026 14:56:43 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/mcp-ai-protocol-expanding-your-attack-surface</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded</title>
-      <link>https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html</link>
-      <description>RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a &amp;quot;major malicious attack.&amp;quot;
-&amp;quot;We&amp;apos;re dealing with a major malicious attack on RubyGems right now,&amp;quot; Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. &amp;quot;Signups are paused for the time being.</description>
-      <pubDate>Tue, 12 May 2026 20:17:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mini Shai-Hulud Hits TanStack npm Packages</title>
-      <link>https://www.infosecurity-magazine.com/news/mini-shai-hulud-tanstack-npm/</link>
-      <description>Mini Shai-Hulud compromises TanStack npm packages and spreads across PyPI</description>
-      <pubDate>Tue, 12 May 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mini-shai-hulud-tanstack-npm/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Hugging Face Packages Weaponized With a Single File Tweak</title>
-      <link>https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak</link>
-      <description>A tokenizer library file present in Hugging Face AI models can be manipulated to hijack the model&amp;apos;s outputs and exfiltrate data.</description>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>End‑to‑End Encrypted RCS Messaging Arrives Across iPhone and Android</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-google-rcs-end-to-end/</link>
-      <description>Apple begins rolling out end-to-end encrypted RCS messaging between iPhone and Android in iOS 26.5</description>
-      <pubDate>Tue, 12 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apple-google-rcs-end-to-end/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
