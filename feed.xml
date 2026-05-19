@@ -5,9 +5,73 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 18 May 2026 19:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:30:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What is Financial Services Cybersecurity? Threats and Defenses | UpGuard</title>
+      <link>https://origin.upguard.com/blog/financial-services-cybersecurity</link>
+      <description>Understand the state of modern financial services cybersecurity to protect your assets, ensure compliance, and mitigate systemic risk.</description>
+      <pubDate>Mon, 18 May 2026 22:43:11 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/financial-services-cybersecurity</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is CVSS? A Complete Guide to Vulnerability Scoring | UpGuard</title>
+      <link>https://origin.upguard.com/blog/what-is-cvss</link>
+      <description>Master CVSS v4.0. Use EPSS and CISA KEV to prioritize vulnerabilities, reduce alert fatigue, and meet modern regulatory compliance.</description>
+      <pubDate>Mon, 18 May 2026 22:43:11 +0000</pubDate>
+      <guid isPermaLink="true">https://origin.upguard.com/blog/what-is-cvss</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Microsoft Exchange Zero-Day Under Attack, No Patch Available</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch</link>
+      <description>CVE-2026-42897 stems from a cross-site scripting (XSS) vulnerability and can allow an attacker to compromise Outlook Web Access (OWA) mailboxes.</description>
+      <pubDate>Mon, 18 May 2026 21:43:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;Claw Chain&amp;apos; Vulnerabilities Threaten OpenClaw Deployments</title>
+      <link>https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw</link>
+      <description>The now patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.</description>
+      <pubDate>Mon, 18 May 2026 21:24:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
+      <description>Until this past weekend, a contractor for the Cybersecurity &amp;amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.</description>
+      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Data Breaches</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>AWS GovCloud</category>
+      <category>Cybersecurity &amp;amp; Infrastructure Security Agency</category>
+      <category>GitGuardian</category>
+      <category>GitHub</category>
+      <category>Guillaume Valadon</category>
+      <category>Nightwing</category>
+      <category>Philippe Caturegli</category>
+      <category>Seralys</category>
+    </item>
+    <item>
+      <title>Shai-Hulud Worm Clones Spread After Code Release</title>
+      <link>https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release</link>
+      <description>The release of Shai-Hulud source code spells trouble for software developers as researchers worry the self-replicating worm could scale.</description>
+      <pubDate>Mon, 18 May 2026 19:53:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>PCI SSC Publishes PCI PTS HSM v5.0</title>
       <link>https://blog.pcisecuritystandards.org/pci-ssc-publishes-pci-pts-hsm-v5.0</link>
@@ -33,20 +97,13 @@ The initiative involved the efforts of 13 countries from the region between Octo
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>What is CVSS? A Complete Guide to Vulnerability Scoring | UpGuard</title>
-      <link>https://origin.upguard.com/blog/what-is-cvss</link>
-      <description>Master CVSS v4.0. Use EPSS and CISA KEV to prioritize vulnerabilities, reduce alert fatigue, and meet modern regulatory compliance.</description>
-      <pubDate>Mon, 18 May 2026 17:05:03 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/what-is-cvss</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Financial Services Cybersecurity? Threats and Defenses | UpGuard</title>
-      <link>https://origin.upguard.com/blog/financial-services-cybersecurity</link>
-      <description>Understand the state of modern financial services cybersecurity to protect your assets, ensure compliance, and mitigate systemic risk.</description>
-      <pubDate>Mon, 18 May 2026 17:04:57 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/financial-services-cybersecurity</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+      <title>Fuel Tank Breaches Expand Scope of Iran&amp;apos;s Cyber Offensive</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive</link>
+      <description>Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.</description>
+      <pubDate>Mon, 18 May 2026 15:41:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Interpol Launches Sweeping Cybercrime Crackdown in MENA Region</title>
@@ -85,6 +142,15 @@ Early phishing detection closes that gap. It helps teams move from uncertainty t
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>The Boring Stuff Is Dangerous Now</title>
+      <link>https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</link>
+      <description>AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.</description>
+      <pubDate>Mon, 18 May 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
+      <dc:creator>Shlomie Liberow</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Millions Impacted Across Several US Healthcare Data Breaches</title>
       <link>https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/</link>
       <description>&amp;lt;p&amp;gt;Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.&amp;lt;/p&amp;gt;
@@ -111,6 +177,15 @@ Early phishing detection closes that gap. It helps teams move from uncertainty t
       <category>AI</category>
       <category>OpenClaw</category>
       <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Boulevard of Broken Dreams: 2 Decades of Cyber Fails</title>
+      <link>https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails</link>
+      <description>From the MGM and Caesars fiasco and MOVEit&amp;apos;s patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations, systemic failures, and cringeworthy moments that still have us shaking our heads.</description>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails</guid>
+      <dc:creator>Dark Reading Editorial Team</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand</title>
@@ -305,6 +380,15 @@ According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet too
       <category>Pwn2Own Berlin</category>
     </item>
     <item>
+      <title>Can Laws Stop Deepfakes? South Korea Aims to Find Out</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea</link>
+      <description>South Korea&amp;apos;s local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.</description>
+      <pubDate>Mon, 18 May 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE</title>
       <link>https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</link>
       <description>A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.
@@ -374,6 +458,15 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>squid</category>
+    </item>
+    <item>
+      <title>Congress Puts Heat on Instructure After Canvas Outage</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</link>
+      <description>The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &amp;amp;quot;agreement&amp;amp;quot; with the ShinyHunters cybercriminals.</description>
+      <pubDate>Fri, 15 May 2026 20:19:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More</title>
@@ -549,6 +642,15 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Cyber Pioneers Ponder Past as Prologue</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue</link>
+      <description>Robert &amp;amp;quot;RSnake&amp;amp;quot; Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.</description>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue</guid>
+      <dc:creator>Kelly Jackson Higgins, Becky Bracken</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Bypassing On-Camera Age-Verification Checks</title>
       <link>https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html</link>
       <description>&amp;lt;p&amp;gt;Some AI-based video age-verification checks can be fooled with a &amp;lt;a href=&amp;quot;https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/&amp;quot;&amp;gt;fake mustache&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
@@ -626,6 +728,33 @@ The vulnerability is a critical authentication bypass tracked as CVE-2026-20182.
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems</title>
+      <link>https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps</link>
+      <description>A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.</description>
+      <pubDate>Fri, 15 May 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>SecurityScorecard Snags Driftnet to Level Up Threat Intelligence</title>
+      <link>https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence</link>
+      <description>The acquisition looks to boost visibility into third-party ecosystems, which are becoming a bigger concern as vectors for supply chain attacks.</description>
+      <pubDate>Thu, 14 May 2026 20:57:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Maximum Severity Cisco SD-WAN Bug Exploited in the Wild</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited</link>
+      <description>This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco&amp;apos;s network control system.</description>
+      <pubDate>Thu, 14 May 2026 20:25:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>The First AI-Crafted Zero-Day Was Easy to Spot. The Next One May Not Be</title>
       <link>https://www.techrepublic.com/article/news-google-ai-crafted-zero-day-exploit/</link>
       <description>&amp;lt;p&amp;gt;Google reported the first confirmed AI-assisted zero-day exploit, raising new concerns about logic flaws, supply chain risk, and containment.&amp;lt;/p&amp;gt;
@@ -676,6 +805,15 @@ node-ipc@12.0.1
       <guid isPermaLink="true">https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>&amp;apos;FrostyNeighbor&amp;apos; APT Carefully Targets Govt Orgs in Poland, Ukraine</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine</link>
+      <description>Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.</description>
+      <pubDate>Thu, 14 May 2026 16:59:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories</title>
@@ -731,12 +869,30 @@ Active since at least 2016, Ghostwriter has been linked to both cyber espionage 
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>AI Drives Cybersecurity Investments, Widening &amp;apos;Valley of Death&amp;apos;</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death</link>
+      <description>In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.</description>
+      <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>New Fragnesia Flaw Hands Linux Local Users Root Access</title>
       <link>https://www.infosecurity-magazine.com/news/fragnesia-linux-kernel-lpe-root/</link>
       <description>New Fragnesia kernel flaw lets unprivileged local users escalate to root on Linux systems</description>
       <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fragnesia-linux-kernel-lpe-root/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Foxconn Attack Highlights Manufacturing&amp;apos;s Cyber Crisis</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis</link>
+      <description>A Nitrogen ransomware attack on Foxconn&amp;apos;s North American facilities is one of 600 hits on manufacturers this year, as gangs increasingly target the sector for its low tolerance for downtime.</description>
+      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure</title>
@@ -832,12 +988,47 @@ The vulnerability, discovered by depthfirst, is a heap buffer overflow issue imp
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Checkbox Assessments Aren&amp;apos;t Fit to Measure Risk</title>
+      <link>https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk</link>
+      <description>Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.</description>
+      <pubDate>Wed, 13 May 2026 21:17:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Weaponize RubyGems for Data Dead Drops</title>
+      <link>https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops</link>
+      <description>Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective.</description>
+      <pubDate>Wed, 13 May 2026 21:09:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Tables Turn on &amp;apos;The Gentlemen&amp;apos; RaaS Gang With Data Leak</title>
+      <link>https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak</link>
+      <description>An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure.</description>
+      <pubDate>Wed, 13 May 2026 20:47:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>AI GitHub Agents: How One Issue Leaked Private Repos | UpGuard</title>
       <link>https://origin.upguard.com/blog/ai-github-agents-issue-leaked-private-repos</link>
       <description>Uncover how indirect prompt injection and tool poisoning allow attackers to exfiltrate private data via AI agents—all without stealing a single credential.</description>
       <pubDate>Wed, 13 May 2026 19:04:17 +0000</pubDate>
       <guid isPermaLink="true">https://origin.upguard.com/blog/ai-github-agents-issue-leaked-private-repos</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape</link>
+      <description>Informa TechTarget&amp;apos;s flagship cybersecurity media brand launches a special content series to mark two decades as a trusted source for cybersecurity professionals.</description>
+      <pubDate>Wed, 13 May 2026 18:52:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Microsoft’s Patch Tuesday Update Targets 120 Security Flaws</title>
@@ -972,6 +1163,24 @@ The activity has been attributed by Bitdefender with moderate-to-high confidence
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>China&amp;apos;s &amp;apos;FamousSparrow&amp;apos; APT Nests in South Caucasus Energy Firm</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</link>
+      <description>The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.</description>
+      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly</title>
+      <link>https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools</link>
+      <description>In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.</description>
+      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Ransomware: Over Half of CISOs Would Consider Paying Ransom to Hackers</title>
       <link>https://www.infosecurity-magazine.com/news/ransomware-over-half-cisos-would/</link>
       <description>Survey of cybersecurity leaders suggests that majority would strongly consider paying cybercriminals, if that’s what it took to help restore encrypted systems</description>
@@ -997,258 +1206,6 @@ The real danger? While</description>
 Mandiant&amp;apos;s M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear</description>
       <pubDate>Wed, 13 May 2026 17:00:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html</link>
-      <description>&amp;lt;p&amp;gt;The UK&amp;amp;#8217;s AI Security Institute evaluated GPT-5.5&amp;amp;#8217;s ability to find security vulnerabilities, and &amp;lt;a href=&amp;quot;https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities&amp;quot;&amp;gt;found&amp;lt;/a&amp;gt; that it is comparable to Claude Mythos. Note that the OpenAI model is generally available.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities&amp;quot;&amp;gt;Here&amp;lt;/a&amp;gt; is the Institute&amp;amp;#8217;s evaluation of Mythos.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;And &amp;lt;a href=&amp;quot;https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier&amp;quot;&amp;gt;here&amp;lt;/a&amp;gt; is an analysis of a smaller, cheaper model. It requires more scaffolding from the prompter, but it is also just as good.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 13 May 2026 11:03:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>cybersecurity</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Global Cyber Agencies Issue New SBOMs for AI Guidance to Tackle AI Supply Chain Risks</title>
-      <link>https://www.infosecurity-magazine.com/news/new-sboms-for-ai-guidance-2026/</link>
-      <description>The G7 Cybersecurity Working Group releases new SBOM for AI guidance, outlining seven key data clusters to boost transparency and security across AI supply chains</description>
-      <pubDate>Wed, 13 May 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-sboms-for-ai-guidance-2026/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws</title>
-      <link>https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html</link>
-      <description>Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.
-Of the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by</description>
-      <pubDate>Wed, 13 May 2026 16:06:10 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK Cybersecurity Market Expands to £14.7bn with Strong Growth in AI Security Firms</title>
-      <link>https://www.infosecurity-magazine.com/news/uks-cyber-sector-grows-revenue-11/</link>
-      <description>UK cybersecurity sector reaches £14.7bn in revenue, driven by rapid growth in AI security firms, increased investment and rising employment across the industry</description>
-      <pubDate>Wed, 13 May 2026 09:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uks-cyber-sector-grows-revenue-11/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Fixes 17 Critical Flaws in May Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-17-critical-flaws-may/</link>
-      <description>Microsoft has patched 120 vulnerabilities in this month’s security update round</description>
-      <pubDate>Wed, 13 May 2026 08:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-17-critical-flaws-may/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data</title>
-      <link>https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html</link>
-      <description>Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.
-&amp;quot;The packages do not appear designed for mass developer compromise,&amp;quot; Socket said. &amp;quot;Many have little or no download activity, and the payloads are repetitive,</description>
-      <pubDate>Wed, 13 May 2026 13:38:54 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Android Adds Intrusion Logging for Sophisticated Spyware Forensics</title>
-      <link>https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html</link>
-      <description>Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.
-Intrusion Logging, available as part of Advanced Protection Mode, enables &amp;quot;persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,&amp;quot; the company said.
-The feature, it</description>
-      <pubDate>Wed, 13 May 2026 12:25:42 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Proofpoint Launches Dedicated MSP Business Unit and Introduces 365 Total Protection for North America</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total</link>
-      <description/>
-      <pubDate>Tue, 12 May 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-launches-dedicated-msp-business-unit-and-introduces-365-total</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Patch Tuesday, May 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
-      <description>Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.</description>
-      <pubDate>Tue, 12 May 2026 21:46:45 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Time to Patch</category>
-      <category>Anthropic</category>
-      <category>apple</category>
-      <category>Chris Goettl</category>
-      <category>Firefox 150</category>
-      <category>google</category>
-      <category>Ivanti</category>
-      <category>microsoft</category>
-      <category>Mozilla</category>
-      <category>Oracle</category>
-      <category>Project Glasswing</category>
-      <category>Rapid7</category>
-      <category>sans internet storm center</category>
-    </item>
-    <item>
-      <title>Over 1 Million Baby Monitors, Security Cameras Exposed Through Meari Flaws</title>
-      <link>https://www.techrepublic.com/article/news-meari-iot-baby-monitor-camera-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Meari IoT flaws reportedly exposed baby monitor images, camera activity, and device data across more than 1 million connected devices.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-meari-iot-baby-monitor-camera-vulnerabilities/&amp;quot;&amp;gt;Over 1 Million Baby Monitors, Security Cameras Exposed Through Meari Flaws&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 12 May 2026 18:47:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-meari-iot-baby-monitor-camera-vulnerabilities/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Amazon</category>
-      <category>Cybersecurity</category>
-      <category>Hardware</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>baby monitors</category>
-      <category>cloudedge</category>
-      <category>cybersecurity</category>
-      <category>iot security</category>
-      <category>meari technology</category>
-      <category>security cameras</category>
-      <category>smart home security</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution</title>
-      <link>https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html</link>
-      <description>Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.
-Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.
-The vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a</description>
-      <pubDate>Tue, 12 May 2026 22:14:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI Launches &amp;apos;Daybreak&amp;apos; to Help Build Secure By Design Software</title>
-      <link>https://www.infosecurity-magazine.com/news/openai-daybreak-secure-by-design/</link>
-      <description>With Daybreak, OpenAI wants its frontier AI models to be used to deploy secure by design software from the ground up</description>
-      <pubDate>Tue, 12 May 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-daybreak-secure-by-design/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>1 in 15 MCP Servers are Lookalikes: Is Your Org at Risk? | UpGuard</title>
-      <link>https://origin.upguard.com/blog/mcp-server-lookalikes</link>
-      <description>For every official MCP server, up to 15 lookalikes exist. Learn to identify these registry-layer threats and discover methods to protect your organization.</description>
-      <pubDate>Tue, 12 May 2026 14:57:26 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/mcp-server-lookalikes</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>MCP: The AI Protocol Quietly Expanding Your Attack Surface | UpGuard</title>
-      <link>https://origin.upguard.com/blog/mcp-ai-protocol-expanding-your-attack-surface</link>
-      <description>As AI tools adopt MCP, security teams face a new shadow IT crisis. Learn what MCP is, why these servers carry risk, and how to begin gaining visibility.</description>
-      <pubDate>Tue, 12 May 2026 14:56:43 +0000</pubDate>
-      <guid isPermaLink="true">https://origin.upguard.com/blog/mcp-ai-protocol-expanding-your-attack-surface</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded</title>
-      <link>https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html</link>
-      <description>RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a &amp;quot;major malicious attack.&amp;quot;
-&amp;quot;We&amp;apos;re dealing with a major malicious attack on RubyGems right now,&amp;quot; Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. &amp;quot;Signups are paused for the time being.</description>
-      <pubDate>Tue, 12 May 2026 20:17:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mini Shai-Hulud Hits TanStack npm Packages</title>
-      <link>https://www.infosecurity-magazine.com/news/mini-shai-hulud-tanstack-npm/</link>
-      <description>Mini Shai-Hulud compromises TanStack npm packages and spreads across PyPI</description>
-      <pubDate>Tue, 12 May 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mini-shai-hulud-tanstack-npm/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>End‑to‑End Encrypted RCS Messaging Arrives Across iPhone and Android</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-google-rcs-end-to-end/</link>
-      <description>Apple begins rolling out end-to-end encrypted RCS messaging between iPhone and Android in iOS 26.5</description>
-      <pubDate>Tue, 12 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apple-google-rcs-end-to-end/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Google Says Hackers Used AI to Build Zero-Day Exploit</title>
-      <link>https://www.techrepublic.com/article/news-google-hackers-ai-zero-day-exploit/</link>
-      <description>&amp;lt;p&amp;gt;Google says hackers used AI to help build a zero-day exploit targeting 2FA, raising concerns about AI-assisted hacking.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-hackers-ai-zero-day-exploit/&amp;quot;&amp;gt;Google Says Hackers Used AI to Build Zero-Day Exploit&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 12 May 2026 12:56:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-hackers-ai-zero-day-exploit/</guid>
-      <dc:creator>Kezia Jungco</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cloud Security</category>
-      <category>Cybersecurity</category>
-      <category>Enterprise Software</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>2fa</category>
-      <category>ai</category>
-      <category>cybersecurity</category>
-      <category>enterprise security</category>
-      <category>exploit</category>
-      <category>gemini</category>
-      <category>threat intelligence</category>
-      <category>vulnerability</category>
-      <category>zero day</category>
-    </item>
-    <item>
-      <title>New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots</title>
-      <link>https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html</link>
-      <description>Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2).
-The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria.
-&amp;quot;TrickMo relies on a runtime-loaded APK&amp;amp;nbsp; (dex.module),</description>
-      <pubDate>Tue, 12 May 2026 18:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attackers Combine ClickFix With PySoxy Proxying to Maintain Persistence</title>
-      <link>https://www.infosecurity-magazine.com/news/clickfix-combined-pysoxy-proxying/</link>
-      <description>Exploitation of open-source tools allows attackers to maintain persistent access after initial social engineering, warn ReliaQuest researchers</description>
-      <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/clickfix-combined-pysoxy-proxying/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help</title>
-      <link>https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html</link>
-      <description>Why do the Riskiest SOC Alerts Go Unanswered?
-Security operations teams are drowning in alerts. But the real problem isn&amp;apos;t always alert volume; it&amp;apos;s the blind spots. The most dangerous alerts are the ones no one is investigating.
-A recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently</description>
-      <pubDate>Tue, 12 May 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI &amp;amp; More Packages</title>
-      <link>https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html</link>
-      <description>TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign.
-The affected npm packages have been modified to include an obfuscated JavaScript file (&amp;quot;router_init.js&amp;quot;) that&amp;apos;s designed to profile the execution</description>
-      <pubDate>Tue, 12 May 2026 17:16:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
