@@ -5,9 +5,77 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 19 May 2026 03:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:40:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grafana Labs Confirms Hackers Stole Source Code</title>
+      <link>https://www.infosecurity-magazine.com/news/grafana-labs-confirms-hackers/</link>
+      <description>Open source tool maker Grafana says hackers stole codebase via GitHub breach</description>
+      <pubDate>Tue, 19 May 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/grafana-labs-confirms-hackers/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Hackers Bypass Security Tools to Target Users Directly</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-bypass-security-tools/</link>
+      <description>Bridewell report calls out emergence of “fix-style” attacks</description>
+      <pubDate>Tue, 19 May 2026 08:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-bypass-security-tools/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer</title>
+      <link>https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html</link>
+      <description>Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.
+
+The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open</description>
+      <pubDate>Tue, 19 May 2026 13:19:23 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Vulnerability Exposes Industrial Robot Fleets to Hacking</title>
+      <link>https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/</link>
+      <description>&amp;lt;p&amp;gt;The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/&amp;quot;&amp;gt;Critical Vulnerability Exposes Industrial Robot Fleets to Hacking&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 19 May 2026 06:18:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>Vulnerabilities</category>
+      <category>cobots</category>
+      <category>Featured</category>
+      <category>ICS</category>
+      <category>industrial robots</category>
+      <category>OT</category>
+      <category>Universal Robots</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials</title>
+      <link>https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html</link>
+      <description>In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server.
+
+&amp;quot;Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action&amp;apos;s normal commit history,</description>
+      <pubDate>Tue, 19 May 2026 10:58:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account</title>
+      <link>https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html</link>
+      <description>Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave.
+
+&amp;quot;The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly</description>
+      <pubDate>Tue, 19 May 2026 10:24:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>What is Financial Services Cybersecurity? Threats and Defenses | UpGuard</title>
       <link>https://origin.upguard.com/blog/financial-services-cybersecurity</link>
@@ -199,6 +267,7 @@ Early phishing detection closes that gap. It helps teams move from uncertainty t
       <category>Data Breaches</category>
       <category>7-Eleven</category>
       <category>data breach</category>
+      <category>Featured</category>
       <category>Salesforce</category>
       <category>ShinyHunters</category>
     </item>
@@ -559,20 +628,6 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
       <category>openai</category>
       <category>software update</category>
       <category>supply chain attack</category>
-    </item>
-    <item>
-      <title>In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws</title>
-      <link>https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/</link>
-      <description>&amp;lt;p&amp;gt;Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/&amp;quot;&amp;gt;In Other News: Big Tech vs Canada Encryption Bill, Cisco&amp;amp;#8217;s Free AI Security Spec, Audi App Flaws&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 15 May 2026 14:52:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Government</category>
-      <category>Malware &amp;amp; Threats</category>
-      <category>In Other News</category>
     </item>
     <item>
       <title>Two Unpatched Windows Exploits Target BitLocker, SYSTEM Access</title>
@@ -1159,53 +1214,6 @@ MDASH, short for multi-model agentic scanning harness, is designed as a model-ag
 The activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of</description>
       <pubDate>Wed, 13 May 2026 18:30:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>China&amp;apos;s &amp;apos;FamousSparrow&amp;apos; APT Nests in South Caucasus Energy Firm</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</link>
-      <description>The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.</description>
-      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly</title>
-      <link>https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools</link>
-      <description>In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.</description>
-      <pubDate>Wed, 13 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Ransomware: Over Half of CISOs Would Consider Paying Ransom to Hackers</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-over-half-cisos-would/</link>
-      <description>Survey of cybersecurity leaders suggests that majority would strongly consider paying cybercriminals, if that’s what it took to help restore encrypted systems</description>
-      <pubDate>Wed, 13 May 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-over-half-cisos-would/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud</title>
-      <link>https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html</link>
-      <description>TL;DR: Stop chasing thousands of &amp;quot;toast&amp;quot; alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a &amp;quot;Lethal Chain&amp;quot; to your data—and how to break it. Register for the Strategic Briefing Here.
-Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.
-The real danger? While</description>
-      <pubDate>Wed, 13 May 2026 17:22:43 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Most Remediation Programs Never Confirm the Fix Actually Worked</title>
-      <link>https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html</link>
-      <description>Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.
-Mandiant&amp;apos;s M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear</description>
-      <pubDate>Wed, 13 May 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
