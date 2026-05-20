@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 20 May 2026 15:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 20:13:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,64 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development</title>
+      <link>https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html</link>
+      <description>Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.
+
+RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering</description>
+      <pubDate>Wed, 20 May 2026 22:36:54 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control</title>
+      <link>https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os</link>
+      <description>An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.</description>
+      <pubDate>Wed, 20 May 2026 16:12:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</title>
+      <link>https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/</link>
+      <description>&amp;lt;p&amp;gt;The new Series A funding round brings the total raised by Quantum Bridge to $16 million. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/&amp;quot;&amp;gt;Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 20 May 2026 15:45:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>funding</category>
+      <category>PQC</category>
+      <category>Quantum</category>
+      <category>Quantum Bridge</category>
+    </item>
+    <item>
+      <title>Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass</title>
+      <link>https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/</link>
+      <description>&amp;lt;p&amp;gt;The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/&amp;quot;&amp;gt;Microsoft Rolls Out Mitigations for &amp;amp;#8216;YellowKey&amp;amp;#8217; BitLocker Bypass&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 20 May 2026 15:39:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Endpoint Security</category>
+      <category>Vulnerabilities</category>
+      <category>BitLocker</category>
+      <category>Windows</category>
+      <category>YellowKey</category>
+    </item>
+    <item>
+      <title>Android Malware Campaign Used Hundreds of Fake Apps to Silently Charge Users</title>
+      <link>https://www.infosecurity-magazine.com/news/android-carrier-billing-fraud-four/</link>
+      <description>Premium Deception campaign uses 250 Android apps to silently sign victims up to paid services</description>
+      <pubDate>Wed, 20 May 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/android-carrier-billing-fraud-four/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Mini Shai-Hulud Hits Hundreds of npm Packages in AntV Ecosystem</title>
@@ -94,6 +152,7 @@ The tech giant attributed the activity to a threat actor it calls Fox Tempest, w
       <category>Artificial Intelligence</category>
       <category>AI</category>
       <category>Claude Code</category>
+      <category>Featured</category>
       <category>sandbox</category>
       <category>sandbox escape</category>
       <category>vulnerability</category>
@@ -308,21 +367,6 @@ It said the scope of the incident is limited to the Grafana Labs GitHub environm
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</title>
-      <link>https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/</link>
-      <description>&amp;lt;p&amp;gt;Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/&amp;quot;&amp;gt;Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 20 May 2026 00:04:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Incident Response</category>
-      <category>DBIR</category>
-      <category>Report</category>
-      <category>Verizon</category>
-    </item>
-    <item>
       <title>What Will Make AI BOMs Real?</title>
       <link>https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real</link>
       <description>A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).</description>
@@ -402,19 +446,6 @@ The activity, per HUMAN&amp;apos;s Satori Threat Intelligence and Research Team,
       <guid isPermaLink="true">https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</title>
-      <link>https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/</link>
-      <description>&amp;lt;p&amp;gt;Drupal says attackers may develop an exploit for the vulnerability within hours or days.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/&amp;quot;&amp;gt;Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 19 May 2026 16:22:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Drupal</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Microsoft Takes Down Fox Tempest for Providing Ransomware-Enabling Signing Tool</title>
@@ -1139,34 +1170,6 @@ The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer
 &amp;quot;Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to</description>
       <pubDate>Fri, 15 May 2026 16:24:44 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why geopolitical turmoil is a gift for scammers, and how to stay safe</title>
-      <link>https://www.welivesecurity.com/en/scams/geopolitical-turmoil-gift-scammers-how-stay-safe/</link>
-      <description>Conflict is a boon for opportunistic fraudsters. Look out for their ploys.</description>
-      <pubDate>Fri, 15 May 2026 08:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/geopolitical-turmoil-gift-scammers-how-stay-safe/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Digital Security</category>
-    </item>
-    <item>
-      <title>China-Linked Hackers Deploy New TencShell Malware Against Global Manufacturer</title>
-      <link>https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/</link>
-      <description>A suspected China-linked threat actor targeted the Indian branch of a global manufacturer leveraging an open source offensive toolkit</description>
-      <pubDate>Fri, 15 May 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email</title>
-      <link>https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html</link>
-      <description>Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.
-The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.
-&amp;quot;</description>
-      <pubDate>Fri, 15 May 2026 11:49:04 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
