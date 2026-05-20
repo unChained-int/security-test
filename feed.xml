@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 19 May 2026 19:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:30:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,6 +17,57 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</title>
+      <link>https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/</link>
+      <description>&amp;lt;p&amp;gt;Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/&amp;quot;&amp;gt;Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 20 May 2026 00:04:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Incident Response</category>
+      <category>DBIR</category>
+      <category>Report</category>
+      <category>Verizon</category>
+    </item>
+    <item>
+      <title>What Will Make AI BOMs Real?</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real</link>
+      <description>A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).</description>
+      <pubDate>Tue, 19 May 2026 22:17:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real</guid>
+      <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut</title>
+      <link>https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut</link>
+      <description>Verizon&amp;apos;s &amp;amp;quot;2026 Data Breach Investigations Report&amp;amp;quot; (&amp;amp;quot;DBIR&amp;amp;quot;) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.</description>
+      <pubDate>Tue, 19 May 2026 21:55:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Windows Zero-Day Barrage Continues After Patch Tuesday</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday</link>
+      <description>YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.</description>
+      <pubDate>Tue, 19 May 2026 21:06:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Exposes Secrets, Credentials in &amp;apos;Private&amp;apos; Repo</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo</link>
+      <description>The agency&amp;apos;s GitHub repository, publicly available since November 2025, was ironically named &amp;amp;quot;Private-CISA.&amp;amp;quot;</description>
+      <pubDate>Tue, 19 May 2026 19:49:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Stealer Spoofs Google, Microsoft &amp;amp;amp; Apple, Then Backdoors macOS</title>
       <link>https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos</link>
       <description>The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.</description>
@@ -24,6 +75,29 @@
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Mac Users Face New Malware Threat Spoofing Apple, Google, and Microsoft</title>
+      <link>https://www.techrepublic.com/article/news-reaper-shub-malware-mac-users/</link>
+      <description>&amp;lt;p&amp;gt;A new SHub Reaper macOS infostealer spoofs prompts from Apple, Google, and Microsoft to steal passwords, crypto data, and business files from Macs.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-reaper-shub-malware-mac-users/&amp;quot;&amp;gt;Mac Users Face New Malware Threat Spoofing Apple, Google, and Microsoft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 19 May 2026 18:18:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-reaper-shub-malware-mac-users/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>infostealer</category>
+      <category>macos</category>
+      <category>malware</category>
+      <category>reaper</category>
+      <category>sentinelone</category>
+      <category>shub</category>
     </item>
     <item>
       <title>Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps</title>
@@ -94,6 +168,28 @@ Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reporte
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution</guid>
       <dc:creator>Dark Reading Editorial Team</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AdvancedHEALTH Ransomware Claim Includes 2.3M Patient Data Lines</title>
+      <link>https://www.techrepublic.com/article/news-advancedhealth-ransomware-patient-data-claim/</link>
+      <description>&amp;lt;p&amp;gt;DragonForce claims it stole 390GB from AdvancedHEALTH, including patient data and minors’ records, as breach notices and legal scrutiny begin.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-advancedhealth-ransomware-patient-data-claim/&amp;quot;&amp;gt;AdvancedHEALTH Ransomware Claim Includes 2.3M Patient Data Lines&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 19 May 2026 13:10:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-advancedhealth-ransomware-patient-data-claim/</guid>
+      <dc:creator>Liz Ticong</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>advancedhealth</category>
+      <category>class action</category>
+      <category>data breach</category>
+      <category>dragonforce</category>
+      <category>healthcare cybersecurity</category>
+      <category>medical records</category>
+      <category>patient data</category>
+      <category>ransomware</category>
     </item>
     <item>
       <title>Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks</title>
@@ -493,19 +589,6 @@ Early phishing detection closes that gap. It helps teams move from uncertainty t
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
       <dc:creator>Shlomie Liberow</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Millions Impacted Across Several US Healthcare Data Breaches</title>
-      <link>https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/</link>
-      <description>&amp;lt;p&amp;gt;Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/&amp;quot;&amp;gt;Millions Impacted Across Several US Healthcare Data Breaches&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 18 May 2026 12:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>healthcare</category>
     </item>
     <item>
       <title>Boulevard of Broken Dreams: 2 Decades of Cyber Fails</title>
@@ -1115,70 +1198,6 @@ The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of mis
       <description>AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs</description>
       <pubDate>Thu, 14 May 2026 17:00:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How Dangerous Is Anthropic’s Mythos AI?</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html</link>
-      <description>&amp;lt;p&amp;gt;Last month, Anthropic made a remarkable &amp;lt;a href=&amp;quot;https://red.anthropic.com/2026/mythos-preview/&amp;quot;&amp;gt;announcement&amp;lt;/a&amp;gt; about its new model, Claude Mythos Preview: it was so good at finding security vulnerabilities in software that the company would not release it to the general public. Instead, it would only be available to a &amp;lt;a href=&amp;quot;https://www.anthropic.com/glasswing&amp;quot;&amp;gt;select group&amp;lt;/a&amp;gt; of companies to scan and fix their own software.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The announcement requires context&amp;amp;#8212;but it contained an essential truth.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;While Anthropic&amp;amp;#8217;s model is really good at finding software vulnerabilities, so are other models. The UK&amp;amp;#8217;s AI Security Institute &amp;lt;a href=&amp;quot;https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities&amp;quot;&amp;gt;found&amp;lt;/a&amp;gt; that OpenAI&amp;amp;#8217;s GPT-5.5, already generally available, is comparable in capability. The company Aisle ...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 14 May 2026 11:04:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>hacking</category>
-      <category>laws</category>
-      <category>LLM</category>
-      <category>patching</category>
-      <category>regulation</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation</title>
-      <link>https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html</link>
-      <description>An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON).
-The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse</description>
-      <pubDate>Thu, 14 May 2026 14:55:50 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Most Organizations Now Use AI Agents for Sensitive Security Tasks</title>
-      <link>https://www.infosecurity-magazine.com/news/most-organizations-ai-agents/</link>
-      <description>Semperis study finds 74% of organizations believe AI will increase attacks on identity infrastructure</description>
-      <pubDate>Thu, 14 May 2026 09:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/most-organizations-ai-agents/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ICO Publishes Five-Step Plan to Counter Emerging AI-Powered Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-steps-in-advice-handling-ai/</link>
-      <description>The Information Commissioner’s Office has released new guidance on how to mitigate the risk of AI-powered attacks</description>
-      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ico-steps-in-advice-handling-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>FrostyNeighbor: Fresh mischief and digital shenanigans</title>
-      <link>https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/</link>
-      <description>ESET researchers uncovered new activities attributed to FrostyNeighbor, updating its compromise chain to support the group’s continual cyberespionage operations</description>
-      <pubDate>Thu, 14 May 2026 08:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>ESET research</category>
-    </item>
-    <item>
-      <title>New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption</title>
-      <link>https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html</link>
-      <description>Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks.
-Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel&amp;apos;s XFRM</description>
-      <pubDate>Thu, 14 May 2026 12:36:15 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
