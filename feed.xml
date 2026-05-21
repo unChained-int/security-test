@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 21 May 2026 15:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:52:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,46 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude</title>
+      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and</link>
+      <description/>
+      <pubDate>Thu, 21 May 2026 16:34:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-integrates-claude-compliance-api-extend-data-security-and</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
+      <title>macOS Kernel Memory Corruption Exploit</title>
+      <link>https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html</link>
+      <description>&amp;lt;p&amp;gt;A group used Anthropic&amp;amp;#8217;s Mythos AI model to &amp;lt;a href=&amp;quot;https://blog.calif.io/p/first-public-kernel-memory-corruption&amp;quot;&amp;gt;help find&amp;lt;/a&amp;gt; a kernel memory corruption vulnerability and exploit on Apple&amp;amp;#8217;s M5.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;News &amp;lt;a href=&amp;quot;https://9to5mac.com/2026/05/14/calif-team-details-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days/&amp;quot;&amp;gt;article&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 16:03:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>Apple</category>
+      <category>exploits</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>AI Agents Are Shifting Identity Security Budget Dynamics</title>
+      <link>https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents</link>
+      <description>AI agent projects are proliferating throughout the enterprise, and those AI agent identities require management, security, and governance. New Omdia research shows the AI agent identity budget dynamics are very different than traditional IAM projects.</description>
+      <pubDate>Thu, 21 May 2026 15:43:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents</guid>
+      <dc:creator>Todd Thiemann</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cybercriminal VPN Dismantled in Europol Crackdown</title>
+      <link>https://www.infosecurity-magazine.com/news/first-vpn-takedown-europol/</link>
+      <description>First VPN, a service used by ransomware actors and fraudsters, was dismantled by Europol</description>
+      <pubDate>Thu, 21 May 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/first-vpn-takedown-europol/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>GitHub Breach Traced to Malicious &amp;apos;Nx Console&amp;apos; VS Code Extension</title>
@@ -1088,40 +1128,6 @@ Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, C
 &amp;quot;External control of a file name</description>
       <pubDate>Mon, 18 May 2026 16:24:05 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>NCSC Publishes Guidance on Securing Agentic AI Use</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/</link>
-      <description>The UK’s National Cyber Security Centre is helping organizations to understand agentic AI security risks</description>
-      <pubDate>Mon, 18 May 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Security Researchers Find 47 Zero-Days at Pwn2Own Berlin</title>
-      <link>https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/</link>
-      <description>The research community was awarded $1.3m as it found dozens of novel vulnerabilities at Pwn2Own Berlin</description>
-      <pubDate>Mon, 18 May 2026 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Bank of England, FCA and Treasury Raise Alarm Over Frontier AI</title>
-      <link>https://www.infosecurity-magazine.com/news/bank-england-fca-treasury-alarm/</link>
-      <description>The UK’s financial authorities have set expectations for the sector on cybersecurity and operational resilience</description>
-      <pubDate>Mon, 18 May 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bank-england-fca-treasury-alarm/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems</title>
-      <link>https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html</link>
-      <description>Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.
-Codenamed MiniPlasma, the vulnerability impacts &amp;quot;cldflt.sys,&amp;quot; which refers to the Windows Cloud Files Mini Filter Driver,</description>
-      <pubDate>Mon, 18 May 2026 14:27:34 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
