@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 21 May 2026 09:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:23:22 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,183 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>GitHub Breach Traced to Malicious &amp;apos;Nx Console&amp;apos; VS Code Extension</title>
+      <link>https://www.infosecurity-magazine.com/news/github-breach-nx-console-vs-code/</link>
+      <description>A threat actor compromised an Nx developer and posed as a legitimate maintainer to publish a malicious extension on Visual Studio Marketplace</description>
+      <pubDate>Thu, 21 May 2026 14:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/github-breach-nx-console-vs-code/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor</title>
+      <link>https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022.
+
+&amp;quot;Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,&amp;quot; Lumen</description>
+      <pubDate>Thu, 21 May 2026 19:47:09 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks</title>
+      <link>https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks</link>
+      <description>&amp;amp;quot;Showboat&amp;amp;quot; doesn&amp;apos;t show off, but clearly it doesn&amp;apos;t need to, as it&amp;apos;s long helped China spy on small market communications providers.</description>
+      <pubDate>Thu, 21 May 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Content Delivery Exploit Opens Websites to Brand Hijacking</title>
+      <link>https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking</link>
+      <description>The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.</description>
+      <pubDate>Thu, 21 May 2026 13:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Three-Quarters of Firms Knowingly Ship Vulnerable Code</title>
+      <link>https://www.infosecurity-magazine.com/news/threequarters-knowingly-ship/</link>
+      <description>AI risks threaten to permeate supply chains through unvetted code and unaudited suppliers</description>
+      <pubDate>Thu, 21 May 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/threequarters-knowingly-ship/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Cisco Patches Critical Vulnerability in Secure Workload</title>
+      <link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/</link>
+      <description>&amp;lt;p&amp;gt;Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/&amp;quot;&amp;gt;Cisco Patches Critical Vulnerability in Secure Workload&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 12:04:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Cisco</category>
+      <category>Patch</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes</title>
+      <link>https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/</link>
+      <description>Qualys finds nine-year-old Linux ptrace flaw exposing SSH keys and password hashes locally</description>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories</title>
+      <link>https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html</link>
+      <description>This week starts small.
+
+A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust.
+
+That is what makes it worrying. The danger is in normal things now - updates, apps, cloud buttons, support chats, trusted accounts. AI</description>
+      <pubDate>Thu, 21 May 2026 17:22:14 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ocean Emerges From Stealth With $28M for Agentic Email Security Platform</title>
+      <link>https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/</link>
+      <description>&amp;lt;p&amp;gt;The company has developed a platform that uses specialized AI agents to inspect every incoming message.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/&amp;quot;&amp;gt;Ocean Emerges From Stealth With $28M for Agentic Email Security Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 11:45:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>Email Security</category>
+      <category>email security</category>
+      <category>funding</category>
+      <category>Ocean</category>
+    </item>
+    <item>
+      <title>Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</title>
+      <link>https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/</link>
+      <description>&amp;lt;p&amp;gt;The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/&amp;quot;&amp;gt;Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 11:17:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Application Security</category>
+      <category>Apple</category>
+      <category>Apple App Store</category>
+      <category>fraud</category>
+    </item>
+    <item>
+      <title>Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</title>
+      <link>https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/</link>
+      <description>&amp;lt;p&amp;gt;CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/&amp;quot;&amp;gt;Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 10:58:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Drupal</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Microsoft Warns of Two Actively Exploited Defender Vulnerabilities</title>
+      <link>https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html</link>
+      <description>Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.
+
+The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges.
+
+&amp;quot;Improper link resolution before file access (&amp;apos;link following&amp;apos;) in Microsoft Defender</description>
+      <pubDate>Thu, 21 May 2026 16:25:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Socket Raises $60 Million at $1 Billion Valuation</title>
+      <link>https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/</link>
+      <description>&amp;lt;p&amp;gt;The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/&amp;quot;&amp;gt;Socket Raises $60 Million at $1 Billion Valuation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 10:32:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>Supply Chain Security</category>
+      <category>funding</category>
+      <category>Socket</category>
+      <category>Supply Chain</category>
+    </item>
+    <item>
+      <title>When Identity is the Attack Path</title>
+      <link>https://thehackernews.com/2026/05/when-identity-is-attack-path.html</link>
+      <description>Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company&amp;apos;s cloud</description>
+      <pubDate>Thu, 21 May 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/when-identity-is-attack-path.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</title>
+      <link>https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/</link>
+      <description>&amp;lt;p&amp;gt;The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/&amp;quot;&amp;gt;Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 09:52:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>Microsoft</category>
+      <category>Microsoft Defender</category>
+      <category>RedSun</category>
+      <category>UnDefend</category>
+      <category>Zero-Day</category>
     </item>
     <item>
       <title>Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</title>
@@ -98,6 +275,29 @@ The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Microsoft Disrupts Malware-Signing Service Used by Ransomware Gangs</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-fox-tempest-malware-signing-service/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft disrupted Fox Tempest, a malware-signing service accused of abusing Azure certificates to disguise ransomware and malware as trusted software.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-fox-tempest-malware-signing-service/&amp;quot;&amp;gt;Microsoft Disrupts Malware-Signing Service Used by Ransomware Gangs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 20 May 2026 21:01:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-fox-tempest-malware-signing-service/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>azure artifact signing</category>
+      <category>code signing</category>
+      <category>cybersecurity</category>
+      <category>fox tempest</category>
+      <category>malware</category>
+      <category>ransomware</category>
+      <category>threat intelligence</category>
+    </item>
+    <item>
       <title>Cyber Pros Can&amp;apos;t Decide If AI Is a Good or a Bad Thing</title>
       <link>https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai</link>
       <description>There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.</description>
@@ -109,14 +309,14 @@ The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out
     <item>
       <title>GitHub Confirms Breach, 4K Internal Repos Stolen</title>
       <link>https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen</link>
-      <description>Open source software giant GitHub confirmed a data breach this week involving the theft of thousands of repos. One threat actor — TeamPCP — took credit.</description>
+      <description>GitHub confirmed a data breach this week involving the theft of thousands of developer code repositories. One threat actor — TeamPCP — took credit.</description>
       <pubDate>Wed, 20 May 2026 20:51:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.</title>
+      <title>Fake Android Apps Commit Carrier Billing Fraud for Premium Services</title>
       <link>https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud</link>
       <description>The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.</description>
       <pubDate>Wed, 20 May 2026 20:35:35 +0000</pubDate>
@@ -223,18 +423,6 @@ RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Team
       <category>krebs on security</category>
     </item>
     <item>
-      <title>AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop</title>
-      <link>https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/</link>
-      <description>&amp;lt;p&amp;gt;Digital.ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/&amp;quot;&amp;gt;AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 20 May 2026 14:37:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Application Security</category>
-      <category>Artificial Intelligence</category>
-    </item>
-    <item>
       <title>Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks</title>
       <link>https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html</link>
       <description>Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company&amp;apos;s Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world.
@@ -258,36 +446,6 @@ The tech giant attributed the activity to a threat actor it calls Fox Tempest, w
       <category>AI</category>
       <category>cybersecurity</category>
       <category>reports</category>
-    </item>
-    <item>
-      <title>1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials</title>
-      <link>https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/</link>
-      <description>&amp;lt;p&amp;gt;1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/&amp;quot;&amp;gt;1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 20 May 2026 13:34:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>1Password</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
-      <title>Anthropic Silently Patches Claude Code Sandbox Bypass</title>
-      <link>https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/</link>
-      <description>&amp;lt;p&amp;gt;The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/&amp;quot;&amp;gt;Anthropic Silently Patches Claude Code Sandbox Bypass&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Claude Code</category>
-      <category>Featured</category>
-      <category>sandbox</category>
-      <category>sandbox escape</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API</title>
@@ -347,33 +505,6 @@ On May 19th, 2026, Orchid Security released the results of our Identity Gap: Sna
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</title>
-      <link>https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/</link>
-      <description>&amp;lt;p&amp;gt;A compromised maintainer account was used to publish malicious package versions across the @antv namespace.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/&amp;quot;&amp;gt;Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 20 May 2026 11:06:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Supply Chain Security</category>
-      <category>Mini Shai-Hulud</category>
-      <category>supply chain attack</category>
-      <category>TeamPCP</category>
-    </item>
-    <item>
-      <title>Caught Off Guard: Securing AI After It Hits Production</title>
-      <link>https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/</link>
-      <description>&amp;lt;p&amp;gt;As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/&amp;quot;&amp;gt;Caught Off Guard: Securing AI After It Hits Production&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 20 May 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/</guid>
-      <dc:creator>Joshua Goldfarb</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-    </item>
-    <item>
       <title>GitHub Confirms Breach of Internal Repositories Via Malicious VS Code Extension</title>
       <link>https://www.infosecurity-magazine.com/news/github-confirms-breach-vs-code/</link>
       <description>The prolific threat group TeamPCP has claimed a hack into GitHub’s internal repositories</description>
@@ -396,20 +527,6 @@ TL;DR&amp;amp;nbsp;
       <guid isPermaLink="true">https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Real-World ICS Security Tales From the Trenches</title>
-      <link>https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/</link>
-      <description>&amp;lt;p&amp;gt;SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/&amp;quot;&amp;gt;Real-World ICS Security Tales From the Trenches&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 20 May 2026 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>Featured</category>
-      <category>ICS</category>
-      <category>OT</category>
     </item>
     <item>
       <title>Researchers Warn CypherLoc Scareware Has Targeted Millions of Users</title>
@@ -1007,156 +1124,6 @@ Codenamed MiniPlasma, the vulnerability impacts &amp;quot;cldflt.sys,&amp;quot; 
       <guid isPermaLink="true">https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware</title>
-      <link>https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html</link>
-      <description>Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.
-The list of identified packages is below -
-
-chalk-tempalte (825 Downloads)
-@deadcode09284814/axios-util (284 Downloads)
-axois-utils (963 Downloads)
-color-style-utils (934 Downloads)
-
-&amp;quot;One of the packages (chalk-tempalte)</description>
-      <pubDate>Mon, 18 May 2026 14:27:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations</title>
-      <link>https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html</link>
-      <description>A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.
-According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design.
-&amp;quot;Fast16&amp;apos;s hook engine is selectively interested in</description>
-      <pubDate>Mon, 18 May 2026 12:16:37 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Can Laws Stop Deepfakes? South Korea Aims to Find Out</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea</link>
-      <description>South Korea&amp;apos;s local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.</description>
-      <pubDate>Mon, 18 May 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE</title>
-      <link>https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</link>
-      <description>A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.
-The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the</description>
-      <pubDate>Sun, 17 May 2026 17:27:53 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt</title>
-      <link>https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html</link>
-      <description>Grafana has disclosed that an &amp;quot;unauthorized party&amp;quot; obtained a token that granted them the ability to access the company&amp;apos;s GitHub environment and download its codebase.
-
-
-  &amp;quot;Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,&amp;quot; Grafana
-  said
-  in a series of</description>
-      <pubDate>Sun, 17 May 2026 12:43:33 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming</title>
-      <link>https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html</link>
-      <description>A critical security vulnerability impacting the
-  Funnel Builder
-  plugin for WordPress has come under active exploitation in the wild to
-  inject malicious JavaScript code
-  into WooCommerce checkout pages with the goal of stealing payment data.
-
-
-
-  Details of the activity were
-  published
-  by Sansec this week. The vulnerability currently does not have an official CVE identifier. It</description>
-      <pubDate>Sat, 16 May 2026 20:50:48 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Bigfin Squid</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.sciencefocus.com/nature/bigfin-squid&amp;quot;&amp;gt;Article&amp;lt;/a&amp;gt; about the bigfin squid.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 16 May 2026 01:03:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>squid</category>
-    </item>
-    <item>
-      <title>Congress Puts Heat on Instructure After Canvas Outage</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</link>
-      <description>The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &amp;amp;quot;agreement&amp;amp;quot; with the ShinyHunters cybercriminals.</description>
-      <pubDate>Fri, 15 May 2026 20:19:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More</title>
-      <link>https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/</link>
-      <description>&amp;lt;p&amp;gt;This vibe coding cheat sheet explains how plain-language prompts can build apps fast, plus the planning, testing, and security checks needed.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/&amp;quot;&amp;gt;Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 15 May 2026 19:32:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai agents</category>
-      <category>ai app builders</category>
-      <category>ai coding</category>
-      <category>ai tools</category>
-      <category>cybersecurity</category>
-      <category>prompt engineering</category>
-      <category>software development</category>
-      <category>vibe coding</category>
-    </item>
-    <item>
-      <title>New Windows Update May Undo Bad Driver Updates on Its Own</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-windows-driver-recovery-update/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft is testing Cloud-Initiated Driver Recovery, a Windows Update feature designed to roll back bad drivers with less manual IT work.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-windows-driver-recovery-update/&amp;quot;&amp;gt;New Windows Update May Undo Bad Driver Updates on Its Own&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 15 May 2026 17:41:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-windows-driver-recovery-update/</guid>
-      <dc:creator>Esther Shein</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Software</category>
-      <category>Windows</category>
-      <category>cloud-initiated driver recovery</category>
-      <category>device management</category>
-      <category>driver updates</category>
-      <category>Endpoint Management</category>
-      <category>it admins</category>
-      <category>Windows 11</category>
-      <category>windows update</category>
     </item>
   </channel>
 </rss>
