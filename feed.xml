@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 22 May 2026 14:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:43:15 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -22,6 +22,75 @@
       <description/>
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups</title>
+      <link>https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</link>
+      <description>Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.
+
+The disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the investigation since December</description>
+      <pubDate>Fri, 22 May 2026 23:05:02 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</title>
+      <link>https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/</link>
+      <description>&amp;lt;p&amp;gt;Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/&amp;quot;&amp;gt;Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 22 May 2026 17:15:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Drupal</category>
+      <category>exploited</category>
+      <category>Featured</category>
+    </item>
+    <item>
+      <title>Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
+      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.</description>
+      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Data Breaches</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Adam Boileau</category>
+      <category>CISA</category>
+      <category>Dylan Ayrey</category>
+      <category>GitHub</category>
+      <category>James Wilson</category>
+      <category>Nick Andersen</category>
+      <category>Rep. Bennie Thompson</category>
+      <category>Risky Business</category>
+      <category>Sen. Maggie Hassan</category>
+      <category>TruffleHog</category>
+      <category>U.S. Cybersecurity &amp;amp; Infrastructure Security Agency</category>
+    </item>
+    <item>
+      <title>Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware</title>
+      <link>https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</link>
+      <description>The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine&amp;apos;s National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.
+
+The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government</description>
+      <pubDate>Fri, 22 May 2026 21:50:32 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers</title>
+      <link>https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers</link>
+      <description>When Akamai announced its LayerX acquisition, the company joined a growing list of vendors adding secure enterprise browsers to their product portfolios.</description>
+      <pubDate>Fri, 22 May 2026 15:43:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -428,7 +497,6 @@ That is what makes it worrying. The danger is in normal things now - updates, ap
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Vulnerabilities</category>
       <category>Drupal</category>
-      <category>Featured</category>
       <category>vulnerability</category>
     </item>
     <item>
@@ -443,21 +511,6 @@ The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. 
       <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Socket Raises $60 Million at $1 Billion Valuation</title>
-      <link>https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/</link>
-      <description>&amp;lt;p&amp;gt;The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/&amp;quot;&amp;gt;Socket Raises $60 Million at $1 Billion Valuation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 21 May 2026 10:32:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybersecurity Funding</category>
-      <category>Supply Chain Security</category>
-      <category>funding</category>
-      <category>Socket</category>
-      <category>Supply Chain</category>
     </item>
     <item>
       <title>When Identity is the Attack Path</title>
@@ -1100,54 +1153,6 @@ The extension in question is rwl.angular-console (version 18.95.0), a popular us
       <pubDate>Mon, 18 May 2026 22:43:11 +0000</pubDate>
       <guid isPermaLink="true">https://origin.upguard.com/blog/what-is-cvss</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Is 2026 the Year AI Bills of Materials Get Real?</title>
-      <link>https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real</link>
-      <description>Understanding AI BOMs and where they fit into risk management for artificial intelligence.</description>
-      <pubDate>Mon, 18 May 2026 21:44:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real</guid>
-      <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Exchange Zero-Day Under Attack, No Patch Available</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch</link>
-      <description>CVE-2026-42897 stems from a cross-site scripting (XSS) vulnerability and can allow an attacker to compromise Outlook Web Access (OWA) mailboxes.</description>
-      <pubDate>Mon, 18 May 2026 21:43:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>&amp;apos;Claw Chain&amp;apos; Vulnerabilities Threaten OpenClaw Deployments</title>
-      <link>https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw</link>
-      <description>The now-patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.</description>
-      <pubDate>Mon, 18 May 2026 21:24:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CISA Admin Leaked AWS GovCloud Keys on Github</title>
-      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
-      <description>Until this past weekend, a contractor for the Cybersecurity &amp;amp;#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.</description>
-      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Data Breaches</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>AWS GovCloud</category>
-      <category>Cybersecurity &amp;amp; Infrastructure Security Agency</category>
-      <category>GitGuardian</category>
-      <category>GitHub</category>
-      <category>Guillaume Valadon</category>
-      <category>Nightwing</category>
-      <category>Philippe Caturegli</category>
-      <category>Seralys</category>
     </item>
   </channel>
 </rss>
