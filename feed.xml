@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 21 May 2026 19:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:35:23 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,70 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada</title>
+      <link>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</link>
+      <description>Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.</description>
+      <pubDate>Thu, 21 May 2026 21:50:25 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>DDoS-for-Hire</category>
+      <category>Internet of Things (IoT)</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Aisuru</category>
+      <category>Defense Criminal Investigative Service</category>
+      <category>Department of Defense</category>
+      <category>Dort</category>
+      <category>JackSkid</category>
+      <category>Jacob Butler</category>
+      <category>Kimwolf</category>
+      <category>Mossad</category>
+      <category>Ontario Provincial Police</category>
+    </item>
+    <item>
+      <title>How CISOs Should Prep for Agentic-Ready AI BOMs</title>
+      <link>https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms</link>
+      <description>Finding ways to document both component and execution attributes for AI bill of materials (AI BOM).</description>
+      <pubDate>Thu, 21 May 2026 21:11:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms</guid>
+      <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google API Keys Remain Active After Deletion</title>
+      <link>https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion</link>
+      <description>A security researcher discovered the API keys can still be used for 23 minutes after deletion, even though the cloud provider claims deletion is immediate.</description>
+      <pubDate>Thu, 21 May 2026 20:07:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Verizon Report Reveals the Security Gap Attackers Are Exploiting Most</title>
+      <link>https://www.techrepublic.com/article/news-verizon-dbir-vulnerability-exploitation-2026/</link>
+      <description>&amp;lt;p&amp;gt;Verizon’s 2026 DBIR shows vulnerability exploitation, AI-enabled attacks, third-party risk, and ransomware are reshaping cyber threats.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-verizon-dbir-vulnerability-exploitation-2026/&amp;quot;&amp;gt;New Verizon Report Reveals the Security Gap Attackers Are Exploiting Most&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 21 May 2026 19:45:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-verizon-dbir-vulnerability-exploitation-2026/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>data breaches</category>
+      <category>generative ai</category>
+      <category>patch management</category>
+      <category>ransomware</category>
+      <category>third party risk</category>
+      <category>verizon dbir</category>
+      <category>vulnerability management</category>
     </item>
     <item>
       <title>Proofpoint Integrates with the Claude Compliance API to Extend Data Security and Governance to Claude</title>
@@ -662,7 +726,7 @@ It said the scope of the incident is limited to the Grafana Labs GitHub environm
     <item>
       <title>What Will Make AI BOMs Real?</title>
       <link>https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real</link>
-      <description>A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).</description>
+      <description>A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOM).</description>
       <pubDate>Tue, 19 May 2026 22:17:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real</guid>
       <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
@@ -1086,50 +1150,6 @@ Early phishing detection closes that gap. It helps teams move from uncertainty t
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt</guid>
       <dc:creator>Shlomie Liberow</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Boulevard of Broken Dreams: 2 Decades of Cyber Fails</title>
-      <link>https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails</link>
-      <description>From the MGM and Caesars fiasco and MOVEit&amp;apos;s patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations, systemic failures, and cringeworthy moments that still have us shaking our heads.</description>
-      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails</guid>
-      <dc:creator>Dark Reading Editorial Team</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Developer Workstations Are Now Part of the Software Supply Chain</title>
-      <link>https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html</link>
-      <description>Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is</description>
-      <pubDate>Mon, 18 May 2026 16:53:41 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Zero-Day Exploit Against Windows BitLocker</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html</link>
-      <description>&amp;lt;p&amp;gt;It&amp;amp;#8217;s &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/&amp;quot;&amp;gt;nasty&amp;lt;/a&amp;gt;, but it requires physical access to the computer:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The exploit, named YellowKey, was &amp;lt;a href=&amp;quot;https://github.com/Nightmare-Eclipse/YellowKey&amp;quot;&amp;gt;published&amp;lt;/a&amp;gt; earlier this week by a researcher who goes by the alias Nightmare-Eclipse. It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption protection Microsoft provides to make disk contents off-limits to anyone without the decryption key, which is stored in a secured piece of hardware known as a trusted platform module (TPM). BitLocker is a mandatory protection for many organizations, including those that contract with governments...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 18 May 2026 11:08:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>BitLocker</category>
-      <category>exploits</category>
-      <category>Windows</category>
-      <category>zero-day</category>
-    </item>
-    <item>
-      <title>Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws</title>
-      <link>https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html</link>
-      <description>Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.
-Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.
-&amp;quot;External control of a file name</description>
-      <pubDate>Mon, 18 May 2026 16:24:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
