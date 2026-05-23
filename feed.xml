@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 23 May 2026 08:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:23:12 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,51 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software</title>
+      <link>https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html</link>
+      <description>Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most &amp;quot;systemically&amp;quot; important software across the world since the cybersecurity initiative went live last month.
+
+Project Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners</description>
+      <pubDate>Sat, 23 May 2026 17:25:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</title>
+      <link>https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/</link>
+      <description>&amp;lt;p&amp;gt;The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/&amp;quot;&amp;gt;‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 23 May 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Network Security</category>
+      <category>CDN</category>
+      <category>DNS</category>
+      <category>Featured</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer</title>
+      <link>https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html</link>
+      <description>Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.
+
+The affected packages include -
+
+
+  laravel-lang/lang
+  laravel-lang/http-statuses
+  laravel-lang/attributes
+  laravel-lang/actions
+
+&amp;quot;The timing and pattern of the newly published tags</description>
+      <pubDate>Sat, 23 May 2026 15:21:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root</title>
@@ -600,19 +645,6 @@ That is what makes it worrying. The danger is in normal things now - updates, ap
       <category>Apple</category>
       <category>Apple App Store</category>
       <category>fraud</category>
-    </item>
-    <item>
-      <title>Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</title>
-      <link>https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/</link>
-      <description>&amp;lt;p&amp;gt;CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/&amp;quot;&amp;gt;Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 21 May 2026 10:58:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Drupal</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Microsoft Warns of Two Actively Exploited Defender Vulnerabilities</title>
@@ -1194,23 +1226,6 @@ The targets of the platform received a message asking them to enter a short code
       <guid isPermaLink="true">https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Grafana Labs Confirms Hackers Stole Source Code</title>
-      <link>https://www.infosecurity-magazine.com/news/grafana-labs-confirms-hackers/</link>
-      <description>Open source tool maker Grafana says hackers stole codebase via GitHub breach</description>
-      <pubDate>Tue, 19 May 2026 09:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/grafana-labs-confirms-hackers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The quest for greater tech independence</title>
-      <link>https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/</link>
-      <description>A complete decoupling from US technology is neither realistic nor necessary, but the changing environment does require nations and companies to reassess their relationships and dependencies</description>
-      <pubDate>Tue, 19 May 2026 08:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Digital Security</category>
     </item>
   </channel>
 </rss>
