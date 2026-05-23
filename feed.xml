@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 23 May 2026 02:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 08:18:52 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,6 +25,32 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root</title>
+      <link>https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html</link>
+      <description>A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.
+
+The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions.
+
+&amp;quot;Any cPanel user (including an attacker or a compromised account) may</description>
+      <pubDate>Sat, 23 May 2026 13:05:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV</title>
+      <link>https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+
+The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core.
+
+&amp;quot;Drupal Core</description>
+      <pubDate>Sat, 23 May 2026 12:53:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Friday Squid Blogging: Regulating Squid Fishing in the South Pacific</title>
       <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html</link>
       <description>&amp;lt;p&amp;gt;The South Pacific Regional Fisheries Management Organization (SPRFMO) needs to &amp;lt;a href=&amp;quot;https://goodmenproject.com/featured-content/the-squid-rush-in-the-south-pacific-is-forcing-regulators-to-act/&amp;quot;&amp;gt;regulate&amp;lt;/a&amp;gt; squid fishing in the South Pacific.&amp;lt;/p&amp;gt;
@@ -42,7 +68,7 @@
       <link>https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</link>
       <description>Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.
 
-The disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the investigation since December</description>
+Codenamed Operation Saffron, the  disruption  of First VPN Service was led by France and the Netherlands, with several other nations supporting the</description>
       <pubDate>Fri, 22 May 2026 23:05:02 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -89,9 +115,9 @@ The disruption of First VPN Service was led by France and the Netherlands, with 
     <item>
       <title>Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware</title>
       <link>https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</link>
-      <description>The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine&amp;apos;s National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.
+      <description>The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.
 
-The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government</description>
+The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It&amp;apos;s been</description>
       <pubDate>Fri, 22 May 2026 21:50:32 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -286,13 +312,20 @@ This article provides a technical analysis of how many Windows kernel mode drive
       <link>https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html</link>
       <description>The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.
 
-In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU.
-
-&amp;quot;Kimwolf</description>
+In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU that specifically</description>
       <pubDate>Fri, 22 May 2026 14:20:18 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Foul play: Fake FIFA websites target soccer fans looking for World Cup tickets, merchandise</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/foul-play-fake-fifa-world-cup-websites-tickets/</link>
+      <description>Watch out for bogus World Cup websites that mimic official ticket and merchandise flows to steal money and personal data</description>
+      <pubDate>Fri, 22 May 2026 08:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/foul-play-fake-fifa-world-cup-websites-tickets/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Digital Security</category>
     </item>
     <item>
       <title>TrendAI Patches Apex One Zero-Day Exploited in the Wild</title>
@@ -1178,36 +1211,6 @@ The targets of the platform received a message asking them to enter a short code
       <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Digital Security</category>
-    </item>
-    <item>
-      <title>Hackers Bypass Security Tools to Target Users Directly</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-bypass-security-tools/</link>
-      <description>Bridewell report calls out emergence of “fix-style” attacks</description>
-      <pubDate>Tue, 19 May 2026 08:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-bypass-security-tools/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer</title>
-      <link>https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html</link>
-      <description>Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.
-
-The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open</description>
-      <pubDate>Tue, 19 May 2026 13:19:23 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials</title>
-      <link>https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html</link>
-      <description>In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server.
-
-&amp;quot;Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action&amp;apos;s normal commit history,</description>
-      <pubDate>Tue, 19 May 2026 10:58:06 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
