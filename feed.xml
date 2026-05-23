@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 23 May 2026 13:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 19:08:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,11 +25,33 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks</title>
+      <link>https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html</link>
+      <description>GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.
+
+Called staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve</description>
+      <pubDate>Sat, 23 May 2026 22:05:10 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware</title>
+      <link>https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html</link>
+      <description>A new &amp;quot;coordinated&amp;quot; supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.
+
+&amp;quot;Although the affected packages were all Composer packages, the malicious code was not added to composer.json,&amp;quot; Socket said. &amp;quot;Instead, it was inserted into package.json, targeting projects that ship JavaScript</description>
+      <pubDate>Sat, 23 May 2026 21:37:51 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software</title>
       <link>https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html</link>
       <description>Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most &amp;quot;systemically&amp;quot; important software across the world since the cybersecurity initiative went live last month.
 
-Project Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners</description>
+ Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software</description>
       <pubDate>Sat, 23 May 2026 17:25:35 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1203,29 +1225,6 @@ The targets of the platform received a message asking them to enter a short code
       <category>Uncategorized</category>
       <category>music</category>
       <category>Schneier news</category>
-    </item>
-    <item>
-      <title>Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare</title>
-      <link>https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html</link>
-      <description>Drupal has issued an alert stating that it intends to release a &amp;quot;core security release&amp;quot; for all supported branches on May 20, 2026, from 5-9 p.m. UTC.
-
-&amp;quot;The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hours or days,&amp;quot; the maintainers of the PHP-based content management system (CMS) said.
-
-&amp;quot;Not all configurations are</description>
-      <pubDate>Tue, 19 May 2026 16:14:45 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access</title>
-      <link>https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html</link>
-      <description>Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance.
-&amp;quot;These vulnerabilities could have been exploited to read all mail traffic or as an entry vector into the internal network,&amp;quot;</description>
-      <pubDate>Tue, 19 May 2026 14:53:15 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
