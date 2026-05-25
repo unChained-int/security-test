@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 25 May 2026 14:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:38:08 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,19 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos</title>
+      <link>https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html</link>
+      <description>Monday recap. Same mess, new week.
+
+A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should&amp;apos;ve patched years ago. Good times.
+
+Phishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually</description>
+      <pubDate>Mon, 25 May 2026 19:43:27 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</title>
@@ -1210,14 +1223,6 @@ The activity, per HUMAN&amp;apos;s Satori Threat Intelligence and Research Team,
       <guid isPermaLink="true">https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Takes Down Fox Tempest for Providing Ransomware-Enabling Signing Tool</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-takes-down-fox-tempest/</link>
-      <description>Microsoft’s Digital Crimes Unit has taken down the infrastructure of Fox Tempest, a prolific cybercrime-enabling threat group</description>
-      <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-takes-down-fox-tempest/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
