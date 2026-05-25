@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 25 May 2026 10:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:52:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,6 +25,121 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</title>
+      <link>https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/</link>
+      <description>&amp;lt;p&amp;gt;Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/&amp;quot;&amp;gt;Ghost CMS Vulnerability Exploited to Hack Over 700 Websites&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 25 May 2026 13:27:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CMS</category>
+      <category>exploited</category>
+      <category>Ghost</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</title>
+      <link>https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</link>
+      <description>Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia&amp;apos;s intelligence agencies.</description>
+      <pubDate>Mon, 25 May 2026 13:21:49 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Russia&amp;apos;s War on Ukraine</category>
+      <category>Andrey Nesterenko</category>
+      <category>de Volkskrant</category>
+      <category>FIOD</category>
+      <category>Innovation IT Solutions Corp</category>
+      <category>Ivan Neculiti</category>
+      <category>MIRhosting</category>
+      <category>PQHosting</category>
+      <category>Stark Industries Solutions</category>
+      <category>WorkTitans BV</category>
+      <category>Youssef Zinad</category>
+      <category>Yuri Neculiti</category>
+    </item>
+    <item>
+      <title>Oncology Institute Discloses Data Breach</title>
+      <link>https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/</link>
+      <description>&amp;lt;p&amp;gt;The affected third-party vendor has not been named, but one possible candidate is TriZetto.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/&amp;quot;&amp;gt;Oncology Institute Discloses Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 25 May 2026 12:17:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+      <category>The Oncology Institute</category>
+    </item>
+    <item>
+      <title>Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks</title>
+      <link>https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html</link>
+      <description>Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks.
+
+According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost&amp;apos;s Content API that could allow an unauthenticated attacker to read arbitrary data from the</description>
+      <pubDate>Mon, 25 May 2026 17:32:46 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The Alert Firehose Finally Meets Its Match</title>
+      <link>https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html</link>
+      <description>Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear &amp;quot;Noisy,&amp;quot; &amp;quot;Too much data.&amp;quot; But ask the teams running NDR that includes agentic AI capabilities and you&amp;apos;ll hear they&amp;apos;re actually using it to catch threats earlier, triage faster, and chase fewer false positives. The old complaint lingers in part because reputations are sticky, and because NDR has evolved</description>
+      <pubDate>Mon, 25 May 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>266,000 Affected by Data Breach at Radiology Associates of Richmond</title>
+      <link>https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/</link>
+      <description>&amp;lt;p&amp;gt;Threat actors stole files containing names and protected health information from the healthcare organization’s systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/&amp;quot;&amp;gt;266,000 Affected by Data Breach at Radiology Associates of Richmond&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 25 May 2026 11:17:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+    </item>
+    <item>
+      <title>Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</title>
+      <link>https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/</link>
+      <description>&amp;lt;p&amp;gt;Many findings have been confirmed to be critical or high-severity vulnerabilities and the number will continue to increase. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/&amp;quot;&amp;gt;Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 25 May 2026 10:58:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>Featured</category>
+      <category>Mythos</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Laravel-Lang Packages Poisoned for Malware Delivery</title>
+      <link>https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/</link>
+      <description>&amp;lt;p&amp;gt;Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/&amp;quot;&amp;gt;Laravel-Lang Packages Poisoned for Malware Delivery&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 25 May 2026 10:41:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Supply Chain Security</category>
+      <category>Laravel</category>
+      <category>Laravel-Lang</category>
+      <category>malware</category>
+      <category>supply chain attack</category>
+    </item>
+    <item>
       <title>DocketWise Data Breach Impacts 143,000</title>
       <link>https://www.securityweek.com/docketwise-data-breach-impacts-143000/</link>
       <description>&amp;lt;p&amp;gt;Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories.&amp;lt;/p&amp;gt;
@@ -36,6 +151,19 @@
       <category>Data Breaches</category>
       <category>data breach</category>
       <category>DocketWise</category>
+    </item>
+    <item>
+      <title>Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms</title>
+      <link>https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html</link>
+      <description>Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations.
+
+RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader.
+
+&amp;quot;DPAPILoader decrypts and</description>
+      <pubDate>Mon, 25 May 2026 15:02:54 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>FBI Warns &amp;apos;Kali365&amp;apos; Phishing Kit Hijacks Microsoft 365 OAuth Tokens</title>
@@ -362,21 +490,6 @@ The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), inv
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Canadian Man Arrested for Operating Kimwolf Botnet</title>
-      <link>https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/</link>
-      <description>&amp;lt;p&amp;gt;Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/&amp;quot;&amp;gt;Canadian Man Arrested for Operating Kimwolf Botnet&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 22 May 2026 12:11:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>arrested</category>
-      <category>botnet</category>
-      <category>hacker</category>
-      <category>Kimwolf</category>
-    </item>
-    <item>
       <title>Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows</title>
       <link>https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html</link>
       <description>Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window.
@@ -415,22 +528,6 @@ This article provides a technical analysis of how many Windows kernel mode drive
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested</title>
-      <link>https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/</link>
-      <description>&amp;lt;p&amp;gt;The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/&amp;quot;&amp;gt;&amp;amp;#8216;First VPN&amp;amp;#8217; Cybercrime Service Disrupted, Administrator Arrested&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 22 May 2026 09:24:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>cybercrime</category>
-      <category>First VPN</category>
-      <category>law enforcement</category>
-      <category>takedown</category>
-    </item>
-    <item>
       <title>Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks</title>
       <link>https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html</link>
       <description>The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.
@@ -449,40 +546,6 @@ In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with of
       <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/foul-play-fake-fifa-world-cup-websites-tickets/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Digital Security</category>
-    </item>
-    <item>
-      <title>TrendAI Patches Apex One Zero-Day Exploited in the Wild</title>
-      <link>https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/</link>
-      <description>&amp;lt;p&amp;gt;CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/&amp;quot;&amp;gt;TrendAI Patches Apex One Zero-Day Exploited in the Wild&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 22 May 2026 08:19:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Trend Micro</category>
-      <category>TrendAI</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
-    </item>
-    <item>
-      <title>Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack</title>
-      <link>https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/</link>
-      <description>&amp;lt;p&amp;gt;Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/&amp;quot;&amp;gt;Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 22 May 2026 07:49:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Supply Chain Security</category>
-      <category>Grafana</category>
-      <category>Mini Shai-Hulud</category>
-      <category>source code</category>
-      <category>supply chain attack</category>
-      <category>TanStack</category>
     </item>
     <item>
       <title>China&amp;apos;s Webworm Uses Discord, Microsoft Graphs to Hack EU Governments</title>
@@ -659,20 +722,6 @@ Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insu
       <pubDate>Thu, 21 May 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/threequarters-knowingly-ship/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cisco Patches Critical Vulnerability in Secure Workload</title>
-      <link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/</link>
-      <description>&amp;lt;p&amp;gt;Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/&amp;quot;&amp;gt;Cisco Patches Critical Vulnerability in Secure Workload&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 21 May 2026 12:04:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Cisco</category>
-      <category>Patch</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes</title>
@@ -1168,55 +1217,6 @@ The activity, per HUMAN&amp;apos;s Satori Threat Intelligence and Research Team,
       <description>Microsoft’s Digital Crimes Unit has taken down the infrastructure of Fox Tempest, a prolific cybercrime-enabling threat group</description>
       <pubDate>Tue, 19 May 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-takes-down-fox-tempest/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability</title>
-      <link>https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html</link>
-      <description>Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).
-Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 2026, only to be informed by the maintainers that it was a duplicate of a vulnerability that had</description>
-      <pubDate>Tue, 19 May 2026 20:26:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution</link>
-      <description>Dark Reading editors reflect on two decades of dramatic change — from perimeter defense to assume-breach strategies — and warn that while AI, cloud, and COVID-19 have transformed the threat landscape, organizations are still failing at fundamental security hygiene that could stop sophisticated attacks in their tracks.</description>
-      <pubDate>Tue, 19 May 2026 13:28:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution</guid>
-      <dc:creator>Dark Reading Editorial Team</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AdvancedHEALTH Ransomware Claim Includes 2.3M Patient Data Lines</title>
-      <link>https://www.techrepublic.com/article/news-advancedhealth-ransomware-patient-data-claim/</link>
-      <description>&amp;lt;p&amp;gt;DragonForce claims it stole 390GB from AdvancedHEALTH, including patient data and minors’ records, as breach notices and legal scrutiny begin.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-advancedhealth-ransomware-patient-data-claim/&amp;quot;&amp;gt;AdvancedHEALTH Ransomware Claim Includes 2.3M Patient Data Lines&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 19 May 2026 13:10:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-advancedhealth-ransomware-patient-data-claim/</guid>
-      <dc:creator>Liz Ticong</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>advancedhealth</category>
-      <category>class action</category>
-      <category>data breach</category>
-      <category>dragonforce</category>
-      <category>healthcare cybersecurity</category>
-      <category>medical records</category>
-      <category>patient data</category>
-      <category>ransomware</category>
-    </item>
-    <item>
-      <title>AI Raises the Bar on Vulnerability Awareness and Secure-by-Design Software</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-raises-vulnerability-awareness/</link>
-      <description>AI-powered vulnerability scanning leaves no excuse for unpatched bugs as the EU Cyber Resilience Act pushes firms toward secure-by-design software</description>
-      <pubDate>Tue, 19 May 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-raises-vulnerability-awareness/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
