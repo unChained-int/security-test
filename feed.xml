@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 26 May 2026 20:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:42:18 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,12 +25,30 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Feeding Frenzy: &amp;apos;Megalodon&amp;apos; Malware Infects Thousands of GitHub Repos</title>
+      <link>https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos</link>
+      <description>In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.</description>
+      <pubDate>Tue, 26 May 2026 19:47:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>The Hackers Behind Shai-Hulud: Lucky or Skilled?</title>
       <link>https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled</link>
       <description>TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it&amp;apos;s not necessarily due to skill alone.</description>
       <pubDate>Tue, 26 May 2026 19:18:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled</guid>
       <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Issues Out-of-Band SharePoint Patch</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch</link>
+      <description>SharePoint access often means access to the keys of the kingdom, something attackers and defenders understand all too well.</description>
+      <pubDate>Tue, 26 May 2026 18:25:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1217,22 +1235,6 @@ On May 19th, 2026, Orchid Security released the results of our Identity Gap: Sna
       <guid isPermaLink="true">https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>China-Linked Webworm APT Evolves Tactics, Expands to European Targets</title>
-      <link>https://www.infosecurity-magazine.com/news/webworm-apt-evolves-tactics/</link>
-      <description>China-linked Webworm APT expands beyond Asia, targeting European government organizations and refining its cyber espionage tactics, according to ESET research</description>
-      <pubDate>Wed, 20 May 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/webworm-apt-evolves-tactics/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>GitHub Confirms Breach of Internal Repositories Via Malicious VS Code Extension</title>
-      <link>https://www.infosecurity-magazine.com/news/github-confirms-breach-vs-code/</link>
-      <description>The prolific threat group TeamPCP has claimed a hack into GitHub’s internal repositories</description>
-      <pubDate>Wed, 20 May 2026 10:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/github-confirms-breach-vs-code/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
