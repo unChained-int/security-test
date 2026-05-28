@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 27 May 2026 20:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:31:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -22,6 +22,15 @@
       <description/>
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Ransomware Actors Show Up In Person to Steal Law Firm Data</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data</link>
+      <description>The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and socially engineering its way into servers and databases.</description>
+      <pubDate>Wed, 27 May 2026 20:38:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -350,7 +359,7 @@ The vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all vers
       <title>Practical MCP Security: A Playbook for Mid-Market Teams | UpGuard</title>
       <link>https://www.upguard.com/blog/mcp-security-playbook-for-mid-market-teams</link>
       <description>Move from zero to a defensible MCP security baseline in 90 days. Get a practical, phased playbook for lean teams to secure agentic AI infrastructure.</description>
-      <pubDate>Wed, 27 May 2026 08:00:02 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 08:00:05 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/mcp-security-playbook-for-mid-market-teams</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
@@ -1208,19 +1217,6 @@ Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insu
       <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories</title>
-      <link>https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html</link>
-      <description>This week starts small.
-
-A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust.
-
-That is what makes it worrying. The danger is in normal things now - updates, apps, cloud buttons, support chats, trusted accounts. AI</description>
-      <pubDate>Thu, 21 May 2026 17:22:14 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
