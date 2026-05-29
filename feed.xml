@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 29 May 2026 03:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:52:38 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,33 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit Iran War to Target Maritime and Energy Companies</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-hackers-exploit-iran-war/</link>
+      <description>ESET’s 2026 APT Activity Report suggests China-backed APTs are using instability in the region to target victims, as well as continuing activity against organizations around the globe</description>
+      <pubDate>Fri, 29 May 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinese-hackers-exploit-iran-war/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AI-Generated npm Malware Leaks Its Own GitHub Token</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-npm-malware-leaks-github-token/</link>
+      <description>Sloppy AI-generated npm infostealer leaked its own GitHub token, exposing the operator</description>
+      <pubDate>Fri, 29 May 2026 08:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-npm-malware-leaks-github-token/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels</title>
+      <link>https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html</link>
+      <description>The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026.
+
+&amp;quot;Kimsuky employed a range of tailored social engineering tactics, such as spoofing security software installation pages and crafting a fake Webex meeting page that leveraged</description>
+      <pubDate>Fri, 29 May 2026 11:27:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Coffee with the Council Podcast: Nominate Now for the Global Executive Assessor Roundtable (GEAR)</title>
@@ -442,6 +469,15 @@ The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Ec
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ESET APT Activity Report Q4 2025–Q1 2026</title>
+      <link>https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/</link>
+      <description>An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2025 and Q1 2026</description>
+      <pubDate>Thu, 28 May 2026 08:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
     </item>
     <item>
       <title>JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware</title>
@@ -1146,74 +1182,6 @@ Codenamed Operation Saffron, the  disruption  of First VPN Service was led by Fr
       <guid isPermaLink="true">https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
-      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
-      <description>Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &amp;amp;#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.</description>
-      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Data Breaches</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Adam Boileau</category>
-      <category>CISA</category>
-      <category>Dylan Ayrey</category>
-      <category>GitHub</category>
-      <category>James Wilson</category>
-      <category>Nick Andersen</category>
-      <category>Rep. Bennie Thompson</category>
-      <category>Risky Business</category>
-      <category>Sen. Maggie Hassan</category>
-      <category>TruffleHog</category>
-      <category>U.S. Cybersecurity &amp;amp; Infrastructure Security Agency</category>
-    </item>
-    <item>
-      <title>Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware</title>
-      <link>https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</link>
-      <description>The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.
-
-The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It&amp;apos;s been</description>
-      <pubDate>Fri, 22 May 2026 21:50:32 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers</title>
-      <link>https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers</link>
-      <description>When Akamai announced its LayerX acquisition, the company joined a growing list of vendors adding secure enterprise browsers to their product portfolios.</description>
-      <pubDate>Fri, 22 May 2026 15:43:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Warns: Windows Zero-Day ‘YellowKey’ Can Bypass BitLocker</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-yellowkey-bitlocker-bypass-mitigation/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft has released a temporary mitigation for YellowKey, a Windows zero-day that can reportedly bypass BitLocker protections.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-yellowkey-bitlocker-bypass-mitigation/&amp;quot;&amp;gt;Microsoft Warns: Windows Zero-Day ‘YellowKey’ Can Bypass BitLocker&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 22 May 2026 15:28:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-yellowkey-bitlocker-bypass-mitigation/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>Windows</category>
-      <category>bitlocker</category>
-      <category>cybersecurity</category>
-      <category>vulnerability</category>
-      <category>windows</category>
-      <category>windows recovery environment</category>
-      <category>yellowkey</category>
-      <category>zero day</category>
     </item>
   </channel>
 </rss>
