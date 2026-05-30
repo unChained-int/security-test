@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 30 May 2026 13:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 19:13:54 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,34 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say</title>
+      <link>https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/</link>
+      <description>&amp;lt;p&amp;gt;Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/&amp;quot;&amp;gt;Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 30 May 2026 16:00:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cyberwarfare</category>
+      <category>espionage</category>
+      <category>Russia</category>
+    </item>
+    <item>
+      <title>Exploit Code Published for Critical Flowise RCE Vulnerability</title>
+      <link>https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/</link>
+      <description>&amp;lt;p&amp;gt;The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/&amp;quot;&amp;gt;Exploit Code Published for Critical Flowise RCE Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 30 May 2026 15:55:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CVE-2026-40933</category>
+      <category>exploit</category>
+      <category>Featured</category>
+      <category>vulnerability</category>
     </item>
     <item>
       <title>PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation</title>
@@ -575,20 +603,6 @@ The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does 
       <category>user data</category>
     </item>
     <item>
-      <title>Carnival Data Breach Exposed 6 Million People</title>
-      <link>https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/</link>
-      <description>&amp;lt;p&amp;gt;Data breach leaves nearly 6 million Carnival customers navigating identity theft risks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/&amp;quot;&amp;gt;Carnival Data Breach Exposed 6 Million People&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 28 May 2026 14:45:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>Featured</category>
-      <category>ShinyHunters</category>
-    </item>
-    <item>
       <title>Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal</title>
       <link>https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html</link>
       <description>Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.
@@ -607,20 +621,6 @@ The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Ec
       <guid isPermaLink="true">https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New BTMOB Android Malware Enables Full Device Takeover</title>
-      <link>https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/</link>
-      <description>&amp;lt;p&amp;gt;Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/&amp;quot;&amp;gt;New BTMOB Android Malware Enables Full Device Takeover&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 28 May 2026 13:05:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Mobile &amp;amp; Wireless</category>
-      <category>Android</category>
-      <category>malware</category>
     </item>
     <item>
       <title>Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security</title>
