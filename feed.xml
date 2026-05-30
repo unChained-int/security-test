@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 30 May 2026 02:57:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 08:26:49 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,19 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation</title>
+      <link>https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html</link>
+      <description>Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections.
+
+&amp;quot;Authentication bypass vulnerabilities in the</description>
+      <pubDate>Sat, 30 May 2026 12:11:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Friday Squid Blogging: Another Squid</title>
@@ -204,7 +217,7 @@ The technique has been codenamed ChatGPhish by Permiso Security.
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks</title>
+      <title>New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks</title>
       <link>https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html</link>
       <description>A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.
 
@@ -300,6 +313,15 @@ According to Socket, versions 2.0.0 through 2.0.4 of &amp;quot;Sicoob.Sdk&amp;qu
       <pubDate>Fri, 29 May 2026 08:10:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-npm-malware-leaks-github-token/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>This month in security with Tony Anscombe – May 2026 edition</title>
+      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-may-2026/</link>
+      <description>In this roundup, Tony looks at attacks against Polish water treatment facilities, how AI-directed attacks failed in Mexico, and what Google believes is the first AI-generated zero-day exploit</description>
+      <pubDate>Fri, 29 May 2026 07:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-may-2026/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
     </item>
     <item>
       <title>Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels</title>
@@ -1128,52 +1150,6 @@ The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the us
       <guid isPermaLink="true">https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>WhatsApp Local Storage Claim Raises Apple Privacy Questions</title>
-      <link>https://www.techrepublic.com/article/news-whatsapp-local-storage-claim-apple-privacy/</link>
-      <description>&amp;lt;p&amp;gt;Researchers allege that WhatsApp&amp;apos;s local storage on macOS and iOS may raise privacy concerns, though experts dispute the broader claim.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-whatsapp-local-storage-claim-apple-privacy/&amp;quot;&amp;gt;WhatsApp Local Storage Claim Raises Apple Privacy Questions&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 25 May 2026 19:57:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-whatsapp-local-storage-claim-apple-privacy/</guid>
-      <dc:creator>Kezia Jungco</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>data privacy</category>
-      <category>encryption</category>
-      <category>endpoint security</category>
-      <category>ios</category>
-      <category>macos</category>
-      <category>mdm</category>
-      <category>meta</category>
-      <category>mobile security</category>
-      <category>whatsapp</category>
-    </item>
-    <item>
-      <title>Hacker Lists 340M OnlyFans User Records for Sale</title>
-      <link>https://www.techrepublic.com/article/news-onlyfans-340m-database-sale/</link>
-      <description>&amp;lt;p&amp;gt;A hacker is selling a 340M OnlyFans database, but the seller says old leaks and public data were used to link creators and subscribers to real identities.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-onlyfans-340m-database-sale/&amp;quot;&amp;gt;Hacker Lists 340M OnlyFans User Records for Sale&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 25 May 2026 14:38:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-onlyfans-340m-database-sale/</guid>
-      <dc:creator>Liz Ticong</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>dark web</category>
-      <category>data breach</category>
-      <category>data leak</category>
-      <category>identity exposure</category>
-      <category>onlyfans</category>
-      <category>phishing</category>
-      <category>user privacy</category>
     </item>
   </channel>
 </rss>
