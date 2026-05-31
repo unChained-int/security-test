@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 31 May 2026 08:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 13:43:13 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,17 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices</title>
+      <link>https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html</link>
+      <description>Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks.
+
+The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the</description>
+      <pubDate>Sun, 31 May 2026 17:52:12 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say</title>
@@ -568,9 +579,9 @@ The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does 
     <item>
       <title>Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer</title>
       <link>https://thehackernews.com/2026/05/threat-actors-exploit-critical.html</link>
-      <description>Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware.
+      <description>Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer.
 
-&amp;quot;The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,&amp;quot; Arctic Wolf said. &amp;quot;Threat actors disguised the credential stealer payload as a Fortinet endpoint</description>
+&amp;quot;The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,&amp;quot; Arctic Wolf said. &amp;quot;Threat actors disguised the credential stealer</description>
       <pubDate>Thu, 28 May 2026 20:56:04 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/threat-actors-exploit-critical.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1137,17 +1148,6 @@ If your workforce authenticates with</description>
 The activity, besides embracing</description>
       <pubDate>Tue, 26 May 2026 12:43:05 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike</title>
-      <link>https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html</link>
-      <description>A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon.
-
-The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to</description>
-      <pubDate>Tue, 26 May 2026 10:49:38 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
