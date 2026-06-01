@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 01 Jun 2026 03:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:31:42 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,90 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</title>
+      <link>https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/</link>
+      <description>&amp;lt;p&amp;gt;proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/&amp;quot;&amp;gt;19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 01 Jun 2026 11:19:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CIFSwitch</category>
+      <category>Featured</category>
+      <category>Linux</category>
+    </item>
+    <item>
+      <title>FSB Group Gamaredon Hides Worm in Windows Data Streams</title>
+      <link>https://www.infosecurity-magazine.com/news/gamaredon-worm-ntfs-data-streams/</link>
+      <description>FSB-linked Gamaredon concealed a fileless worm in NTFS data streams to spy on Ukraine targets</description>
+      <pubDate>Mon, 01 Jun 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/gamaredon-worm-ntfs-data-streams/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Recent Palo Alto Networks Vulnerability Exploited for Weeks</title>
+      <link>https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/</link>
+      <description>&amp;lt;p&amp;gt;Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/&amp;quot;&amp;gt;Recent Palo Alto Networks Vulnerability Exploited for Weeks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CVE-2026-0257</category>
+      <category>Palo Alto Networks</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack</title>
+      <link>https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that&amp;apos;s targeting developers using OpenAI Codex through a legitimate-looking remote web UI.
+
+The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository.
+
+What</description>
+      <pubDate>Mon, 01 Jun 2026 15:01:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Attackers Abuse Shared Content for ChatGPT Phishing Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/attackers-shared-content-chatgpt/</link>
+      <description>Push Security says threat actors are delivering malware hosted on chatgpt.com/s/ domain</description>
+      <pubDate>Mon, 01 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-shared-content-chatgpt/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts</title>
+      <link>https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html</link>
+      <description>Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites.
+
+WP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is</description>
+      <pubDate>Mon, 01 Jun 2026 14:15:29 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Palo Alto Warns High-Severity Bug Is Being Actively Exploited</title>
+      <link>https://www.infosecurity-magazine.com/news/palo-alto-highseverity-bug/</link>
+      <description>A vulnerability in Palo Alto Networks’ PAN-OS software is being exploited in attacks</description>
+      <pubDate>Mon, 01 Jun 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/palo-alto-highseverity-bug/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: OWASP Forms New Agentic Research Council</title>
+      <link>https://www.infosecurity-magazine.com/news/owasp-new-agentic-research-council/</link>
+      <description>OWASP’s new Agentic Research Council will aim to connect academic work to operational realities on agentic AI security</description>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/owasp-new-agentic-research-council/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices</title>
@@ -147,6 +231,15 @@ The technique has been codenamed ChatGPhish by Permiso Security.
       <category>Cybercrime</category>
       <category>Malware &amp;amp; Threats</category>
       <category>Nation-State</category>
+    </item>
+    <item>
+      <title>As Global Powers Explore Humanoid Robots, Cyber-Risk Looms</title>
+      <link>https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</link>
+      <description>The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.</description>
+      <pubDate>Fri, 29 May 2026 15:56:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Carnival Data Breach Exposes Data of Nearly 6 Million Customers</title>
@@ -382,15 +475,6 @@ According to Socket, versions 2.0.0 through 2.0.4 of &amp;quot;Sicoob.Sdk&amp;qu
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>As Global Powers Explore Humanoid Robots, Cyber-Risk Looms</title>
-      <link>https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</link>
-      <description>The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.</description>
-      <pubDate>Thu, 28 May 2026 23:05:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Coffee with the Council Podcast: Nominate Now for the Global Executive Assessor Roundtable (GEAR)</title>
       <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-nominate-now-for-the-global-executive-assessor-roundtable-gear</link>
       <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
@@ -440,20 +524,6 @@ According to Socket, versions 2.0.0 through 2.0.4 of &amp;quot;Sicoob.Sdk&amp;qu
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks</title>
-      <link>https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/</link>
-      <description>&amp;lt;p&amp;gt;Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/&amp;quot;&amp;gt;Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 28 May 2026 18:50:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Malware &amp;amp; Threats</category>
-      <category>AI</category>
-      <category>malware</category>
-    </item>
-    <item>
       <title>Krispy Kreme Settlement Deadline Nears: Eligible Members Could Claim Up to $3,500</title>
       <link>https://www.techrepublic.com/article/news-krispy-kreme-data-breach-settlement-claims-deadline/</link>
       <description>&amp;lt;p&amp;gt;Krispy Kreme data breach settlement claims are due June 22. See who qualifies, payment options, key deadlines, and what eligible people need to file.&amp;lt;/p&amp;gt;
@@ -494,20 +564,6 @@ The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does 
       <guid isPermaLink="true">https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Geordie Raises $30 Million for AI Security and Governance Platform</title>
-      <link>https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/</link>
-      <description>&amp;lt;p&amp;gt;The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/&amp;quot;&amp;gt;Geordie Raises $30 Million for AI Security and Governance Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 28 May 2026 17:07:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity Funding</category>
-      <category>Funding/M&amp;amp;A</category>
-      <category>funding</category>
     </item>
     <item>
       <title>25 Security Vulnerabilities That Have Defined the 2020s (Thus Far) | UpGuard</title>
@@ -1089,64 +1145,6 @@ According to recent updates from The Hacker News, bad actors are using AI to fin
       <guid isPermaLink="true">https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions</title>
-      <link>https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html</link>
-      <description>Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met.
-
-The vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity.
-
-&amp;quot;Deserialization of untrusted data in Microsoft Office SharePoint allows</description>
-      <pubDate>Tue, 26 May 2026 17:19:53 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>MFA Prompt Bombing: Why Your Second Factor Isn&amp;apos;t Saving You</title>
-      <link>https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html</link>
-      <description>Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn&amp;apos;t log in without the second factor. While that logic was sound, attackers have now figured out that they don&amp;apos;t need to steal the second factor: they just need the user to hand it over.
-
-If your workforce authenticates with</description>
-      <pubDate>Tue, 26 May 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>India&amp;apos;s CERT-In Sets 12-Hour Patch Deadline for Exposed Flaws</title>
-      <link>https://www.infosecurity-magazine.com/news/cert-in-12-hour-patch-deadline-ai/</link>
-      <description>CERT-In urges 12-hour patching of exposed flaws as AI compresses exploitation timelines</description>
-      <pubDate>Tue, 26 May 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cert-in-12-hour-patch-deadline-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks</title>
-      <link>https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html</link>
-      <description>The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where &amp;quot;feasible&amp;quot; to safeguard against potential threats stemming from threat actors&amp;apos; abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability</description>
-      <pubDate>Tue, 26 May 2026 14:43:02 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Target US Aviation with Phishing and SEO Poisoning Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/iranian-hackers-us-aviation/</link>
-      <description>Iran&amp;apos;s Nimbus Manticore pushes AI-built MiniFast backdoor via phishing and SEO poisoning</description>
-      <pubDate>Tue, 26 May 2026 09:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iranian-hackers-us-aviation/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>BTMOB: A stealthy RAT burrowing deep into Android devices</title>
-      <link>https://www.welivesecurity.com/en/malware/btmob-stealthy-rat-burrowing-deep-android-devices/</link>
-      <description>The malware pairs remote access capabilities with ready-made campaign tools, lowering the barrier for full device compromise</description>
-      <pubDate>Tue, 26 May 2026 08:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/malware/btmob-stealthy-rat-burrowing-deep-android-devices/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Malware</category>
     </item>
   </channel>
 </rss>
