@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 01 Jun 2026 11:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:37:24 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,9 +25,129 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Vulnerability Disclosure in the Age of AI</title>
+      <link>https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html</link>
+      <description>&amp;lt;p&amp;gt;New article: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss2/CDR_V11_N2_Hathaway.pdf&amp;quot;&amp;gt;Responsible Disclosure in the Age of AI: A Call for Urgent Action&amp;lt;/a&amp;gt;,&amp;amp;#8221; by Melissa Hathaway.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed and scale. This development exposes decades of accumulated technical debt created by a software industry that prioritized rapid deployment over secure-by-design engineering practices. Drawing on the evolution of software assurance, vulnerability disclosure frameworks, and U.S. cyber policy, this perspective argues that the current moment represents a strategic inflection point for governments, industry, and critical infrastructure operators. The author examines the growing tension between offensive and defensive equities in cyberspace, the emergence of AI-enabled vulnerability discovery capabilities in both the U.S. and China, and the increasing risks posed by unsupported legacy systems and AI-assisted code generation practices. Responsible disclosure can no longer remain a reactive or fragmented process, but must become a coordinated national and international resilience effort involving governments, software vendors, infrastructure operators, and emergency response organizations. The article concludes with an urgent call for accelerated remediation, large-scale patch management coordination, and sustained investment in automated vulnerability repair capabilities before adversaries exploit this rapidly narrowing window of opportunity...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 01 Jun 2026 16:49:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>disclosure</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs</title>
+      <link>https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/</link>
+      <description>&amp;lt;p&amp;gt;Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/&amp;quot;&amp;gt;Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:02:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Netlogon</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit</title>
+      <link>https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit</link>
+      <description>Exploiting the PAN-OS GlobalProtect VPN vulnerability requires certain conditions, but adversaries have done so in two attack waves that started in mid-May.</description>
+      <pubDate>Mon, 01 Jun 2026 14:35:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Flowise Flaw Gives Attackers Full Server Control</title>
+      <link>https://www.infosecurity-magazine.com/news/flowise-mcp-rce-poc/</link>
+      <description>Obsidian publishes PoC for a 1-click Flowise RCE that can fully compromise self-hosted servers</description>
+      <pubDate>Mon, 01 Jun 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/flowise-mcp-rce-poc/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More</title>
+      <link>https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html</link>
+      <description>Monday hit like a cron job with anger issues.
+
+A busted auth path here, a repo-side faceplant there, some &amp;quot;patched-ish&amp;quot; thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought &amp;apos;curl | sh&amp;apos; had a personality.
+
+The vibe is simple: old</description>
+      <pubDate>Mon, 01 Jun 2026 19:29:54 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Tabletop Exercise to Test How CISOs Respond to Major Supermarket Cyber-Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-semperis/</link>
+      <description>Semperis is set to bring ‘Enter the War Room: A Tabletop Experience’ to Infosecurity Europe to help cybersecurity leaders prepare to face real incidents</description>
+      <pubDate>Mon, 01 Jun 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-semperis/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Dragos Acquires xIoT Security Firm Phosphorus</title>
+      <link>https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/</link>
+      <description>&amp;lt;p&amp;gt;Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/&amp;quot;&amp;gt;Dragos Acquires xIoT Security Firm Phosphorus&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 01 Jun 2026 12:46:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>IoT Security</category>
+    </item>
+    <item>
+      <title>China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic &amp;amp; Taiwan</title>
+      <link>https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html</link>
+      <description>A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.
+
+According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phishing emails containing ZIP attachments</description>
+      <pubDate>Mon, 01 Jun 2026 17:24:24 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution</title>
+      <link>https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/</link>
+      <description>&amp;lt;p&amp;gt;AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/&amp;quot;&amp;gt;As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 01 Jun 2026 11:48:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Infosecurity Europe: AI SOCs Will Still Need SOC Analysts, Security Vendors Say</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-soc-still-need-analysts/</link>
+      <description>Top cybersecurity vendors said AI won&amp;apos;t replace entry-level – only routine ticket-taking and triage</description>
+      <pubDate>Mon, 01 Jun 2026 11:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-soc-still-need-analysts/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools</title>
+      <link>https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html</link>
+      <description>Three years ago, the practical question for an MSP building a cybersecurity practice was which &amp;quot;vCISO platform&amp;quot; to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor.
+
+A Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software</description>
+      <pubDate>Mon, 01 Jun 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</title>
       <link>https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/</link>
-      <description>&amp;lt;p&amp;gt;proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.&amp;lt;/p&amp;gt;
+      <description>&amp;lt;p&amp;gt;Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/&amp;quot;&amp;gt;19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
       <pubDate>Mon, 01 Jun 2026 11:19:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/</guid>
@@ -235,7 +355,7 @@ The technique has been codenamed ChatGPhish by Permiso Security.
     <item>
       <title>As Global Powers Explore Humanoid Robots, Cyber-Risk Looms</title>
       <link>https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</link>
-      <description>The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.</description>
+      <description>The future of cybersecurity is germinating, as nation-states vie for dominance in the embodied AI market and its supply chain.</description>
       <pubDate>Fri, 29 May 2026 15:56:23 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</guid>
       <dc:creator>Nate Nelson</dc:creator>
@@ -293,7 +413,7 @@ The technique has been codenamed ChatGPhish by Permiso Security.
     <item>
       <title>Asia&amp;apos;s Cyber Insurance Market Shows Signs of Life</title>
       <link>https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life</link>
-      <description>The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.</description>
+      <description>The cyber insurance industry has made relatively weak inroads into Asia due to a variety of factors, but that could be changing.</description>
       <pubDate>Fri, 29 May 2026 14:35:33 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life</guid>
       <dc:creator>Alexander Culafi</dc:creator>
@@ -329,20 +449,9 @@ The technique has been codenamed ChatGPhish by Permiso Security.
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Gogs Zero-Day Exposes Servers to Remote Code Execution</title>
-      <link>https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/</link>
-      <description>&amp;lt;p&amp;gt;The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/&amp;quot;&amp;gt;Gogs Zero-Day Exposes Servers to Remote Code Execution&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 29 May 2026 12:59:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-    </item>
-    <item>
       <title>&amp;apos;The Com&amp;apos; Cyberattacks Support Violence &amp;amp;amp; Sexploitation</title>
       <link>https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation</link>
-      <description>Your organization&amp;apos;s security failures have consequences for everyone else too, since this neo-Nazi-infested criminal gang uses its cyber winnings to support more violent and widespread crimes.</description>
+      <description>Your organization&amp;apos;s security failures have consequences for everyone else as well since this criminal gang uses its cyber winnings to support more violent and widespread crimes.</description>
       <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation</guid>
       <dc:creator>Nate Nelson</dc:creator>
@@ -358,18 +467,6 @@ GREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating b
       <guid isPermaLink="true">https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</title>
-      <link>https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</link>
-      <description>&amp;lt;p&amp;gt;Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/&amp;quot;&amp;gt;California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 29 May 2026 11:12:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
     </item>
     <item>
       <title>Chilling Effects</title>
@@ -398,18 +495,6 @@ In The Shadow Builders report (get it here), a</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Chrome 148 Update Patches 151 Vulnerabilities</title>
-      <link>https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;The browser update resolves critical-severity security defects that could potentially lead to remote code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/&amp;quot;&amp;gt;Chrome 148 Update Patches 151 Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 29 May 2026 10:17:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Chrome</category>
     </item>
     <item>
       <title>Infosecurity Europe: CyCOS Project Expands to Support UK SMEs as CIISec Takes Over</title>
@@ -1063,88 +1148,6 @@ The vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all vers
       <guid isPermaLink="true">https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>For Enterprises, Security Remains Agentic AI&amp;apos;s Biggest Challenge</title>
-      <link>https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge</link>
-      <description>Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks be safely and securely adopted are just starting to appear.</description>
-      <pubDate>Tue, 26 May 2026 19:12:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Issues Out-of-Band SharePoint Patch</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch</link>
-      <description>SharePoint often gives access to the keys of the kingdom, something attackers and defenders understand all too well.</description>
-      <pubDate>Tue, 26 May 2026 18:25:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries</title>
-      <link>https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html</link>
-      <description>The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026.
-
-The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.</description>
-      <pubDate>Tue, 26 May 2026 21:18:41 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Identifying People Using Wi-Fi Routers</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html</link>
-      <description>&amp;lt;p&amp;gt;Not identifying people based on their use of Wi-Fi routers, but identifying people &amp;lt;a href=&amp;quot;https://gizmodo.com/researchers-issue-warning-about-tech-that-could-turn-every-router-into-a-potential-means-for-surveillance-2000763181&amp;quot;&amp;gt;using Wi-Fi signals&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;This is accomplished through what is known as &amp;lt;a href=&amp;quot;https://wballiance.com/wi-fi-sensing-101-an-introduction/&amp;quot;&amp;gt;WiFi sensing&amp;lt;/a&amp;gt;, or the use of WiFi signals to infer information about a physical environment. When radio signals like WiFi travel through a space, they interact with the objects and people around them. Those signals can be reflected, scattered, or absorbed. By analyzing how the signal is expected to behave compared with how it is actually received, researchers can infer details about the surrounding environment...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 26 May 2026 15:02:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>identification</category>
-      <category>privacy</category>
-      <category>surveillance</category>
-      <category>Wi-Fi</category>
-    </item>
-    <item>
-      <title>Chinese Threat Actors Ditch Static Phishing Pages for Live Credential Interception</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-phishing-live-credential/</link>
-      <description>Almost all organizations impersonated by Chinese phishing platforms are non-Chinese entities, suggesting operators deliberately avoid domestic targets</description>
-      <pubDate>Tue, 26 May 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinese-phishing-live-credential/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>BTMOB Android RAT Spreads Through No-Code Builder Tooling</title>
-      <link>https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/</link>
-      <description>BTMOB Android RAT sold as a service with a no-code builder for fast, regional phishing lures</description>
-      <pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading</link>
-      <description>The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters its third decade, we pause to celebrate and honor Wilson&amp;apos;s instrumental role in building and elevating the media site.</description>
-      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading</guid>
-      <dc:creator>Kelly Jackson Higgins</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back</title>
-      <link>https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html</link>
-      <description>Every single day, hackers are finding new ways to crash websites and steal data.
-
-But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop.
-
-According to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and</description>
-      <pubDate>Tue, 26 May 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
