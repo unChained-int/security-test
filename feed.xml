@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 01 Jun 2026 21:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 03:54:31 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -31,6 +31,15 @@
       <pubDate>Mon, 01 Jun 2026 21:07:48 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa</guid>
       <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft&amp;apos;s Zero-Day Legal Threats Spark Backlash</title>
+      <link>https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash</link>
+      <description>After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.</description>
+      <pubDate>Mon, 01 Jun 2026 18:52:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash</guid>
+      <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -726,7 +735,7 @@ The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does 
       <title>25 Security Vulnerabilities That Have Defined the 2020s (Thus Far) | UpGuard</title>
       <link>https://www.upguard.com/blog/top-25-security-vulnerabilities-of-the-2020s</link>
       <description>From Log4j to SolarWinds, discover the 25 critical security vulnerabilities that have reshaped cybersecurity thus far in the 2020s.</description>
-      <pubDate>Thu, 28 May 2026 16:11:37 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 16:11:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/top-25-security-vulnerabilities-of-the-2020s</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
@@ -1150,14 +1159,6 @@ The vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all vers
       <pubDate>Wed, 27 May 2026 08:00:05 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/mcp-security-playbook-for-mid-market-teams</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>PureLogs Variant Steals Data via Purchase Order Lures</title>
-      <link>https://www.infosecurity-magazine.com/news/purelogs-phishing-purchase-order/</link>
-      <description>FortiGuard Labs detailed a PureLogs campaign using JavaScript, PowerShell and process hollowing</description>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/purelogs-phishing-purchase-order/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
