@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Jun 2026 16:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 20:47:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,145 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks</link>
+      <description>A sneaky, wide-scale IAB operation uses a malicious traffic distribution system (TDS) to redirect visitors of trusted websites to ones that deliver malware.</description>
+      <pubDate>Tue, 02 Jun 2026 20:11:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks</title>
+      <link>https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/</link>
+      <description>&amp;lt;p&amp;gt;The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/&amp;quot;&amp;gt;Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Jun 2026 20:10:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Government</category>
+      <category>AI</category>
+      <category>Featured</category>
+      <category>Policy</category>
+    </item>
+    <item>
+      <title>China Uses Dual-Method Cyberattack on Czech Orgs</title>
+      <link>https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs</link>
+      <description>China is stealing data from high-value targets via a sneaky, double-layer spear-phishing campaign that includes the Azureveil malware.</description>
+      <pubDate>Tue, 02 Jun 2026 19:50:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Securing AI Agents Before They Go Rogue Is Next to Impossible</title>
+      <link>https://www.darkreading.com/cyber-risk/securing-ai-agents-rogue</link>
+      <description>High-autonomy agents with broad permissions and unfettered access are a recipe for disaster, and enterprises need to act now before they become the next horror story.</description>
+      <pubDate>Tue, 02 Jun 2026 19:10:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/securing-ai-agents-rogue</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited</title>
+      <link>https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html</link>
+      <description>Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation.
+
+Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without requiring any user interaction. The</description>
+      <pubDate>Wed, 03 Jun 2026 00:16:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine</title>
+      <link>https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html</link>
+      <description>The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.
+
+Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an</description>
+      <pubDate>Tue, 02 Jun 2026 23:51:49 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation</title>
+      <link>https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
+
+The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was</description>
+      <pubDate>Tue, 02 Jun 2026 23:44:42 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis</title>
+      <link>https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/</link>
+      <description>&amp;lt;p&amp;gt;As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/&amp;quot;&amp;gt;Two New Reports Offer Competing Explanations for Cybersecurity&amp;amp;#8217;s Growing Crisis&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Jun 2026 16:35:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Application Security</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Fake Claude Code Installers Deliver Credential-Stealing Malware</title>
+      <link>https://www.techrepublic.com/article/news-fake-claude-code-install-sites-malware/</link>
+      <description>&amp;lt;p&amp;gt;Fake Claude Code install sites are pushing malware that steals API keys, developer credentials, crypto wallets, and other sensitive data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-claude-code-install-sites-malware/&amp;quot;&amp;gt;Fake Claude Code Installers Deliver Credential-Stealing Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Jun 2026 16:29:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-claude-code-install-sites-malware/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Anthropic</category>
+      <category>Artificial Intelligence</category>
+      <category>Chatbots</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>ai security</category>
+      <category>api keys</category>
+      <category>claude code</category>
+      <category>credential theft</category>
+      <category>developer tools</category>
+      <category>infostealer</category>
+      <category>malware</category>
+      <category>seo poisoning</category>
+    </item>
+    <item>
+      <title>Google Patches Android Zero-Day Vulnerability in June 2026 Security Update</title>
+      <link>https://www.techrepublic.com/article/news-google-june-2026-android-security-update/</link>
+      <description>&amp;lt;p&amp;gt;Google’s June 2026 Android update fixes dozens of flaws, including a potentially exploited Framework vulnerability and critical system bugs.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-june-2026-android-security-update/&amp;quot;&amp;gt;Google Patches Android Zero-Day Vulnerability in June 2026 Security Update&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Jun 2026 15:59:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-june-2026-android-security-update/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Android</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Smartphones</category>
+      <category>android</category>
+      <category>android security</category>
+      <category>cybersecurity</category>
+      <category>google password manager</category>
+      <category>google play store</category>
+      <category>qualcomm</category>
+      <category>vulnerabilities</category>
     </item>
     <item>
       <title>The AI Exchange: Innovators in Payment Security Featuring In-Solutions Global Ltd</title>
@@ -117,6 +256,60 @@
       <pubDate>Tue, 02 Jun 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/infosecurity-europe</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>FBI Warning: World Cup Scammers Are Spoofing FIFA Tickets, Job Sites</title>
+      <link>https://www.techrepublic.com/article/news-fake-fifa-world-cup-sites-fbi-warning/</link>
+      <description>&amp;lt;p&amp;gt;The FBI warns that fake FIFA websites are targeting World Cup fans with phishing, ticket scams, fake merchandise, and job-related fraud.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-fifa-world-cup-sites-fbi-warning/&amp;quot;&amp;gt;FBI Warning: World Cup Scammers Are Spoofing FIFA Tickets, Job Sites&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Jun 2026 13:06:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-fifa-world-cup-sites-fbi-warning/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>2026 fifa world cup</category>
+      <category>bitdefender</category>
+      <category>cybersecurity</category>
+      <category>fbi</category>
+      <category>fifa</category>
+      <category>ghost stadium</category>
+      <category>group-ib</category>
+      <category>online fraud</category>
+      <category>phishing</category>
+      <category>spoofed websites</category>
+      <category>ticket scams</category>
+      <category>typosquatting</category>
+    </item>
+    <item>
+      <title>Update Now: Apple Rolls Out Critical Fixes for iPhone 17, M5 Macs</title>
+      <link>https://www.techrepublic.com/article/news-apple-ios-26-5-1-macos-26-5-1-bug-fixes/</link>
+      <description>&amp;lt;p&amp;gt;Apple released iOS 26.5.1 and macOS 26.5.1 to fix iPhone 17 charging issues and M5 Mac shutdown problems before WWDC.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-ios-26-5-1-macos-26-5-1-bug-fixes/&amp;quot;&amp;gt;Update Now: Apple Rolls Out Critical Fixes for iPhone 17, M5 Macs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Jun 2026 12:41:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-ios-26-5-1-macos-26-5-1-bug-fixes/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Hardware</category>
+      <category>Innovation</category>
+      <category>International</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Smartphones</category>
+      <category>ios 26.5.1</category>
+      <category>iphone</category>
+      <category>iphone 17</category>
+      <category>iphone air</category>
+      <category>m5 macs</category>
+      <category>Mac</category>
+      <category>macos 26.5.1</category>
+      <category>software update</category>
+      <category>wwdc</category>
     </item>
     <item>
       <title>The Zero-Knowledge Threat Actor and the End of Responsible Disclosure</title>
@@ -292,43 +485,44 @@ But owning EDR</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Strava Tightens API Access as AI Scraping Concerns Grow Ahead of IPO</title>
+      <link>https://www.techrepublic.com/article/news-strava-api-scraping-crackdown/</link>
+      <description>&amp;lt;p&amp;gt;Strava’s latest API and access changes add new subscription, compliance, and data-use questions for developers building apps on top of the fitness platform.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-strava-api-scraping-crackdown/&amp;quot;&amp;gt;Strava Tightens API Access as AI Scraping Concerns Grow Ahead of IPO&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 02 Jun 2026 08:37:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-strava-api-scraping-crackdown/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI</category>
+      <category>AI Governance &amp;amp; Policy</category>
+      <category>Applications</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data</category>
+      <category>Data Security</category>
+      <category>Developer</category>
+      <category>Enterprise Technology</category>
+      <category>News</category>
+      <category>AI governance</category>
+      <category>AI scraping</category>
+      <category>api</category>
+      <category>api security</category>
+      <category>data governance</category>
+      <category>data privacy</category>
+      <category>developer tools</category>
+      <category>fitness apps</category>
+      <category>IPO</category>
+      <category>platform data</category>
+      <category>saas security</category>
+      <category>Strava</category>
+    </item>
+    <item>
       <title>Infosecurity Europe: Business Leaders Lack Understanding of Threat Intelligence, Study Warns</title>
       <link>https://www.infosecurity-magazine.com/news/business-leaders-struggle-threat/</link>
       <description>A new Silobreaker and SANS Institute paper examines the ‘Intelligence-Stakeholder Gap’ and what organizations must do to achieve business buy-in on threat intelligence</description>
       <pubDate>Tue, 02 Jun 2026 08:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/business-leaders-struggle-threat/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads</title>
-      <link>https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/</link>
-      <description>&amp;lt;p&amp;gt;Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/&amp;quot;&amp;gt;Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 08:07:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>2FA</category>
-      <category>brute force</category>
-      <category>Dashlane</category>
-      <category>Featured</category>
-      <category>password manager</category>
-    </item>
-    <item>
-      <title>Oracle’s First Monthly Patches Resolve 77 Vulnerabilities</title>
-      <link>https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/&amp;quot;&amp;gt;Oracle&amp;amp;#8217;s First Monthly Patches Resolve 77 Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 07:20:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Oracle</category>
-      <category>Oracle CSPU</category>
-      <category>patches</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded</title>
@@ -1073,108 +1267,6 @@ The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Ec
       <description>State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don&amp;apos;t understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a</description>
       <pubDate>Thu, 28 May 2026 17:00:00 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Threat Actor Jinx-0164 Targets Crypto Developers on macOS</title>
-      <link>https://www.infosecurity-magazine.com/news/jinx-0164-crypto-developers-macos/</link>
-      <description>New actor Jinx-0164 hit crypto developers with fake recruiter lures and macOS malware</description>
-      <pubDate>Thu, 28 May 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jinx-0164-crypto-developers-macos/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Infosecurity Europe: Cybersecurity Staff Prefer CISOs With Real Attack Response Experience, Study Reveals</title>
-      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-isc2/</link>
-      <description>ISC2 survey of cybersecurity professionals suggests that staff want their information security leaders to have experienced reacting to a significant cyber incident</description>
-      <pubDate>Thu, 28 May 2026 10:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-isc2/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>GCHQ Chief Urges Action as AI Reshapes Cyber Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/gchq-keast-butler-cyber-action-ai/</link>
-      <description>GCHQ director urges urgent business cyber action as AI and quantum reshape the threat</description>
-      <pubDate>Thu, 28 May 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/gchq-keast-butler-cyber-action-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model</link>
-      <description>An advanced remote access Trojan is propagating online. Notably, it&amp;apos;s delivered via an operator licensing model and features a no-code malware-development interface.</description>
-      <pubDate>Thu, 28 May 2026 09:06:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ESET APT Activity Report Q4 2025–Q1 2026</title>
-      <link>https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/</link>
-      <description>An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2025 and Q1 2026</description>
-      <pubDate>Thu, 28 May 2026 08:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>ESET research</category>
-    </item>
-    <item>
-      <title>JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware</title>
-      <link>https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html</link>
-      <description>A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware.
-
-&amp;quot;These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastructure,&amp;quot; Wiz researchers Shira Ayal,</description>
-      <pubDate>Thu, 28 May 2026 13:24:48 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Nordic CISOs Handle Rising Cyber Threats Remarkably Well</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats</link>
-      <description>Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they&amp;apos;re facing no more serious cyberattacks than they did two years ago.</description>
-      <pubDate>Thu, 28 May 2026 07:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Ransomware Actors Show Up In Person to Steal Law Firm Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data</link>
-      <description>The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and social-engineering its way into servers and databases.</description>
-      <pubDate>Wed, 27 May 2026 20:38:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Latin American Cybercriminals Hoover Up Government Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data</link>
-      <description>A  purported leak exposing 5.8 million records of Uruguayan citizens is the latest incident where cybercriminals targeted government agencies to monetize citizen data.</description>
-      <pubDate>Wed, 27 May 2026 16:19:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI-Assisted Exploit Development Outpaces Scanner Detection</title>
-      <link>https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection</link>
-      <description>Attackers are using AI to dramatically reduce the time they need to develop a working exploit for a CVE, according to new research.</description>
-      <pubDate>Wed, 27 May 2026 16:11:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users</title>
-      <link>https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html</link>
-      <description>Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively.
-
-That&amp;apos;s according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil.
-
-The</description>
-      <pubDate>Wed, 27 May 2026 21:40:21 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
