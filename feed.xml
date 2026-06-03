@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 03 Jun 2026 04:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:57:04 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,122 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds</title>
+      <link>https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/</link>
+      <description>&amp;lt;p&amp;gt;The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/&amp;quot;&amp;gt;&amp;amp;#8216;HTTP/2 Bomb&amp;amp;#8217; Exploit Knocks Web Servers Offline in Seconds&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 03 Jun 2026 10:52:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>HTTP</category>
+      <category>HTTP/2 Bomb</category>
+      <category>vulnerability</category>
+      <category>web server</category>
+    </item>
+    <item>
+      <title>Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes</title>
+      <link>https://thehackernews.com/2026/06/unpatched-windows-search-uri.html</link>
+      <description>Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user&amp;apos;s NTLMv2 hash to the attacker.
+
+Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool&amp;apos;s ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress.
+
+CVE-2026-33829 refers to a spoofing vulnerability that could expose</description>
+      <pubDate>Wed, 03 Jun 2026 15:48:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/unpatched-windows-search-uri.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: How to Get Boards to Prioritize Cyber Risk Quantification</title>
+      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-board-cyber/</link>
+      <description>Cybersecurity leaders major companies discuss how they got support from the board on cyber risk</description>
+      <pubDate>Wed, 03 Jun 2026 10:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-board-cyber/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Global Stock Exchange Hit by Monthslong Email Campaign</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign</link>
+      <description>A threat actor got a near-continuous view into an influential finance executive&amp;apos;s email inbox, thanks to clever use of legitimate, native Windows tools.</description>
+      <pubDate>Wed, 03 Jun 2026 10:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash</title>
+      <link>https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/&amp;quot;&amp;gt;Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 03 Jun 2026 09:57:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>controversy</category>
+      <category>Featured</category>
+      <category>Microsoft</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Anthropic Expands Mythos Access to 150 More Organizations</title>
+      <link>https://www.infosecurity-magazine.com/news/anthropic-glasswing-expansion/</link>
+      <description>Anthropic widens Project Glasswing access to 150 more firms as patching becomes the bottleneck</description>
+      <pubDate>Wed, 03 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/anthropic-glasswing-expansion/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Patch Responsibility Remains Up for Grabs as AI Unearths Decades of Flaws</title>
+      <link>https://www.infosecurity-magazine.com/news/patch-responsibility-ai-infosec/</link>
+      <description>The emergence of AI models capable to autonomously find and fix vulnerabilities at scale is having a significant impact on patching management, experts say</description>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/patch-responsibility-ai-infosec/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy &amp;amp; Cloudflare</title>
+      <link>https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html</link>
+      <description>Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.
+
+The vulnerability has been codenamed HTTP/2 Bomb by Calif.
+
+&amp;quot;The vulnerable behavior exists in each server&amp;apos;s default HTTP/2 configuration,&amp;quot; the company said, adding it was discovered by OpenAI Codex by chaining</description>
+      <pubDate>Wed, 03 Jun 2026 14:03:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Execs Must Treat Cyber Threats as Statecraft, ISACA Expert Say</title>
+      <link>https://www.infosecurity-magazine.com/news/execs-cisos-must-treat-cyber/</link>
+      <description>Private firms are being targeted by nation-state groups for reasons beyond finance, argued ISACA’s Bharat Thakrar</description>
+      <pubDate>Wed, 03 Jun 2026 08:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/execs-cisos-must-treat-cyber/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: AI-Powered Cybercrime Tools Surge on Dark Web</title>
+      <link>https://www.infosecurity-magazine.com/news/cybercrime-ai-tools-surge-3800/</link>
+      <description>Halcyon’s Cynthia Kaiser lifts the lid on the dark web market for AI cybercrime tools</description>
+      <pubDate>Wed, 03 Jun 2026 07:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybercrime-ai-tools-surge-3800/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content</title>
+      <link>https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html</link>
+      <description>Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims&amp;apos; systems.
+
+The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820</description>
+      <pubDate>Wed, 03 Jun 2026 11:46:54 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Zoom CISO: AI as Security Enabler, Not Role-Replacer</title>
@@ -431,23 +547,6 @@ The industry&amp;apos;s</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Meta AI Hands Over High-Profile Instagram Accounts to Hackers</title>
-      <link>https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/</link>
-      <description>&amp;lt;p&amp;gt;Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/&amp;quot;&amp;gt;Meta AI Hands Over High-Profile Instagram Accounts to Hackers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 10:48:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Vulnerabilities</category>
-      <category>account takeover</category>
-      <category>AI</category>
-      <category>exploited</category>
-      <category>Instagram</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>How Leading Organizations Are Turning EDR Into Operational Resilience</title>
       <link>https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html</link>
       <description>Most organizations now recognize that endpoint protection alone is no longer sufficient.
@@ -475,21 +574,6 @@ But owning EDR</description>
       <pubDate>Tue, 02 Jun 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/red-hat-npm-scope-backdoored/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Supply Chain Attack Hits 32 Red Hat NPM Packages</title>
-      <link>https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/</link>
-      <description>&amp;lt;p&amp;gt;Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/&amp;quot;&amp;gt;Supply Chain Attack Hits 32 Red Hat NPM Packages&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 09:51:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Supply Chain Security</category>
-      <category>Featured</category>
-      <category>NPM</category>
-      <category>red hat</category>
-      <category>supply chain attack</category>
     </item>
     <item>
       <title>Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT</title>
@@ -1137,139 +1221,6 @@ The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does 
       <pubDate>Thu, 28 May 2026 16:11:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/top-25-security-vulnerabilities-of-the-2020s</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>FBI Warns Companies About Ransom Gang’s Fake IT Support Tactics</title>
-      <link>https://www.techrepublic.com/article/news-silent-ransom-group-physical-impersonation-fbi-warning/</link>
-      <description>&amp;lt;p&amp;gt;The FBI warns Silent Ransom Group is targeting US law firms with phishing, fake IT calls, and in-person visits to steal data for extortion.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-silent-ransom-group-physical-impersonation-fbi-warning/&amp;quot;&amp;gt;FBI Warns Companies About Ransom Gang’s Fake IT Support Tactics&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 28 May 2026 15:58:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-silent-ransom-group-physical-impersonation-fbi-warning/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>data exfiltration</category>
-      <category>data theft</category>
-      <category>fbi</category>
-      <category>law firms</category>
-      <category>phishing</category>
-      <category>ransomware</category>
-      <category>Silent Ransom Group</category>
-      <category>social engineering</category>
-      <category>vishing</category>
-    </item>
-    <item>
-      <title>Apple May Bring Android-Style Theft Detection to iPhones</title>
-      <link>https://www.techrepublic.com/article/news-apple-iphone-anti-snatching-lock-feature/</link>
-      <description>&amp;lt;p&amp;gt;Apple is reportedly testing an iPhone anti-snatching feature that would lock stolen devices using motion signals and checks for familiar locations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-iphone-anti-snatching-lock-feature/&amp;quot;&amp;gt;Apple May Bring Android-Style Theft Detection to iPhones&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 28 May 2026 15:44:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-iphone-anti-snatching-lock-feature/</guid>
-      <dc:creator>David Curry</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>News</category>
-      <category>Operating Systems</category>
-      <category>Security</category>
-      <category>Android Theft Detection Lock</category>
-      <category>Apple privacy</category>
-      <category>editors picks</category>
-      <category>ios</category>
-      <category>iphone</category>
-      <category>iphone security</category>
-      <category>mobile security</category>
-      <category>phone theft</category>
-      <category>smartphone theft</category>
-      <category>Stolen Device Protection</category>
-    </item>
-    <item>
-      <title>Agentic AI Isn&amp;apos;t Risky; the Way Orgs Deploy It Is</title>
-      <link>https://www.darkreading.com/application-security/agentic-ai-risky</link>
-      <description>AI agents aren&amp;apos;t black boxes — they&amp;apos;re models interacting with software tools. The risk lies in their overlap.</description>
-      <pubDate>Thu, 28 May 2026 15:36:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/agentic-ai-risky</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Attackers Move Past Typosquatting to Realistic Package Impersonation</title>
-      <link>https://www.infosecurity-magazine.com/news/attackers-beyond-typosquatting/</link>
-      <description>Most malicious open source packages now mimic real code rather than rely on typosquatting</description>
-      <pubDate>Thu, 28 May 2026 15:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-beyond-typosquatting/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer</title>
-      <link>https://thehackernews.com/2026/05/threat-actors-exploit-critical.html</link>
-      <description>Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer.
-
-&amp;quot;The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,&amp;quot; Arctic Wolf said. &amp;quot;Threat actors disguised the credential stealer</description>
-      <pubDate>Thu, 28 May 2026 20:56:04 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/threat-actors-exploit-critical.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google’s $135M Android Privacy Settlement: Who May Be Eligible</title>
-      <link>https://www.techrepublic.com/article/news-google-android-privacy-settlement/</link>
-      <description>&amp;lt;p&amp;gt;Google’s $135 million Android settlement could pay eligible US users who used Android devices with cellular data since November 2017.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-android-privacy-settlement/&amp;quot;&amp;gt;Google’s $135M Android Privacy Settlement: Who May Be Eligible&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 28 May 2026 15:08:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-android-privacy-settlement/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Hardware</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>android</category>
-      <category>android privacy</category>
-      <category>class action settlement</category>
-      <category>data privacy</category>
-      <category>google settlement</category>
-      <category>mobile data</category>
-      <category>privacy lawsuit</category>
-      <category>user data</category>
-    </item>
-    <item>
-      <title>Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal</title>
-      <link>https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html</link>
-      <description>Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.
-
-The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day</description>
-      <pubDate>Thu, 28 May 2026 19:23:52 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More</title>
-      <link>https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html</link>
-      <description>Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a &amp;quot;minor&amp;quot; foothold into total account</description>
-      <pubDate>Thu, 28 May 2026 19:03:16 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security</title>
-      <link>https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security</link>
-      <description>In this latest installment of the Reporters&amp;apos; Notebook video series, we discuss how cyber insurance is forcing organizations to quantify risk, what&amp;apos;s covered (and what&amp;apos;s not), and why this could be the best thing to happen to cybersecurity.</description>
-      <pubDate>Thu, 28 May 2026 12:29:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security</guid>
-      <dc:creator>Fahmida Y. Rashid, Kristina Beek</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
