@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Jun 2026 20:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:01:19 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,24 @@
       <description/>
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Zoom CISO: AI as Security Enabler, Not Role-Replacer</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer</link>
+      <description>As Zoom&amp;apos;s CISO, Sandra McLeod, discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and advice for aspiring cybersecurity leaders.</description>
+      <pubDate>Tue, 02 Jun 2026 21:51:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer</guid>
+      <dc:creator>Kristina Beek</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>FBI-Flagged Phishing Kit Kali365 Expands Its Reach</title>
+      <link>https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach</link>
+      <description>Once targeting just Microsoft 365, the phishing-as-a-service platform now aims at AWS, Okta, and Russian platforms, while relying on device code phishing.</description>
+      <pubDate>Tue, 02 Jun 2026 21:32:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1252,23 +1270,6 @@ The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Ec
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security</guid>
       <dc:creator>Fahmida Y. Rashid, Kristina Beek</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Condemns &amp;quot;Uncoordinated&amp;quot; Zero Day Disclosures</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-uncoordinated-zeroday/</link>
-      <description>Microsoft warned the disclosure of several unpatched vulnerabilities without notice has put “customers at unnecessary risk”</description>
-      <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-uncoordinated-zeroday/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI &amp;quot;Power users&amp;quot;</title>
-      <link>https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html</link>
-      <description>State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don&amp;apos;t understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a</description>
-      <pubDate>Thu, 28 May 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
