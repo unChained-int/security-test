@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 04 Jun 2026 03:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:54:45 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,90 @@
       <description/>
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: How Businesses Can Prepare for a Cybersecurity Crisis with Effective Plans</title>
+      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/</link>
+      <description>Cybersecurity and business leaders with experience of dealing with major incidents from within the NCSC and at JLR detail what you need to prioritize if your organization is hit by a cyber-attack</description>
+      <pubDate>Thu, 04 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Ukraine’s Experience Highlights the Need for Preparation and Resilience in Cybersecurity</title>
+      <link>https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/</link>
+      <description>Former Ukrainian foreign minister, Dmytro Kuleba, urges Infosecurity Europe attendees to fight the good fight</description>
+      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Cisco Warns of Available PoC for Critical Unified CM Vulnerability</title>
+      <link>https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/</link>
+      <description>&amp;lt;p&amp;gt;The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/&amp;quot;&amp;gt;Cisco Warns of Available PoC for Critical Unified CM Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 04 Jun 2026 08:44:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Cisco</category>
+      <category>PoC</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>VS Code Vulnerability Allows One-Click GitHub Token Theft</title>
+      <link>https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/</link>
+      <description>&amp;lt;p&amp;gt;A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/&amp;quot;&amp;gt;VS Code Vulnerability Allows One-Click GitHub Token Theft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 04 Jun 2026 08:14:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>GitHub</category>
+      <category>VS Code</category>
+      <category>vulnerability</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Raise Security Concerns with Procurement Now, Because Quantum Can’t Wait</title>
+      <link>https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/</link>
+      <description>Forescout VP of security intelligence, Rik Ferguson, warns that Q-day is fast approaching</description>
+      <pubDate>Thu, 04 Jun 2026 07:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog</title>
+      <link>https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted</description>
+      <pubDate>Thu, 04 Jun 2026 12:49:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets</title>
+      <link>https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html</link>
+      <description>The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.
+
+The &amp;quot;Disruption Week&amp;quot; operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational</description>
+      <pubDate>Thu, 04 Jun 2026 11:36:25 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Pakistan Spies on Afghan Finance Ministry With Xeno RAT</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat</link>
+      <description>Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan&amp;apos;s porous cybersecurity.</description>
+      <pubDate>Thu, 04 Jun 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat</guid>
+      <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -247,6 +331,7 @@ GitHub supports a feature called GitHub.dev that runs as</description>
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Malware &amp;amp; Threats</category>
       <category>espionage</category>
+      <category>Featured</category>
       <category>stock exchange</category>
     </item>
     <item>
@@ -398,6 +483,15 @@ CVE-2026-33829 refers to a spoofing vulnerability that could expose</description
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Lessons for life: Why children’s data is a long-term identity risk</title>
+      <link>https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/</link>
+      <description>Your child’s first data breach may happen before they’ve even opened a bank account. Here’s how to keep their digital life safe.</description>
+      <pubDate>Wed, 03 Jun 2026 08:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Kids Online</category>
+    </item>
+    <item>
       <title>New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy &amp;amp; Cloudflare</title>
       <link>https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html</link>
       <description>Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.
@@ -463,21 +557,6 @@ The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed We
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks</title>
-      <link>https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/</link>
-      <description>&amp;lt;p&amp;gt;The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/&amp;quot;&amp;gt;Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 20:10:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Government</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>Policy</category>
     </item>
     <item>
       <title>China Uses Dual-Method Cyberattack on Czech Orgs</title>
@@ -555,20 +634,6 @@ The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated a
       <guid isPermaLink="true">https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis</title>
-      <link>https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/</link>
-      <description>&amp;lt;p&amp;gt;As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/&amp;quot;&amp;gt;Two New Reports Offer Competing Explanations for Cybersecurity&amp;amp;#8217;s Growing Crisis&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 16:35:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Application Security</category>
-      <category>Vulnerabilities</category>
-      <category>AI</category>
-      <category>vulnerabilities</category>
     </item>
     <item>
       <title>Fake Claude Code Installers Deliver Credential-Stealing Malware</title>
@@ -1137,109 +1202,6 @@ The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case 
 &amp;quot;Authentication bypass vulnerabilities in the</description>
       <pubDate>Sat, 30 May 2026 12:11:26 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Another Squid</title>
-      <link>https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html</link>
-      <description>&amp;lt;p&amp;gt;Someone named &amp;amp;#8220;Squid&amp;amp;#8221; seems to be a &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://crackmagazine.net/2026/05/simple-things-2026-line-up/&amp;quot;&amp;gt;West Country legend&amp;lt;/a&amp;gt;.&amp;amp;#8221;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 29 May 2026 21:05:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>music</category>
-      <category>squid</category>
-    </item>
-    <item>
-      <title>Name That Toon: Mark of (Cybersecurity) Progress</title>
-      <link>https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress</link>
-      <description>As part of Dark Reading&amp;apos;s 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry&amp;apos;s last two decades.</description>
-      <pubDate>Fri, 29 May 2026 20:22:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress</guid>
-      <dc:creator>John Klossner</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface</title>
-      <link>https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html</link>
-      <description>Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant&amp;apos;s implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.
-
-The technique has been codenamed ChatGPhish by Permiso Security.
-
-&amp;quot;The chatgpt.com response renderer trusts Markdown links and Markdown</description>
-      <pubDate>Fri, 29 May 2026 23:37:12 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Dexcom Warns Stolen G7 Glucose Sensors May Pose Infection, Reading Risks</title>
-      <link>https://www.techrepublic.com/article/news-dexcom-g7-stolen-sensors-resold/</link>
-      <description>&amp;lt;p&amp;gt;Dexcom says stolen G7 sensors from two scrapped lots were sold through unauthorized channels, creating infection and reading-failure risks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-dexcom-g7-stolen-sensors-resold/&amp;quot;&amp;gt;Dexcom Warns Stolen G7 Glucose Sensors May Pose Infection, Reading Risks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 29 May 2026 18:06:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-dexcom-g7-stolen-sensors-resold/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>continuous glucose monitor</category>
-      <category>dexcom</category>
-      <category>dexcom g7</category>
-      <category>diabetes technology</category>
-      <category>healthcare supply chain</category>
-      <category>medical devices</category>
-      <category>patient safety</category>
-      <category>pharmsource</category>
-    </item>
-    <item>
-      <title>As Global Powers Explore Humanoid Robots, Cyber-Risk Looms</title>
-      <link>https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</link>
-      <description>The future of cybersecurity is germinating, as nation-states vie for dominance in the embodied AI market and its supply chain.</description>
-      <pubDate>Fri, 29 May 2026 15:56:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Carnival Data Breach Exposes Data of Nearly 6 Million Customers</title>
-      <link>https://www.techrepublic.com/article/news-carnival-data-breach-6-million-customers/</link>
-      <description>&amp;lt;p&amp;gt;Carnival says a data breach exposed personal information of nearly 6 million customers after a social engineering attack tied to a single employee account.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-carnival-data-breach-6-million-customers/&amp;quot;&amp;gt;Carnival Data Breach Exposes Data of Nearly 6 Million Customers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 29 May 2026 15:50:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-carnival-data-breach-6-million-customers/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>carnival</category>
-      <category>customer data</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>holland america</category>
-      <category>identity theft</category>
-      <category>mariner society</category>
-      <category>shinyhunters</category>
-      <category>social engineering</category>
-    </item>
-    <item>
-      <title>Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit</title>
-      <link>https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html</link>
-      <description>An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability.
-
-&amp;quot;The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised</description>
-      <pubDate>Fri, 29 May 2026 20:09:56 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
