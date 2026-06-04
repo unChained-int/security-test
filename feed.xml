@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 03 Jun 2026 20:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 03:56:00 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,45 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Use AI to Automate EDR Evasion Testing</title>
+      <link>https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing</link>
+      <description>Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.</description>
+      <pubDate>Wed, 03 Jun 2026 21:34:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple’s 2026 Security Events: iPhone Exploits, Zero-Days Put Millions at Risk</title>
+      <link>https://www.techrepublic.com/article/news-apple-security-roundup-june-2026/</link>
+      <description>&amp;lt;p&amp;gt;Apple’s 2026 security year includes zero-days, iPhone exploit kits, WebKit fixes, and background patches that users and IT teams need to track.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-security-roundup-june-2026/&amp;quot;&amp;gt;Apple’s 2026 Security Events: iPhone Exploits, Zero-Days Put Millions at Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 03 Jun 2026 20:09:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-security-roundup-june-2026/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Hardware</category>
+      <category>International</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Smartphones</category>
+      <category>cybersecurity</category>
+      <category>DarkSword</category>
+      <category>editors picks</category>
+      <category>endpoint security</category>
+      <category>enterprise security</category>
+      <category>ios</category>
+      <category>iphone</category>
+      <category>macos</category>
+      <category>mobile security</category>
+      <category>security updates</category>
+      <category>webkit</category>
+      <category>zero day</category>
     </item>
     <item>
       <title>Tropical Blend: Cyber &amp;amp;amp; Politics Ramp Up Across Latin America</title>
@@ -79,6 +118,25 @@ No malicious app on the phone is required. The assistant just had to treat a hos
       <guid isPermaLink="true">https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited</title>
+      <link>https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/</link>
+      <description>&amp;lt;p&amp;gt;CISA added Oracle WebLogic flaw CVE-2024-21182 to its KEV catalog, giving federal agencies until June 4 to patch exposed servers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/&amp;quot;&amp;gt;CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 03 Jun 2026 15:56:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>CISA</category>
+      <category>developer</category>
+      <category>oracle</category>
+      <category>oracle vulnerability</category>
+      <category>weblogic</category>
     </item>
     <item>
       <title>Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore</title>
@@ -1184,32 +1242,6 @@ The technique has been codenamed ChatGPhish by Permiso Security.
       <guid isPermaLink="true">https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Asia&amp;apos;s Cyber Insurance Market Shows Signs of Life</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life</link>
-      <description>The cyber insurance industry has made relatively weak inroads into Asia due to a variety of factors, but that could be changing.</description>
-      <pubDate>Fri, 29 May 2026 14:35:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>With Complex Cloud Integrations, Small Errors Lead to Major Compromises</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises</link>
-      <description>Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.</description>
-      <pubDate>Fri, 29 May 2026 13:00:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Silent Ransom Group Uses In-Person IT Impersonation to Breach Systems</title>
-      <link>https://www.infosecurity-magazine.com/news/silent-ransom-group-it/</link>
-      <description>Threat actors from the Silent Ransom Group, aka Luna Moth, are escalating attacks by impersonating IT staff in phone calls and even showing up in person to gain direct access to victim systems</description>
-      <pubDate>Fri, 29 May 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/silent-ransom-group-it/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
