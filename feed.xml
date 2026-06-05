@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 04 Jun 2026 20:04:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 03:40:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,33 @@
       <description/>
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Rust-Written IronWorm Hits NPM Supply Chain</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain</link>
+      <description>Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel.</description>
+      <pubDate>Thu, 04 Jun 2026 21:47:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China&amp;apos;s TA4922 Expands Cybercrime Attacks Globally</title>
+      <link>https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally</link>
+      <description>One of the world&amp;apos;s most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.</description>
+      <pubDate>Thu, 04 Jun 2026 21:23:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>4 Critical Threats Where Attackers Have the Advantage</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage</link>
+      <description>Gartner analysts issued a call to action to bolster defenses against several emerging critical threats, such as deepfakes and prompt injections.</description>
+      <pubDate>Thu, 04 Jun 2026 21:08:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage</guid>
+      <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1269,35 +1296,6 @@ On May 31, 2026, the company said an &amp;quot;external&amp;quot; threat actor l
       <pubDate>Tue, 02 Jun 2026 01:41:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Anthropic to Open Mythos AI to EU&amp;apos;s ENISA</title>
-      <link>https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa</link>
-      <description>The European security agency&amp;apos;s entry to Project Glasswing is the result of &amp;amp;quot;strong bilateral cooperation&amp;amp;quot; between the European Commission and Anthropic.</description>
-      <pubDate>Mon, 01 Jun 2026 21:07:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft&amp;apos;s Zero-Day Legal Threats Spark Backlash</title>
-      <link>https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash</link>
-      <description>After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.</description>
-      <pubDate>Mon, 01 Jun 2026 18:52:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm</title>
-      <link>https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html</link>
-      <description>A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm.
-
-&amp;quot;This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential</description>
-      <pubDate>Mon, 01 Jun 2026 23:10:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
