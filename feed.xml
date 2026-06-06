@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 06 Jun 2026 03:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 08:32:34 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,51 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs</title>
+      <link>https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html</link>
+      <description>Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent.
+
+The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release.
+
+Only the FFmpeg bugs were found by AI.</description>
+      <pubDate>Sat, 06 Jun 2026 12:58:30 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack</title>
+      <link>https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html</link>
+      <description>Microsoft&amp;apos;s GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.
+
+The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories.
+
+&amp;quot;Access to this</description>
+      <pubDate>Sat, 06 Jun 2026 12:28:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available</title>
+      <link>https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html</link>
+      <description>Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.
+
+The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types -
+
+
+  On-Prem Deployment
+  Cisco SD-WAN Cloud-Pro
+  Cisco SD-WAN Cloud (Cisco Managed)
+  Cisco SD-WAN for Government (FedRAMP)
+
+&amp;quot;A</description>
+      <pubDate>Sat, 06 Jun 2026 09:49:28 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Exposed Fuel Tank Gauges Under Attack in the US</title>
@@ -211,6 +256,14 @@ ReliaQuest has assessed with moderate to high confidence that the espionage-focu
       <category>ShinyHunters</category>
     </item>
     <item>
+      <title>Infosecurity Europe: Practical Lessons From Lloyds&amp;apos; Agentic AI Security Playbook</title>
+      <link>https://www.infosecurity-magazine.com/news/lloyds-agentic-ai-security-playbook/</link>
+      <description>Lloyds Banking Group shared its approach for securing agentic AI workflows, with a mix of hands on experimentation and cross functional governance</description>
+      <pubDate>Fri, 05 Jun 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lloyds-agentic-ai-security-playbook/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver</title>
       <link>https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html</link>
       <description>Eighteen months ago, the AI SOC was a marketing line. Today it&amp;apos;s a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest</description>
@@ -233,6 +286,14 @@ ReliaQuest has assessed with moderate to high confidence that the espionage-focu
       <category>vulnerability</category>
     </item>
     <item>
+      <title>Infosecurity Europe: OWASP Introduces Agentic AI Security Maturity Framework</title>
+      <link>https://www.infosecurity-magazine.com/news/owasp-agentic-ai-security-maturity/</link>
+      <description>The OWASP agentic AI security framework helps organizations assess governance maturity vs adoption and adjust governance as needed</description>
+      <pubDate>Fri, 05 Jun 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/owasp-agentic-ai-security-maturity/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday</title>
       <link>https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/</link>
       <description>&amp;lt;p&amp;gt;Experts commented on the EO’s voluntary nature, the balance between innovation and security, and potential implementation gaps.&amp;lt;/p&amp;gt;
@@ -245,6 +306,14 @@ ReliaQuest has assessed with moderate to high confidence that the espionage-focu
       <category>AI</category>
       <category>executive order</category>
       <category>Feedback Friday</category>
+    </item>
+    <item>
+      <title>Infosecurity Europe: AI Coding Tools Need Built-In Security for Agentic Development Era</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-coding-tools-security-agentic/</link>
+      <description>Ox Security field CTO, Boaz Barzel, makes the case for vibe security to tackle AI agent coding risks</description>
+      <pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-coding-tools-security-agentic/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities</title>
@@ -272,6 +341,14 @@ The vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code 
       <guid isPermaLink="true">https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Reactive Security Is Failing Healthcare Organizations, Experts Warn</title>
+      <link>https://www.infosecurity-magazine.com/news/reactive-security-failing/</link>
+      <description>A perfect storm of legacy devices, hyper connectivity and human fatigue is bad news for the healthcare sector, warns Cyber Salus</description>
+      <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/reactive-security-failing/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals</title>
@@ -477,6 +554,14 @@ The flaw is a server-side request forgery.</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Everest Forms Pro Vulnerability Allows Remote Code Execution on WordPress Sites</title>
+      <link>https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/</link>
+      <description>Critical Everest Forms Pro RCE flaw exploited to create rogue WordPress admin accounts</description>
+      <pubDate>Thu, 04 Jun 2026 16:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Google Reportedly Wants Android App Code From Play Store Developers</title>
       <link>https://www.techrepublic.com/article/news-apac-google-android-code-offer/</link>
       <description>&amp;lt;p&amp;gt;Google is reportedly offering select Play Store developers payment for access to app source code. For Android developers in APAC, the offer raises questions about IP rights, security risks, AI-use terms, and local data obligations before signing.&amp;lt;/p&amp;gt;
@@ -670,6 +755,38 @@ Read the whole thing before it ruins your week anyway.
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Chinese-Speaking Actor TA4922 Widens Its Global Reach</title>
+      <link>https://www.infosecurity-magazine.com/news/ta4922-global-expansion/</link>
+      <description>Newly named Chinese-speaking actor TA4922 expands from East Asia into Europe and Africa</description>
+      <pubDate>Thu, 04 Jun 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ta4922-global-expansion/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: AI Adoption Creates New Opportunities for Attackers to Distribute Malware, Microsoft Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/attackers-ai-adoption-malware/</link>
+      <description>Microsoft Detection and Response Team (DART) details how it has uncovered malicious AI applications as cyber criminals manipulate organizations adopting AI tools</description>
+      <pubDate>Thu, 04 Jun 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-ai-adoption-malware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Mythos Outperforms GPT5.5 on Google Chrome Vulnerability Exploits, Says New Benchmark</title>
+      <link>https://www.infosecurity-magazine.com/news/mythos-gpt-chrome-exploits/</link>
+      <description>A Bugcrowd researcher has unveiled ExploitBench, an independent benchmark of AI models for vulnerability exploitation</description>
+      <pubDate>Thu, 04 Jun 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mythos-gpt-chrome-exploits/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: How Proton Fights Against Cybercriminals Using Its Services</title>
+      <link>https://www.infosecurity-magazine.com/news/how-proton-fights-against/</link>
+      <description>Proton uses machine learning models to detect abuse of its services – especially email addresses used by cybercriminals</description>
+      <pubDate>Thu, 04 Jun 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/how-proton-fights-against/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa</title>
       <link>https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html</link>
       <description>A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa.
@@ -729,6 +846,30 @@ Symantec and Carbon Black&amp;apos;s Threat Hunter Team reported the campaign th
       <guid isPermaLink="true">https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: How Businesses Can Prepare for a Cybersecurity Crisis with Effective Plans</title>
+      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/</link>
+      <description>Cybersecurity and business leaders with experience of dealing with major incidents from within the NCSC and at JLR detail what you need to prioritize if your organization is hit by a cyber-attack</description>
+      <pubDate>Thu, 04 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Ukraine’s Experience Highlights the Need for Preparation and Resilience in Cybersecurity</title>
+      <link>https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/</link>
+      <description>Former Ukrainian foreign minister, Dmytro Kuleba, urges Infosecurity Europe attendees to fight the good fight</description>
+      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Raise Security Concerns with Procurement Now, Because Quantum Can’t Wait</title>
+      <link>https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/</link>
+      <description>Forescout VP of security intelligence, Rik Ferguson, warns that Q-day is fast approaching</description>
+      <pubDate>Thu, 04 Jun 2026 07:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets</title>
@@ -914,6 +1055,14 @@ Any other app on the same phone could ask for the signed-in user&amp;apos;s toke
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Infosecurity Europe: Vulnerability Management Innovator Konvu Wins Cyber Startup Award</title>
+      <link>https://www.infosecurity-magazine.com/news/konvu-wins-cyber-startup-award/</link>
+      <description>Inaugural Infosecurity Europe Cyber Startup Award Winner Impresses Panel with Ability Help Prioritize Vulnerabilities in AI era</description>
+      <pubDate>Wed, 03 Jun 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/konvu-wins-cyber-startup-award/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Request for Comments: PCI Data Security Standard (PCI DSS) v4.0.1</title>
       <link>https://blog.pcisecuritystandards.org/request-for-comments-pci-data-security-standard-pci-dss-v4.0.1</link>
       <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
@@ -966,6 +1115,14 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
       <category>machine learning</category>
     </item>
     <item>
+      <title>Trump Signs Order Inviting Voluntary Review of Frontier AI Models</title>
+      <link>https://www.infosecurity-magazine.com/news/trump-eo-voluntary-frontier-ai/</link>
+      <description>Trump&amp;apos;s executive order invites voluntary pre-release review of frontier AI models</description>
+      <pubDate>Wed, 03 Jun 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trump-eo-voluntary-frontier-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes</title>
       <link>https://thehackernews.com/2026/06/unpatched-windows-search-uri.html</link>
       <description>Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user&amp;apos;s NTLMv2 hash to the attacker.
@@ -979,6 +1136,14 @@ CVE-2026-33829 refers to a spoofing vulnerability that could expose</description
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Infosecurity Europe: How to Get Boards to Prioritize Cyber Risk Quantification</title>
+      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-board-cyber/</link>
+      <description>Cybersecurity leaders major companies discuss how they got support from the board on cyber risk</description>
+      <pubDate>Wed, 03 Jun 2026 10:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-board-cyber/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>Global Stock Exchange Hit by Monthslong Email Campaign</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign</link>
       <description>A threat actor got a near-continuous view into an influential finance executive&amp;apos;s email inbox, thanks to clever use of legitimate, native Windows tools.</description>
@@ -986,6 +1151,22 @@ CVE-2026-33829 refers to a spoofing vulnerability that could expose</description
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Anthropic Expands Mythos Access to 150 More Organizations</title>
+      <link>https://www.infosecurity-magazine.com/news/anthropic-glasswing-expansion/</link>
+      <description>Anthropic widens Project Glasswing access to 150 more firms as patching becomes the bottleneck</description>
+      <pubDate>Wed, 03 Jun 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/anthropic-glasswing-expansion/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Patch Responsibility Remains Up for Grabs as AI Unearths Decades of Flaws</title>
+      <link>https://www.infosecurity-magazine.com/news/patch-responsibility-ai-infosec/</link>
+      <description>The emergence of AI models capable to autonomously find and fix vulnerabilities at scale is having a significant impact on patching management, experts say</description>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/patch-responsibility-ai-infosec/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Lessons for life: Why children’s data is a long-term identity risk</title>
@@ -1008,6 +1189,22 @@ The vulnerability has been codenamed HTTP/2 Bomb by Calif.
       <guid isPermaLink="true">https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: Execs Must Treat Cyber Threats as Statecraft, ISACA Expert Say</title>
+      <link>https://www.infosecurity-magazine.com/news/execs-cisos-must-treat-cyber/</link>
+      <description>Private firms are being targeted by nation-state groups for reasons beyond finance, argued ISACA’s Bharat Thakrar</description>
+      <pubDate>Wed, 03 Jun 2026 08:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/execs-cisos-must-treat-cyber/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Infosecurity Europe: AI-Powered Cybercrime Tools Surge on Dark Web</title>
+      <link>https://www.infosecurity-magazine.com/news/cybercrime-ai-tools-surge-3800/</link>
+      <description>Halcyon’s Cynthia Kaiser lifts the lid on the dark web market for AI cybercrime tools</description>
+      <pubDate>Wed, 03 Jun 2026 07:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybercrime-ai-tools-surge-3800/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content</title>
@@ -1112,356 +1309,6 @@ Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path tra
       <guid isPermaLink="true">https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation</title>
-      <link>https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
-
-The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was</description>
-      <pubDate>Tue, 02 Jun 2026 23:44:42 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fake Claude Code Installers Deliver Credential-Stealing Malware</title>
-      <link>https://www.techrepublic.com/article/news-fake-claude-code-install-sites-malware/</link>
-      <description>&amp;lt;p&amp;gt;Fake Claude Code install sites are pushing malware that steals API keys, developer credentials, crypto wallets, and other sensitive data.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-claude-code-install-sites-malware/&amp;quot;&amp;gt;Fake Claude Code Installers Deliver Credential-Stealing Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 16:29:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-claude-code-install-sites-malware/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Anthropic</category>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>ai security</category>
-      <category>api keys</category>
-      <category>claude code</category>
-      <category>credential theft</category>
-      <category>developer tools</category>
-      <category>infostealer</category>
-      <category>malware</category>
-      <category>seo poisoning</category>
-    </item>
-    <item>
-      <title>Google Patches Android Zero-Day Vulnerability in June 2026 Security Update</title>
-      <link>https://www.techrepublic.com/article/news-google-june-2026-android-security-update/</link>
-      <description>&amp;lt;p&amp;gt;Google’s June 2026 Android update fixes dozens of flaws, including a potentially exploited Framework vulnerability and critical system bugs.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-june-2026-android-security-update/&amp;quot;&amp;gt;Google Patches Android Zero-Day Vulnerability in June 2026 Security Update&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 15:59:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-june-2026-android-security-update/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>android</category>
-      <category>android security</category>
-      <category>cybersecurity</category>
-      <category>google password manager</category>
-      <category>google play store</category>
-      <category>qualcomm</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>The AI Exchange: Innovators in Payment Security Featuring In-Solutions Global Ltd</title>
-      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-in-solutions-global-ltd</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-in-solutions-global-ltd&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring In-Solutions Global Ltd&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Adelia%20Castelino%20800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 15:32:05 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-in-solutions-global-ltd</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Artificial Intelligence (AI)</category>
-    </item>
-    <item>
-      <title>FBI Warning: World Cup Scammers Are Spoofing FIFA Tickets, Job Sites</title>
-      <link>https://www.techrepublic.com/article/news-fake-fifa-world-cup-sites-fbi-warning/</link>
-      <description>&amp;lt;p&amp;gt;The FBI warns that fake FIFA websites are targeting World Cup fans with phishing, ticket scams, fake merchandise, and job-related fraud.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-fifa-world-cup-sites-fbi-warning/&amp;quot;&amp;gt;FBI Warning: World Cup Scammers Are Spoofing FIFA Tickets, Job Sites&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 13:06:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-fifa-world-cup-sites-fbi-warning/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>2026 fifa world cup</category>
-      <category>bitdefender</category>
-      <category>cybersecurity</category>
-      <category>fbi</category>
-      <category>fifa</category>
-      <category>ghost stadium</category>
-      <category>group-ib</category>
-      <category>online fraud</category>
-      <category>phishing</category>
-      <category>spoofed websites</category>
-      <category>ticket scams</category>
-      <category>typosquatting</category>
-    </item>
-    <item>
-      <title>Update Now: Apple Rolls Out Critical Fixes for iPhone 17, M5 Macs</title>
-      <link>https://www.techrepublic.com/article/news-apple-ios-26-5-1-macos-26-5-1-bug-fixes/</link>
-      <description>&amp;lt;p&amp;gt;Apple released iOS 26.5.1 and macOS 26.5.1 to fix iPhone 17 charging issues and M5 Mac shutdown problems before WWDC.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-ios-26-5-1-macos-26-5-1-bug-fixes/&amp;quot;&amp;gt;Update Now: Apple Rolls Out Critical Fixes for iPhone 17, M5 Macs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 12:41:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-ios-26-5-1-macos-26-5-1-bug-fixes/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Hardware</category>
-      <category>Innovation</category>
-      <category>International</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>ios 26.5.1</category>
-      <category>iphone</category>
-      <category>iphone 17</category>
-      <category>iphone air</category>
-      <category>m5 macs</category>
-      <category>Mac</category>
-      <category>macos 26.5.1</category>
-      <category>software update</category>
-      <category>wwdc</category>
-    </item>
-    <item>
-      <title>Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense</title>
-      <link>https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense</link>
-      <description>Twenty years after Dark Reading launched, we&amp;apos;re looking ahead at what&amp;apos;s next for enterprise security. Spoiler: It&amp;apos;s hyper-segmented, AI-orchestrated, and way more sophisticated than your dad&amp;apos;s firewall.</description>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense</guid>
-      <dc:creator>Fahmida Y. Rashid, Tara Seals</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.</title>
-      <link>https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html</link>
-      <description>AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days.
-
-The industry&amp;apos;s</description>
-      <pubDate>Tue, 02 Jun 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The Intersection of Encryption and AI</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;As part of their 20th Anniversary celebration, &amp;lt;a href=&amp;quot;https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue&amp;quot;&amp;gt;&amp;lt;cite&amp;gt;Dark Reading&amp;lt;/cite&amp;gt;&amp;lt;/a&amp;gt; asked five cybersecurity industry leaders who wrote blogs or columns for them over the years to select their favorite piece and share their reflections on the topic today. This is my section.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Renowned technologist and author Bruce Schneier contributed a column on June 20, 2010, warning about &amp;lt;a href=&amp;quot;https://www.darkreading.com/cyber-risk/the-failure-of-cryptography-to-secure-modern-networks&amp;quot;&amp;gt;cryptography&amp;amp;#8217;s inability to secure modern networks&amp;lt;/a&amp;gt;, a point he says he has been trying to argue since 2000.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;amp;#8220;For a while now, I&amp;amp;#8217;ve pointed out that cryptography is singularly ill-suited to solve the major network security problems of today: denial-of-service attacks, website defacement, theft of credit card numbers, identity theft, viruses and worms, DNS attacks, network penetration, and so on...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 11:06:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>Applied Cryptography</category>
-      <category>cryptography</category>
-      <category>cybersecurity</category>
-    </item>
-    <item>
-      <title>Microsoft Threatening Security Researcher</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html</link>
-      <description>&amp;lt;p&amp;gt;An anonymous security researcher called &amp;amp;#8220;Nightmare Eclipse&amp;amp;#8221; has been &amp;lt;a href=&amp;quot;https://deadeclipse666.blogspot.com/&amp;quot;&amp;gt;publishing&amp;lt;/a&amp;gt; a series of significant security exploits against Microsoft Windows&amp;amp;#8212;including one that &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/&amp;quot;&amp;gt;breaks&amp;lt;/a&amp;gt; BitLocker. Microsoft has &amp;lt;a href=&amp;quot;https://www.microsoft.com/en-us/msrc/blog/2026/05/a-shared-responsibility-protecting-customers-through-coordinated-vulnerability-disclosure&amp;quot;&amp;gt;threatened&amp;lt;/a&amp;gt; legal action against the researcher. Lots of recriminations are being &amp;lt;a href=&amp;quot;https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/&amp;quot;&amp;gt;traded&amp;lt;/a&amp;gt; back and forth.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 11:00:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>exploits</category>
-      <category>Microsoft</category>
-      <category>zero-day</category>
-    </item>
-    <item>
-      <title>How Leading Organizations Are Turning EDR Into Operational Resilience</title>
-      <link>https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html</link>
-      <description>Most organizations now recognize that endpoint protection alone is no longer sufficient.
-
-That&amp;apos;s why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment.
-
-But owning EDR</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT</title>
-      <link>https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html</link>
-      <description>Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan&amp;apos;s Ministry of Finance with an open-source remote access trojan called Xeno RAT.
-
-&amp;quot;The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,&amp;quot;</description>
-      <pubDate>Tue, 02 Jun 2026 14:35:40 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Strava Tightens API Access as AI Scraping Concerns Grow Ahead of IPO</title>
-      <link>https://www.techrepublic.com/article/news-strava-api-scraping-crackdown/</link>
-      <description>&amp;lt;p&amp;gt;Strava’s latest API and access changes add new subscription, compliance, and data-use questions for developers building apps on top of the fitness platform.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-strava-api-scraping-crackdown/&amp;quot;&amp;gt;Strava Tightens API Access as AI Scraping Concerns Grow Ahead of IPO&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 02 Jun 2026 08:37:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-strava-api-scraping-crackdown/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI</category>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>Applications</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>Data Security</category>
-      <category>Developer</category>
-      <category>Enterprise Technology</category>
-      <category>News</category>
-      <category>AI governance</category>
-      <category>AI scraping</category>
-      <category>api</category>
-      <category>api security</category>
-      <category>data governance</category>
-      <category>data privacy</category>
-      <category>developer tools</category>
-      <category>fitness apps</category>
-      <category>IPO</category>
-      <category>platform data</category>
-      <category>saas security</category>
-      <category>Strava</category>
-    </item>
-    <item>
-      <title>Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded</title>
-      <link>https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html</link>
-      <description>Password manager Dashlane has disclosed that &amp;quot;fewer than&amp;quot; 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party.
-
-On May 31, 2026, the company said an &amp;quot;external&amp;quot; threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)</description>
-      <pubDate>Tue, 02 Jun 2026 09:25:25 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Surviving a LockBit Ransomware Attack: The ROI of Visibility | UpGuard</title>
-      <link>https://www.upguard.com/blog/surviving-a-lockbit-ransomware-attack</link>
-      <description>Read how veteran CISO Nick Gicinto saved his alma mater from a LockBit ransomware attack by discarding the standard playbook.</description>
-      <pubDate>Tue, 02 Jun 2026 01:41:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/surviving-a-lockbit-ransomware-attack</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>12 Best Third-Party Risk Management Software Solutions (2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</link>
-      <description>Learn which contenders are the top TPRM solution options in the market. Compare their features to make the best decision based on your requirements.</description>
-      <pubDate>Tue, 02 Jun 2026 01:41:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Anthropic to Open Mythos AI to EU&amp;apos;s ENISA</title>
-      <link>https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa</link>
-      <description>The European security agency&amp;apos;s entry to Project Glasswing is the result of &amp;amp;quot;strong bilateral cooperation&amp;amp;quot; between the European Commission and Anthropic.</description>
-      <pubDate>Mon, 01 Jun 2026 21:07:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft&amp;apos;s Zero-Day Legal Threats Spark Backlash</title>
-      <link>https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash</link>
-      <description>After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.</description>
-      <pubDate>Mon, 01 Jun 2026 18:52:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm</title>
-      <link>https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html</link>
-      <description>A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm.
-
-&amp;quot;This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential</description>
-      <pubDate>Mon, 01 Jun 2026 23:10:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts</title>
-      <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
-      <description>The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta&amp;apos;s &amp;quot;AI support assistant&amp;quot; bot into resetting account passwords.</description>
-      <pubDate>Mon, 01 Jun 2026 17:32:50 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Latest Warnings</category>
-      <category>The Coming Storm</category>
-      <category>Web Fraud 2.0</category>
-      <category>Black Lotus Labs</category>
-      <category>Ian Goldin</category>
-      <category>Instagram</category>
-      <category>Meta</category>
-    </item>
-    <item>
-      <title>Vulnerability Disclosure in the Age of AI</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html</link>
-      <description>&amp;lt;p&amp;gt;New article: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss2/CDR_V11_N2_Hathaway.pdf&amp;quot;&amp;gt;Responsible Disclosure in the Age of AI: A Call for Urgent Action&amp;lt;/a&amp;gt;,&amp;amp;#8221; by Melissa Hathaway.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed and scale. This development exposes decades of accumulated technical debt created by a software industry that prioritized rapid deployment over secure-by-design engineering practices. Drawing on the evolution of software assurance, vulnerability disclosure frameworks, and U.S. cyber policy, this perspective argues that the current moment represents a strategic inflection point for governments, industry, and critical infrastructure operators. The author examines the growing tension between offensive and defensive equities in cyberspace, the emergence of AI-enabled vulnerability discovery capabilities in both the U.S. and China, and the increasing risks posed by unsupported legacy systems and AI-assisted code generation practices. Responsible disclosure can no longer remain a reactive or fragmented process, but must become a coordinated national and international resilience effort involving governments, software vendors, infrastructure operators, and emergency response organizations. The article concludes with an urgent call for accelerated remediation, large-scale patch management coordination, and sustained investment in automated vulnerability repair capabilities before adversaries exploit this rapidly narrowing window of opportunity...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 01 Jun 2026 16:49:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>AI</category>
-      <category>disclosure</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Google Chrome’s New Feature Takes Aim at Cookie Theft, Account Hijacking</title>
-      <link>https://www.techrepublic.com/article/news-google-chrome-dbsc-session-cookie-theft/</link>
-      <description>&amp;lt;p&amp;gt;Chrome’s DBSC update binds login sessions to user devices, making stolen session cookies harder to reuse in account hijacking attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-dbsc-session-cookie-theft/&amp;quot;&amp;gt;Google Chrome’s New Feature Takes Aim at Cookie Theft, Account Hijacking&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 01 Jun 2026 15:30:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-dbsc-session-cookie-theft/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Browsers</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>browser security</category>
-      <category>cookie theft</category>
-      <category>cybersecurity</category>
-      <category>dbsc</category>
-      <category>device bound session credentials</category>
-      <category>google chrome</category>
-      <category>Google Workspace</category>
-      <category>infostealer malware</category>
-      <category>session cookies</category>
-      <category>session hijacking</category>
     </item>
   </channel>
 </rss>
