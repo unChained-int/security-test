@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 15:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:13:27 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,66 @@
       <description/>
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Iran Signed a Ceasefire — Its Hackers Didn&amp;apos;t</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers</link>
+      <description>An extension of the Geneva Conventions could impose restrictions on cyberwarfare under ceasefire conditions and close a major loophole in international conflict.</description>
+      <pubDate>Mon, 08 Jun 2026 19:07:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers</guid>
+      <dc:creator>Emil Sayegh</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>A Security Raises $37 Million for Autonomous Offensive Security Platform</title>
+      <link>https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/</link>
+      <description>&amp;lt;p&amp;gt;The company founded by Yossi Torati, Omer Gull, and Yuval Itzchakov has emerged from stealth mode.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/&amp;quot;&amp;gt;A Security Raises $37 Million for Autonomous Offensive Security Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 08 Jun 2026 17:19:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>A Security</category>
+      <category>funding</category>
+    </item>
+    <item>
+      <title>Meta Blocks NSO Group&amp;apos;s New WhatsApp Phishing Attack, Files Contempt Order</title>
+      <link>https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html</link>
+      <description>Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group.
+
+In addition, the tech giant said it&amp;apos;s filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users.
+
+&amp;quot;They tried to trick people into clicking on malicious links to drive them to external websites</description>
+      <pubDate>Mon, 08 Jun 2026 22:38:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Zcash Vulnerability Found and Fixed</title>
+      <link>https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html</link>
+      <description>&amp;lt;p&amp;gt;If you&amp;amp;#8217;re a user&amp;amp;#8212;owner?&amp;amp;#8212;of this cryptocurrency, &amp;lt;a href=&amp;quot;https://securityaffairs.com/193224/hacking/claude-opus-found-a-four-year-old-hole-in-zcashs-privacy-layer-nobody-knows-if-someone-already-used-it.html&amp;quot;&amp;gt;this&amp;lt;/a&amp;gt; is important:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found one fast enough to be embarrassing.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The Orchard pool is the newest and most advanced shielded transaction system in the cryptocurrency Zcash. Introduced in 2022, it allows users to send and receive ZEC while keeping transaction details private. It uses zero-knowledge proofs to validate transactions without revealing amounts or participants. The bug: a specific check that was supposed to validate transaction inputs wasn&amp;amp;#8217;t actually enforcing the rules it appeared to enforce. An attacker could have exploited the flaw to feed false inputs into that check and generate ZEC from nothing, with the zero-knowledge proof system blessing the fraudulent transaction as valid...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 08 Jun 2026 17:06:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>&amp;apos;Hades&amp;apos; Campaign Against PyPI Puts New Spin on Shai-Hulud</title>
+      <link>https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud</link>
+      <description>The latest attacks, which hit 37 PyPI wheels and 19 code packages, show a continued evolution of the persistent software supply chain threat.</description>
+      <pubDate>Mon, 08 Jun 2026 16:13:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -30,6 +90,35 @@
       <category>AI</category>
       <category>Software</category>
       <category>vibe coding</category>
+    </item>
+    <item>
+      <title>OpenAI Expands ChatGPT Lockdown Mode to Millions of Eligible Users</title>
+      <link>https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/</link>
+      <description>&amp;lt;p&amp;gt;OpenAI is expanding ChatGPT Lockdown Mode to more users, limiting web-connected tools to reduce the risks of prompt injection and data leakage.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/&amp;quot;&amp;gt;OpenAI Expands ChatGPT Lockdown Mode to Millions of Eligible Users&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:21:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Applications</category>
+      <category>Artificial Intelligence</category>
+      <category>Chatbots</category>
+      <category>ChatGPT</category>
+      <category>Cybersecurity</category>
+      <category>Innovation</category>
+      <category>News</category>
+      <category>OpenAI</category>
+      <category>Security</category>
+      <category>ai agents</category>
+      <category>ai security</category>
+      <category>chatgpt</category>
+      <category>cybersecurity</category>
+      <category>data exfiltration</category>
+      <category>enterprise ai</category>
+      <category>generative ai</category>
+      <category>Lockdown Mode</category>
+      <category>openai</category>
+      <category>prompt injection</category>
     </item>
     <item>
       <title>North Korean Hackers Use Fake Coding Tasks to Steal Crypto</title>
@@ -98,6 +187,31 @@ A chatbot got fooled. A bot token got leaked inside the malware. The same old mi
       <guid isPermaLink="true">https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic’s Mythos AI Reportedly Enters NSA Offensive Cyber Planning</title>
+      <link>https://www.techrepublic.com/article/news-anthropic-nsa-mythos-ai-cyber-operations/</link>
+      <description>&amp;lt;p&amp;gt;Anthropic engineers are reportedly helping the NSA use Claude Mythos for cyber operations despite the Pentagon’s supply-chain risk label.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-anthropic-nsa-mythos-ai-cyber-operations/&amp;quot;&amp;gt;Anthropic’s Mythos AI Reportedly Enters NSA Offensive Cyber Planning&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 08 Jun 2026 13:17:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-anthropic-nsa-mythos-ai-cyber-operations/</guid>
+      <dc:creator>David Curry</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Anthropic</category>
+      <category>Chatbots</category>
+      <category>Cybersecurity</category>
+      <category>Innovation</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai safety</category>
+      <category>anthropic</category>
+      <category>artificial intelligence</category>
+      <category>cyber warfare</category>
+      <category>cybersecurity</category>
+      <category>mythos</category>
+      <category>nsa</category>
+      <category>zero-day vulnerabilities</category>
     </item>
     <item>
       <title>Spotlight On: Dreamplug Technologies Private Limited (CRED), a New Principal Participating Organization</title>
@@ -289,26 +403,6 @@ The activity has been attributed by Google Mandiant and Google Threat Intelligen
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse</title>
-      <link>https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/</link>
-      <description>&amp;lt;p&amp;gt;The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/&amp;quot;&amp;gt;Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 06:41:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Vulnerabilities</category>
-      <category>account takeover</category>
-      <category>AI</category>
-      <category>data breach</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Instagra</category>
-      <category>Meta</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks</title>
       <link>https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html</link>
       <description>Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackle software supply chain threats.
@@ -370,9 +464,9 @@ Only the FFmpeg bugs were found by AI.</description>
       <link>https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html</link>
       <description>Microsoft&amp;apos;s GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.
 
-The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories.
+The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has prompted GitHub to disable access to those repositories.
 
-&amp;quot;Access to this</description>
+&amp;quot;</description>
       <pubDate>Sat, 06 Jun 2026 12:28:04 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1304,83 +1398,6 @@ The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of des
       <guid isPermaLink="true">https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT</title>
-      <link>https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html</link>
-      <description>Cybersecurity researchers have flagged a new malspam campaign that makes use of Google&amp;apos;s DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT.
-
-&amp;quot;Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a legitimate Google-owned domain that many security tools are less likely to treat as</description>
-      <pubDate>Wed, 03 Jun 2026 21:59:16 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited</title>
-      <link>https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/</link>
-      <description>&amp;lt;p&amp;gt;CISA added Oracle WebLogic flaw CVE-2024-21182 to its KEV catalog, giving federal agencies until June 4 to patch exposed servers.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/&amp;quot;&amp;gt;CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 03 Jun 2026 15:56:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>CISA</category>
-      <category>developer</category>
-      <category>oracle</category>
-      <category>oracle vulnerability</category>
-      <category>weblogic</category>
-    </item>
-    <item>
-      <title>Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore</title>
-      <link>https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html</link>
-      <description>Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and &amp;quot;patch everything in time&amp;quot; stopped working years ago. Stop betting the org on winning that race. You don&amp;apos;t control which bug lands. You control what it can reach once it does.
-
-That is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit</description>
-      <pubDate>Wed, 03 Jun 2026 20:26:46 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag</title>
-      <link>https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html</link>
-      <description>A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps.
-
-Any other app on the same phone could ask for the signed-in user&amp;apos;s token and get it, then read email, open files, browse the calendar, and send messages as that user. No password, no login screen, no permission prompt.</description>
-      <pubDate>Wed, 03 Jun 2026 20:26:35 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Infosecurity Europe: Vulnerability Management Innovator Konvu Wins Cyber Startup Award</title>
-      <link>https://www.infosecurity-magazine.com/news/konvu-wins-cyber-startup-award/</link>
-      <description>Inaugural Infosecurity Europe Cyber Startup Award Winner Impresses Panel with Ability Help Prioritize Vulnerabilities in AI era</description>
-      <pubDate>Wed, 03 Jun 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/konvu-wins-cyber-startup-award/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Request for Comments: PCI Data Security Standard (PCI DSS) v4.0.1</title>
-      <link>https://blog.pcisecuritystandards.org/request-for-comments-pci-data-security-standard-pci-dss-v4.0.1</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/request-for-comments-pci-data-security-standard-pci-dss-v4.0.1&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Request for Comments: PCI Data Security Standard (PCI DSS) v4.0.1&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/RFC-dss-blog@2x.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;From 3 June to 20 July, eligible PCI SSC stakeholders are invited to review and provide feedback on the currently published PCI Data Security Standard (PCI DSS) v4.0.1 during a six-week request for comments (RFC) period. &amp;amp;nbsp; &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 03 Jun 2026 13:25:35 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/request-for-comments-pci-data-security-standard-pci-dss-v4.0.1</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>PCI DSS</category>
-      <category>Participation</category>
-      <category>Request for Comments</category>
-      <category>Data and Environment Product Family</category>
     </item>
   </channel>
 </rss>
