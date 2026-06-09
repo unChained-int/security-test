@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:49:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,12 +17,177 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Critical phpBB Flaw Lets Attackers Hijack Any Account with One Request</title>
+      <link>https://www.infosecurity-magazine.com/news/phpbb-authentication-bypass/</link>
+      <description>Critical phpBB authentication bypass lets attackers hijack any account with one request</description>
+      <pubDate>Tue, 09 Jun 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phpbb-authentication-bypass/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications</title>
+      <link>https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/</link>
+      <description>&amp;lt;p&amp;gt;Atsign’s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/&amp;quot;&amp;gt;New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 09 Jun 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Application Security</category>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>appsec</category>
+      <category>vibe coding</category>
+    </item>
+    <item>
+      <title>WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine</title>
+      <link>https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html</link>
+      <description>Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released.
+
+The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an</description>
+      <pubDate>Tue, 09 Jun 2026 17:56:10 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SAP Patches Critical NetWeaver, Commerce Vulnerabilities</title>
+      <link>https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;The flaws could lead to the disclosure of sensitive information, memory corruption, and disruption of normal system usage.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/&amp;quot;&amp;gt;SAP Patches Critical NetWeaver, Commerce Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 09 Jun 2026 12:15:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>patches</category>
+      <category>SAP</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models</title>
+      <link>https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html</link>
+      <description>University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service.
+
+The preprint, posted to arXiv on</description>
+      <pubDate>Tue, 09 Jun 2026 17:29:03 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now</title>
+      <link>https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html</link>
+      <description>Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild.
+
+The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome&amp;apos;s JavaScript and WebAssembly engine.
+
+&amp;quot;Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103</description>
+      <pubDate>Tue, 09 Jun 2026 17:28:49 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks</title>
+      <link>https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/</link>
+      <description>&amp;lt;p&amp;gt;The most recent variants of the self-propagating attacks are named Miasma and Hades.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/&amp;quot;&amp;gt;Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 09 Jun 2026 11:37:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Supply Chain Security</category>
+      <category>NPM</category>
+      <category>PyPI</category>
+      <category>Shai-Hulud</category>
+      <category>supply chain attack</category>
+    </item>
+    <item>
+      <title>The Hidden Security Risk in Modern Networks: The Work Between Tools</title>
+      <link>https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html</link>
+      <description>Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort.
+
+But the same challenges persist. Outages still last hours, causing significant financial losses, operational disruption, and reputational impact. Threat response and mean time to</description>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Will AI Kill the Bug Bounty Industry?</title>
+      <link>https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/</link>
+      <description>&amp;lt;p&amp;gt;Anthropic&amp;apos;s Mythos is accelerating vulnerability discovery to machine speed, forcing the bug bounty industry and offensive security teams to adapt to a future where finding flaws is no longer the hard part.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/&amp;quot;&amp;gt;Will AI Kill the Bug Bounty Industry?&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 09 Jun 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>bug bounty</category>
+      <category>bug bounty program</category>
+      <category>Featured</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Google Releases Patch for Chrome Vulnerability Exploited in the Wild</title>
+      <link>https://www.infosecurity-magazine.com/news/google-patch-chrome-vulnerability/</link>
+      <description>The flaw, CVE-2026-11645, can allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page</description>
+      <pubDate>Tue, 09 Jun 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-patch-chrome-vulnerability/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing</title>
+      <link>https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html</link>
+      <description>A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt.
+
+You open the page, leave the tab sitting there, and it watches the drive for contention in the background.
+
+Researchers at Graz University of Technology built it and</description>
+      <pubDate>Tue, 09 Jun 2026 15:20:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks</title>
+      <link>https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/</link>
+      <description>&amp;lt;p&amp;gt;The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/&amp;quot;&amp;gt;Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 09 Jun 2026 09:47:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Ransomware</category>
+      <category>Vulnerabilities</category>
+      <category>Check Point</category>
+      <category>exploited</category>
+      <category>Qilin</category>
+      <category>VPN</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
       <title>Check Point Warns Critical Auth Bypass Bug Exploited in the Wild</title>
       <link>https://www.infosecurity-magazine.com/news/check-point-critical-auth-bypass/</link>
       <description>Check Point says a critical vulnerability in its Remote Access VPN and Mobile Access solutions has been exploited by Qilin</description>
       <pubDate>Tue, 09 Jun 2026 09:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/check-point-critical-auth-bypass/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer</title>
+      <link>https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html</link>
+      <description>The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems.
+
+&amp;quot;The compromised releases shipped a *-setup.pth file that attempts to execute automatically</description>
+      <pubDate>Tue, 09 Jun 2026 14:43:32 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Infosecurity Europe: Why JLR’s CISO Enforced In-Person Password Resets Following Cyber-Attack</title>
@@ -352,20 +517,6 @@ A chatbot got fooled. A bot token got leaked inside the malware. The same old mi
       <category>M&amp;amp;A</category>
     </item>
     <item>
-      <title>Everest Forms Vulnerability Exploited to Hack WordPress Sites</title>
-      <link>https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/</link>
-      <description>&amp;lt;p&amp;gt;The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/&amp;quot;&amp;gt;Everest Forms Vulnerability Exploited to Hack WordPress Sites&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 12:16:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>vulnerability</category>
-      <category>WordPress</category>
-    </item>
-    <item>
       <title>The Hardest Fork</title>
       <link>https://thehackernews.com/2026/06/the-hardest-fork.html</link>
       <description>Mythos is real. I know a big chunk of the industry thinks it&amp;apos;s a marketing stunt, and I get why. I get it. But I&amp;apos;ve seen the findings, and they&amp;apos;re bad. These aren&amp;apos;t &amp;quot;whoops, this line right here is wrong, and that&amp;apos;s RCE.&amp;quot; They&amp;apos;re novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It&amp;apos;s real creativity,</description>
@@ -373,20 +524,6 @@ A chatbot got fooled. A bot token got leaked inside the malware. The same old mi
       <guid isPermaLink="true">https://thehackernews.com/2026/06/the-hardest-fork.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>174,000 Impacted by Lansing Community College Data Breach</title>
-      <link>https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/</link>
-      <description>&amp;lt;p&amp;gt;Hackers accessed personal information stored on certain Lansing Community College systems in February 2025.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/&amp;quot;&amp;gt;174,000 Impacted by Lansing Community College Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 11:27:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>college</category>
-      <category>data breach</category>
-      <category>Lansing Community College</category>
     </item>
     <item>
       <title>Anthropic’s Project Glasswing Update</title>
@@ -401,20 +538,6 @@ A chatbot got fooled. A bot token got leaked inside the malware. The same old mi
       <category>AI</category>
       <category>patching</category>
       <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Silent Ransom Group Uses DNS Fast Flux in Attacks</title>
-      <link>https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/</link>
-      <description>&amp;lt;p&amp;gt;Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&amp;amp;#038;C infrastructure.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/&amp;quot;&amp;gt;Silent Ransom Group Uses DNS Fast Flux in Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 10:31:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Ransomware</category>
-      <category>DNS</category>
-      <category>fast flux</category>
-      <category>Silent Ransom Group</category>
     </item>
     <item>
       <title>Infosecurity Europe: Prompt Injection Remains Unsolved, OWASP Researcher Warns</title>
@@ -444,19 +567,6 @@ The activity has been attributed by Volexity to a threat cluster it tracks as Ve
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>OpenAI Rolling Out ChatGPT Account Security Controls</title>
-      <link>https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/</link>
-      <description>&amp;lt;p&amp;gt;The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/&amp;quot;&amp;gt;OpenAI Rolling Out ChatGPT Account Security Controls&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 08:32:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
       <title>Infosecurity Europe: How DSIT Protects Thousands of UK Orgs from Cyber Vulnerabilities</title>
       <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-dsit-cyber/</link>
       <description>The Department of Science, Innovation and Technology details how a combination of hands-on human advice and technology systems keeps government agencies safe</description>
@@ -471,20 +581,6 @@ The activity has been attributed by Volexity to a threat cluster it tracks as Ve
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/over-20000-instagram-accounts/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow</title>
-      <link>https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/</link>
-      <description>&amp;lt;p&amp;gt;The proposed coordination would let advanced AI labs verify that global rivals have actually stopped or slowed their work.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/&amp;quot;&amp;gt;Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Anthropic</category>
-      <category>Risk</category>
     </item>
     <item>
       <title>UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign</title>
@@ -1187,7 +1283,7 @@ RyotaK of GMO</description>
     <item>
       <title>Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs</title>
       <link>https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs</link>
-      <description>Organizations are growing serious about what nation’s rules apply to their data. Experts point to geopolitical tensions as a main contributing factor.</description>
+      <description>Organizations are growing serious about which nation&amp;apos;s rules apply to their data. Experts point to geopolitical tensions as a main contributing factor.</description>
       <pubDate>Thu, 04 Jun 2026 14:22:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs</guid>
       <dc:creator>Arielle Waldman</dc:creator>
@@ -1316,81 +1412,6 @@ According to Palo Alto Networks Unit 42, the campaign is said to be the next sta
       <category>hacking</category>
       <category>LLM</category>
       <category>Meta</category>
-    </item>
-    <item>
-      <title>Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS</title>
-      <link>https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html</link>
-      <description>Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework.
-
-&amp;quot;The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing</description>
-      <pubDate>Thu, 04 Jun 2026 15:21:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hackers Spied on a Stock Exchange Executive&amp;apos;s Outlook Mailbox for Five Months</title>
-      <link>https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html</link>
-      <description>Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity.
-
-Symantec and Carbon Black&amp;apos;s Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:</description>
-      <pubDate>Thu, 04 Jun 2026 15:03:57 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Infosecurity Europe: How Businesses Can Prepare for a Cybersecurity Crisis with Effective Plans</title>
-      <link>https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/</link>
-      <description>Cybersecurity and business leaders with experience of dealing with major incidents from within the NCSC and at JLR detail what you need to prioritize if your organization is hit by a cyber-attack</description>
-      <pubDate>Thu, 04 Jun 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Infosecurity Europe: Ukraine’s Experience Highlights the Need for Preparation and Resilience in Cybersecurity</title>
-      <link>https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/</link>
-      <description>Former Ukrainian foreign minister, Dmytro Kuleba, urges Infosecurity Europe attendees to fight the good fight</description>
-      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Infosecurity Europe: Raise Security Concerns with Procurement Now, Because Quantum Can’t Wait</title>
-      <link>https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/</link>
-      <description>Forescout VP of security intelligence, Rik Ferguson, warns that Q-day is fast approaching</description>
-      <pubDate>Thu, 04 Jun 2026 07:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets</title>
-      <link>https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html</link>
-      <description>The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.
-
-The &amp;quot;Disruption Week&amp;quot; operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational</description>
-      <pubDate>Thu, 04 Jun 2026 11:36:25 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Pakistan Spies on Afghan Finance Ministry With Xeno RAT</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat</link>
-      <description>Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan&amp;apos;s porous cybersecurity.</description>
-      <pubDate>Thu, 04 Jun 2026 04:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Attackers Use AI to Automate EDR Evasion Testing</title>
-      <link>https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing</link>
-      <description>Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.</description>
-      <pubDate>Wed, 03 Jun 2026 21:34:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
