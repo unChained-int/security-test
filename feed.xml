@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 08 Jun 2026 20:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 03:26:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,6 +17,35 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks</link>
+      <description>The financially motivated group is combining vishing, IT impersonation, and in-person office intrusions to steal data and extort victims.</description>
+      <pubDate>Mon, 08 Jun 2026 20:59:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Check Point VPN Flaw Exploited Since Early May</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may</link>
+      <description>A newly discovered, critical zero-day vulnerability is under attack; a Qilin ransomware affiliate has been blamed for at least one incident.</description>
+      <pubDate>Mon, 08 Jun 2026 20:28:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public</title>
+      <link>https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html</link>
+      <description>Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container.
+
+The flaw, CVE-2026-23111, sits in the kernel&amp;apos;s nf_tables packet-filtering code and was patched upstream on February 5, 2026. Exodus Intelligence released its full technical walkthrough on June 8, and it is not even</description>
+      <pubDate>Tue, 09 Jun 2026 01:47:39 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Iran Signed a Ceasefire — Its Hackers Didn&amp;apos;t</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers</link>
       <description>An extension of the Geneva Conventions could impose restrictions on cyberwarfare under ceasefire conditions and close a major loophole in international conflict.</description>
@@ -24,6 +53,36 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers</guid>
       <dc:creator>Emil Sayegh</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Meta: NSO Tried Targeting WhatsApp Users Despite Court Order</title>
+      <link>https://www.techrepublic.com/article/news-whatsapp-nso-targeted-users-after-court-ban/</link>
+      <description>&amp;lt;p&amp;gt;Meta says WhatsApp disrupted new NSO-linked phishing attacks and is asking a court to hold the spyware firm in contempt.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-whatsapp-nso-targeted-users-after-court-ban/&amp;quot;&amp;gt;Meta: NSO Tried Targeting WhatsApp Users Despite Court Order&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 08 Jun 2026 17:30:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-whatsapp-nso-targeted-users-after-court-ban/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Applications</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Software</category>
+      <category>Legal</category>
+      <category>Meta</category>
+      <category>Mobile Security</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Social Media</category>
+      <category>cybersecurity</category>
+      <category>meta</category>
+      <category>mobile security</category>
+      <category>nso group</category>
+      <category>pegasus</category>
+      <category>phishing</category>
+      <category>privacy</category>
+      <category>security</category>
+      <category>spyware</category>
+      <category>whatsapp</category>
     </item>
     <item>
       <title>A Security Raises $37 Million for Autonomous Offensive Security Platform</title>
@@ -1355,49 +1414,6 @@ No malicious app on the phone is required. The assistant just had to treat a hos
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen</guid>
       <dc:creator>Rob Wright</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover</title>
-      <link>https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover</link>
-      <description>A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data.</description>
-      <pubDate>Wed, 03 Jun 2026 19:00:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens</title>
-      <link>https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html</link>
-      <description>Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user&amp;apos;s GitHub token.
-
-&amp;quot;Just by clicking a link, it&amp;apos;s possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,&amp;quot; security researcher Ammar Askar said.
-
-GitHub supports a feature called GitHub.dev that runs as</description>
-      <pubDate>Wed, 03 Jun 2026 23:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)</title>
-      <link>https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html</link>
-      <description>Redis has  patched  a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases.
-Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.</description>
-      <pubDate>Wed, 03 Jun 2026 22:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog</title>
-      <link>https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
-
-The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted</description>
-      <pubDate>Wed, 03 Jun 2026 22:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
