@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 11 Jun 2026 15:58:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:20:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,57 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Phishing Attack Volume Down 20%, but Risk Still Rising</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising</link>
+      <description>Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiplying them.</description>
+      <pubDate>Fri, 12 Jun 2026 00:58:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours</link>
+      <description>Initial methods suggest attackers had likely mapped out Ivanti&amp;apos;s asset landscape upfront and acted quickly once the exploit became public.</description>
+      <pubDate>Thu, 11 Jun 2026 18:43:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets</title>
+      <link>https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html</link>
+      <description>Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs.
+
+Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on</description>
+      <pubDate>Thu, 11 Jun 2026 23:16:32 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files</title>
+      <link>https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html</link>
+      <description>Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender.
+
+&amp;quot;This was an accidental discovery, it took a total of 4 hours to find this,&amp;quot; the researcher said in a post on Blogger. &amp;quot;If you ever attempted to use Windows Defender Offline Scan, you&amp;apos;re</description>
+      <pubDate>Thu, 11 Jun 2026 23:13:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm</title>
+      <link>https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html</link>
+      <description>A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis).
+
+According to a detailed report</description>
+      <pubDate>Thu, 11 Jun 2026 22:20:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>The AI Exchange: Innovators in Payment Security Featuring SecurityMetrics</title>
@@ -39,6 +90,15 @@
       <pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-orders-agencies-to-patch-by/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Segmentation Works for OT If Operators Are Paying Attention</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention</link>
+      <description>Operational technology security remains as difficult as ever, with even the best practice recommendation falling short.</description>
+      <pubDate>Thu, 11 Jun 2026 14:51:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Cybercriminals Use Fake AI Guides and Dev Tools to Spread AsyncRAT Malware</title>
@@ -94,7 +154,7 @@ The reason is simple. Cybersecurity is full of work that deserves recognition an
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories</title>
+      <title>ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories</title>
       <link>https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html</link>
       <description>It&amp;apos;s been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there&amp;apos;s a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.
 
@@ -371,7 +431,7 @@ The changes aim to combat attack techniques that abuse the &amp;quot;npm install
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>AI Risk Worries Insurers and Businesses Alike</title>
+      <title>AI Risk Worries Insurers &amp;amp;amp; Businesses Alike</title>
       <link>https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike</link>
       <description>As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?</description>
       <pubDate>Wed, 10 Jun 2026 19:34:43 +0000</pubDate>
@@ -457,13 +517,13 @@ The security flaw patched by Fortinet relates to a command injection vulnerabili
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE</title>
+      <title>Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE</title>
       <link>https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html</link>
-      <description>A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck.
+      <description>A high-severity security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck.
 
 The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations.
 
-&amp;quot;The &amp;apos;POST /</description>
+&amp;quot;The &amp;apos;POST /api/v2/</description>
       <pubDate>Wed, 10 Jun 2026 20:30:59 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1211,73 +1271,6 @@ A chatbot got fooled. A bot token got leaked inside the malware. The same old mi
       <category>mythos</category>
       <category>nsa</category>
       <category>zero-day vulnerabilities</category>
-    </item>
-    <item>
-      <title>Spotlight On: Dreamplug Technologies Private Limited (CRED), a New Principal Participating Organization</title>
-      <link>https://blog.pcisecuritystandards.org/spotlight-on-dreamplug-technologies-private-limited-cred-a-new-principal-participating-organization</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/spotlight-on-dreamplug-technologies-private-limited-cred-a-new-principal-participating-organization&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Spotlight On: Dreamplug Technologies Private Limited (CRED), a New Principal Participating Organization&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Dreamplug_blog_800x444.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome Dreamplug Technologies Private Limited, operating under the brand name CRED, a new Principal Participating Organization (PPO) at the PCI Security Standards Council! In this special spotlight edition of our PCI Perspectives Blog, CRED CISO, Himanshu Kumar Das, introduces us to his company and how they are helping to shape the future of payment security. &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 12:40:05 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/spotlight-on-dreamplug-technologies-private-limited-cred-a-new-principal-participating-organization</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Participation</category>
-      <category>Principal PO Spotlight</category>
-    </item>
-    <item>
-      <title>The Hardest Fork</title>
-      <link>https://thehackernews.com/2026/06/the-hardest-fork.html</link>
-      <description>Mythos is real. I know a big chunk of the industry thinks it&amp;apos;s a marketing stunt, and I get why. I get it. But I&amp;apos;ve seen the findings, and they&amp;apos;re bad. These aren&amp;apos;t &amp;quot;whoops, this line right here is wrong, and that&amp;apos;s RCE.&amp;quot; They&amp;apos;re novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It&amp;apos;s real creativity,</description>
-      <pubDate>Mon, 08 Jun 2026 17:23:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/the-hardest-fork.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Anthropic’s Project Glasswing Update</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html</link>
-      <description>&amp;lt;p&amp;gt;In April, Anthropic initated &amp;lt;a href=&amp;quot;https://www.anthropic.com/glasswing&amp;quot;&amp;gt;Project Glasswing&amp;lt;/a&amp;gt;. The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic&amp;amp;#8217;s claims that it&amp;amp;#8217;s now common wisdom that Mythos is better at finding software vulnerabilities than other models. Which is just &amp;lt;a href=&amp;quot;https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai&amp;quot;&amp;gt;not&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/ai-cybersecurity-mythos&amp;quot;&amp;gt;true&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;In any case, Anthropic has &amp;lt;a href=&amp;quot;https://www.anthropic.com/research/glasswing-initial-update&amp;quot;&amp;gt;published&amp;lt;/a&amp;gt; a Project Glasswing status report. It&amp;amp;#8217;s finding &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/&amp;quot;&amp;gt;a lot&amp;lt;/a&amp;gt; of vulnerabilities in software&amp;amp;#8212;yay! Some of them are even dangerous. But almost none of them has been patched. It&amp;amp;#8217;s ...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 11:01:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>patching</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Infosecurity Europe: Prompt Injection Remains Unsolved, OWASP Researcher Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/infosec-europe-prompt-injection/</link>
-      <description>At Infosecurity Europe 2026, OWASP’s Ariel Fogel warned that prompt injection remains an “unresolved problem” within generative AI architecture</description>
-      <pubDate>Mon, 08 Jun 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infosec-europe-prompt-injection/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances</title>
-      <link>https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html</link>
-      <description>A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems.
-
-The activity has been attributed by Volexity to a threat cluster it tracks as VerdantBamboo, which it said overlaps with hacking groups known as Clay Typhoon (Microsoft),</description>
-      <pubDate>Mon, 08 Jun 2026 15:57:32 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Two-Thirds of Open Source Community Unaware of Cyber Resilience Act</title>
-      <link>https://www.infosecurity-magazine.com/news/open-source-unaware-cyber/</link>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/open-source-unaware-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
