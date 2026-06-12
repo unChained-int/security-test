@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 03:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:11:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,106 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html</link>
+      <description>Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.
+
+LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications.
+
+&amp;quot;An SQL injection in LangGraph&amp;apos;s function could</description>
+      <pubDate>Fri, 12 Jun 2026 15:20:36 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ivanti Sentry Exploitation Attempts Hitting Honeypots</title>
+      <link>https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/</link>
+      <description>&amp;lt;p&amp;gt;The critical-severity OS command injection vulnerability allows attackers to execute arbitrary code with root privileges.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/&amp;quot;&amp;gt;Ivanti Sentry Exploitation Attempts Hitting Honeypots&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Jun 2026 09:44:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CISA KEV</category>
+      <category>exploited</category>
+      <category>Ivanti</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Chrome 149 Update Patches 28 Vulnerabilities</title>
+      <link>https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;The browser refresh resolved critical and high-severity security defects, including a dozen use-after-free bugs.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/&amp;quot;&amp;gt;Chrome 149 Update Patches 28 Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Jun 2026 09:27:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Chrome</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator</title>
+      <link>https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html</link>
+      <description>An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday.
+
+The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle East and North Africa (MENA) region making 201 arrests.
+
+Included among them was Guedz, the primary</description>
+      <pubDate>Fri, 12 Jun 2026 14:22:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic Disputes Fable 5 AI Jailbreak</title>
+      <link>https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/</link>
+      <description>&amp;lt;p&amp;gt;An AI hacker claims to have achieved a prompt-based jailbreak shortly after Fable 5’s launch, but Anthropic says it’s not a real jailbreak.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/&amp;quot;&amp;gt;Anthropic Disputes Fable 5 AI Jailbreak&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Jun 2026 08:43:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>AI jailbreak</category>
+      <category>Anthropic</category>
+      <category>Claude Fable</category>
+      <category>Fable 5</category>
+      <category>fake hack</category>
+    </item>
+    <item>
+      <title>Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters</title>
+      <link>https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/</link>
+      <description>&amp;lt;p&amp;gt;Oracle has mitigated CVE-2026-35273, but it has not publicly confirmed the vulnerability’s in-the-wild exploitation.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/&amp;quot;&amp;gt;Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Jun 2026 06:44:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>Oracle</category>
+      <category>Oracle PeopleSoft</category>
+      <category>ShinyHunters</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs</title>
+      <link>https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html</link>
+      <description>Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.
+
+Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a &amp;quot;key financial pipeline used to wash hundreds of millions in illicit profits.&amp;quot; The service is estimated to have been used to launder more than €336 million (~$389 million) since the</description>
+      <pubDate>Fri, 12 Jun 2026 12:08:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Phishing Attack Volume Down 20%, but Risk Still Rising</title>
@@ -239,6 +339,7 @@ According to a detailed report</description>
       <category>AI</category>
       <category>AI Automation</category>
       <category>alert</category>
+      <category>Featured</category>
       <category>SOC</category>
     </item>
     <item>
@@ -387,21 +488,6 @@ AI didn&amp;apos;t make your team slower. It changed the other side of the</desc
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers</title>
-      <link>https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/</link>
-      <description>&amp;lt;p&amp;gt;The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of security clearances&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/&amp;quot;&amp;gt;FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 11 Jun 2026 11:06:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>China</category>
-      <category>FBI</category>
-      <category>seized</category>
-      <category>takedown</category>
-    </item>
-    <item>
       <title>Enhanced License Plate Tracking</title>
       <link>https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html</link>
       <description>&amp;lt;p&amp;gt;The surveillance company Leonardo wants &amp;lt;a href=&amp;quot;https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/&amp;quot;&amp;gt;more data&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
@@ -418,45 +504,12 @@ AI didn&amp;apos;t make your team slower. It changed the other side of the</desc
       <category>tracking</category>
     </item>
     <item>
-      <title>Splunk, Palo Alto Networks Patch Severe Vulnerabilities</title>
-      <link>https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/&amp;quot;&amp;gt;Splunk, Palo Alto Networks Patch Severe Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 11 Jun 2026 10:47:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Palo Alto Networks</category>
-      <category>patches</category>
-      <category>Splunk</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Extortion-Only Attacks Increase, With Data Theft Dominating Ransomware Claims</title>
       <link>https://www.infosecurity-magazine.com/news/extortion-only-attacks-surge/</link>
       <description>Extortion-only attacks are increasing as data theft drives most ransomware claims, with many organizations unable to stop stolen data from being exposed</description>
       <pubDate>Thu, 11 Jun 2026 10:20:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/extortion-only-attacks-surge/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>‘GreatXML’ Zero-Day Exploit Bypasses BitLocker</title>
-      <link>https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/</link>
-      <description>&amp;lt;p&amp;gt;The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/&amp;quot;&amp;gt;&amp;amp;#8216;GreatXML&amp;amp;#8217; Zero-Day Exploit Bypasses BitLocker&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 11 Jun 2026 09:56:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Endpoint Security</category>
-      <category>Vulnerabilities</category>
-      <category>BitLocker</category>
-      <category>Chaotic Eclipse</category>
-      <category>GreatXML</category>
-      <category>Microsoft Defender</category>
-      <category>Windows</category>
-      <category>Zero-Day</category>
     </item>
     <item>
       <title>OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack</title>
@@ -478,20 +531,13 @@ The campaigns involve a prolonged cyber espionage operation aimed at a Vietnames
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>University of Nottingham Confirms Breach After Hackers Leak Data</title>
-      <link>https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/</link>
-      <description>&amp;lt;p&amp;gt;The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/&amp;quot;&amp;gt;University of Nottingham Confirms Breach After Hackers Leak Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 11 Jun 2026 08:30:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>data leak</category>
-      <category>ShinyHunters</category>
-      <category>university</category>
-      <category>University of Nottingham</category>
+      <title>OceanLotus: From external espionage to domestic targeting</title>
+      <link>https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/</link>
+      <description>A shift in operational pattern of the infamous Vietnam-aligned APT group</description>
+      <pubDate>Thu, 11 Jun 2026 08:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
     </item>
     <item>
       <title>GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks</title>
@@ -760,7 +806,7 @@ Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>SMB cyber-readiness: What makes or breaks it</title>
+      <title>What makes or breaks cyber-readiness for SMBs</title>
       <link>https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/</link>
       <description>A company that&amp;apos;s expecting a cyberattack but hasn’t actively prepared for it risks making the hardest decisions at the worst possible moment</description>
       <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
@@ -1258,63 +1304,6 @@ In addition, the tech giant said it&amp;apos;s filing a federal court contempt o
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>&amp;apos;Hades&amp;apos; Campaign Against PyPI Puts New Spin on Shai-Hulud</title>
-      <link>https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud</link>
-      <description>The latest attacks, which hit 37 PyPI wheels and 19 code packages, show a continued evolution of the persistent software supply chain threat.</description>
-      <pubDate>Mon, 08 Jun 2026 16:13:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>OpenAI Expands ChatGPT Lockdown Mode to Millions of Eligible Users</title>
-      <link>https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/</link>
-      <description>&amp;lt;p&amp;gt;OpenAI is expanding ChatGPT Lockdown Mode to more users, limiting web-connected tools to reduce the risks of prompt injection and data leakage.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/&amp;quot;&amp;gt;OpenAI Expands ChatGPT Lockdown Mode to Millions of Eligible Users&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 08 Jun 2026 15:21:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openai-expands-chatgpt-lockdown-mode-millions-users/</guid>
-      <dc:creator>Kezia Jungco</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Applications</category>
-      <category>Artificial Intelligence</category>
-      <category>Chatbots</category>
-      <category>ChatGPT</category>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>News</category>
-      <category>OpenAI</category>
-      <category>Security</category>
-      <category>ai agents</category>
-      <category>ai security</category>
-      <category>chatgpt</category>
-      <category>cybersecurity</category>
-      <category>data exfiltration</category>
-      <category>enterprise ai</category>
-      <category>generative ai</category>
-      <category>Lockdown Mode</category>
-      <category>openai</category>
-      <category>prompt injection</category>
-    </item>
-    <item>
-      <title>North Korean Hackers Use Fake Coding Tasks to Steal Crypto</title>
-      <link>https://www.infosecurity-magazine.com/news/north-korean-hackers-developers/</link>
-      <description>North Korean actor UNK_DeadDrop targeted developers with fake coding tasks to steal crypto</description>
-      <pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/north-korean-hackers-developers/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups</title>
-      <link>https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html</link>
-      <description>Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol.
-
-The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user</description>
-      <pubDate>Mon, 08 Jun 2026 19:47:39 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
