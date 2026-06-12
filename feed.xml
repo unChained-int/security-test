@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 14:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 20:09:19 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,124 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Windows Zero-Day Claims BitLocker Bypass Amid Microsoft Disclosure Fight</title>
+      <link>https://www.techrepublic.com/article/news-windows-bitlocker-zero-day-june-2026/</link>
+      <description>&amp;lt;p&amp;gt;A new Windows zero-day reportedly bypasses BitLocker, adding pressure on Microsoft as researchers debate the exploit’s real-world impact.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-bitlocker-zero-day-june-2026/&amp;quot;&amp;gt;New Windows Zero-Day Claims BitLocker Bypass Amid Microsoft Disclosure Fight&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Jun 2026 19:35:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-bitlocker-zero-day-june-2026/</guid>
+      <dc:creator>Matt Gonzales</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Windows</category>
+      <category>bitlocker</category>
+      <category>cybersecurity</category>
+      <category>greatxml</category>
+      <category>Microsoft Defender</category>
+      <category>rogueplanet</category>
+      <category>windows</category>
+      <category>zero day</category>
+    </item>
+    <item>
+      <title>400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer</title>
+      <link>https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html</link>
+      <description>Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.
+
+The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux&amp;apos;s community package collection, and it is separate</description>
+      <pubDate>Sat, 13 Jun 2026 00:54:50 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing</title>
+      <link>https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html</link>
+      <description>Google on Friday said it&amp;apos;s pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.
+
+The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.
+
+&amp;quot;The operation weaponized Gemini to help</description>
+      <pubDate>Sat, 13 Jun 2026 00:29:32 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade</title>
+      <link>https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html</link>
+      <description>Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.
+
+Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no</description>
+      <pubDate>Fri, 12 Jun 2026 23:47:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine</title>
+      <link>https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/</link>
+      <description>&amp;lt;p&amp;gt;Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&amp;amp;#038;T accused of hack cover-ups.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/&amp;quot;&amp;gt;In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Jun 2026 16:17:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Management &amp;amp; Strategy</category>
+      <category>In Other News</category>
+    </item>
+    <item>
+      <title>AI Rivalries, Cyberthreats, and IPO Fever Define This Week in Tech</title>
+      <link>https://www.techrepublic.com/article/ai-rivalries-cyberthreats-and-ipo-fever-define-this-week-in-tech/</link>
+      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from June 8–12.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ai-rivalries-cyberthreats-and-ipo-fever-define-this-week-in-tech/&amp;quot;&amp;gt;AI Rivalries, Cyberthreats, and IPO Fever Define This Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 12 Jun 2026 14:02:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/ai-rivalries-cyberthreats-and-ipo-fever-define-this-week-in-tech/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Anthropic</category>
+      <category>Apple</category>
+      <category>Artificial Intelligence</category>
+      <category>ChatGPT</category>
+      <category>Claude</category>
+      <category>Cybersecurity</category>
+      <category>Data Security</category>
+      <category>Enterprise Technology</category>
+      <category>Ethics in AI</category>
+      <category>Finance</category>
+      <category>Fintech</category>
+      <category>Google</category>
+      <category>Meta</category>
+      <category>Microsoft</category>
+      <category>NVIDIA</category>
+      <category>OpenAI</category>
+      <category>Payments</category>
+      <category>Privacy</category>
+      <category>Tech Industry</category>
+      <category>Weekly Roundup</category>
+      <category>ai news</category>
+      <category>anthropic news</category>
+      <category>apple intelligence</category>
+      <category>apple news</category>
+      <category>check point</category>
+      <category>Coinbase</category>
+      <category>Coupang</category>
+      <category>Daily Tech Insider</category>
+      <category>google news</category>
+      <category>ios 27</category>
+      <category>lg news</category>
+      <category>macOS 27</category>
+      <category>microsoft news</category>
+      <category>Newsletter Roundup</category>
+      <category>nvidia news</category>
+      <category>openai news</category>
+      <category>siri ai</category>
+      <category>visa</category>
     </item>
     <item>
       <title>Ransomware Payment Crypto Laundering Platform Taken Out by FBI and Europol</title>
@@ -485,21 +603,6 @@ The bigger problem is how polished this all looks now. Mule networks run like Sa
       <category>CISA KEV</category>
       <category>vulnerability</category>
       <category>vulnerability management</category>
-    </item>
-    <item>
-      <title>OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month</title>
-      <link>https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/</link>
-      <description>&amp;lt;p&amp;gt;Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/&amp;quot;&amp;gt;OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 11 Jun 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Malware &amp;amp; Threats</category>
-      <category>cybercrime</category>
-      <category>malware</category>
-      <category>OnyxC2</category>
     </item>
     <item>
       <title>Most Cybersecurity Teams Struggle to Find Time for Training on New Cyber Threats</title>
@@ -1235,51 +1338,6 @@ Researchers at Graz University of Technology built it and</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Infosecurity Europe: Why JLR’s CISO Enforced In-Person Password Resets Following Cyber-Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/jlr-cyberattack-ciso-inperson/</link>
-      <description>Speaking at Infosecurity Europe, Ashish Shrestha, former CISO at Jaguar Land Rover revealed why he wanted over 30,000 employees to change their passwords in the immediate aftermath of the incident</description>
-      <pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jlr-cyberattack-ciso-inperson/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cybercriminals: the &amp;apos;auditors&amp;apos; you never hired</title>
-      <link>https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/</link>
-      <description>Every organisation gets audited. The question is who does the auditing.</description>
-      <pubDate>Tue, 09 Jun 2026 08:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>WhatsApp Discovers NSO Group-Linked Spearphishing Attempts</title>
-      <link>https://www.infosecurity-magazine.com/news/whatsapp-nso-group-spearphishing/</link>
-      <description>Meta’s WhatsApp demands contempt ruling after users report NSO Group-linked phishing</description>
-      <pubDate>Tue, 09 Jun 2026 08:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/whatsapp-nso-group-spearphishing/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE</title>
-      <link>https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the</description>
-      <pubDate>Tue, 09 Jun 2026 11:56:14 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Slop Will Kill Cybersecurity Storytelling If We Let It</title>
-      <link>https://www.darkreading.com/cyber-risk/ai-slop-kill-cybersecurity-storytelling-we-let-it</link>
-      <description>AI-generated content threatens credibility in cybersecurity. This &amp;amp;quot;Ask the Expert&amp;amp;quot; column explores why human oversight matters and how to maintain authentic narratives.</description>
-      <pubDate>Mon, 08 Jun 2026 22:05:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-slop-kill-cybersecurity-storytelling-we-let-it</guid>
-      <dc:creator>Elizabeth Safran</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
