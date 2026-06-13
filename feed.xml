@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 13 Jun 2026 08:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 13:57:53 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,19 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication</title>
+      <link>https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html</link>
+      <description>Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.
+
+The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.
+
+&amp;quot;In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary</description>
+      <pubDate>Sat, 13 Jun 2026 18:53:03 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls</title>
@@ -1325,17 +1338,6 @@ The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), ha
 &amp;quot;Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103</description>
       <pubDate>Tue, 09 Jun 2026 17:28:49 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The Hidden Security Risk in Modern Networks: The Work Between Tools</title>
-      <link>https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html</link>
-      <description>Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort.
-
-But the same challenges persist. Outages still last hours, causing significant financial losses, operational disruption, and reputational impact. Threat response and mean time to</description>
-      <pubDate>Tue, 09 Jun 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
