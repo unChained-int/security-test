@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 13 Jun 2026 13:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 19:24:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,20 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks</title>
+      <link>https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/</link>
+      <description>&amp;lt;p&amp;gt;By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/&amp;quot;&amp;gt;NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 13 Jun 2026 15:52:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Supply Chain Security</category>
+      <category>GitHub</category>
+      <category>NPM</category>
+      <category>Supply Chain</category>
     </item>
     <item>
       <title>Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication</title>
@@ -232,6 +246,7 @@ Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and Ope
       <category>Artificial Intelligence</category>
       <category>AI</category>
       <category>Fable 5</category>
+      <category>Featured</category>
       <category>Feedback Friday</category>
     </item>
     <item>
@@ -607,23 +622,6 @@ According to a detailed report</description>
       <category>Oracle PeopleSoft</category>
       <category>ShinyHunters</category>
       <category>Zero-Day</category>
-    </item>
-    <item>
-      <title>Alert Fatigue Is Becoming a Security Threat of Its Own</title>
-      <link>https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/</link>
-      <description>&amp;lt;p&amp;gt;As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/&amp;quot;&amp;gt;Alert Fatigue Is Becoming a Security Threat of Its Own&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 11 Jun 2026 13:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Incident Response</category>
-      <category>Security Infrastructure</category>
-      <category>AI</category>
-      <category>AI Automation</category>
-      <category>alert</category>
-      <category>Featured</category>
-      <category>SOC</category>
     </item>
     <item>
       <title>Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories</title>
