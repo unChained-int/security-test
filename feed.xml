@@ -5,9 +5,43 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 15 Jun 2026 20:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 04:01:44 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nintendo Alleged Data Breach: Threat Actor Demands $2M Ransom</title>
+      <link>https://www.techrepublic.com/article/news-nintendo-alleged-data-leak-third-party-risk/</link>
+      <description>&amp;lt;p&amp;gt;Nintendo faces an alleged data extortion incident involving HR records, internal reports, and potential exposure of third-party vendors.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-nintendo-alleged-data-leak-third-party-risk/&amp;quot;&amp;gt;Nintendo Alleged Data Breach: Threat Actor Demands $2M Ransom&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 15 Jun 2026 20:47:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-nintendo-alleged-data-leak-third-party-risk/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cybersecurity</category>
+      <category>data breach</category>
+      <category>hr data</category>
+      <category>nintendo</category>
+      <category>ransomware</category>
+      <category>saas security</category>
+      <category>third party risk</category>
+      <category>tinyPulse</category>
+    </item>
+    <item>
+      <title>Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails</title>
+      <link>https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html</link>
+      <description>A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.
+
+The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims&amp;apos; own Google Workspace rules to copy any message</description>
+      <pubDate>Tue, 16 Jun 2026 01:14:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels</title>
       <link>https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html</link>
@@ -18,6 +52,15 @@ According to a report published by Proofpoint, the threat actor has been found o
       <guid isPermaLink="true">https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Copilot &amp;apos;SearchLeak&amp;apos; Attack Allows 1-Click Data Theft</title>
+      <link>https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft</link>
+      <description>The critical, three-stage attack is now patched, but it&amp;apos;s part of a new group of AI prompt-injection issues that use hidden URLs and other variables.</description>
+      <pubDate>Mon, 15 Jun 2026 19:27:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>China-Nexus Actor Spy on US Researchers Undetected for a Year</title>
@@ -78,6 +121,7 @@ A server takeover exposes every provider key it holds, the secrets that</descrip
       <category>Ransomware</category>
       <category>Australia</category>
       <category>disruptioin</category>
+      <category>Featured</category>
       <category>ICS</category>
       <category>Mackay Sugar</category>
       <category>OT</category>
@@ -410,9 +454,10 @@ The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authenticat
 &amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://dighum.wien/&amp;quot;&amp;gt;Digital Humanism Conference&amp;lt;/a&amp;gt; in Vienna, Austria, on Friday, June 26, 2026...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
       <pubDate>Sun, 14 Jun 2026 16:07:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html</guid>
-      <dc:creator>B. Schneier</dc:creator>
+      <dc:creator>Bruce Schneier</dc:creator>
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
+      <category>Schneier news</category>
     </item>
     <item>
       <title>NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks</title>
@@ -1291,36 +1336,6 @@ Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity
       <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Business Security</category>
-    </item>
-    <item>
-      <title>Microsoft Fixes 200 CVEs in June Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-200-cves-in-june/</link>
-      <description>Microsoft has patched 200 vulnerabilities including three zero-days</description>
-      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-fixes-200-cves-in-june/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards</title>
-      <link>https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html</link>
-      <description>On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers.
-
-Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber</description>
-      <pubDate>Wed, 10 Jun 2026 13:07:59 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances</title>
-      <link>https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html</link>
-      <description>ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances.
-
-&amp;quot;On June 5, 2026, ServiceNow applied a security update to hosted customer instances,&amp;quot; the company revealed in an advisory that requires customer access. &amp;quot;The update concerned a security issue that could allow an unauthenticated user, in</description>
-      <pubDate>Wed, 10 Jun 2026 12:32:08 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
