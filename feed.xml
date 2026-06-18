@@ -5,9 +5,143 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 18 Jun 2026 15:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:24:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Novo Nordisk Breach Exposes Software Development Pipeline Risk</title>
+      <link>https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk</link>
+      <description>A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem.</description>
+      <pubDate>Thu, 18 Jun 2026 20:05:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Operation Escaneo Signals Shift in LatAm Threat Landscape</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape</link>
+      <description>The threat group&amp;apos;s curious business model may combine opportunistic monetization alongside intel collection, without much coordination between the two.</description>
+      <pubDate>Thu, 18 Jun 2026 19:09:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>FIFA Bug Exposes World Cup Streams to Remote Takeover</title>
+      <link>https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover</link>
+      <description>A hacker could have &amp;amp;quot;Rickrolled&amp;amp;quot; the World Cup — or worse — thanks to FIFA&amp;apos;s unenforced Entra access controls.</description>
+      <pubDate>Thu, 18 Jun 2026 18:20:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm</title>
+      <link>https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</link>
+      <description>For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a &amp;quot;residential proxy&amp;quot; provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].</description>
+      <pubDate>Thu, 18 Jun 2026 17:37:58 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Latest Warnings</category>
+      <category>The Coming Storm</category>
+      <category>Alarum Technologies Ltd</category>
+      <category>BadBox 2.0</category>
+      <category>Black Lotus Labs</category>
+      <category>Brendan O&amp;apos;Connell</category>
+      <category>Chris Formosa</category>
+      <category>Confederation of Open Access Repositories</category>
+      <category>CRICFy</category>
+      <category>CyberFlix</category>
+      <category>David Brunsdon</category>
+      <category>Directory of Open Access Journals</category>
+      <category>DooFlix</category>
+      <category>Flixoid</category>
+      <category>Include Security</category>
+      <category>Jérôme Meyer</category>
+      <category>LG</category>
+      <category>Lumen Technologies</category>
+      <category>NetNut</category>
+      <category>Nick Sundvall</category>
+      <category>Ninajtech</category>
+      <category>Nokia Deepfield</category>
+      <category>OceanStreams</category>
+      <category>Popa botnet</category>
+      <category>Qurium</category>
+      <category>Rapid Streamz</category>
+      <category>residential proxies</category>
+      <category>RoboVPN</category>
+      <category>RTS Tv</category>
+      <category>Samsung</category>
+      <category>Sean Simmons</category>
+      <category>Sprozfy</category>
+      <category>Spur</category>
+      <category>Synthient</category>
+      <category>TvMob</category>
+      <category>Vo1d botnet</category>
+    </item>
+    <item>
+      <title>F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html</link>
+      <description>F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module that could be triggered by a remote unauthenticated attacker when NGINX Open Source is</description>
+      <pubDate>Thu, 18 Jun 2026 23:02:14 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Majority of Internet-Accessible REDCap Servers Outdated</title>
+      <link>https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/</link>
+      <description>&amp;lt;p&amp;gt;These servers are regularly targeted by China-linked UNC6508 for initial access and backdoor deployment.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/&amp;quot;&amp;gt;Majority of Internet-Accessible REDCap Servers Outdated&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 18 Jun 2026 17:07:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>REDCap</category>
+    </item>
+    <item>
+      <title>Salesforce Data Thefts Continue via Klue App Compromise</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise</link>
+      <description>Klue&amp;apos;s Battlecards is now the third integrated application that has been compromised to steal customers&amp;apos; Salesforce data, and victims include Huntress, the cybersecurity vendor.</description>
+      <pubDate>Thu, 18 Jun 2026 16:49:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network</title>
+      <link>https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html</link>
+      <description>If an autonomous AI agent interacts with your company&amp;apos;s core intellectual property today, can your security team instantly name the person who authorized it?
+
+For most enterprises, the answer is a simple no.
+
+The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (</description>
+      <pubDate>Thu, 18 Jun 2026 21:03:49 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories</title>
+      <link>https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html</link>
+      <description>The internet did not break this week. It got used exactly as designed, which is worse.
+
+Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers treated them like open shells.
+
+Add exposed edge gear, poisoned packages, cash courier scams,</description>
+      <pubDate>Thu, 18 Jun 2026 20:57:54 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Fake GitHub Stars and AI Videos Mask a Crypto Clipper</title>
       <link>https://www.infosecurity-magazine.com/news/crypto-clipboard-hijacker-fake/</link>
@@ -117,19 +251,6 @@ According to findings from Broadcom-owned Symantec and Carbon Black, the backdoo
       <category>Vulnerabilities</category>
       <category>CVE</category>
       <category>exploit</category>
-    </item>
-    <item>
-      <title>Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network</title>
-      <link>https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html</link>
-      <description>If an autonomous AI agent interacts with your company&amp;apos;s core intellectual property today, can your security team instantly name the person who authorized it?
-
-For most enterprises, the answer is a simple no.
-
-The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (</description>
-      <pubDate>Thu, 18 Jun 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Dream Raises $260 Million at $3 Billion Valuation</title>
@@ -414,19 +535,6 @@ The problem is no longer visibility. It&amp;apos;s validation. Security teams mu
       <guid isPermaLink="true">https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Webinar Today: How Modern Breaches Bypass MFA and Evade Detection</title>
-      <link>https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/</link>
-      <description>&amp;lt;p&amp;gt;Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/&amp;quot;&amp;gt;Webinar Today: How Modern Breaches Bypass MFA and Evade Detection&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 17 Jun 2026 14:07:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Identity &amp;amp; Access</category>
-      <category>MFA</category>
-      <category>Webinar</category>
     </item>
     <item>
       <title>Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices</title>
@@ -1128,82 +1236,6 @@ The cluster spans 38 separate Chrome Web Store publisher accounts and three bran
 When a site administrator was logged in as the file loaded, the code created an admin account under the attacker&amp;apos;s control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it</description>
       <pubDate>Mon, 15 Jun 2026 15:29:38 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK Government Finds 400+ Vulnerabilities in AI Hackathons</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-government-400-vulnerabilities/</link>
-      <description>Government departments find hundreds of vulnerabilities after testing frontier models</description>
-      <pubDate>Mon, 15 Jun 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-government-400-vulnerabilities/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Maine Takes Breach Reporting Portal Offline After Fake Entries</title>
-      <link>https://www.infosecurity-magazine.com/news/maine-breach-reporting-portal/</link>
-      <description>The Office of the Maine Attorney General has suspended its breach reporting portal</description>
-      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/maine-breach-reporting-portal/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>EvilTokens: A phishing attack that doesn’t steal your password</title>
-      <link>https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/</link>
-      <description>A phishing kit subverting Microsoft’s legitimate authentication flow lets attackers break into accounts without stealing passwords or creating fake login pages</description>
-      <pubDate>Mon, 15 Jun 2026 08:55:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Cybercrime</category>
-    </item>
-    <item>
-      <title>Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts</title>
-      <link>https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html</link>
-      <description>Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts impersonating politicians, public figures, and trusted organizations.
-
-&amp;quot;These accounts promoted fake offers, including free mobile internet packages, financial compensation, and government subsidy programs,&amp;quot; Group-IB</description>
-      <pubDate>Mon, 15 Jun 2026 12:00:22 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw</title>
-      <link>https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html</link>
-      <description>Palo Alto Networks has revealed that it has observed &amp;quot;active exploitation&amp;quot; of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals.
-
-The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad</description>
-      <pubDate>Mon, 15 Jun 2026 11:47:32 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html</link>
-      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;I’m giving a keynote at &amp;lt;a href=&amp;quot;https://wirtschaftsrat.de/de/hoehepunktveranstaltungen/wir-bauen-die-cybernation-von-der-vision-zur-wirkung/&amp;quot;&amp;gt;Cybernation 2026&amp;lt;/a&amp;gt; in Berlin, Germany, on June 24, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://potsdamer-sicherheitskonferenz.de/&amp;quot;&amp;gt;Potsdam Conference on National Cybersecurity&amp;lt;/a&amp;gt; at the Hasso Plattner Institut in Potsdam, Germany. The event runs June 24–25, 2026, and my talk will be the evening of June 24.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m participating in a panel discussion at the &amp;lt;a href=&amp;quot;https://www.oiip.ac.at/en/events/disruption-or-singularity-ai-security-and-governance-in-the-21st-century/&amp;quot;&amp;gt;Austrian Institute for International Affairs&amp;lt;/a&amp;gt; in Vienna on Thursday, June 25, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://dighum.wien/&amp;quot;&amp;gt;Digital Humanism Conference&amp;lt;/a&amp;gt; in Vienna, Austria, on Friday, June 26, 2026...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
-      <pubDate>Sun, 14 Jun 2026 16:07:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Schneier news</category>
-    </item>
-    <item>
-      <title>Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication</title>
-      <link>https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html</link>
-      <description>Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.
-
-The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.
-
-&amp;quot;In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary</description>
-      <pubDate>Sat, 13 Jun 2026 18:53:03 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
