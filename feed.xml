@@ -5,9 +5,25 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 18 Jun 2026 20:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 04:13:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</title>
+      <link>https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</link>
+      <description>&amp;lt;p&amp;gt;CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/&amp;quot;&amp;gt;Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 19 Jun 2026 04:10:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CISA KEV</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>Splunk</category>
+      <category>vulnerability</category>
+    </item>
     <item>
       <title>Novo Nordisk Breach Exposes Software Development Pipeline Risk</title>
       <link>https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk</link>
@@ -335,6 +351,15 @@ According to findings from Broadcom-owned Symantec and Carbon Black, the backdoo
       <category>vulnerability</category>
     </item>
     <item>
+      <title>Killing me gently: Inside Gentlemen’s EDR killer framework</title>
+      <link>https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/</link>
+      <description>ESET Research shares the results of a months-long investigation into the suite of EDR killers maintained by the RaaS gang Gentlemen</description>
+      <pubDate>Thu, 18 Jun 2026 09:46:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
+    </item>
+    <item>
       <title>F5 Patches Critical, High-Severity NGINX Vulnerabilities</title>
       <link>https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/</link>
       <description>&amp;lt;p&amp;gt;Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code.&amp;lt;/p&amp;gt;
@@ -389,21 +414,6 @@ According to findings from Broadcom-owned Symantec and Carbon Black, the backdoo
       <pubDate>Thu, 18 Jun 2026 08:09:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/what-is-an-rfp-response-a-guide-for-security-and-grc-teams</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Kodak Admits Data Breach After ShinyHunters Hack Claims</title>
-      <link>https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/</link>
-      <description>&amp;lt;p&amp;gt;Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/&amp;quot;&amp;gt;Kodak Admits Data Breach After ShinyHunters Hack Claims&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 18 Jun 2026 07:18:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>Featured</category>
-      <category>Kodak</category>
-      <category>ShinyHunters</category>
     </item>
     <item>
       <title>EU Gets a Head Start in Developing 6G Network Security</title>
@@ -1227,17 +1237,6 @@ The cluster spans 38 separate Chrome Web Store publisher accounts and three bran
       <pubDate>Mon, 15 Jun 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-experts-urge-us-lift-ban/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites</title>
-      <link>https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html</link>
-      <description>An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites.
-
-When a site administrator was logged in as the file loaded, the code created an admin account under the attacker&amp;apos;s control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it</description>
-      <pubDate>Mon, 15 Jun 2026 15:29:38 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
