@@ -5,9 +5,35 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 20 Jun 2026 08:54:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:01:16 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys</title>
+      <link>https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html</link>
+      <description>Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that&amp;apos;s installed on about 100,000 sites.
+
+The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens</description>
+      <pubDate>Sat, 20 Jun 2026 15:26:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation</title>
+      <link>https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/</link>
+      <description>&amp;lt;p&amp;gt;French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/&amp;quot;&amp;gt;French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 20 Jun 2026 09:48:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>EU</category>
+      <category>regulation</category>
+      <category>US</category>
+    </item>
     <item>
       <title>Friday Squid Blogging: Victims of Unregulated Squid Fishing</title>
       <link>https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html</link>
@@ -22,6 +48,31 @@
       <category>Uncategorized</category>
       <category>human rights</category>
       <category>squid</category>
+    </item>
+    <item>
+      <title>Apple Patches Beats Studio Buds Flaw That Could Enable Wiretapping</title>
+      <link>https://www.techrepublic.com/article/news-apple-patches-beats-studio-buds-bluetooth-flaw/</link>
+      <description>&amp;lt;p&amp;gt;Apple patched a Beats Studio Buds Bluetooth flaw that could let nearby attackers listen through the microphone during pairing.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-patches-beats-studio-buds-bluetooth-flaw/&amp;quot;&amp;gt;Apple Patches Beats Studio Buds Flaw That Could Enable Wiretapping&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 19 Jun 2026 19:34:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-patches-beats-studio-buds-bluetooth-flaw/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Hardware</category>
+      <category>Mobility</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Airoha</category>
+      <category>Beats Studio Buds</category>
+      <category>bluetooth</category>
+      <category>CVE-2025-20701</category>
+      <category>cybersecurity</category>
+      <category>earbuds</category>
+      <category>endpoint security</category>
+      <category>firmware update</category>
+      <category>mobile security</category>
     </item>
     <item>
       <title>Unpatchable &amp;apos;usbliter8&amp;apos; Exploit Breaks Apple A12 and A13 SecureROM Boot Chain</title>
@@ -607,19 +658,6 @@ According to findings from Broadcom-owned Symantec and Carbon Black, the backdoo
       <pubDate>Thu, 18 Jun 2026 12:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybercriminals-worried-ai-take/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>No Exploits Required</title>
-      <link>https://www.securityweek.com/no-exploits-required/</link>
-      <description>&amp;lt;p&amp;gt;Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/no-exploits-required/&amp;quot;&amp;gt;No Exploits Required&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 18 Jun 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/no-exploits-required/</guid>
-      <dc:creator>Tod Beardsley</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>CVE</category>
-      <category>exploit</category>
     </item>
     <item>
       <title>LATAM Infrastructure Hit by Fortinet and Ivanti Exploits</title>
@@ -1243,40 +1281,6 @@ The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of
 The vulnerability in question is CVE-2026-54420 (CVSS score: 8.5), which has been described as a case of privilege</description>
       <pubDate>Tue, 16 Jun 2026 11:11:52 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Nintendo Alleged Data Breach: Threat Actor Demands $2M Ransom</title>
-      <link>https://www.techrepublic.com/article/news-nintendo-alleged-data-leak-third-party-risk/</link>
-      <description>&amp;lt;p&amp;gt;Nintendo faces an alleged data extortion incident involving HR records, internal reports, and potential exposure of third-party vendors.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-nintendo-alleged-data-leak-third-party-risk/&amp;quot;&amp;gt;Nintendo Alleged Data Breach: Threat Actor Demands $2M Ransom&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 15 Jun 2026 20:47:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-nintendo-alleged-data-leak-third-party-risk/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>hr data</category>
-      <category>nintendo</category>
-      <category>ransomware</category>
-      <category>saas security</category>
-      <category>third party risk</category>
-      <category>tinyPulse</category>
-    </item>
-    <item>
-      <title>Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails</title>
-      <link>https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html</link>
-      <description>A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email.
-
-The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims&amp;apos; own Google Workspace rules to copy any message</description>
-      <pubDate>Tue, 16 Jun 2026 01:14:06 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
