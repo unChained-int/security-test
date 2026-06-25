@@ -5,9 +5,58 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 25 Jun 2026 14:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:59:04 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Local Police Collusion Hampers Crackdown on Asian Scam Centers</title>
+      <link>https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers</link>
+      <description>With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.</description>
+      <pubDate>Thu, 25 Jun 2026 19:07:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI and Liability</title>
+      <link>https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html</link>
+      <description>&amp;lt;p&amp;gt;Earlier this month, a German court &amp;lt;a href=&amp;quot;https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/&amp;quot;&amp;gt;ruled&amp;lt;/a&amp;gt; that Google is liable for its AI search summaries. Rejecting defenses like &amp;amp;#8220;users can check for themselves,&amp;amp;#8221; and that they generally know &amp;amp;#8220;that information generated with AI should not be blindly trusted,&amp;amp;#8221; the court held that the AI&amp;amp;#8217;s summaries are reflections of the company and &amp;amp;#8220;above all an expression of Google&amp;amp;#8217;s business activities.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This is the latest skirmish in a decades-old battle over internet publishing. Historically, there were two different types of information distributors: carriers and publishers. A phone company is a carrier. It&amp;amp;#8217;ll transmit whatever you say, even discussions about committing a crime. Words are words, and the phone company does not know&amp;amp;#8212;nor is it liable for&amp;amp;#8212;the words you choose to speak. A newspaper, on the other hand, is a publisher. It decides the words it publishes, and what quotes to include in its articles. If those words or quotes are defamatory or otherwise illegal, it&amp;amp;#8217;s liable...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 25 Jun 2026 17:03:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>LLM</category>
+      <category>software liability</category>
+    </item>
+    <item>
+      <title>Interpol: Cybercrime Hits 30% of Recorded Crime in Surveyed APAC Countries</title>
+      <link>https://www.techrepublic.com/article/news-interpol-cybercrime-report-apac/</link>
+      <description>&amp;lt;p&amp;gt;Interpol’s latest Asia and South Pacific cybercrime assessment shows how phishing, ransomware, DDoS attacks, infostealers, and AI-enabled scams are raising security risks across APAC.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-interpol-cybercrime-report-apac/&amp;quot;&amp;gt;Interpol: Cybercrime Hits 30% of Recorded Crime in Surveyed APAC Countries&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 25 Jun 2026 15:13:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-interpol-cybercrime-report-apac/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Artificial Intelligence</category>
+      <category>Cloud Security</category>
+      <category>Cybersecurity</category>
+      <category>Government IT</category>
+      <category>International</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>AI scams</category>
+      <category>apac</category>
+      <category>cloud security</category>
+      <category>cybercrime</category>
+      <category>incident response</category>
+      <category>Interpol</category>
+      <category>phishing</category>
+      <category>ransomware</category>
+    </item>
     <item>
       <title>Cisco Vulnerability Exploited Months Before Disclosure, Google Warns</title>
       <link>https://www.infosecurity-magazine.com/news/cisco-vulnerability-exploited/</link>
@@ -15,6 +64,19 @@
       <pubDate>Thu, 25 Jun 2026 14:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisco-vulnerability-exploited/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability</title>
+      <link>https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html</link>
+      <description>An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.
+
+According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store.
+
+The extension description states that it allows users to prevent web</description>
+      <pubDate>Thu, 25 Jun 2026 19:42:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Europol, Microsoft Hit Malware Network Behind 27M Stolen Logins, 140,000 Infected Computers</title>
@@ -76,10 +138,10 @@ The worst part is how cheap some of it feels. Not elite. Not cinematic.</descrip
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply</title>
+      <title>Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack</title>
       <link>https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</link>
       <description>&amp;lt;p&amp;gt;Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/&amp;quot;&amp;gt;Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/&amp;quot;&amp;gt;Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
       <pubDate>Thu, 25 Jun 2026 12:07:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</guid>
       <dc:creator>Eduard Kovacs</dc:creator>
@@ -88,6 +150,7 @@ The worst part is how cheap some of it feels. Not elite. Not cinematic.</descrip
       <category>Incident Response</category>
       <category>Cal Water</category>
       <category>fake hack</category>
+      <category>Featured</category>
       <category>Handala</category>
       <category>Incident response</category>
       <category>OT</category>
@@ -212,6 +275,22 @@ The malware has been codenamed Gaslight owing to this deceptive behavior. It&amp
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition</title>
+      <link>https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/</link>
+      <description>&amp;lt;p&amp;gt;The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/&amp;quot;&amp;gt;SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/</guid>
+      <dc:creator>Mike Lennon</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>Conference</category>
+      <category>Featured</category>
+      <category>ICS</category>
+      <category>OT</category>
+      <category>SCADA</category>
+    </item>
+    <item>
       <title>New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns</title>
       <link>https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html</link>
       <description>A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026.
@@ -299,7 +378,7 @@ The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authen
     <item>
       <title>Do CISOs Need a Code of Ethics?</title>
       <link>https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics</link>
-      <description>Dark Reading Confidential Episode 19: Kickbacks, no-show jobs, &amp;amp;quot;dirty&amp;amp;quot; VCs, and shelf ware — industry expert Robert &amp;amp;quot;RSnake&amp;amp;quot; Hansen explains why he thinks its time for a CISO code of ethics to ensure cybersecurity bosses aren&amp;apos;t engaged in self-dealing that could risk enterprise, and even national, security.</description>
+      <description>Dark Reading Confidential Episode 19: Kickbacks, no-show jobs, &amp;amp;quot;dirty&amp;amp;quot; VCs, and shelf ware — industry expert Robert &amp;amp;quot;RSnake&amp;amp;quot; Hansen explains why he thinks it&amp;apos;s time for a CISO code of ethics. It could ensure cybersecurity bosses aren&amp;apos;t engaged in self-dealing that could risk enterprise, and even national, security.</description>
       <pubDate>Wed, 24 Jun 2026 19:10:17 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics</guid>
       <dc:creator>Dark Reading Editorial Team</dc:creator>
@@ -464,28 +543,6 @@ The vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code inject
       <pubDate>Wed, 24 Jun 2026 15:25:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/operation-endgame-stealc-amadey/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware</title>
-      <link>https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/</link>
-      <description>&amp;lt;p&amp;gt;Hundreds of C&amp;amp;#038;C servers were disrupted in an operation involving law enforcement and several cybersecurity companies.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/&amp;quot;&amp;gt;Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 24 Jun 2026 15:02:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>Amadey</category>
-      <category>cybercrime</category>
-      <category>Europol</category>
-      <category>Featured</category>
-      <category>law enforcement</category>
-      <category>malware</category>
-      <category>Microsoft</category>
-      <category>StealC</category>
-      <category>takedown</category>
     </item>
     <item>
       <title>Madison Square Garden Hack Exposes 26 Million Visitor Records</title>
@@ -1137,45 +1194,6 @@ The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.
       <pubDate>Mon, 22 Jun 2026 14:32:53 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/best-attack-surface-management-software-solutions</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>He Thought He Was Secure; His Phone Number Was Stolen Anyway</title>
-      <link>https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover</link>
-      <description>Threat actors can easily steal one-time passwords sent by text when they conduct a SIM swap attack. This can lead to account takeovers, so users must layer up their security measures.</description>
-      <pubDate>Mon, 22 Jun 2026 14:12:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Unpatchable BootROM Flaw Impacts Apple A12, A13 Chips</title>
-      <link>https://www.infosecurity-magazine.com/news/apple-bootrom-exploit-a12-a13/</link>
-      <description>Apple BootROM exploit exposes unpatchable USB flaw on A12 and A13 devices</description>
-      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apple-bootrom-exploit-a12-a13/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer</title>
-      <link>https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.
-
-According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence indicates that the threat actor is likely Russian-speaking and financially motivated, owing to the</description>
-      <pubDate>Mon, 22 Jun 2026 18:50:12 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries</title>
-      <link>https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html</link>
-      <description>Google has set September 30, 2026, as the day it begins enforcing&amp;amp;nbsp;Android developer verification&amp;amp;nbsp;in the first four countries, and the major device-maker app stores are in from the start.
-
-On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal installs of apps whose developers have not registered an identity with Google, whether the app</description>
-      <pubDate>Mon, 22 Jun 2026 18:15:08 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
