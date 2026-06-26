@@ -5,9 +5,159 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:22:50 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meeting Trump&amp;apos;s 2030 Quantum Deadline Will be Expensive, Complex</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex</link>
+      <description>Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.</description>
+      <pubDate>Fri, 26 Jun 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries</title>
+      <link>https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html</link>
+      <description>A flaw in the Linux kernel&amp;apos;s traffic-control subsystem can let a local unprivileged user gain root on affected systems.
+
+CVE-2026-46331, nicknamed &amp;quot;pedit COW,&amp;quot; is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&amp;amp;nbsp;public, working exploit&amp;amp;nbsp;appeared within a day of the CVE assignment on June 16. Red Hat&amp;amp;nbsp;rates the flaw as</description>
+      <pubDate>Fri, 26 Jun 2026 18:30:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Thanks for Crushing the Submissions Inbox. We&amp;apos;re Trying to Keep Up</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder</link>
+      <description>It might be taking a bit longer than usual to respond to your submissions — here&amp;apos;s why.</description>
+      <pubDate>Fri, 26 Jun 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder</guid>
+      <dc:creator>Becky Bracken</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Nebulock Raises $25 Million for AI-Native Contextual Security</title>
+      <link>https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/</link>
+      <description>&amp;lt;p&amp;gt;The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/&amp;quot;&amp;gt;Nebulock Raises $25 Million for AI-Native Contextual Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 26 Jun 2026 12:37:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity Funding</category>
+    </item>
+    <item>
+      <title>CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue</title>
+      <link>https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerability in question is</description>
+      <pubDate>Fri, 26 Jun 2026 18:01:56 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets</title>
+      <link>https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html</link>
+      <description>DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&amp;amp;nbsp;JFrog Security Research published a working exploit walkthrough&amp;amp;nbsp;for the flaw on June 25, the first public demonstration for this variant.
+
+Tracked as&amp;amp;nbsp;CVE-2026-43503&amp;amp;nbsp;(CVSS 8.8), it lets a local user corrupt file-backed memory through a cloned network packet and gain root. The patch landed in</description>
+      <pubDate>Fri, 26 Jun 2026 17:21:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Guardian Agents: The Next Layer of Identity Governance</title>
+      <link>https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html</link>
+      <description>AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn&amp;apos;t designed for autonomous actors, and the gap between what enterprises are deploying and what their governance programs actually cover is widening fast. This guide breaks</description>
+      <pubDate>Fri, 26 Jun 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Linux Foundation Unveils New Open Source Security Project Akrites</title>
+      <link>https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/</link>
+      <description>&amp;lt;p&amp;gt;It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/&amp;quot;&amp;gt;Linux Foundation Unveils New Open Source Security Project Akrites&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 26 Jun 2026 11:28:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Application Security</category>
+      <category>Akrites</category>
+      <category>Linux Foundation</category>
+      <category>open source</category>
+      <category>OSS</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack</title>
+      <link>https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html</link>
+      <description>Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.
+
+&amp;quot;The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go</description>
+      <pubDate>Fri, 26 Jun 2026 16:35:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>One Million Passports Leaked Online</title>
+      <link>https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html</link>
+      <description>&amp;lt;p&amp;gt;A database of almost a million passports from around the world was &amp;lt;a href=&amp;quot;https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/&amp;quot;&amp;gt;leaked&amp;lt;/a&amp;gt; online.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Note what happened. A high-value credential&amp;amp;#8212;a passport&amp;amp;#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it&amp;amp;#8217;s the low-value system that got hacked, putting the high-value credential at risk.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 26 Jun 2026 11:03:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>data collection</category>
+      <category>leaks</category>
+      <category>passports</category>
+    </item>
+    <item>
+      <title>China-Linked Hackers Strike Asian Critical Infrastructure with TinyRCT Backdoor</title>
+      <link>https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/</link>
+      <description>A China-linked threat group has been targeting critical infrastructure in Southeast Asia with a new custom backdoor called TinyRCT</description>
+      <pubDate>Fri, 26 Jun 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>$3 Million Reportedly Stolen in Polymarket Hack</title>
+      <link>https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/</link>
+      <description>&amp;lt;p&amp;gt;The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/&amp;quot;&amp;gt;$3 Million Reportedly Stolen in Polymarket Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 26 Jun 2026 09:47:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Phishing</category>
+      <category>cryptocurrency</category>
+      <category>cryptocurrency heist</category>
+      <category>Featured</category>
+      <category>Polymarket</category>
+    </item>
+    <item>
+      <title>Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant</title>
+      <link>https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html</link>
+      <description>An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says.
+
+The company has&amp;amp;nbsp;not attributed&amp;amp;nbsp;the activity to a known threat actor, and the operators&amp;apos; end goal is still unclear.
+
+The lure plays to how hotels work.</description>
+      <pubDate>Fri, 26 Jun 2026 14:57:12 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets</title>
       <link>https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/</link>
@@ -97,6 +247,14 @@ Describing the Windows backdoor as continually developed by the hacking group, G
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>CISO Strategy</category>
       <category>CISO</category>
+    </item>
+    <item>
+      <title>Robinhood Cuts Access Approval Time to Support High-Velocity Development</title>
+      <link>https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development</link>
+      <description>The fintech company&amp;apos;s engineering-first application security team re-engineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood&amp;apos;s experience.</description>
+      <pubDate>Thu, 25 Jun 2026 22:42:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw</title>
@@ -349,20 +507,6 @@ Answering these questions requires teams to go beyond alerts, the most common ba
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>GitLab Patches Code Execution, Information Disclosure Vulnerabilities</title>
-      <link>https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/&amp;quot;&amp;gt;GitLab Patches Code Execution, Information Disclosure Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 25 Jun 2026 11:10:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>GitLab</category>
-      <category>patches</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>macOS Flaw Lets Standard Users Disable EDR and MDM</title>
       <link>https://www.infosecurity-magazine.com/news/macos-xpc-flaw-disable-edr-mdm/</link>
       <description>macos-xpc-flaw-disable-edr-mdm-standard-user-xm-cyber</description>
@@ -388,19 +532,6 @@ Answering these questions requires teams to go beyond alerts, the most common ba
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>25-Year-Old Vulnerability Patched in Curl</title>
-      <link>https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/</link>
-      <description>&amp;lt;p&amp;gt;The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/&amp;quot;&amp;gt;25-Year-Old Vulnerability Patched in Curl&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 25 Jun 2026 09:25:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Curl</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis</title>
       <link>https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html</link>
       <description>A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst&amp;apos;s artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact.
@@ -410,22 +541,6 @@ The malware has been codenamed Gaslight owing to this deceptive behavior. It&amp
       <guid isPermaLink="true">https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition</title>
-      <link>https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/</link>
-      <description>&amp;lt;p&amp;gt;The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/&amp;quot;&amp;gt;SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/</guid>
-      <dc:creator>Mike Lennon</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>Conference</category>
-      <category>Featured</category>
-      <category>ICS</category>
-      <category>OT</category>
-      <category>SCADA</category>
     </item>
     <item>
       <title>New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns</title>
@@ -1054,128 +1169,6 @@ Effective June 18, 2026, the latest version of &amp;quot;actions/checkout,&amp;q
       <pubDate>Tue, 23 Jun 2026 09:29:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/scattered-spider-teens-convicted/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT</title>
-      <link>https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html</link>
-      <description>Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).
-
-The list of identified packages, is below -
-
-
-  aes-decode-runner-pro (145 downloads)
-  postcss-minify-selector (256 downloads)
-  postcss-minify-selector-parser (615 downloads)
-
-All the packages were published over the past month by an npm user named</description>
-      <pubDate>Tue, 23 Jun 2026 14:24:32 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Five Eyes Group Issues Urgent Call to Tackle Frontier AI Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/five-eyes-issues-urgent-call/</link>
-      <description>The Five Eyes Alliance has published a rare call to action for organizations facing AI threats</description>
-      <pubDate>Tue, 23 Jun 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/five-eyes-issues-urgent-call/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The Architecture of an AI-Powered Breach: The Shadow Supply Chain | UpGuard</title>
-      <link>https://www.upguard.com/blog/ai-powered-breach-and-the-shadow-supply-chain</link>
-      <description>Decode three real-world AI breaches. Learn how Shadow AI pipelines bypass security and how real-time browser guidance can stop data leaks.</description>
-      <pubDate>Tue, 23 Jun 2026 06:25:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ai-powered-breach-and-the-shadow-supply-chain</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Decoding the Copilot Ecosystem | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-copilot-ecosystem</link>
-      <description>Don&amp;apos;t let Copilot extend its permission sprawl. Learn the structural risks of M365 and GitHub Copilot, and how to enforce real-time browser guardrails.</description>
-      <pubDate>Tue, 23 Jun 2026 06:25:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-copilot-ecosystem</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Governing Excessive Agency in the Anthropic Ecosystem | UpGuard</title>
-      <link>https://www.upguard.com/blog/governing-agency-in-the-anthropic-ecosystem</link>
-      <description>Agentic AI is moving fast. Learn how to govern Claude safely, neutralize Excessive Agency, and enforce real-time browser-level guardrails.</description>
-      <pubDate>Tue, 23 Jun 2026 06:25:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/governing-agency-in-the-anthropic-ecosystem</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The 2026 Enterprise AI Security Index | UpGuard</title>
-      <link>https://www.upguard.com/blog/enterprise-ai-security-index</link>
-      <description>Cut through the marketing hype. Uncover the architectural risks, data defaults, and vulnerabilities of leading AI models in our AI Security Index.</description>
-      <pubDate>Tue, 23 Jun 2026 06:25:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/enterprise-ai-security-index</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Ultimate Ransomware Defense Guide (2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/protecting-employee-credentials-from-ransomware-compromise</link>
-      <description>Learn how to implement an effective security strategy for minimizing the impact of ransomware attacks.</description>
-      <pubDate>Tue, 23 Jun 2026 06:25:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/protecting-employee-credentials-from-ransomware-compromise</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool</title>
-      <link>https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html</link>
-      <description>Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software.
-
-Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,</description>
-      <pubDate>Tue, 23 Jun 2026 11:08:40 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws</title>
-      <link>https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html</link>
-      <description>OpenAI on Monday said it&amp;apos;s releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative&amp;amp;nbsp;the artificial intelligence (AI) company announced last month.
-
-Calling GPT‑5.5‑Cyber its &amp;quot;strongest model yet for finding and helping patch software vulnerabilities,&amp;quot; OpenAI said the model can &amp;quot;sustain deeper analysis across large codebases&amp;quot; to</description>
-      <pubDate>Tue, 23 Jun 2026 09:26:58 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>DifyTap Bugs Let Attackers &amp;apos;Wiretap&amp;apos; AI Chat Histories</title>
-      <link>https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories</link>
-      <description>Four vulnerabilities allow attackers to exploit Dify, a platform for AI application building and management, to silently access and exfiltrate sensitive data.</description>
-      <pubDate>Mon, 22 Jun 2026 21:14:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New Apple Exploit Exposes Millions of iPhones Worldwide, No Software Fix Available</title>
-      <link>https://www.techrepublic.com/article/news-apple-usbliter8-securerom-exploit-june-2026/</link>
-      <description>&amp;lt;p&amp;gt;Researchers disclosed usbliter8, a SecureROM exploit affecting older Apple devices that can bypass boot protections with physical access.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-usbliter8-securerom-exploit-june-2026/&amp;quot;&amp;gt;New Apple Exploit Exposes Millions of iPhones Worldwide, No Software Fix Available&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:48:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-usbliter8-securerom-exploit-june-2026/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Hardware</category>
-      <category>Innovation</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>bootrom</category>
-      <category>cybersecurity</category>
-      <category>iphone</category>
-      <category>secure enclave</category>
-      <category>securerom</category>
-      <category>usbliter8</category>
-      <category>vulnerability</category>
     </item>
   </channel>
 </rss>
