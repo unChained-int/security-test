@@ -5,9 +5,36 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 30 Jun 2026 19:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:44:35 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>China-Linked Group Targets Southeast Asia Critical Systems</title>
+      <link>https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems</link>
+      <description>The group compromised at least 10 regional organizations, including two state-owned entities, and deployed a new backdoor.</description>
+      <pubDate>Wed, 01 Jul 2026 01:00:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fake Bug Report Hijacks AI Coding Agents at Scale</title>
+      <link>https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents</link>
+      <description>&amp;amp;quot;Agentjacking&amp;amp;quot; is the latest demonstration of how easily attackers can exploit an AI agent&amp;apos;s inability to differentiate between content and instructions.</description>
+      <pubDate>Tue, 30 Jun 2026 21:37:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Hijack Exposed AI Endpoints to Power Offensive Ops</title>
+      <link>https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops</link>
+      <description>Attackers don&amp;apos;t need any special authentication to reach a target endpoint — they just need to know where it is.</description>
+      <pubDate>Tue, 30 Jun 2026 21:01:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Why Identity Security Is Your Cyber Career Entry Point</title>
       <link>https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point</link>
@@ -100,6 +127,31 @@ The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Lab
       <guid isPermaLink="true">https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Meta Adds WhatsApp Usernames: Here’s What You Need to Know</title>
+      <link>https://www.techrepublic.com/article/news-whatsapp-usernames-phone-number-privacy/</link>
+      <description>&amp;lt;p&amp;gt;WhatsApp is rolling out usernames so people can chat without sharing phone numbers. Here’s how reservations, username keys, and rules work.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-whatsapp-usernames-phone-number-privacy/&amp;quot;&amp;gt;Meta Adds WhatsApp Usernames: Here&amp;amp;#8217;s What You Need to Know&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 30 Jun 2026 15:36:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-whatsapp-usernames-phone-number-privacy/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Applications</category>
+      <category>Cybersecurity</category>
+      <category>Innovation</category>
+      <category>Meta</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Social Media</category>
+      <category>Messaging apps</category>
+      <category>meta</category>
+      <category>phone numbers</category>
+      <category>privacy</category>
+      <category>signal</category>
+      <category>telegram</category>
+      <category>usernames</category>
+      <category>whatsapp</category>
     </item>
     <item>
       <title>Critical SimpleHelp Vulnerability Exploited For Malware Delivery</title>
@@ -1230,48 +1282,6 @@ The activity, particularly aimed at state-owned enterprises in the energy and go
 CVE-2026-46331, nicknamed &amp;quot;pedit COW,&amp;quot; is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&amp;amp;nbsp;public, working exploit&amp;amp;nbsp;appeared within a day of the CVE assignment on June 16. Red Hat&amp;amp;nbsp;rates the flaw as</description>
       <pubDate>Fri, 26 Jun 2026 19:27:55 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs</title>
-      <link>https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html</link>
-      <description>A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer&amp;apos;s cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it.
-
-Tracked as&amp;amp;nbsp;CVE-2026-12957&amp;amp;nbsp;(CVSS 8.5), the bug sat in how Amazon&amp;apos;s AI coding assistant handled Model Context Protocol (MCP) servers.
-
-Wiz</description>
-      <pubDate>Fri, 26 Jun 2026 19:23:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Meeting Trump&amp;apos;s 2030 Quantum Deadline Will be Expensive, Complex</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex</link>
-      <description>Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.</description>
-      <pubDate>Fri, 26 Jun 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Thanks for Crushing the Submissions Inbox. We&amp;apos;re Trying to Keep Up</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder</link>
-      <description>It might be taking a bit longer than usual to respond to your submissions — here&amp;apos;s why.</description>
-      <pubDate>Fri, 26 Jun 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue</title>
-      <link>https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerability in question is</description>
-      <pubDate>Fri, 26 Jun 2026 18:01:56 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
