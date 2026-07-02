@@ -5,9 +5,47 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Jul 2026 03:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:54:13 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alleged Scattered Spider Member Extradited to US</title>
+      <link>https://www.infosecurity-magazine.com/news/scattered-spider-member-extradited/</link>
+      <description>A teenager accused of hacking as part of Scattered Spider has been arrested</description>
+      <pubDate>Thu, 02 Jul 2026 08:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/scattered-spider-member-extradited/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos</title>
+      <link>https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html</link>
+      <description>Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs.
+
+Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine.&amp;amp;nbsp;YesWeHack and</description>
+      <pubDate>Thu, 02 Jul 2026 12:54:23 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation</title>
+      <link>https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue</description>
+      <pubDate>Thu, 02 Jul 2026 11:16:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Best Data Breach &amp;amp; Data Leak Detection Tools | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-data-leak-detection-software-solutions</link>
+      <description>Stopping an intrusion is half the battle. This guide ranks the top breach and leak detection tools to neutralize exposed credentials before attackers do.</description>
+      <pubDate>Thu, 02 Jul 2026 05:43:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-data-leak-detection-software-solutions</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>Microsoft Warns: Fake Perplexity Extension Abused Chrome Search Features</title>
       <link>https://www.techrepublic.com/article/news-fake-perplexity-chrome-extension-searches/</link>
@@ -306,7 +344,7 @@ The Canadian cybersecurity company said it identified exploitation attempts targ
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android</title>
+      <title>AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android</title>
       <link>https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html</link>
       <description>Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining &amp;quot;unrealistic browser-malware concepts with a real browser capability&amp;quot; to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices.
 
@@ -947,14 +985,6 @@ The same research found Quick Share flaws that</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Best Data Breach &amp;amp; Data Leak Detection Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-data-leak-detection-software-solutions</link>
-      <description>Stopping an intrusion is half the battle. This guide ranks the top breach and leak detection tools to neutralize exposed credentials before attackers do.</description>
-      <pubDate>Tue, 30 Jun 2026 09:17:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-data-leak-detection-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials</title>
       <link>https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html</link>
       <description>Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&amp;amp;nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user&amp;apos;s credentials and sending them to an attacker.
@@ -1194,57 +1224,6 @@ The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an imp
       <category>ransomware</category>
       <category>social engineering</category>
       <category>zero trust</category>
-    </item>
-    <item>
-      <title>WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private</title>
-      <link>https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html</link>
-      <description>WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform.
-
-The optional feature is designed to help users connect with someone on the service through usernames, as opposed to directly sharing their phone numbers. Username reservations will start rolling out starting today,</description>
-      <pubDate>Mon, 29 Jun 2026 21:39:21 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>North Korea-Linked macOS Malware Uses Prompt Injection to Evade AI Analysis</title>
-      <link>https://www.techrepublic.com/article/news-macos-gaslight-malware-ai-prompt-injection/</link>
-      <description>&amp;lt;p&amp;gt;SentinelOne says macOS.Gaslight uses prompt injection to mislead AI-based malware analysis, steal data, and use Telegram for C2.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-macos-gaslight-malware-ai-prompt-injection/&amp;quot;&amp;gt;North Korea-Linked macOS Malware Uses Prompt Injection to Evade AI Analysis&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 29 Jun 2026 16:08:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-macos-gaslight-malware-ai-prompt-injection/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Operating Systems</category>
-      <category>Security</category>
-      <category>ai security</category>
-      <category>infostealer</category>
-      <category>macos</category>
-      <category>malware</category>
-      <category>north korea</category>
-      <category>prompt injection</category>
-      <category>sentinalone</category>
-      <category>telegram</category>
-    </item>
-    <item>
-      <title>Factoring RSA Keys with Many Zeros</title>
-      <link>https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html</link>
-      <description>&amp;lt;p&amp;gt;Interesting research on a &amp;lt;a href=&amp;quot;https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/&amp;quot;&amp;gt;new class&amp;lt;/a&amp;gt; of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this tool, Hanno collected a massive number of real-world keys from public sources, including Certificate Transparency logs, internet-wide TLS and SSH scans, PGP keys, and many others. By searching this dataset for unexpectedly sparse RSA moduli, we uncovered a large number of keys in the wild with the patterns in Figure 1...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 29 Jun 2026 16:05:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>backdoors</category>
-      <category>cryptography</category>
-      <category>encryption</category>
-      <category>keys</category>
-      <category>RSA</category>
     </item>
   </channel>
 </rss>
