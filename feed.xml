@@ -5,9 +5,53 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 19:53:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:30:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Warns: Fake Perplexity Extension Abused Chrome Search Features</title>
+      <link>https://www.techrepublic.com/article/news-fake-perplexity-chrome-extension-searches/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft found a fake Perplexity AI Chrome extension that rerouted searches through attacker servers. Here’s what users should check now.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-fake-perplexity-chrome-extension-searches/&amp;quot;&amp;gt;Microsoft Warns: Fake Perplexity Extension Abused Chrome Search Features&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 01 Jul 2026 20:35:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-fake-perplexity-chrome-extension-searches/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Browsers</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>Innovation</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>browser security</category>
+      <category>chrome</category>
+      <category>chrome extensions</category>
+      <category>cybersecurity</category>
+      <category>google chrome</category>
+      <category>malware</category>
+      <category>perplexity ai</category>
+    </item>
+    <item>
+      <title>Crafty Phishing Campaigns Auto-Adapt to Victim&amp;apos;s Device, OS</title>
+      <link>https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os</link>
+      <description>Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.</description>
+      <pubDate>Wed, 01 Jul 2026 20:31:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>And the Winner in Dominant Malware Delivery? ClickFix</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix</link>
+      <description>Researchers say the highly effective social engineering technique is no longer the exception for malware attacks — it&amp;apos;s now the rule.</description>
+      <pubDate>Wed, 01 Jul 2026 19:46:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters</title>
       <link>https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html</link>
@@ -548,7 +592,7 @@ The vulnerabilities are listed below -
     <item>
       <title>Why Identity Security Is Your Cyber Career Entry Point</title>
       <link>https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point</link>
-      <description>As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at SIlverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into the essential field.</description>
+      <description>As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at Silverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into the essential field.</description>
       <pubDate>Tue, 30 Jun 2026 19:11:40 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point</guid>
       <dc:creator>Kristina Beek</dc:creator>
@@ -1201,42 +1245,6 @@ The optional feature is designed to help users connect with someone on the servi
       <category>encryption</category>
       <category>keys</category>
       <category>RSA</category>
-    </item>
-    <item>
-      <title>Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input</title>
-      <link>https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html</link>
-      <description>Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results.
-
-Microsoft says Google removed it from the store after responsible disclosure. The extension was called &amp;quot;</description>
-      <pubDate>Mon, 29 Jun 2026 21:10:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs</title>
-      <link>https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html</link>
-      <description>Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security.
-
-The WebKit vulnerabilities are listed below -
-
-
-  CVE-2026-43707 - A memory corruption issue that could result in an</description>
-      <pubDate>Mon, 29 Jun 2026 21:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks</title>
-      <link>https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html</link>
-      <description>The China-aligned espionage group&amp;amp;nbsp;Mustang Panda&amp;amp;nbsp;is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel.
-
-Acronis Threat Research Unit&amp;amp;nbsp;found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with&amp;amp;nbsp;</description>
-      <pubDate>Mon, 29 Jun 2026 20:33:40 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
