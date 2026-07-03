@@ -5,9 +5,109 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Jul 2026 19:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:52:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</link>
+      <description>Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.</description>
+      <pubDate>Thu, 02 Jul 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Reverses Age-Old Patch Policy to Keep Up With AI</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai</link>
+      <description>Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.</description>
+      <pubDate>Thu, 02 Jul 2026 19:31:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>FBI Seizes NetNut Proxy Platform, Popa Botnet</title>
+      <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
+      <description>The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.</description>
+      <pubDate>Thu, 02 Jul 2026 19:27:33 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Web Fraud 2.0</category>
+      <category>Alarum Technologies Ltd</category>
+      <category>Benjamin Brundage</category>
+      <category>fbi</category>
+      <category>google</category>
+      <category>Google Threat Intelligence Group</category>
+      <category>Internal Revenue Service Criminal Investigation</category>
+      <category>IPidea</category>
+      <category>LG</category>
+      <category>Lumen</category>
+      <category>NetNut</category>
+      <category>Popa botnet</category>
+      <category>Samsung</category>
+      <category>Shadowserver</category>
+      <category>Synthient</category>
+    </item>
+    <item>
+      <title>FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs</title>
+      <link>https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs</link>
+      <description>After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.</description>
+      <pubDate>Thu, 02 Jul 2026 19:11:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices</title>
+      <link>https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html</link>
+      <description>Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people&amp;apos;s traffic.
+
+Working with the FBI, Lumen, and others, Google&amp;apos;s Threat Intelligence Group (GTIG)&amp;amp;nbsp;said this week&amp;amp;nbsp;it had reduced the network&amp;apos;s pool of usable devices by millions.
+
+Google identifies NetNut, also tracked as Popa, as a network spread across home</description>
+      <pubDate>Fri, 03 Jul 2026 00:24:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials</title>
+      <link>https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html</link>
+      <description>Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.
+
+&amp;quot;Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple’s ‘Hide My Email’ Privacy Flaw Exposes Real Email Addresses</title>
+      <link>https://www.techrepublic.com/article/news-apple-hide-my-email-privacy-flaw/</link>
+      <description>&amp;lt;p&amp;gt;Researchers say Apple’s Hide My Email flaw may expose real addresses, despite two fixes. Here’s what users should know about the privacy risk.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-hide-my-email-privacy-flaw/&amp;quot;&amp;gt;Apple’s ‘Hide My Email’ Privacy Flaw Exposes Real Email Addresses&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:16:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-hide-my-email-privacy-flaw/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>cybersecurity</category>
+      <category>data privacy</category>
+      <category>email privacy</category>
+      <category>hide my email</category>
+      <category>icloud</category>
+      <category>icloud plus</category>
+      <category>privacy tools</category>
+    </item>
     <item>
       <title>Ransomware Thugs Masquerade as Interpol to Entice Small Biz</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses</link>
@@ -80,6 +180,31 @@
       <pubDate>Thu, 02 Jul 2026 15:58:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/automate-governance-prioritize-action</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>New Chrome Update Fixes 382 Security Bugs Across Desktop, Mobile</title>
+      <link>https://www.techrepublic.com/article/news-google-chrome-update-382-security-bugs/</link>
+      <description>&amp;lt;p&amp;gt;Google released a Chrome update addressing 382 security bugs, including sandbox-escape risks. Users and IT teams should update quickly.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-update-382-security-bugs/&amp;quot;&amp;gt;New Chrome Update Fixes 382 Security Bugs Across Desktop, Mobile&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 02 Jul 2026 15:57:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-update-382-security-bugs/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Browsers</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Software</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>browser security</category>
+      <category>chrome security</category>
+      <category>chromium</category>
+      <category>cybersecurity</category>
+      <category>google chrome</category>
+      <category>sandbox escape</category>
+      <category>security update</category>
+      <category>vulnerability management</category>
     </item>
     <item>
       <title>Solving Human Risk: Build a Measurable, Security-First Culture  | UpGuard</title>
@@ -179,6 +304,31 @@ This is not one big break. It is small permissions, weak checks, open systems, a
       <category>Citrix</category>
       <category>Citrix Bleed</category>
       <category>CVE-2026-8451</category>
+    </item>
+    <item>
+      <title>Why a Windows Hello PIN Beats a Password for Enterprise Security</title>
+      <link>https://www.techrepublic.com/article/news-windows-hello-pin-security/</link>
+      <description>&amp;lt;p&amp;gt;As phishing campaigns, AI-driven identity attacks, and Windows migration planning raise authentication stakes, IT teams should recheck how Windows Hello PIN security works.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-hello-pin-security/&amp;quot;&amp;gt;Why a Windows Hello PIN Beats a Password for Enterprise Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 02 Jul 2026 13:48:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-hello-pin-security/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Biometrics</category>
+      <category>Cybersecurity</category>
+      <category>IT Operations</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Windows</category>
+      <category>Conditional Access</category>
+      <category>identity security</category>
+      <category>microsoft entra</category>
+      <category>passwordless authentication</category>
+      <category>phishing-resistant MFA</category>
+      <category>TPM</category>
+      <category>windows hello</category>
+      <category>Windows Hello for Business</category>
     </item>
     <item>
       <title>How to Conduct a Successful Audit of AI-Driven Software Development</title>
@@ -631,6 +781,14 @@ The activity has been codenamed VEIL#DROP by Securonix. It&amp;apos;s suspected 
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams</link>
+      <description/>
+      <pubDate>Wed, 01 Jul 2026 15:34:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
       <title>Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures</title>
       <link>https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html</link>
       <description>A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&amp;amp;nbsp;Fortinet&amp;apos;s FortiGuard Labs&amp;amp;nbsp;identified the campaign in May 2026.
@@ -1000,162 +1158,6 @@ The end goal is a</description>
       <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Bring PCI SSC Training to Your Organization with the New Training Venue Host Program</title>
-      <link>https://blog.pcisecuritystandards.org/bring-pci-ssc-training-to-your-organization-with-the-new-training-venue-host-program</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/bring-pci-ssc-training-to-your-organization-with-the-new-training-venue-host-program&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Bring PCI SSC Training to Your Organization with the New Training Venue Host Program&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/800x444_new_training_venue_host_program.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;The PCI Security Standards Council (PCI SSC) has launched its &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.pcisecuritystandards.org/program_training_and_qualification/become-a-training-venue-host/&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;Training Venue Host Program&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;, creating a new way for organizations with suitable training facilities to support payment security education while bringing industry training directly to their teams. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 30 Jun 2026 15:52:15 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/bring-pci-ssc-training-to-your-organization-with-the-new-training-venue-host-program</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Training</category>
-      <category>Awareness</category>
-      <category>PCI SSC</category>
-      <category>Participation</category>
-    </item>
-    <item>
-      <title>Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints</title>
-      <link>https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html</link>
-      <description>Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner.
-
-The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)</description>
-      <pubDate>Tue, 30 Jun 2026 21:17:20 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses</title>
-      <link>https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html</link>
-      <description>Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction.
-
-The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs.
-
-&amp;quot;The campaign is delivered through unsigned installers – observed in both .NET and Golang variants – that</description>
-      <pubDate>Tue, 30 Jun 2026 21:10:18 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Meta Adds WhatsApp Usernames: Here’s What You Need to Know</title>
-      <link>https://www.techrepublic.com/article/news-whatsapp-usernames-phone-number-privacy/</link>
-      <description>&amp;lt;p&amp;gt;WhatsApp is rolling out usernames so people can chat without sharing phone numbers. Here’s how reservations, username keys, and rules work.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-whatsapp-usernames-phone-number-privacy/&amp;quot;&amp;gt;Meta Adds WhatsApp Usernames: Here&amp;amp;#8217;s What You Need to Know&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 30 Jun 2026 15:36:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-whatsapp-usernames-phone-number-privacy/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Applications</category>
-      <category>Cybersecurity</category>
-      <category>Innovation</category>
-      <category>Meta</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Social Media</category>
-      <category>Messaging apps</category>
-      <category>meta</category>
-      <category>phone numbers</category>
-      <category>privacy</category>
-      <category>signal</category>
-      <category>telegram</category>
-      <category>usernames</category>
-      <category>whatsapp</category>
-    </item>
-    <item>
-      <title>Critical SimpleHelp Vulnerability Exploited For Malware Delivery</title>
-      <link>https://www.infosecurity-magazine.com/news/simplehelp-rmm-vulnerability/</link>
-      <description>Attackers exploited a critical SimpleHelp RMM bug to deploy TaskWeaver and Djinn Stealer malware</description>
-      <pubDate>Tue, 30 Jun 2026 15:34:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/simplehelp-rmm-vulnerability/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>This month in security with Tony Anscombe – June 2026 edition</title>
-      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/</link>
-      <description>Three-day patching deadlines, exposed fuel-tank systems, scams costing billions of dollars, and social media bans for children all gave Tony plenty to unpack in June 2026</description>
-      <pubDate>Tue, 30 Jun 2026 14:39:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Video</category>
-    </item>
-    <item>
-      <title>GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks</title>
-      <link>https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html</link>
-      <description>The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.
-
-New research from&amp;amp;nbsp;Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, &amp;quot;Continue,&amp;quot; was built to</description>
-      <pubDate>Tue, 30 Jun 2026 19:56:15 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SimpleHelp Flaw Exploited to Deploy Malware Targeting Windows, macOS, and Linux</title>
-      <link>https://www.techrepublic.com/article/news-simplehelp-flaw-djinn-stealer-developer-credentials/</link>
-      <description>&amp;lt;p&amp;gt;A SimpleHelp authentication flaw is being exploited to deploy Djinn Stealer, a cross-platform malware targeting cloud, developer, and AI credentials.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-simplehelp-flaw-djinn-stealer-developer-credentials/&amp;quot;&amp;gt;SimpleHelp Flaw Exploited to Deploy Malware Targeting Windows, macOS, and Linux&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 30 Jun 2026 14:25:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-simplehelp-flaw-djinn-stealer-developer-credentials/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Apple</category>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech Industry</category>
-      <category>CISA</category>
-      <category>cve-2026-48558</category>
-      <category>developer security</category>
-      <category>djinn stealer</category>
-      <category>infostealer</category>
-      <category>rmm security</category>
-      <category>simplehelp</category>
-      <category>taskweaver</category>
-    </item>
-    <item>
-      <title>iPhone Security Fixes May Arrive Sooner as AI Speeds Up Threats</title>
-      <link>https://www.techrepublic.com/article/news-apple-iphone-ai-security-updates/</link>
-      <description>&amp;lt;p&amp;gt;Apple is releasing some iPhone security fixes earlier as AI raises concerns about faster cyberattacks and shorter patch windows. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apple-iphone-ai-security-updates/&amp;quot;&amp;gt;iPhone Security Fixes May Arrive Sooner as AI Speeds Up Threats&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 30 Jun 2026 14:01:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apple-iphone-ai-security-updates/</guid>
-      <dc:creator>Liz Ticong</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI</category>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>ai cyberattacks</category>
-      <category>cybersecurity</category>
-      <category>ios 26</category>
-      <category>iphone</category>
-      <category>mobile security</category>
-      <category>security updates</category>
-      <category>spyware</category>
-    </item>
-    <item>
-      <title>282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study</title>
-      <link>https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html</link>
-      <description>Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic.
-
-In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all.
-
-Whoever grabs it can send model requests on the developer&amp;apos;s account,</description>
-      <pubDate>Tue, 30 Jun 2026 19:19:34 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
