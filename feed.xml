@@ -5,9 +5,58 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Jul 2026 02:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:16:18 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</title>
+      <link>https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/</link>
+      <description>&amp;lt;p&amp;gt;NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/&amp;quot;&amp;gt;Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 03 Jul 2026 08:13:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Tracking &amp;amp; Law Enforcement</category>
+      <category>Featured</category>
+      <category>NetNut</category>
+    </item>
+    <item>
+      <title>PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords</title>
+      <link>https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html</link>
+      <description>Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.
+
+The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to</description>
+      <pubDate>Fri, 03 Jul 2026 13:33:37 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</title>
+      <link>https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/</link>
+      <description>&amp;lt;p&amp;gt;The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor&amp;apos;s sandbox and execute arbitrary code on the underlying operating system.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/&amp;quot;&amp;gt;Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 03 Jul 2026 07:57:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>Cursor</category>
+      <category>Cursor AI</category>
+      <category>Featured</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Higher Education TPRM in 2026: New Research Maps the Vendor Visibility Gap | UpGuard</title>
+      <link>https://www.upguard.com/blog/higher-education-tprm-2026</link>
+      <description>Explore UpGuard’s latest research into higher education third-party risk, including supplier concentration and systemic vendor exposure.</description>
+      <pubDate>Fri, 03 Jul 2026 07:19:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/higher-education-tprm-2026</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs</title>
       <link>https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</link>
@@ -322,6 +371,7 @@ This is not one big break. It is small permissions, weak checks, open systems, a
       <category>Security</category>
       <category>Windows</category>
       <category>Conditional Access</category>
+      <category>editors picks</category>
       <category>identity security</category>
       <category>microsoft entra</category>
       <category>passwordless authentication</category>
@@ -940,33 +990,6 @@ Here are a few examples, based on the independent survey of 1,200 IT and cyberse
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities</title>
-      <link>https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/&amp;quot;&amp;gt;Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 01 Jul 2026 11:27:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Adobe</category>
-      <category>CVE-2026-48286</category>
-    </item>
-    <item>
-      <title>Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack</title>
-      <link>https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/</link>
-      <description>&amp;lt;p&amp;gt;Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/&amp;quot;&amp;gt;Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 01 Jul 2026 11:20:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Network Security</category>
-      <category>Vulnerabilities</category>
-      <category>Citrix</category>
-      <category>Featured</category>
-    </item>
-    <item>
       <title>Anthropic&amp;apos;s Fable 5 and Mythos 5 Are Back with New Security Guardrails</title>
       <link>https://www.infosecurity-magazine.com/news/anthropic-fable-mythos-back/</link>
       <description>The new classifier in Fable 5 blocks the jailbreak technique that prompted the US export controls “in over 99% of cases”</description>
@@ -1137,27 +1160,6 @@ The work comes from Microsoft Incident Response and its</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS</title>
-      <link>https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html</link>
-      <description>A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline.
-
-Researchers at QiAnXin&amp;apos;s&amp;amp;nbsp;XLab&amp;amp;nbsp;have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing.
-
-The end goal is a</description>
-      <pubDate>Tue, 30 Jun 2026 23:15:25 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day</title>
-      <link>https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/</link>
-      <description>Nissan says employees&amp;apos; data was stolen via the Oracle PeopleSoft zero-day campaign</description>
-      <pubDate>Tue, 30 Jun 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
