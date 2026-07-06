@@ -5,9 +5,94 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Jul 2026 15:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 19:54:50 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks</title>
+      <link>https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/</link>
+      <description>&amp;lt;p&amp;gt;Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/&amp;quot;&amp;gt;Blogspot-Hosted Payloads Delivered in &amp;amp;#8216;Veil#Drop&amp;amp;#8217; Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 06 Jul 2026 19:14:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+    </item>
+    <item>
+      <title>Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations</title>
+      <link>https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html</link>
+      <description>An Iranian hacking group affiliated with Iran&amp;apos;s Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations.
+
+The activity, which has primarily singled out IT providers and government sectors, has been attributed to a threat cluster tracked by Check Point Research</description>
+      <pubDate>Tue, 07 Jul 2026 00:04:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems</title>
+      <link>https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html</link>
+      <description>A use-after-free bug in Linux&amp;apos;s KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.
+
+Dubbed &amp;apos;Januscape&amp;apos; and tracked as&amp;amp;nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit</description>
+      <pubDate>Mon, 06 Jul 2026 23:07:01 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Azure CLI Password Spray Attack Exposes Microsoft 365 MFA Gap</title>
+      <link>https://www.techrepublic.com/article/news-azure-cli-mfa-gap/</link>
+      <description>&amp;lt;p&amp;gt;A password spray campaign targeting Azure CLI sign-ins exposed how narrow Conditional Access policies can leave Microsoft 365 accounts vulnerable even when MFA is enabled.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-azure-cli-mfa-gap/&amp;quot;&amp;gt;Azure CLI Password Spray Attack Exposes Microsoft 365 MFA Gap&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 06 Jul 2026 16:48:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-azure-cli-mfa-gap/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cloud</category>
+      <category>Cloud Security</category>
+      <category>Cybersecurity</category>
+      <category>Data Security</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Azure CLI</category>
+      <category>cloud security</category>
+      <category>Conditional Access</category>
+      <category>mfa</category>
+      <category>Microsoft 365</category>
+      <category>Microsoft Entra ID</category>
+      <category>password spray</category>
+      <category>ROPC</category>
+    </item>
+    <item>
+      <title>JadePuffer: The First Complete LLM-Driven Ransomware Attack</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack</link>
+      <description>An &amp;amp;quot;agentic threat actor&amp;amp;quot; successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.</description>
+      <pubDate>Mon, 06 Jul 2026 16:36:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure</title>
+      <link>https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html</link>
+      <description>Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.
+
+The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the &amp;quot;X-WEBAUTH-USER&amp;quot; header from any source IP address, effectively allowing an unauthenticated internet client to get elevated</description>
+      <pubDate>Mon, 06 Jul 2026 21:58:59 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors</title>
+      <link>https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/</link>
+      <description>Check Point researchers have identified a new cyber adversary targeting Israeli government and IT businesses, tracked as ‘Cavern Manticore’</description>
+      <pubDate>Mon, 06 Jul 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>The Shift Toward Business-Aligned Risk Management</title>
       <link>https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/</link>
@@ -316,6 +401,15 @@ According to JFrog, the packages &amp;quot;rollup-packages-polyfill-core&amp;quo
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Chinese LLMs Broaden the Gap Between Attackers &amp;amp;amp; Defenders</title>
+      <link>https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders</link>
+      <description>Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?</description>
+      <pubDate>Fri, 03 Jul 2026 13:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation</title>
       <link>https://www.infosecurity-magazine.com/news/qilin-dominates-ransomware-market/</link>
       <description>The ransomware landscape is reconsolidating around major players, with Qilin emerging as the leading RaaS operation, researchers say</description>
@@ -465,20 +559,6 @@ According to JFrog, the packages &amp;quot;rollup-packages-polyfill-core&amp;quo
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</title>
-      <link>https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/</link>
-      <description>&amp;lt;p&amp;gt;NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/&amp;quot;&amp;gt;Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 03 Jul 2026 08:13:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>Featured</category>
-      <category>NetNut</category>
-    </item>
-    <item>
       <title>PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords</title>
       <link>https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html</link>
       <description>Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.
@@ -488,6 +568,24 @@ The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleS
       <guid isPermaLink="true">https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</link>
+      <description>Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.</description>
+      <pubDate>Thu, 02 Jul 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Reverses Age-Old Patch Policy to Keep Up With AI</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai</link>
+      <description>Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.</description>
+      <pubDate>Thu, 02 Jul 2026 19:31:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>FBI Seizes NetNut Proxy Platform, Popa Botnet</title>
@@ -514,6 +612,15 @@ The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleS
       <category>Samsung</category>
       <category>Shadowserver</category>
       <category>Synthient</category>
+    </item>
+    <item>
+      <title>FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs</title>
+      <link>https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs</link>
+      <description>After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.</description>
+      <pubDate>Thu, 02 Jul 2026 19:11:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices</title>
@@ -605,6 +712,15 @@ Google identifies NetNut, also tracked as Popa, as a network spread across home<
       <category>spacex news</category>
       <category>tesla news</category>
       <category>x news</category>
+    </item>
+    <item>
+      <title>Ransomware Thugs Masquerade as Interpol to Entice Small Biz</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses</link>
+      <description>The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.</description>
+      <pubDate>Thu, 02 Jul 2026 18:07:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Detecting AI in the Software Supply Chain | UpGuard</title>
@@ -834,6 +950,15 @@ This is not one big break. It is small permissions, weak checks, open systems, a
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Anthropic&amp;apos;s AI Finds Bugs. IBM Bets $5B It Can Fix Them.</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-</link>
+      <description>IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic&amp;apos;s Mythos findings ignite debate over how to secure the open source software supply chain.</description>
+      <pubDate>Thu, 02 Jul 2026 12:33:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Cybercriminals Pose as Interpol in Phishing Emails to Infect Victims With Ransomware</title>
       <link>https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/</link>
       <description>Bitdefender researchers warned of curious ransomware campaign which has targeted businesses around the world</description>
@@ -993,6 +1118,24 @@ The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of rem
       <category>perplexity ai</category>
     </item>
     <item>
+      <title>Crafty Phishing Campaigns Auto-Adapt to Victim&amp;apos;s Device, OS</title>
+      <link>https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os</link>
+      <description>Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.</description>
+      <pubDate>Wed, 01 Jul 2026 20:31:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>And the Winner in Dominant Malware Delivery? ClickFix</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix</link>
+      <description>Researchers say the highly effective social engineering technique is no longer the exception for malware attacks — it&amp;apos;s now the rule.</description>
+      <pubDate>Wed, 01 Jul 2026 19:46:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters</title>
       <link>https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html</link>
       <description>Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component&amp;apos;s internal network port.
@@ -1076,151 +1219,6 @@ These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4
       <guid isPermaLink="true">https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer</title>
-      <link>https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html</link>
-      <description>Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.
-
-The activity has been codenamed VEIL#DROP by Securonix. It&amp;apos;s suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on</description>
-      <pubDate>Wed, 01 Jul 2026 22:48:50 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Shadow IT: Tiering the Unseen to Manage Vendor Risk | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-it-tiering-vendor-risk</link>
-      <description>Invisible apps become riskier with time. Use real-time user signals to categorize every vendor in your ecosystem based on its true risk profile.</description>
-      <pubDate>Wed, 01 Jul 2026 16:15:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-it-tiering-vendor-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>MCP: The AI Protocol Quietly Expanding Your Attack Surface | UpGuard</title>
-      <link>https://www.upguard.com/blog/mcp-ai-protocol-expanding-your-attack-surface</link>
-      <description>As AI tools adopt MCP, security teams face a new shadow IT crisis. Learn what MCP is, why these servers carry risk, and how to begin gaining visibility.</description>
-      <pubDate>Wed, 01 Jul 2026 16:14:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/mcp-ai-protocol-expanding-your-attack-surface</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Six MCP Security Incidents Every Security Leader Should Know | UpGuard</title>
-      <link>https://www.upguard.com/blog/mcp-security-incidents</link>
-      <description>From registry poisoning to filesystem wipes: discover the 6 MCP security incidents every leader must know to secure their AI agent workflows in 2026.</description>
-      <pubDate>Wed, 01 Jul 2026 16:10:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/mcp-security-incidents</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Shadow MCP Servers: The AI Infrastructure You Can&amp;apos;t See | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-mcp-servers</link>
-      <description>In 2012, it was Dropbox. In 2026, it’s Shadow MCP. Discover why unvetted AI agents are an invisible threat and how to regain total visibility.</description>
-      <pubDate>Wed, 01 Jul 2026 15:58:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-mcp-servers</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Practical MCP Security: A Playbook for Mid-Market Teams | UpGuard</title>
-      <link>https://www.upguard.com/blog/mcp-security-playbook-for-mid-market-teams</link>
-      <description>Move from zero to a defensible MCP security baseline in 90 days. Get a practical, phased playbook for lean teams to secure agentic AI infrastructure.</description>
-      <pubDate>Wed, 01 Jul 2026 15:52:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/mcp-security-playbook-for-mid-market-teams</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>New Cargo Theft Surge: From Lobster Heists To Bourbon Warehouse Scams</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams</link>
-      <description/>
-      <pubDate>Wed, 01 Jul 2026 15:34:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/new-cargo-theft-surge-lobster-heists-bourbon-warehouse-scams</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures</title>
-      <link>https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html</link>
-      <description>A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&amp;amp;nbsp;Fortinet&amp;apos;s FortiGuard Labs&amp;amp;nbsp;identified the campaign in May 2026.
-
-It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image.
-
-The goal is the usual one: steal banking logins and take</description>
-      <pubDate>Wed, 01 Jul 2026 20:56:55 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic</title>
-      <link>https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html</link>
-      <description>Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic.
-
-The ColdFusion updates &amp;quot;resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass,&amp;quot; Adobe said in an alert released Tuesday.
-
-The vulnerabilities are listed</description>
-      <pubDate>Wed, 01 Jul 2026 20:55:46 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands</title>
-      <link>https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html</link>
-      <description>Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor&amp;apos;s safety sandbox and run any command on a developer&amp;apos;s computer. There is no click to fall for and no approval box to ignore.
-
-Cato AI Labs&amp;amp;nbsp;found the pair and named them DuneSlide. They are tracked as&amp;amp;nbsp;CVE-2026-50548&amp;amp;nbsp;and&amp;amp;nbsp;CVE-2026-50549, both rated 9.8 out of 10 (or 9.3</description>
-      <pubDate>Wed, 01 Jul 2026 20:12:54 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fileless Malware Abuses Google Blogspot to Deploy Infostealer in Memory</title>
-      <link>https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/</link>
-      <description>Securonix said the Veil#Drop campaign abuses Google Blogspot to deliver PureLog Stealer in memory</description>
-      <pubDate>Wed, 01 Jul 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Free Windows 10 Security Updates Run Until 2027, but Not Every PC Qualifies</title>
-      <link>https://www.techrepublic.com/article/news-windows-10-esu-eligibility/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft’s consumer ESU program includes a no-cost enrollment option for eligible Windows 10 PCs, but managed devices and some account setups are excluded.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-10-esu-eligibility/&amp;quot;&amp;gt;Free Windows 10 Security Updates Run Until 2027, but Not Every PC Qualifies&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 01 Jul 2026 14:08:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-10-esu-eligibility/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>IT Management</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Operating Systems</category>
-      <category>cybersecurity</category>
-      <category>device management</category>
-      <category>Endpoint Management</category>
-      <category>esu</category>
-      <category>patch management</category>
-      <category>windows 10</category>
-      <category>Windows 11</category>
-    </item>
-    <item>
-      <title>Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts</title>
-      <link>https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html</link>
-      <description>A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire&amp;apos;s Threat Response Unit (TRU).
-
-The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve</description>
-      <pubDate>Wed, 01 Jul 2026 19:26:18 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Brazilian Banking Trojan Ousaban Targets Spain and Portugal</title>
-      <link>https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/</link>
-      <description>FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing</description>
-      <pubDate>Wed, 01 Jul 2026 13:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
