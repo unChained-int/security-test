@@ -5,9 +5,121 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 07 Jul 2026 14:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 19:53:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>County Government Reportedly Paid $1 Million to Cyber Extortion Group</title>
+      <link>https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/</link>
+      <description>&amp;lt;p&amp;gt;The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/&amp;quot;&amp;gt;County Government Reportedly Paid $1 Million to Cyber Extortion Group&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 07 Jul 2026 17:31:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Ransomware</category>
+    </item>
+    <item>
+      <title>Critical Gitea Flaw Under Active Exploitation, Researchers Warn</title>
+      <link>https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/</link>
+      <description>&amp;lt;p&amp;gt;Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/&amp;quot;&amp;gt;Critical Gitea Flaw Under Active Exploitation, Researchers Warn&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 07 Jul 2026 17:17:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CVE-2026-20896</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service</title>
+      <link>https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html</link>
+      <description>A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim&amp;apos;s phone, steal their banking logins, and capture the one-time codes that protect their accounts.
+
+Zimperium&amp;apos;s zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool</description>
+      <pubDate>Tue, 07 Jul 2026 22:40:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots</title>
+      <link>https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html</link>
+      <description>A critical flaw in Google&amp;apos;s Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.
+
+From there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password.
+
+Security firm Varonis found it</description>
+      <pubDate>Tue, 07 Jul 2026 22:07:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Suspected Chinese Threat Group Targets Universities via Vulnerable Roundcube Servers</title>
+      <link>https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/</link>
+      <description>A suspected Chinese threat cluster is exploiting Roundcube vulnerabilities to compromise university networks in the US and Canada and harvest user credentials</description>
+      <pubDate>Tue, 07 Jul 2026 15:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>&amp;apos;GitLost&amp;apos; Flaw Leaks Private Data From GitHub&amp;apos;s Agentic Workflows</title>
+      <link>https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows</link>
+      <description>The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org&amp;apos;s public repository and then silently pull data from its private repos, too.</description>
+      <pubDate>Tue, 07 Jul 2026 15:24:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts</title>
+      <link>https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html</link>
+      <description>A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC.
+
+&amp;quot;The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,</description>
+      <pubDate>Tue, 07 Jul 2026 20:44:14 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Search Uploads Can Train AI Unless You Opt Out</title>
+      <link>https://www.techrepublic.com/article/news-google-search-uploads-train-ai-opt-out/</link>
+      <description>&amp;lt;p&amp;gt;Google Search uploads may be used to train AI unless users opt out, raising privacy and data governance concerns for businesses.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-search-uploads-train-ai-opt-out/&amp;quot;&amp;gt;Google Search Uploads Can Train AI Unless You Opt Out&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 07 Jul 2026 14:53:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-search-uploads-train-ai-opt-out/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>Tech Industry</category>
+      <category>ai training</category>
+      <category>data governance</category>
+      <category>generative ai</category>
+      <category>google lens</category>
+      <category>google search</category>
+      <category>privacy</category>
+      <category>search services</category>
+    </item>
+    <item>
+      <title>Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data</title>
+      <link>https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html</link>
+      <description>A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization&amp;apos;s private repositories, researchers at Noma Security have shown.
+
+The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones</description>
+      <pubDate>Tue, 07 Jul 2026 19:34:50 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Scattered Spider’s Structure More Like a Cybercrime Collective Than a Unified Gang</title>
       <link>https://www.infosecurity-magazine.com/news/scattered-spider-as-cybercrime/</link>
@@ -184,6 +296,14 @@ The activity involves the exploitation of now-patched, critical security flaws i
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Phishing Attacks Targeted Facebook Users With Fake Verification Offer</title>
+      <link>https://www.infosecurity-magazine.com/news/phishing-facebook-fake-verification/</link>
+      <description>Attacks also used a compromised chatbot in campaign to steal sensitive information from Business Users</description>
+      <pubDate>Tue, 07 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phishing-facebook-fake-verification/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
       <title>CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware</title>
       <link>https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html</link>
       <description>Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices&amp;apos; web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday.
@@ -257,7 +377,7 @@ The vulnerabilities are listed below -
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>&amp;apos;BusySnake&amp;apos; Infostealer Slithers into Critical Infrastructure Networks</title>
+      <title>&amp;apos;BusySnake&amp;apos; Infostealer Slithers Into Critical Infrastructure Networks</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks</link>
       <description>A threat group researchers call &amp;amp;quot;Armored Likho&amp;amp;quot; has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.</description>
       <pubDate>Mon, 06 Jul 2026 21:37:56 +0000</pubDate>
@@ -395,18 +515,6 @@ The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerabili
       <category>risk management</category>
     </item>
     <item>
-      <title>Armored Likho APT Targeting Government, Electric Power Entities</title>
-      <link>https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/</link>
-      <description>&amp;lt;p&amp;gt;The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/&amp;quot;&amp;gt;Armored Likho APT Targeting Government, Electric Power Entities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 06 Jul 2026 15:10:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>APT</category>
-    </item>
-    <item>
       <title>Indirect Prompt Injection in Web Content Targets AI Agents</title>
       <link>https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/</link>
       <description>Zscaler found sites hiding prompt-injection text to manipulate AI agents into crypto payments</description>
@@ -445,20 +553,6 @@ The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerabili
       <category>Google Workspace</category>
       <category>mcp</category>
       <category>model context protocol</category>
-    </item>
-    <item>
-      <title>North Korean Hackers Target Open Source Developers in Supply Chain Attacks</title>
-      <link>https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/</link>
-      <description>&amp;lt;p&amp;gt;The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/&amp;quot;&amp;gt;North Korean Hackers Target Open Source Developers in Supply Chain Attacks &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 06 Jul 2026 13:11:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Supply Chain Security</category>
-      <category>Featured</category>
-      <category>North Korea</category>
-      <category>supply chain attack</category>
     </item>
     <item>
       <title>⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More</title>
@@ -1084,115 +1178,6 @@ This is not one big break. It is small permissions, weak checks, open systems, a
       <guid isPermaLink="true">https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why a Windows Hello PIN Beats a Password for Enterprise Security</title>
-      <link>https://www.techrepublic.com/article/news-windows-hello-pin-security/</link>
-      <description>&amp;lt;p&amp;gt;As phishing campaigns, AI-driven identity attacks, and Windows migration planning raise authentication stakes, IT teams should recheck how Windows Hello PIN security works.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-hello-pin-security/&amp;quot;&amp;gt;Why a Windows Hello PIN Beats a Password for Enterprise Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 02 Jul 2026 13:48:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-hello-pin-security/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Biometrics</category>
-      <category>Cybersecurity</category>
-      <category>IT Operations</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Windows</category>
-      <category>Conditional Access</category>
-      <category>editors picks</category>
-      <category>identity security</category>
-      <category>microsoft entra</category>
-      <category>passwordless authentication</category>
-      <category>phishing-resistant MFA</category>
-      <category>TPM</category>
-      <category>windows hello</category>
-      <category>Windows Hello for Business</category>
-    </item>
-    <item>
-      <title>ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API</title>
-      <link>https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html</link>
-      <description>The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that&amp;apos;s designed to gain surreptitious access to a victim&amp;apos;s email correspondence via the Google API.
-
-&amp;quot;In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,&amp;quot; Kaspersky said in a detailed report published this week. &amp;quot;</description>
-      <pubDate>Thu, 02 Jul 2026 18:34:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researcher Behind &amp;apos;Exploitarium&amp;apos; Explains Release of Undisclosed Zero-Day Exploits</title>
-      <link>https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/</link>
-      <description>Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first</description>
-      <pubDate>Thu, 02 Jul 2026 12:51:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Anthropic&amp;apos;s AI Finds Bugs. IBM Bets $5B It Can Fix Them.</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-</link>
-      <description>IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic&amp;apos;s Mythos findings ignite debate over how to secure the open source software supply chain.</description>
-      <pubDate>Thu, 02 Jul 2026 12:33:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Cybercriminals Pose as Interpol in Phishing Emails to Infect Victims With Ransomware</title>
-      <link>https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/</link>
-      <description>Bitdefender researchers warned of curious ransomware campaign which has targeted businesses around the world</description>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Flags MCP Tool Descriptions as Hidden AI Agent Attack Path</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft warns that poisoned MCP tool descriptions can steer AI agents into leaking sensitive data through approved tool calls.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/&amp;quot;&amp;gt;Microsoft Flags MCP Tool Descriptions as Hidden AI Agent Attack Path&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 02 Jul 2026 11:48:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>Enterprise Technology</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>ai agents</category>
-      <category>AI governance</category>
-      <category>ai security</category>
-      <category>copilot</category>
-      <category>cybersecurity</category>
-      <category>data security</category>
-      <category>mcp</category>
-    </item>
-    <item>
-      <title>Identity Lifecycle Management Wasn&amp;apos;t Built for AI Agents</title>
-      <link>https://thehackernews.com/2026/07/identity-lifecycle-management.html</link>
-      <description>Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren&amp;apos;t designed to detect. This guide covers where that model breaks, what it</description>
-      <pubDate>Thu, 02 Jul 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/identity-lifecycle-management.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cybersecurity Mission Creep in the US</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html</link>
-      <description>&amp;lt;p&amp;gt;Interesting paper: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4588977&amp;quot;&amp;gt;Cybersecurity Mission Creep&amp;lt;/a&amp;gt;.&amp;amp;#8221;&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from misinformation, to child social media safety laws, to antitrust regulations, to alleged journalist misconduct, to anti-sex trafficking statutes become what this Article calls &amp;amp;#8220;cybersecuritized.&amp;amp;#8221; Before this reframing, these issues present as important but not existential. But once cybersecuritization positions the issues as threats intensified by their technological nature, they gain access to the politics and law of urgency and exceptionalism and invite troubling governance responses...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 02 Jul 2026 11:11:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>cybersecurity</category>
-      <category>national security policy</category>
     </item>
   </channel>
 </rss>
