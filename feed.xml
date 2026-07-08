@@ -5,9 +5,60 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 08 Jul 2026 02:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:25:51 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NCSC Touts National Scale, AI-Powered “Cyber Shield” for Defense</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/</link>
+      <description>The National Cyber Security Centre wants to work with AI partners to build a new “Cyber Shield” to defend the UK</description>
+      <pubDate>Wed, 08 Jul 2026 08:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros</title>
+      <link>https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</link>
+      <description>Researchers at&amp;amp;nbsp;Nebula Security&amp;amp;nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&amp;amp;nbsp;root&amp;amp;nbsp;control of a machine that has not been patched.
+
+The vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network</description>
+      <pubDate>Wed, 08 Jul 2026 11:46:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV</title>
+      <link>https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-48282 (CVSS score: 10.0) - A path traversal vulnerability in Adobe ColdFusion that could lead to arbitrary code execution in the context of the</description>
+      <pubDate>Wed, 08 Jul 2026 11:03:12 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Big Brand Jobs Scam Targets Marketing Pros&amp;apos; Google Accounts</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts</link>
+      <description>The phishing campaign uses several tactics, including nested redirects, to evade detection and steal credentials from unsuspecting targets.</description>
+      <pubDate>Tue, 07 Jul 2026 21:02:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Dialogflow CX &amp;apos;Rogue Agent&amp;apos; Flaw Enabled AI Chatbot Data Theft</title>
+      <link>https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft</link>
+      <description>Varonis reported the flaw to Google in late 2025 and it has been addressed, but it reminds defenders to take a fresh look at their AI Infrastructure security.</description>
+      <pubDate>Tue, 07 Jul 2026 20:36:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>County Government Reportedly Paid $1 Million to Cyber Extortion Group</title>
       <link>https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/</link>
@@ -64,6 +115,15 @@ Security firm Varonis found it</description>
       <pubDate>Tue, 07 Jul 2026 15:40:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>&amp;apos;GitLost&amp;apos; Flaw Leaks Private Data From GitHub&amp;apos;s Agentic Workflows</title>
+      <link>https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows</link>
+      <description>The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org&amp;apos;s public repository and then silently pull data from its private repos, too.</description>
+      <pubDate>Tue, 07 Jul 2026 15:24:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts</title>
@@ -384,6 +444,24 @@ The vulnerabilities are listed below -
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
+      <title>&amp;apos;BusySnake&amp;apos; Infostealer Slithers Into Critical Infrastructure Networks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks</link>
+      <description>A threat group researchers call &amp;amp;quot;Armored Likho&amp;amp;quot; has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.</description>
+      <pubDate>Mon, 06 Jul 2026 21:37:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CitrixBleed-ing Again? NetScaler Vulnerability Under Attack</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack</link>
+      <description>Attackers wasted little time targeting the latest memory disclosure flaw in Citrix&amp;apos;s NetScaler products, after researchers published a proof-of-concept exploit (PoC).</description>
+      <pubDate>Mon, 06 Jul 2026 21:17:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks</title>
       <link>https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/</link>
       <description>&amp;lt;p&amp;gt;Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer.&amp;lt;/p&amp;gt;
@@ -462,6 +540,15 @@ Dubbed &amp;apos;Januscape&amp;apos; and tracked as&amp;amp;nbsp;CVE-2026-53359,
       <category>Microsoft Entra ID</category>
       <category>password spray</category>
       <category>ROPC</category>
+    </item>
+    <item>
+      <title>JadePuffer: The First Complete LLM-Driven Ransomware Attack</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack</link>
+      <description>An &amp;amp;quot;agentic threat actor&amp;amp;quot; successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.</description>
+      <pubDate>Mon, 06 Jul 2026 16:36:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure</title>
@@ -724,6 +811,15 @@ According to JFrog, the packages &amp;quot;rollup-packages-polyfill-core&amp;quo
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Chinese LLMs Broaden the Gap Between Attackers &amp;amp;amp; Defenders</title>
+      <link>https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders</link>
+      <description>Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?</description>
+      <pubDate>Fri, 03 Jul 2026 13:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation</title>
       <link>https://www.infosecurity-magazine.com/news/qilin-dominates-ransomware-market/</link>
       <description>The ransomware landscape is reconsolidating around major players, with Qilin emerging as the leading RaaS operation, researchers say</description>
@@ -824,6 +920,24 @@ The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleS
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</link>
+      <description>Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.</description>
+      <pubDate>Thu, 02 Jul 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Reverses Age-Old Patch Policy to Keep Up With AI</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai</link>
+      <description>Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.</description>
+      <pubDate>Thu, 02 Jul 2026 19:31:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>FBI Seizes NetNut Proxy Platform, Popa Botnet</title>
       <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
       <description>The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.</description>
@@ -848,6 +962,15 @@ The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleS
       <category>Samsung</category>
       <category>Shadowserver</category>
       <category>Synthient</category>
+    </item>
+    <item>
+      <title>FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs</title>
+      <link>https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs</link>
+      <description>After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.</description>
+      <pubDate>Thu, 02 Jul 2026 19:11:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices</title>
@@ -939,6 +1062,15 @@ Google identifies NetNut, also tracked as Popa, as a network spread across home<
       <category>spacex news</category>
       <category>tesla news</category>
       <category>x news</category>
+    </item>
+    <item>
+      <title>Ransomware Thugs Masquerade as Interpol to Entice Small Biz</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses</link>
+      <description>The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.</description>
+      <pubDate>Thu, 02 Jul 2026 18:07:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Detecting AI in the Software Supply Chain | UpGuard</title>
@@ -1052,167 +1184,6 @@ Google identifies NetNut, also tracked as Popa, as a network spread across home<
       <pubDate>Thu, 02 Jul 2026 15:49:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/human-factors-in-cybersecurity</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Productivity at a Price: The Rising Cost of AI Convenience | UpGuard</title>
-      <link>https://www.upguard.com/blog/productivity-and-the-rising-cost-of-ai-convenience</link>
-      <description>AI tools offer efficiency, but at a cost. UpGuard reveals how PII leaks and new supply chain vulnerabilities are hidden in widely used AI workflows.</description>
-      <pubDate>Thu, 02 Jul 2026 15:47:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/productivity-and-the-rising-cost-of-ai-convenience</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Shadow AI Data Leak Problem No One&amp;apos;s Talking About | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-ai-data-leak</link>
-      <description>Is your team unknowingly leaking sensitive data through its AI usage? Discover the dangers of Shadow AI and strategies for secure AI adoption at work.</description>
-      <pubDate>Thu, 02 Jul 2026 15:46:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-ai-data-leak</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Emerging Risks: Typosquatting in the MCP Ecosystem | UpGuard</title>
-      <link>https://www.upguard.com/blog/typosquatting-in-the-mcp-ecosystem</link>
-      <description>The MCP server ecosystem is susceptible to brand impersonation for both local and remote servers.</description>
-      <pubDate>Thu, 02 Jul 2026 15:43:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/typosquatting-in-the-mcp-ecosystem</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Shadow Supply Chain: The SSO &amp;amp; AI Visibility Gap | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-sso-visibility-gap</link>
-      <description>Is your SSO enough? 31.4% of vendor interactions bypass identity logs. Discover how Shadow AI and direct logins redefine vendor visibility.</description>
-      <pubDate>Thu, 02 Jul 2026 15:41:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-sso-visibility-gap</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Shadow Supply Chain: A Pivot To Usage-Based Discovery | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-pivot-to-usage-based-discovery</link>
-      <description>Pivot from &amp;quot;purchase-based&amp;quot; to usage-based discovery. See how browser telemetry and identity logs work together to secure your true vendor footprint.</description>
-      <pubDate>Thu, 02 Jul 2026 15:31:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-pivot-to-usage-based-discovery</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Shadow Supply Chain: A 72.9% Gap In Your Vendor Inventory | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-gap-in-your-vendor-inventory</link>
-      <description>Your real vendor inventory is 8x larger than your official list. Discover how user behavior creates a hidden shadow supply chain that legacy tools miss.</description>
-      <pubDate>Thu, 02 Jul 2026 15:27:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-gap-in-your-vendor-inventory</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories</title>
-      <link>https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html</link>
-      <description>This week’s security news is mostly about weak spots.
-
-Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through.
-
-This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs</description>
-      <pubDate>Thu, 02 Jul 2026 20:54:18 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Why a Windows Hello PIN Beats a Password for Enterprise Security</title>
-      <link>https://www.techrepublic.com/article/news-windows-hello-pin-security/</link>
-      <description>&amp;lt;p&amp;gt;As phishing campaigns, AI-driven identity attacks, and Windows migration planning raise authentication stakes, IT teams should recheck how Windows Hello PIN security works.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-windows-hello-pin-security/&amp;quot;&amp;gt;Why a Windows Hello PIN Beats a Password for Enterprise Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 02 Jul 2026 13:48:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-windows-hello-pin-security/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Biometrics</category>
-      <category>Cybersecurity</category>
-      <category>IT Operations</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Windows</category>
-      <category>Conditional Access</category>
-      <category>editors picks</category>
-      <category>identity security</category>
-      <category>microsoft entra</category>
-      <category>passwordless authentication</category>
-      <category>phishing-resistant MFA</category>
-      <category>TPM</category>
-      <category>windows hello</category>
-      <category>Windows Hello for Business</category>
-    </item>
-    <item>
-      <title>ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API</title>
-      <link>https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html</link>
-      <description>The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that&amp;apos;s designed to gain surreptitious access to a victim&amp;apos;s email correspondence via the Google API.
-
-&amp;quot;In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,&amp;quot; Kaspersky said in a detailed report published this week. &amp;quot;</description>
-      <pubDate>Thu, 02 Jul 2026 18:34:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researcher Behind &amp;apos;Exploitarium&amp;apos; Explains Release of Undisclosed Zero-Day Exploits</title>
-      <link>https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/</link>
-      <description>Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first</description>
-      <pubDate>Thu, 02 Jul 2026 12:51:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cybercriminals Pose as Interpol in Phishing Emails to Infect Victims With Ransomware</title>
-      <link>https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/</link>
-      <description>Bitdefender researchers warned of curious ransomware campaign which has targeted businesses around the world</description>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Flags MCP Tool Descriptions as Hidden AI Agent Attack Path</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft warns that poisoned MCP tool descriptions can steer AI agents into leaking sensitive data through approved tool calls.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/&amp;quot;&amp;gt;Microsoft Flags MCP Tool Descriptions as Hidden AI Agent Attack Path&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 02 Jul 2026 11:48:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-mcp-tool-risk/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>Enterprise Technology</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>ai agents</category>
-      <category>AI governance</category>
-      <category>ai security</category>
-      <category>copilot</category>
-      <category>cybersecurity</category>
-      <category>data security</category>
-      <category>mcp</category>
-    </item>
-    <item>
-      <title>Identity Lifecycle Management Wasn&amp;apos;t Built for AI Agents</title>
-      <link>https://thehackernews.com/2026/07/identity-lifecycle-management.html</link>
-      <description>Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren&amp;apos;t designed to detect. This guide covers where that model breaks, what it</description>
-      <pubDate>Thu, 02 Jul 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/identity-lifecycle-management.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cybersecurity Mission Creep in the US</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html</link>
-      <description>&amp;lt;p&amp;gt;Interesting paper: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4588977&amp;quot;&amp;gt;Cybersecurity Mission Creep&amp;lt;/a&amp;gt;.&amp;amp;#8221;&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from misinformation, to child social media safety laws, to antitrust regulations, to alleged journalist misconduct, to anti-sex trafficking statutes become what this Article calls &amp;amp;#8220;cybersecuritized.&amp;amp;#8221; Before this reframing, these issues present as important but not existential. But once cybersecuritization positions the issues as threats intensified by their technological nature, they gain access to the politics and law of urgency and exceptionalism and invite troubling governance responses...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 02 Jul 2026 11:11:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>cybersecurity</category>
-      <category>national security policy</category>
     </item>
   </channel>
 </rss>
