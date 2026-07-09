@@ -5,9 +5,83 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Jul 2026 14:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:44:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs</title>
+      <link>https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html</link>
+      <description>Datadog Security Labs is warning of &amp;quot;several overlapping campaigns&amp;quot; that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&amp;amp;nbsp;API.
+
+&amp;quot;Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging GitHub &amp;apos;ghost&amp;apos; accounts that are often years old, or compromised OAuth tokens and personal</description>
+      <pubDate>Fri, 10 Jul 2026 00:08:49 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware</title>
+      <link>https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</link>
+      <description>Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from.
+
+Each is a different way to break a machine: wipe the whole disk, overwrite the Windows drive, or run fake &amp;quot;ransomware&amp;quot; that scrambles files with a key it never saves</description>
+      <pubDate>Thu, 09 Jul 2026 23:38:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
+      <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
+      <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
+
+The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in&amp;amp;nbsp;-
+
+
+  allowScripts defaults to off, meaning</description>
+      <pubDate>Thu, 09 Jul 2026 22:19:02 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories</title>
+      <link>https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html</link>
+      <description>Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&amp;amp;nbsp;it.
+
+This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives.
+
+The full ThreatsDay list is below.
+
+
+
+
+
+  
+
+  
+  
+    Global</description>
+      <pubDate>Thu, 09 Jul 2026 20:39:28 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>QIZ Security Raises $17 Million for Cryptographic Governance Platform</title>
+      <link>https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/</link>
+      <description>&amp;lt;p&amp;gt;The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/&amp;quot;&amp;gt;QIZ Security Raises $17 Million for Cryptographic Governance Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 09 Jul 2026 15:03:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>Data Protection</category>
+      <category>funding</category>
+      <category>PQC</category>
+      <category>QIZ Security</category>
+    </item>
     <item>
       <title>As Global Conflicts Go Digital, Businesses Need Wartime Gameplans</title>
       <link>https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans</link>
@@ -34,6 +108,46 @@
       <category>UK</category>
     </item>
     <item>
+      <title>AssuranceAmerica Data Breach: 6.9M Driver’s License Numbers Exposed</title>
+      <link>https://www.techrepublic.com/article/news-assuranceamerica-data-breach-drivers-license-customers/</link>
+      <description>&amp;lt;p&amp;gt;AssuranceAmerica says hackers accessed the driver&amp;apos;s license data of 6.9 million customers, exposing personal information and raising concerns about identity theft.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-assuranceamerica-data-breach-drivers-license-customers/&amp;quot;&amp;gt;AssuranceAmerica Data Breach: 6.9M Driver’s License Numbers Exposed&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 09 Jul 2026 14:16:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-assuranceamerica-data-breach-drivers-license-customers/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Business Technology</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech &amp;amp; Work</category>
+      <category>Tech Industry</category>
+      <category>Assuranceamerica</category>
+      <category>credential theft</category>
+      <category>data breach</category>
+      <category>driver’s license</category>
+      <category>personal information</category>
+    </item>
+    <item>
+      <title>Discord Bug Wrongly Banned 8,000 Users Over Harmless Images</title>
+      <link>https://www.techrepublic.com/article/news-discord-moderation-bug-wrongful-bans/</link>
+      <description>&amp;lt;p&amp;gt;Discord says a moderation bug wrongly banned more than 8,000 users after harmless images triggered its automated safety system.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-discord-moderation-bug-wrongful-bans/&amp;quot;&amp;gt;Discord Bug Wrongly Banned 8,000 Users Over Harmless Images&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 09 Jul 2026 14:04:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-discord-moderation-bug-wrongful-bans/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Data Security</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech &amp;amp; Work</category>
+      <category>Tech Industry</category>
+      <category>discord</category>
+      <category>moderation system</category>
+      <category>security detection system</category>
+    </item>
+    <item>
       <title>Vibe-Coded Malware Caught in Active Directory Attack</title>
       <link>https://www.infosecurity-magazine.com/news/vibe-coded-malware-ai-powershell/</link>
       <description>Huntress found a threat actor using vibe-coded PowerShell to map an Active Directory network</description>
@@ -55,6 +169,32 @@
       <category>Patch</category>
       <category>patches</category>
       <category>vulnerability</category>
+    </item>
+    <item>
+      <title>UK Cyber Resilience Pledge Sets 90-Day Test for Security Leaders</title>
+      <link>https://www.techrepublic.com/article/news-cyber-resilience-pledge-emea-uk/</link>
+      <description>&amp;lt;p&amp;gt;The UK Cyber Resilience Pledge gives organizations a 30/60/90-day checklist for NCSC alerts, supplier Cyber Essentials checks and board-level cyber governance.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cyber-resilience-pledge-emea-uk/&amp;quot;&amp;gt;UK Cyber Resilience Pledge Sets 90-Day Test for Security Leaders&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 09 Jul 2026 13:21:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cyber-resilience-pledge-emea-uk/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Compliance</category>
+      <category>Cybersecurity</category>
+      <category>EMEA</category>
+      <category>Government IT</category>
+      <category>IT Leadership</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>United Kingdom</category>
+      <category>board accountability</category>
+      <category>Cyber Essentials</category>
+      <category>cyber governance</category>
+      <category>Cyber Resilience Pledge</category>
+      <category>Cyber Security and Resilience Bill</category>
+      <category>ncsc</category>
+      <category>supplier risk</category>
+      <category>UK cybersecurity</category>
     </item>
     <item>
       <title>AI Gateways Offer Attackers the Keys to the Kingdom</title>
@@ -108,6 +248,7 @@ That is the gap, and it is not your fault. The tools and runbooks most teams run
       <dc:creator>Ionut Arghire</dc:creator>
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Vulnerabilities</category>
+      <category>Featured</category>
       <category>GhostLock</category>
       <category>google</category>
       <category>kernel</category>
@@ -308,21 +449,6 @@ That is the finding in a&amp;amp;nbsp;proof-of-concept published Wednesday&amp;a
       <guid isPermaLink="true">https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices</title>
-      <link>https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/</link>
-      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device&amp;apos;s web management interface.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/&amp;quot;&amp;gt;Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Jul 2026 05:00:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>backdoor</category>
-      <category>router</category>
-      <category>Tenda</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents</title>
@@ -1102,87 +1228,6 @@ Dubbed &amp;apos;Januscape&amp;apos; and tracked as&amp;amp;nbsp;CVE-2026-53359,
 The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the &amp;quot;X-WEBAUTH-USER&amp;quot; header from any source IP address, effectively allowing an unauthenticated internet client to get elevated</description>
       <pubDate>Mon, 06 Jul 2026 21:58:59 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors</title>
-      <link>https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/</link>
-      <description>Check Point researchers have identified a new cyber adversary targeting Israeli government and IT businesses, tracked as ‘Cavern Manticore’</description>
-      <pubDate>Mon, 06 Jul 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Indirect Prompt Injection in Web Content Targets AI Agents</title>
-      <link>https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/</link>
-      <description>Zscaler found sites hiding prompt-injection text to manipulate AI agents into crypto payments</description>
-      <pubDate>Mon, 06 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Opera GX Flaw Let Sites Auto-Install Mods to Steal Data</title>
-      <link>https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/</link>
-      <description>Opera GX flaw let sites automatically install mods to steal data from other pages, now patched</description>
-      <pubDate>Mon, 06 Jul 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Gemini Spark App Connections Arrive Before Enterprise Controls</title>
-      <link>https://www.techrepublic.com/article/news-gemini-spark-app-integrations/</link>
-      <description>&amp;lt;p&amp;gt;Google Gemini Spark’s new app connections move the AI agent into files, apps, and MCP servers, creating new governance questions for IT teams.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-gemini-spark-app-integrations/&amp;quot;&amp;gt;Gemini Spark App Connections Arrive Before Enterprise Controls&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 06 Jul 2026 14:01:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-gemini-spark-app-integrations/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Emerging Technology</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>ai agents</category>
-      <category>AI governance</category>
-      <category>enterprise ai</category>
-      <category>Gemini Spark</category>
-      <category>google gemini</category>
-      <category>Google Workspace</category>
-      <category>mcp</category>
-      <category>model context protocol</category>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More</title>
-      <link>https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html</link>
-      <description>A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.
-
-Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructions. Same soft spot throughout: trust</description>
-      <pubDate>Mon, 06 Jul 2026 18:31:14 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions</title>
-      <link>https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html</link>
-      <description>Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation.
-
-Whether a platform will materially change outcomes for</description>
-      <pubDate>Mon, 06 Jul 2026 17:00:02 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT</title>
-      <link>https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html</link>
-      <description>A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts.
-
-The multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.</description>
-      <pubDate>Mon, 06 Jul 2026 16:28:16 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
