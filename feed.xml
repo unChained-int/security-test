@@ -5,9 +5,64 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Jul 2026 19:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 02:56:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Iran&amp;apos;s Cyber Crosshairs Focus Beyond Critical Infrastructure</title>
+      <link>https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure</link>
+      <description>Obscurity isn&amp;apos;t a defense. If your company has any Internet-facing vulnerability, you&amp;apos;re at risk from multiple threats.</description>
+      <pubDate>Thu, 09 Jul 2026 20:32:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure</guid>
+      <dc:creator>Joe Slowik</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Reins in RoguePlanet Zero-Day Threat</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat</link>
+      <description>The researcher known as &amp;amp;quot;Nightmare-Eclipse&amp;amp;quot; published a proof-of-concept (PoC) exploit for the Windows Defender vulnerability in early June after dropping several other Microsoft zero-days.</description>
+      <pubDate>Thu, 09 Jul 2026 20:21:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China Warns of Claude Code ‘Backdoor’ Security Risk</title>
+      <link>https://www.techrepublic.com/article/news-china-claude-code-backdoor-security-risk-apac/</link>
+      <description>&amp;lt;p&amp;gt;China warned organizations to remove certain Claude Code versions over alleged backdoor risks, while Anthropic called the feature anti-abuse protection.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-china-claude-code-backdoor-security-risk-apac/&amp;quot;&amp;gt;China Warns of Claude Code ‘Backdoor’ Security Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 09 Jul 2026 20:12:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-china-claude-code-backdoor-security-risk-apac/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Anthropic</category>
+      <category>APAC</category>
+      <category>Artificial Intelligence</category>
+      <category>Chatbots</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>Enterprise Software</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>ai security</category>
+      <category>anthropic</category>
+      <category>apac</category>
+      <category>china</category>
+      <category>claude code</category>
+      <category>cybersecurity</category>
+      <category>developer tools</category>
+      <category>software supply chain</category>
+    </item>
+    <item>
+      <title>AI Agents Are a New Kind of Identity &amp;amp;amp; Most Organizations Aren&amp;apos;t Ready</title>
+      <link>https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready</link>
+      <description>If you&amp;apos;re handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.</description>
+      <pubDate>Thu, 09 Jul 2026 19:16:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready</guid>
+      <dc:creator>Mora Gozani</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs</title>
       <link>https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html</link>
@@ -1173,61 +1228,6 @@ The vulnerabilities are listed below -
 The activity, which has primarily singled out IT providers and government sectors, has been attributed to a threat cluster tracked by Check Point Research</description>
       <pubDate>Tue, 07 Jul 2026 00:04:26 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems</title>
-      <link>https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html</link>
-      <description>A use-after-free bug in Linux&amp;apos;s KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.
-
-Dubbed &amp;apos;Januscape&amp;apos; and tracked as&amp;amp;nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit</description>
-      <pubDate>Mon, 06 Jul 2026 23:07:01 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Azure CLI Password Spray Attack Exposes Microsoft 365 MFA Gap</title>
-      <link>https://www.techrepublic.com/article/news-azure-cli-mfa-gap/</link>
-      <description>&amp;lt;p&amp;gt;A password spray campaign targeting Azure CLI sign-ins exposed how narrow Conditional Access policies can leave Microsoft 365 accounts vulnerable even when MFA is enabled.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-azure-cli-mfa-gap/&amp;quot;&amp;gt;Azure CLI Password Spray Attack Exposes Microsoft 365 MFA Gap&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 06 Jul 2026 16:48:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-azure-cli-mfa-gap/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cloud</category>
-      <category>Cloud Security</category>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Azure CLI</category>
-      <category>cloud security</category>
-      <category>Conditional Access</category>
-      <category>mfa</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Entra ID</category>
-      <category>password spray</category>
-      <category>ROPC</category>
-    </item>
-    <item>
-      <title>JadePuffer: The First Complete LLM-Driven Ransomware Attack</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack</link>
-      <description>An &amp;amp;quot;agentic threat actor&amp;amp;quot; successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.</description>
-      <pubDate>Mon, 06 Jul 2026 16:36:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure</title>
-      <link>https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html</link>
-      <description>Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.
-
-The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the &amp;quot;X-WEBAUTH-USER&amp;quot; header from any source IP address, effectively allowing an unauthenticated internet client to get elevated</description>
-      <pubDate>Mon, 06 Jul 2026 21:58:59 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
