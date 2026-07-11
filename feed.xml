@@ -5,9 +5,46 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 11 Jul 2026 13:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 19:01:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install</title>
+      <link>https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</link>
+      <description>Version&amp;amp;nbsp;8.14.0&amp;amp;nbsp;of the jscrambler npm package shipped with a malicious&amp;amp;nbsp;preinstall&amp;amp;nbsp;hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux.
+
+Published on July 11, 2026, it needs no import and no CLI call. Installing 8.14.0 is enough to run&amp;amp;nbsp;it.
+
+Socket flagged the release&amp;amp;nbsp;six minutes after it was</description>
+      <pubDate>Sat, 11 Jul 2026 23:29:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns</title>
+      <link>https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</link>
+      <description>Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026.
+
+&amp;quot;At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and</description>
+      <pubDate>Sat, 11 Jul 2026 23:19:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ghost Accounts Abuse GitHub API in Mass Recon Campaign</title>
+      <link>https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/</link>
+      <description>&amp;lt;p&amp;gt;Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/&amp;quot;&amp;gt;Ghost Accounts Abuse GitHub API in Mass Recon Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 11 Jul 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>GitHub</category>
+      <category>scanning</category>
+    </item>
     <item>
       <title>Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions</title>
       <link>https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</link>
@@ -20,6 +57,28 @@ The vulnerability has been described as a case of stored cross-site scripting (X
       <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Exposed Server Reveals 25,000 Compromised WordPress Websites</title>
+      <link>https://www.techrepublic.com/article/news-wp-shellstorm-wordpress-webshell-attack/</link>
+      <description>&amp;lt;p&amp;gt;An exposed WP-SHELLSTORM server revealed tools, logs, cloud credentials, and thousands of webshells used in a large website hacking campaign.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-wp-shellstorm-wordpress-webshell-attack/&amp;quot;&amp;gt;Exposed Server Reveals 25,000 Compromised WordPress Websites&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 10 Jul 2026 21:50:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-wp-shellstorm-wordpress-webshell-attack/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>cloud credentials</category>
+      <category>cybercrime</category>
+      <category>Joomla</category>
+      <category>vulnerability management</category>
+      <category>webshells</category>
+      <category>website security</category>
+      <category>wordpress security</category>
+      <category>wp-shellstorm</category>
     </item>
     <item>
       <title>Friday Squid Blogging: “Squidbleed” Vulnerability</title>
@@ -770,21 +829,6 @@ The full ThreatsDay list is below.
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Palo Alto Networks Patches 13 Vulnerabilities</title>
-      <link>https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/&amp;quot;&amp;gt;Palo Alto Networks Patches 13 Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Jul 2026 13:49:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Palo Alto Networks</category>
-      <category>Patch</category>
-      <category>patches</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>UK Cyber Resilience Pledge Sets 90-Day Test for Security Leaders</title>
       <link>https://www.techrepublic.com/article/news-cyber-resilience-pledge-emea-uk/</link>
       <description>&amp;lt;p&amp;gt;The UK Cyber Resilience Pledge gives organizations a 30/60/90-day checklist for NCSC alerts, supplier Cyber Essentials checks and board-level cyber governance.&amp;lt;/p&amp;gt;
@@ -1286,32 +1330,6 @@ According to findings from Cisco Talos, UAT-7810 is an advanced persistent threa
       <guid isPermaLink="true">https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ESET Threat Report H1 2026</title>
-      <link>https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/</link>
-      <description>A view of the H1 2026 threat landscape as seen by ESET telemetry and from the perspective of ESET threat detection and research experts.</description>
-      <pubDate>Wed, 08 Jul 2026 08:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>ESET research</category>
-    </item>
-    <item>
-      <title>NCSC Touts National Scale, AI-Powered “Cyber Shield” for Defense</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/</link>
-      <description>The National Cyber Security Centre wants to work with AI partners to build a new “Cyber Shield” to defend the UK</description>
-      <pubDate>Wed, 08 Jul 2026 08:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>State IDs for AI Agents: Will Estonia Set a Precedent?</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia</link>
-      <description>The world&amp;apos;s digital testing ground plans to help people use AI agents for government purposes.</description>
-      <pubDate>Wed, 08 Jul 2026 08:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
