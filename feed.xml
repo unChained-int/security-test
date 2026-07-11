@@ -5,9 +5,22 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 11 Jul 2026 02:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:53:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions</title>
+      <link>https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</link>
+      <description>Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.
+
+The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user&amp;apos;s session. It has yet to be assigned a CVE identifier.
+
+&amp;quot;The</description>
+      <pubDate>Sat, 11 Jul 2026 12:15:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: “Squidbleed” Vulnerability</title>
       <link>https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html</link>
@@ -1299,17 +1312,6 @@ According to findings from Cisco Talos, UAT-7810 is an advanced persistent threa
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros</title>
-      <link>https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</link>
-      <description>Researchers at&amp;amp;nbsp;Nebula Security&amp;amp;nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&amp;amp;nbsp;root&amp;amp;nbsp;control of a machine that has not been patched.
-
-The vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network</description>
-      <pubDate>Wed, 08 Jul 2026 11:46:44 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
