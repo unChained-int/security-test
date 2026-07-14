@@ -5,9 +5,204 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:40:22 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cursor IDE Auto-Executes Malicious Code in Poisoned Repos</title>
+      <link>https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos</link>
+      <description>Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.</description>
+      <pubDate>Tue, 14 Jul 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar</title>
+      <link>https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/</link>
+      <description>&amp;lt;p&amp;gt;A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/&amp;quot;&amp;gt;Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Claude</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot</title>
+      <link>https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html</link>
+      <description>Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard.
+
+&amp;quot;An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,&amp;quot;</description>
+      <pubDate>Tue, 14 Jul 2026 18:16:18 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New MacOS Malware Exploits Legitimate Developer ID to Pose as Apple Crash Reporter</title>
+      <link>https://www.infosecurity-magazine.com/news/macos-malware-apple-crash-reporter/</link>
+      <description>Researchers at Jamf Threat Labs detail CrashStealer, which steals passwords, cryptocurrency wallets and more</description>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/macos-malware-apple-crash-reporter/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks</title>
+      <link>https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html</link>
+      <description>Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.
+
+The way these wallets talk to websites and blockchain servers can tie a person&amp;apos;s separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or</description>
+      <pubDate>Tue, 14 Jul 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>How Pentera Turns AI Security Workflows into Validation Engines</title>
+      <link>https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html</link>
+      <description>AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data.
+
+That fragmentation matters because attackers do not move through environments one</description>
+      <pubDate>Tue, 14 Jul 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials</title>
+      <link>https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</link>
+      <description>At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.
+
+The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert defenders. And bad actors have begun</description>
+      <pubDate>Tue, 14 Jul 2026 16:51:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud</title>
+      <link>https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/</link>
+      <description>&amp;lt;p&amp;gt;The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/&amp;quot;&amp;gt;SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 11:17:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Patch</category>
+      <category>SAP</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Vulnerability in FIFA’s Network</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html</link>
+      <description>&amp;lt;p&amp;gt;FIFA&amp;amp;#8217;s network was &amp;lt;a href=&amp;quot;https://bobdahacker.com/blog/fifa-hack&amp;quot;&amp;gt;vulnerable&amp;lt;/a&amp;gt; to anyone with even minimal access.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 11:06:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>hacking</category>
+      <category>sports</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers</title>
+      <link>https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/</link>
+      <description>&amp;lt;p&amp;gt;Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/&amp;quot;&amp;gt;US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 10:51:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Government</category>
+      <category>Nation-State</category>
+      <category>APT</category>
+      <category>critical infrastructure</category>
+      <category>router</category>
+      <category>Russia</category>
+    </item>
+    <item>
+      <title>Lidl Notifies Customers of Third-Party Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/lidl-notifies-customers-of/</link>
+      <description>Supermarket giant Lidl has revealed details of a supplier breach impacting customer data</description>
+      <pubDate>Tue, 14 Jul 2026 09:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/lidl-notifies-customers-of/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Valarian Raises $50 Million for Sovereign Infrastructure Control Layer</title>
+      <link>https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/</link>
+      <description>&amp;lt;p&amp;gt;UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/&amp;quot;&amp;gt;Valarian Raises $50 Million for Sovereign Infrastructure Control Layer&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 09:32:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>funding</category>
+      <category>Valarian</category>
+    </item>
+    <item>
+      <title>Multiple Jscrambler Packages Impacted by Supply Chain Attack</title>
+      <link>https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/</link>
+      <description>&amp;lt;p&amp;gt;A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/&amp;quot;&amp;gt;Multiple Jscrambler Packages Impacted by Supply Chain Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 09:04:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Supply Chain Security</category>
+      <category>infostealer</category>
+      <category>Jscrambler</category>
+      <category>supply chain attack</category>
+    </item>
+    <item>
+      <title>Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read</title>
+      <link>https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html</link>
+      <description>xAI&amp;apos;s Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.
+
+A researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not</description>
+      <pubDate>Tue, 14 Jul 2026 14:32:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Five Charged in “Russian Coms” Fraud Platform Case</title>
+      <link>https://www.infosecurity-magazine.com/news/five-charged-in-russian-coms-fraud/</link>
+      <description>Five UK residents have been charged in relation to supplying Russian Coms fraud devices and apps</description>
+      <pubDate>Tue, 14 Jul 2026 08:21:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/five-charged-in-russian-coms-fraud/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support</title>
+      <link>https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html</link>
+      <description>The U.S. Treasury Department&amp;apos;s Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors&amp;apos; and other cybercriminals&amp;apos; malicious activities, including ransomware attacks against Americans.
+
+The VPN, named First VPN Service (1VPNS), has been accused of offering its tools to ransomware groups, along with its 45-year-old Ukrainian</description>
+      <pubDate>Tue, 14 Jul 2026 13:32:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet</title>
+      <link>https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html</link>
+      <description>A campaign of 148 npm packages disguised as student web proxies turned visitors&amp;apos; browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&amp;amp;nbsp;JFrog.
+
+The packages did not go after the developers who might install them. The operators used the registry as free hosting for a booby-trapped proxy site and let the students who came to dodge</description>
+      <pubDate>Tue, 14 Jul 2026 12:38:36 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules</title>
       <link>https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/</link>
@@ -21,9 +216,10 @@
       <category>Government</category>
       <category>CMMC</category>
       <category>compliance</category>
+      <category>Featured</category>
     </item>
     <item>
-      <title>Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths</title>
+      <title>Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity</title>
       <link>https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html</link>
       <description>Attackers whose methods line up with the data-extortion group&amp;amp;nbsp;ShinyHunters&amp;amp;nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform.
 
@@ -38,7 +234,7 @@ In&amp;amp;nbsp;</description>
     <item>
       <title>Weak Security Continues to Fuel Russian Cyberattacks</title>
       <link>https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks</link>
-      <description>In a first, the UK and the EU jointly impose sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.</description>
+      <description>In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.</description>
       <pubDate>Mon, 13 Jul 2026 21:24:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks</guid>
       <dc:creator>Jai Vijayan</dc:creator>
@@ -216,7 +412,6 @@ That&amp;apos;s the shape of this week. Trusted code turns on the people who ins
       <category>android malware</category>
       <category>banking trojan</category>
       <category>cybersecurity</category>
-      <category>editors picks</category>
       <category>google play</category>
       <category>mobile banking</category>
       <category>redhook</category>
@@ -370,20 +565,6 @@ Each read gets pinned to the moment it happened: the time, your location, what y
       <category>Zimbra</category>
     </item>
     <item>
-      <title>EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign</title>
-      <link>https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/</link>
-      <description>&amp;lt;p&amp;gt;The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/&amp;quot;&amp;gt;EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cyberwarfare</category>
-      <category>Nation-State</category>
-      <category>EU</category>
-      <category>Russia</category>
-    </item>
-    <item>
       <title>Hacker Extradited from Ukraine Pleads Guilty to Ryuk Ransomware Charges</title>
       <link>https://www.infosecurity-magazine.com/news/hacker-extradited-ukraine-guilty/</link>
       <description>An Armenian man has pleaded guilty to his role in the infamous Ryuk ransomware operation</description>
@@ -392,55 +573,12 @@ Each read gets pinned to the moment it happened: the time, your location, what y
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Organizations Warned of Exploited Joomla Extension Vulnerabilities</title>
-      <link>https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/&amp;quot;&amp;gt;Organizations Warned of Exploited Joomla Extension Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 09:08:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>CISA KEV</category>
-      <category>exploited</category>
-      <category>Joomla</category>
-    </item>
-    <item>
       <title>Australian Cyber Agency Warns of Global CMS Exploitation Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/australia-warns-global-cms/</link>
       <description>Australian Cyber Security Centre warns CMS users of mass scanning and exploitation campaign</description>
       <pubDate>Mon, 13 Jul 2026 08:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/australia-warns-global-cms/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns</title>
-      <link>https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/</link>
-      <description>&amp;lt;p&amp;gt;The company notified customers to manually shut down their servers while it is investigating a credible threat.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/&amp;quot;&amp;gt;Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 08:20:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Progress Software</category>
-      <category>ShareFile</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Centers Laboratory Data Breach Affects 540,000 Individuals</title>
-      <link>https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/</link>
-      <description>&amp;lt;p&amp;gt;The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/&amp;quot;&amp;gt;Centers Laboratory Data Breach Affects 540,000 Individuals&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 08:10:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Centers Laboratory</category>
-      <category>data breach</category>
-      <category>Featured</category>
-      <category>healthcare</category>
     </item>
     <item>
       <title>Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365</title>
@@ -488,19 +626,6 @@ Socket flagged the release&amp;amp;nbsp;six minutes after it was published. If y
       <guid isPermaLink="true">https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ghost Accounts Abuse GitHub API in Mass Recon Campaign</title>
-      <link>https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/</link>
-      <description>&amp;lt;p&amp;gt;Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/&amp;quot;&amp;gt;Ghost Accounts Abuse GitHub API in Mass Recon Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 11 Jul 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>GitHub</category>
-      <category>scanning</category>
     </item>
     <item>
       <title>Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions</title>
@@ -1173,120 +1298,6 @@ The full ThreatsDay list is below.
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up</title>
-      <link>https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html</link>
-      <description>AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert.
-
-That is the gap, and it is not your fault. The tools and runbooks most teams run on were built for attackers who work at human speed. AI-driven</description>
-      <pubDate>Thu, 09 Jul 2026 17:56:58 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>75% CISOs Fear Executives Don’t Understand Cybersecurity Risks Employees Face</title>
-      <link>https://www.infosecurity-magazine.com/news/cisos-fear-execs-dont-understand/</link>
-      <description>Survey of cybersecurity leaders by MetaCompliance finds that many feel boards are uninterested in ever-evolving cyber risks</description>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisos-fear-execs-dont-understand/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Chinese-Funded Interpol Cybercrime Crackdown Leads to 5,800 Arrests</title>
-      <link>https://www.infosecurity-magazine.com/news/china-interpol-cybercrime-crackdown/</link>
-      <description>Operation First Light 2026, coordinated by Interpol and funded by the Chinese government, has led to 5,811 arrests</description>
-      <pubDate>Thu, 09 Jul 2026 11:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/china-interpol-cybercrime-crackdown/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The Language of AI Could Change How Humans Speak</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html</link>
-      <description>&amp;lt;p&amp;gt;Because of the way they are trained, large language models capture only a slice of human language. They&amp;amp;#8217;re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face to face or voice to voice. This is the vast majority of speech, and a vital component of human culture.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;There&amp;amp;#8217;s a risk to this. The increased use of large language models means we humans will encounter much more AI-generated text. We humans, in turn, will begin to adopt the linguistic patterns and behaviors of these models. This will affect not just how we communicate with one another, but also how we ...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Jul 2026 11:00:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>Internet and society</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>Summer of Clearinghouses</title>
-      <link>https://thehackernews.com/2026/07/summer-of-clearinghouses.html</link>
-      <description>Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,</description>
-      <pubDate>Thu, 09 Jul 2026 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/summer-of-clearinghouses.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>GhostApproval Flaw Hits Six Major AI Coding Assistants</title>
-      <link>https://www.infosecurity-magazine.com/news/ghostapproval-flaw-ai-coding/</link>
-      <description>Wiz discovered GhostApproval, a symlink flaw in six major AI coding assistants that bypasses approval</description>
-      <pubDate>Thu, 09 Jul 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ghostapproval-flaw-ai-coding/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses</title>
-      <link>https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html</link>
-      <description>Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.
-
-According to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly spotted in the wild on May 21, 2026. It&amp;apos;s assessed to be a rebrand of the Beast ransomware,</description>
-      <pubDate>Thu, 09 Jul 2026 16:13:09 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>&amp;apos;GodDamn&amp;apos; Ransomware Uses BYOVD to Smite US Companies</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies</link>
-      <description>Microsoft signed a malicious kernel driver, and now it&amp;apos;s being used to kill security software in ransomware attacks.</description>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New AI Security Charter Backed by Over 70 Cyber Firms</title>
-      <link>https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/</link>
-      <description>Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security</description>
-      <pubDate>Thu, 09 Jul 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges</title>
-      <link>https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html</link>
-      <description>Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.
-
-The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (&amp;quot;mpengine.dll&amp;quot;), which provides scanning, detection, and cleaning capabilities for its antivirus and</description>
-      <pubDate>Thu, 09 Jul 2026 14:18:48 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>European Organizations Have a Collaboration Security Confidence Gap</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap</link>
-      <description>A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.</description>
-      <pubDate>Thu, 09 Jul 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Cybercriminals Plant Malicious AI Agents in Open Source Tool Repositories</title>
-      <link>https://www.infosecurity-magazine.com/news/cybercriminals-plant-ai-agents/</link>
-      <description>Cybersecurity researchers at ESET identify big rise in suspicious and malicious toolsets which put users at risk from cyber-attacks</description>
-      <pubDate>Thu, 09 Jul 2026 07:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybercriminals-plant-ai-agents/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
