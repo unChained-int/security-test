@@ -5,9 +5,187 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Jul 2026 13:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:17:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days</title>
+      <link>https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/</link>
+      <description>&amp;lt;p&amp;gt;Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/&amp;quot;&amp;gt;Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 18:50:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Microsoft</category>
+      <category>Patch Tuesday</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims</title>
+      <link>https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/</link>
+      <description>&amp;lt;p&amp;gt;The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/&amp;quot;&amp;gt;Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 18:18:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Data Breaches</category>
+      <category>Bosch</category>
+      <category>data breach</category>
+      <category>fake hack</category>
+      <category>Featured</category>
+      <category>Ransomware</category>
+      <category>Synopsys</category>
+    </item>
+    <item>
+      <title>Manage Vendor Risk in a Few Practical Steps</title>
+      <link>https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps</link>
+      <description>Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.</description>
+      <pubDate>Tue, 14 Jul 2026 17:44:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps</guid>
+      <dc:creator>Daniel Nutkis</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Adobe Patches Critical ColdFusion Vulnerabilities</title>
+      <link>https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/&amp;quot;&amp;gt;Adobe Patches Critical ColdFusion Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 17:06:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Adobe</category>
+      <category>Patch Tuesday</category>
+      <category>patches</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts</title>
+      <link>https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html</link>
+      <description>Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.
+
+&amp;quot;LabubaRAT creates a reusable foothold for hands-on activity,&amp;quot; Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. &amp;quot;Once deployed, it can profile the host,</description>
+      <pubDate>Tue, 14 Jul 2026 22:22:37 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html</link>
+      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking (virtually) at the &amp;lt;a href=&amp;quot;https://pr2.technologypolicyworkshop.org/&amp;quot;&amp;gt;Policy-Relevant Privacy Research Workshop&amp;lt;/a&amp;gt; in Calgary, Canada, on Monday, July 20, 2026.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://events.cyberriskcollaborative.com/boston-leadership-exchange-2026&amp;quot;&amp;gt;Boston Leadership Exchange&amp;lt;/a&amp;gt; in Boston, Massachusetts, USA, on Wednesday, July 22, 2026.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://www.cognitivesecurityinstitute.org/cognitive-security-conference&amp;quot;&amp;gt;Cognitive Security Conference&amp;lt;/a&amp;gt; in Las Vegas, Nevada, USA. The conference runs August 6-7, 2026; my speaking time is TBD.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://defcon.org/html/defcon-34/dc-34-index.html&amp;quot;&amp;gt;DEF CON 34&amp;lt;/a&amp;gt; in Las Vegas, Nevada, USA. The conventions runs August 6-9, 2026; my speaking time is TBD...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 16:04:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Schneier news</category>
+    </item>
+    <item>
+      <title>Frontier AI: The Genie&amp;apos;s Out of the Bottle, but Where&amp;apos;s the Rulebook?</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook</link>
+      <description>Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.</description>
+      <pubDate>Tue, 14 Jul 2026 16:02:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ClickFix&amp;apos;s Mushrooming Ecosystem Demands New Defense Tactics</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense</link>
+      <description>The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.</description>
+      <pubDate>Tue, 14 Jul 2026 15:53:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>US: Pentagon Suspends CMMC Phase II Requirements for Defense Contractors</title>
+      <link>https://www.infosecurity-magazine.com/news/us-pentagon-suspends-cmmc-2/</link>
+      <description>The US Department of Defense announced the immediate suspension of the CMMC Phase II requirements until further review</description>
+      <pubDate>Tue, 14 Jul 2026 15:28:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-pentagon-suspends-cmmc-2/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>The AI Exchange: Innovators in Payment Security Featuring PCA Cyber Security</title>
+      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-pca-cyber-security</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-pca-cyber-security&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring PCA Cyber Security&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/Vlad%20Ryabyshkin%20800x444-100.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;amp;nbsp; &amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:14:16 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-pca-cyber-security</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Awareness</category>
+      <category>Interview</category>
+      <category>Artificial Intelligence (AI)</category>
+    </item>
+    <item>
+      <title>7 Severe Vulnerabilities Patched in VMware Avi Load Balancer</title>
+      <link>https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/</link>
+      <description>&amp;lt;p&amp;gt;The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/&amp;quot;&amp;gt;7 Severe Vulnerabilities Patched in VMware Avi Load Balancer&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 13:55:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Avi Load Balancer</category>
+      <category>VMware</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata</title>
+      <link>https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html</link>
+      <description>Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries.
+
+Miggo&amp;apos;s security team, which discovered and reported the flaws, said one &amp;quot;leaks the broker&amp;apos;s confidential OAuth</description>
+      <pubDate>Tue, 14 Jul 2026 19:18:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI Brings ChatGPT Work to Office Tasks: 3 Security Checks for IT Teams</title>
+      <link>https://www.techrepublic.com/article/news-chatgpt-work-security-checks/</link>
+      <description>&amp;lt;p&amp;gt;OpenAI’s ChatGPT Work can operate across connected apps, files, websites, and desktop software. IT teams should review permissions, approval rules, and audit visibility before expanding access.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-chatgpt-work-security-checks/&amp;quot;&amp;gt;OpenAI Brings ChatGPT Work to Office Tasks: 3 Security Checks for IT Teams&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 14 Jul 2026 13:07:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-chatgpt-work-security-checks/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI</category>
+      <category>AI Governance &amp;amp; Policy</category>
+      <category>Artificial Intelligence</category>
+      <category>ChatGPT</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Technology</category>
+      <category>IT Management</category>
+      <category>News</category>
+      <category>OpenAI</category>
+      <category>ai agents</category>
+      <category>AI governance</category>
+      <category>ai security</category>
+      <category>ChatGPT Work</category>
+      <category>enterprise automation</category>
+      <category>it management</category>
+      <category>openai</category>
+      <category>prompt injection</category>
+    </item>
     <item>
       <title>Cursor IDE Auto-Executes Malicious Code in Poisoned Repos</title>
       <link>https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos</link>
@@ -29,6 +207,7 @@
       <category>Artificial Intelligence</category>
       <category>AI</category>
       <category>Claude</category>
+      <category>Featured</category>
       <category>vulnerability</category>
     </item>
     <item>
@@ -380,18 +559,6 @@ That&amp;apos;s the shape of this week. Trusted code turns on the people who ins
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption</title>
-      <link>https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/</link>
-      <description>&amp;lt;p&amp;gt;Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/&amp;quot;&amp;gt;Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Hacker Conversations</category>
-      <category>Featured</category>
-    </item>
-    <item>
       <title>Fake Bank Apps Let Scammers Control Android Phones in Southeast Asia</title>
       <link>https://www.techrepublic.com/article/news-android-malware-apac-southeast-asia/</link>
       <description>&amp;lt;p&amp;gt;RedHook malware uses fake banking and government apps to steal data and control Android phones, with attacks confirmed in Vietnam and Indonesia so far.&amp;lt;/p&amp;gt;
@@ -412,6 +579,7 @@ That&amp;apos;s the shape of this week. Trusted code turns on the people who ins
       <category>android malware</category>
       <category>banking trojan</category>
       <category>cybersecurity</category>
+      <category>editors picks</category>
       <category>google play</category>
       <category>mobile banking</category>
       <category>redhook</category>
@@ -459,40 +627,12 @@ Distributed via Telegram and costing $400 a month (or $3,800 per year), attack c
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Cybersecurity M&amp;amp;A Roundup: 37 Deals Announced in June 2026</title>
-      <link>https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/</link>
-      <description>&amp;lt;p&amp;gt;Significant cybersecurity M&amp;amp;#038;A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/&amp;quot;&amp;gt;Cybersecurity M&amp;amp;#038;A Roundup: 37 Deals Announced in June 2026&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 12:20:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>M&amp;amp;A Tracker</category>
-      <category>Acquisitions</category>
-      <category>Featured</category>
-      <category>M&amp;amp;A</category>
-    </item>
-    <item>
       <title>Progress Software Warns of &amp;quot;External Security Threat&amp;quot; to ShareFile</title>
       <link>https://www.infosecurity-magazine.com/news/progress-warns-security-threat/</link>
       <description>Progress Software, the provider of the popular file-sharing and data storage solutions, has urged customers to shut down the server hosting their Storage Zone Controller</description>
       <pubDate>Mon, 13 Jul 2026 12:05:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/progress-warns-security-threat/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>RabbitMQ Vulnerability Threatens Enterprise Systems</title>
-      <link>https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/</link>
-      <description>&amp;lt;p&amp;gt;Unauthenticated attackers could obtain the broker&amp;apos;s confidential OAuth client secret, allowing them to take control of the broker.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/&amp;quot;&amp;gt;RabbitMQ Vulnerability Threatens Enterprise Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Featured</category>
-      <category>RabbitMQ</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Meta Files Patent for AI That Can Listen All Day and Track How You&amp;apos;re Feeling</title>
@@ -547,22 +687,6 @@ Each read gets pinned to the moment it happened: the time, your location, what y
       <pubDate>Mon, 13 Jul 2026 10:40:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-state-hackers-vulnerable/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Zimbra Patches Critical Code Execution Vulnerability</title>
-      <link>https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/</link>
-      <description>&amp;lt;p&amp;gt;The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/&amp;quot;&amp;gt;Zimbra Patches Critical Code Execution Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 13 Jul 2026 10:03:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Email Security</category>
-      <category>Vulnerabilities</category>
-      <category>Patch</category>
-      <category>remote code execution</category>
-      <category>vulnerability</category>
-      <category>Zimbra</category>
     </item>
     <item>
       <title>Hacker Extradited from Ukraine Pleads Guilty to Ryuk Ransomware Charges</title>
@@ -1158,146 +1282,6 @@ In a sentencing memorandum, federal prosecutors described Martino as a &amp;quot
       <guid isPermaLink="true">https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware</title>
-      <link>https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</link>
-      <description>Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from.
-
-Each is a different way to break a machine: wipe the whole disk, overwrite the Windows drive, or run fake &amp;quot;ransomware&amp;quot; that scrambles files with a key it never saves</description>
-      <pubDate>Thu, 09 Jul 2026 23:38:07 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
-      <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
-      <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
-
-The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in&amp;amp;nbsp;-
-
-
-  allowScripts defaults to off, meaning</description>
-      <pubDate>Thu, 09 Jul 2026 22:19:02 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories</title>
-      <link>https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html</link>
-      <description>Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&amp;amp;nbsp;it.
-
-This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives.
-
-The full ThreatsDay list is below.
-
-
-
-
-
-  
-
-  
-  
-    Global</description>
-      <pubDate>Thu, 09 Jul 2026 20:39:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>As Global Conflicts Go Digital, Businesses Need Wartime Game Plans</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans</link>
-      <description>The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.</description>
-      <pubDate>Thu, 09 Jul 2026 14:31:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AssuranceAmerica Data Breach: 6.9M Driver’s License Numbers Exposed</title>
-      <link>https://www.techrepublic.com/article/news-assuranceamerica-data-breach-drivers-license-customers/</link>
-      <description>&amp;lt;p&amp;gt;AssuranceAmerica says hackers accessed the driver&amp;apos;s license data of 6.9 million customers, exposing personal information and raising concerns about identity theft.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-assuranceamerica-data-breach-drivers-license-customers/&amp;quot;&amp;gt;AssuranceAmerica Data Breach: 6.9M Driver’s License Numbers Exposed&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Jul 2026 14:16:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-assuranceamerica-data-breach-drivers-license-customers/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Business Technology</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>Tech Industry</category>
-      <category>Assuranceamerica</category>
-      <category>credential theft</category>
-      <category>data breach</category>
-      <category>driver’s license</category>
-      <category>personal information</category>
-    </item>
-    <item>
-      <title>Discord Bug Wrongly Banned 8,000 Users Over Harmless Images</title>
-      <link>https://www.techrepublic.com/article/news-discord-moderation-bug-wrongful-bans/</link>
-      <description>&amp;lt;p&amp;gt;Discord says a moderation bug wrongly banned more than 8,000 users after harmless images triggered its automated safety system.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-discord-moderation-bug-wrongful-bans/&amp;quot;&amp;gt;Discord Bug Wrongly Banned 8,000 Users Over Harmless Images&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Jul 2026 14:04:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-discord-moderation-bug-wrongful-bans/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>Tech Industry</category>
-      <category>discord</category>
-      <category>moderation system</category>
-      <category>security detection system</category>
-    </item>
-    <item>
-      <title>Vibe-Coded Malware Caught in Active Directory Attack</title>
-      <link>https://www.infosecurity-magazine.com/news/vibe-coded-malware-ai-powershell/</link>
-      <description>Huntress found a threat actor using vibe-coded PowerShell to map an Active Directory network</description>
-      <pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/vibe-coded-malware-ai-powershell/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>UK Cyber Resilience Pledge Sets 90-Day Test for Security Leaders</title>
-      <link>https://www.techrepublic.com/article/news-cyber-resilience-pledge-emea-uk/</link>
-      <description>&amp;lt;p&amp;gt;The UK Cyber Resilience Pledge gives organizations a 30/60/90-day checklist for NCSC alerts, supplier Cyber Essentials checks and board-level cyber governance.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cyber-resilience-pledge-emea-uk/&amp;quot;&amp;gt;UK Cyber Resilience Pledge Sets 90-Day Test for Security Leaders&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 09 Jul 2026 13:21:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cyber-resilience-pledge-emea-uk/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Compliance</category>
-      <category>Cybersecurity</category>
-      <category>EMEA</category>
-      <category>Government IT</category>
-      <category>IT Leadership</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>United Kingdom</category>
-      <category>board accountability</category>
-      <category>Cyber Essentials</category>
-      <category>cyber governance</category>
-      <category>Cyber Resilience Pledge</category>
-      <category>Cyber Security and Resilience Bill</category>
-      <category>ncsc</category>
-      <category>supplier risk</category>
-      <category>UK cybersecurity</category>
-    </item>
-    <item>
-      <title>AI Gateways Offer Attackers the Keys to the Kingdom</title>
-      <link>https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom</link>
-      <description>A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.</description>
-      <pubDate>Thu, 09 Jul 2026 13:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
