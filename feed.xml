@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:32:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Agentic AI Is Untamable: Ask the Right Security Questions</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions</link>
+      <description>Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.</description>
+      <pubDate>Thu, 16 Jul 2026 20:57:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>1M+ Emails Use Hidden Text to Dupe AI Security Filters</title>
+      <link>https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters</link>
+      <description>Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.</description>
+      <pubDate>Thu, 16 Jul 2026 19:41:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>The Biggest Data Breaches of 2026 So Far, Ranked by Impact</title>
       <link>https://www.techrepublic.com/article/news-biggest-data-breaches-2026-ranked-impact/</link>
@@ -1244,28 +1262,6 @@ Unlike other information stealers that are built on AppleScript droppers or Obje
       <guid isPermaLink="true">https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found</title>
-      <link>https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html</link>
-      <description>Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version.
-
-The collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain.
-
-The</description>
-      <pubDate>Mon, 13 Jul 2026 22:47:24 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>GigaWiper Lets Threat Actors Choose Their Own Destructive Attack</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack</link>
-      <description>A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.</description>
-      <pubDate>Mon, 13 Jul 2026 16:50:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
