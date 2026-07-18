@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 18 Jul 2026 02:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:47:35 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -36,11 +36,9 @@
     <item>
       <title>New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code</title>
       <link>https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html</link>
-      <description>An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.
+      <description>Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it.
 
-Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system.
-
-Adam Kues at Assetnote, Searchlight Cyber&amp;apos;s attack surface management arm, found the flaw and reported</description>
+An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until</description>
       <pubDate>Sat, 18 Jul 2026 02:50:10 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
