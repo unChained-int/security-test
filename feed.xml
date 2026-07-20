@@ -5,9 +5,68 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 20 Jul 2026 02:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:55:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chrome 150 Update Patches Severe Memory Safety Bugs</title>
+      <link>https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/</link>
+      <description>&amp;lt;p&amp;gt;The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/&amp;quot;&amp;gt;Chrome 150 Update Patches Severe Memory Safety Bugs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 20 Jul 2026 08:12:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Chrome</category>
+      <category>memory safety</category>
+      <category>Patch</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>World&amp;apos;s Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent</title>
+      <link>https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html</link>
+      <description>In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.
+
+The company said it detected and responded to the incident targeting its production infrastructure earlier last week.
+
+&amp;quot;We identified unauthorized access to a limited set of internal datasets and to several credentials used by</description>
+      <pubDate>Mon, 20 Jul 2026 10:57:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>WP2Shell WordPress Vulnerabilities Exploited in the Wild</title>
+      <link>https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/</link>
+      <description>&amp;lt;p&amp;gt;Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/&amp;quot;&amp;gt;WP2Shell WordPress Vulnerabilities Exploited in the Wild&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 20 Jul 2026 05:21:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>vulnerability</category>
+      <category>WordPress</category>
+      <category>WP2Shell</category>
+    </item>
+    <item>
+      <title>SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines</title>
+      <link>https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html</link>
+      <description>Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.
+
+The rogue gems are listed below -
+
+
+  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026
+  Dendreo (versions 1.1.3, 1.1.4) -</description>
+      <pubDate>Mon, 20 Jul 2026 10:45:39 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution</title>
       <link>https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html</link>
@@ -708,19 +767,6 @@ Old bugs are back, weak defaults are earning their keep, and some attack paths a
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Legacy Systems, Real-World Impacts: The Reality of OT Security</title>
-      <link>https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/</link>
-      <description>&amp;lt;p&amp;gt;Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity&amp;apos;s most challenging balancing acts.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/&amp;quot;&amp;gt;Legacy Systems, Real-World Impacts: The Reality of OT Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 16 Jul 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/</guid>
-      <dc:creator>Tod Beardsley</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>ICS</category>
-      <category>OT</category>
-    </item>
-    <item>
       <title>Phishing Campaign Hides Lua Loader as TrueType Font File</title>
       <link>https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/</link>
       <description>Global phishing campaign disguised a Lua loader as a font file to deploy RATs and infostealers</description>
@@ -768,22 +814,6 @@ A valid token from issuer A carrying a&amp;amp;nbsp;sub&amp;amp;nbsp;that belong
       <pubDate>Thu, 16 Jul 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Two Scattered Spider Hackers Sentenced to Jail in UK</title>
-      <link>https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/</link>
-      <description>&amp;lt;p&amp;gt;Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/&amp;quot;&amp;gt;Two Scattered Spider Hackers Sentenced to Jail in UK&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 16 Jul 2026 13:21:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>hacker</category>
-      <category>Scattered Spider</category>
-      <category>sentenced</category>
-      <category>UK</category>
     </item>
     <item>
       <title>New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands</title>
@@ -1283,23 +1313,6 @@ The affected packages are listed below -
       <guid isPermaLink="true">https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Government Updates UK’s National Risk Register with Cyber Warnings</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-national-risk-register-cyber/</link>
-      <description>The UK government is warning of the potential impact of catastrophic cyber-attacks</description>
-      <pubDate>Wed, 15 Jul 2026 08:48:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-national-risk-register-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits</title>
-      <link>https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits</link>
-      <description>The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.</description>
-      <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
