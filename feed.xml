@@ -5,9 +5,96 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Jul 2026 02:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:26:06 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zimbra Update Patches Critical Vulnerabilities</title>
+      <link>https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/&amp;quot;&amp;gt;Zimbra Update Patches Critical Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 21 Jul 2026 08:20:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>vulnerability</category>
+      <category>Zimbra</category>
+    </item>
+    <item>
+      <title>New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack</title>
+      <link>https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html</link>
+      <description>Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.
+
+The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem.
+
+The entry</description>
+      <pubDate>Tue, 21 Jul 2026 13:04:32 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Best Tools for Securing MCP and LLM Integrations | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-tools-for-securing-mcp-and-llm-integrations</link>
+      <description>Secure your AI infrastructure. Learn how to protect shadow MCP and LLM integrations using the best tools for attack surface discovery and runtime defenses.</description>
+      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-tools-for-securing-mcp-and-llm-integrations</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Best Threat Intelligence Platforms and Vendors | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-threat-intelligence-platforms-and-vendors</link>
+      <description>Compare the best threat intelligence platforms (TIPs) and vendors of 2026. Learn key features, criteria, and find the perfect tool for your security team.</description>
+      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-threat-intelligence-platforms-and-vendors</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Data leakage risks with DBHub MCP servers | UpGuard</title>
+      <link>https://www.upguard.com/blog/data-leakage-risks-with-dbhub-mcp-servers</link>
+      <description>UpGuard found exposed DBHub servers leaking live databases to the open internet—an early sign that MCP exposure is becoming a systemic data risk.</description>
+      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/data-leakage-risks-with-dbhub-mcp-servers</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Best Cyber Threat Detection Tools &amp;amp; Software | UpGuard</title>
+      <link>https://www.upguard.com/blog/top-cyber-threat-detection-tools</link>
+      <description>The best cyber threat detection tools and software in 2026. Learn how to protect your endpoints, logs, and external digital surfaces from a breach.</description>
+      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/top-cyber-threat-detection-tools</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Best Vulnerability Management Tools &amp;amp; Software in 2026 | UpGuard</title>
+      <link>https://www.upguard.com/blog/top-vendor-vulnerability-tools</link>
+      <description>Discover the best vulnerability management tools on the market and learn which vulnerability detection solution is best for your organization.</description>
+      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/top-vendor-vulnerability-tools</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Best Data Breach &amp;amp; Data Leak Detection Tools | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-data-leak-detection-software-solutions</link>
+      <description>Stopping an intrusion is half the battle. This guide ranks the top breach and leak detection tools to neutralize exposed credentials before attackers do.</description>
+      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-data-leak-detection-software-solutions</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution</title>
+      <link>https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html</link>
+      <description>Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.
+
+In a post shared on X, the threat intelligence firm said it&amp;apos;s observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code.
+
+Patches for the flaw were</description>
+      <pubDate>Tue, 21 Jul 2026 11:59:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>&amp;apos;WP2Shell&amp;apos; Opens Millions of WordPress Sites to Remote Takeover</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover</link>
@@ -161,6 +248,7 @@ Group-IB, which named the malware HollowGraph, says the approach moves tasking a
       <category>Malware &amp;amp; Threats</category>
       <category>Vulnerabilities</category>
       <category>exploited</category>
+      <category>Featured</category>
       <category>malware</category>
       <category>SonicWall</category>
       <category>Zero-Day</category>
@@ -383,22 +471,6 @@ The company said it detected and responded to the incident targeting its product
       <guid isPermaLink="true">https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>WP2Shell WordPress Vulnerabilities Exploited in the Wild</title>
-      <link>https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/</link>
-      <description>&amp;lt;p&amp;gt;Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/&amp;quot;&amp;gt;WP2Shell WordPress Vulnerabilities Exploited in the Wild&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 20 Jul 2026 05:21:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
-      <category>WordPress</category>
-      <category>WP2Shell</category>
     </item>
     <item>
       <title>SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines</title>
@@ -854,38 +926,6 @@ Russian cybersecurity company Kaspersky, which uncovered the activity in Februar
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Best Vulnerability Management Tools &amp;amp; Software in 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-vendor-vulnerability-tools</link>
-      <description>Discover the best vulnerability management tools on the market and learn which vulnerability detection solution is best for your organization.</description>
-      <pubDate>Fri, 17 Jul 2026 07:57:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-vendor-vulnerability-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Cyber Threat Detection Tools &amp;amp; Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-cyber-threat-detection-tools</link>
-      <description>The best cyber threat detection tools and software in 2026. Learn how to protect your endpoints, logs, and external digital surfaces from a breach.</description>
-      <pubDate>Fri, 17 Jul 2026 07:53:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-cyber-threat-detection-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Data Breach &amp;amp; Data Leak Detection Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-data-leak-detection-software-solutions</link>
-      <description>Stopping an intrusion is half the battle. This guide ranks the top breach and leak detection tools to neutralize exposed credentials before attackers do.</description>
-      <pubDate>Fri, 17 Jul 2026 07:41:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-data-leak-detection-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Threat Intelligence Platforms and Vendors | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-threat-intelligence-platforms-and-vendors</link>
-      <description>Compare the best threat intelligence platforms (TIPs) and vendors of 2026. Learn key features, criteria, and find the perfect tool for your security team.</description>
-      <pubDate>Fri, 17 Jul 2026 07:30:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-threat-intelligence-platforms-and-vendors</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV</title>
       <link>https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html</link>
       <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026.
@@ -1176,59 +1216,6 @@ The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Wor
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Forgotten Bootloaders Expose Secure Boot Blind Spot</title>
-      <link>https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot</link>
-      <description>Nearly a dozen vulnerable and now revoked UEFI shim bootloaders remained trusted for years, giving attackers a path to bypass Secure Boot.</description>
-      <pubDate>Wed, 15 Jul 2026 21:19:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Identity Attacks Overtake Exploits as Top Ransomware Cause</title>
-      <link>https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause</link>
-      <description>Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.</description>
-      <pubDate>Wed, 15 Jul 2026 20:16:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development</title>
-      <link>https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html</link>
-      <description>Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results.
-
-&amp;quot;While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed</description>
-      <pubDate>Thu, 16 Jul 2026 00:13:08 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Jalisco, OmegaLord Phishing Kits Target Microsoft 365 Accounts</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-365-phishing-kits-mfa-bypass/</link>
-      <description>&amp;lt;p&amp;gt;New Jalisco and OmegaLord phishing kits target Microsoft 365 accounts by abusing device code flows, OAuth tokens, and MFA prompts to maintain access.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-365-phishing-kits-mfa-bypass/&amp;quot;&amp;gt;Jalisco, OmegaLord Phishing Kits Target Microsoft 365 Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 15 Jul 2026 18:38:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-365-phishing-kits-mfa-bypass/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>Tech Industry</category>
-      <category>jalisco</category>
-      <category>mfa</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Entra ID</category>
-      <category>oauth tokens</category>
-      <category>omegalord</category>
-      <category>phishing</category>
-      <category>phishing-as-a-service</category>
     </item>
   </channel>
 </rss>
