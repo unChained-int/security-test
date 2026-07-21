@@ -5,11 +5,141 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:19:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Choose Wisely: AI-Generated Coding Risk Varies, A Lot</title>
+      <title>Hacker Turns AI Jailbreaks Into Offensive Attack Platform</title>
+      <link>https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform</link>
+      <description>A Russian-speaking actor, &amp;amp;quot;Trim,&amp;amp;quot; dismantled publicly available frontier models and integrated them with offensive security tools.</description>
+      <pubDate>Tue, 21 Jul 2026 18:38:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains</title>
+      <link>https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/</link>
+      <description>&amp;lt;p&amp;gt;New executive order calls for end-to-end visibility into defense supply chains, including software dependencies, foreign ownership and cyber-related supplier risks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/&amp;quot;&amp;gt;Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 21 Jul 2026 18:16:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Government</category>
+      <category>Supply Chain Security</category>
+      <category>executive order</category>
+      <category>SBOM</category>
+    </item>
+    <item>
+      <title>Cisco Launches Low-Cost AI Models for Source Code Security</title>
+      <link>https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/</link>
+      <description>&amp;lt;p&amp;gt;The open-weight Antares models are designed to pinpoint known vulnerabilities in codebases faster and at a fraction of the cost of larger AI models.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/&amp;quot;&amp;gt;Cisco Launches Low-Cost AI Models for Source Code Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 21 Jul 2026 17:44:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>artificial inteligence</category>
+      <category>Cisco</category>
+      <category>Cisco Antares</category>
+      <category>source code</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code</title>
+      <link>https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html</link>
+      <description>Hidden text on a web page was enough to make Kiro, AWS&amp;apos;s agentic coding IDE, rewrite its own configuration file and run an attacker&amp;apos;s code on a developer&amp;apos;s machine, with no approval step able to stop it.
+
+Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been</description>
+      <pubDate>Tue, 21 Jul 2026 21:36:12 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities</title>
+      <link>https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html</link>
+      <description>Google&amp;apos;s DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that&amp;apos;s designed to discover, validate, and patch vulnerabilities quickly and efficiently.
+
+According to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot</description>
+      <pubDate>Tue, 21 Jul 2026 20:39:28 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC</title>
+      <link>https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html</link>
+      <description>A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.
+
+The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE</description>
+      <pubDate>Tue, 21 Jul 2026 20:27:51 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Craneware Confirms Data Theft After Cyberattack, Investigations Underway</title>
+      <link>https://www.techrepublic.com/article/news-craneware-cyberattack-data-theft-2026/</link>
+      <description>&amp;lt;p&amp;gt;Healthcare software vendor Craneware confirmed attackers stole data during a cyberattack, underscoring growing cybersecurity risks facing healthcare suppliers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-craneware-cyberattack-data-theft-2026/&amp;quot;&amp;gt;Craneware Confirms Data Theft After Cyberattack, Investigations Underway&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 21 Jul 2026 14:52:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-craneware-cyberattack-data-theft-2026/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Tech &amp;amp; Work</category>
+      <category>Tech Industry</category>
+      <category>craneware</category>
+      <category>cybersecurity</category>
+      <category>data breach</category>
+      <category>data theft</category>
+      <category>enterprise security</category>
+      <category>healthcare</category>
+      <category>healthcare IT</category>
+      <category>ransomware</category>
+      <category>supply chain security</category>
+    </item>
+    <item>
+      <title>Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access</title>
+      <link>https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html</link>
+      <description>Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.
+
+Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway</description>
+      <pubDate>Tue, 21 Jul 2026 19:34:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Russian Hacker Turns Jailbroken Claude Into Pentest Platform</title>
+      <link>https://www.infosecurity-magazine.com/news/trim-jailbroken-claude-ai-pentest/</link>
+      <description>Russian-speaking actor Trim built a commercial offensive AI pentest tool on jailbroken Claude models</description>
+      <pubDate>Tue, 21 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trim-jailbroken-claude-ai-pentest/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities</title>
+      <link>https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html</link>
+      <description>Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component.
+
+As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled.
+
+Also patched</description>
+      <pubDate>Tue, 21 Jul 2026 18:48:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Choose Wisely: AI-Generated Coding Risk Varies, a Lot</title>
       <link>https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies</link>
       <description>AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.</description>
       <pubDate>Tue, 21 Jul 2026 13:00:00 +0000</pubDate>
@@ -133,6 +263,7 @@ That is the claim behind Bit2Watt, described by three Zhejiang University resear
       <category>Cl0p</category>
       <category>data breach</category>
       <category>Estee Lauder</category>
+      <category>Featured</category>
       <category>Oracle EBS</category>
     </item>
     <item>
@@ -224,19 +355,6 @@ The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been 
       <category>Featured</category>
       <category>ServiceNow</category>
       <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Zimbra Update Patches Critical Vulnerabilities</title>
-      <link>https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/&amp;quot;&amp;gt;Zimbra Update Patches Critical Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 21 Jul 2026 08:20:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>vulnerability</category>
-      <category>Zimbra</category>
     </item>
     <item>
       <title>New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack</title>
@@ -435,21 +553,6 @@ What makes it more than a</description>
       <pubDate>Mon, 20 Jul 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cruciferra-crypter-process-ghosting/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software</title>
-      <link>https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/</link>
-      <description>&amp;lt;p&amp;gt;Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/&amp;quot;&amp;gt;Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 20 Jul 2026 14:54:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity Funding</category>
-      <category>AI</category>
-      <category>funding</category>
-      <category>Neo</category>
     </item>
     <item>
       <title>HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050</title>
@@ -1136,90 +1239,6 @@ The attack left 148 TfL systems inoperable and forced all 27,000 of the transpor
       <pubDate>Thu, 16 Jul 2026 15:54:40 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/best-dark-web-monitoring-tools</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories</title>
-      <link>https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html</link>
-      <description>A lot of this week’s trouble starts with something that looks close enough.
-
-A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation.
-
-Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here’s the mess.</description>
-      <pubDate>Thu, 16 Jul 2026 21:11:15 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Phishing Campaign Hides Lua Loader as TrueType Font File</title>
-      <link>https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/</link>
-      <description>Global phishing campaign disguised a Lua loader as a font file to deploy RATs and infostealers</description>
-      <pubDate>Thu, 16 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Protecting Privacy in an AI Era</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html</link>
-      <description>&amp;lt;p&amp;gt;Daniel Solove &amp;lt;a href=&amp;quot;https://www.wsj.com/tech/cybersecurity/ai-privacy-laws-data-26d9769f&amp;quot;&amp;gt;argues&amp;lt;/a&amp;gt; in the &amp;lt;i&amp;gt;Wall Street Journal&amp;lt;/i&amp;gt; (alternate &amp;lt;a href=&amp;quot;https://archive.is/gEhP5&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to what we do with food and drug companies. Measures such as rigorous data minimization, fiduciary duties, liability for negligent or reckless technological design, liability for algorithms that cause harm, and multi-stakeholder review of technologies will be far more effective.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6985419&amp;quot;&amp;gt;Paper&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 16 Jul 2026 14:34:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>AI</category>
-      <category>privacy</category>
-    </item>
-    <item>
-      <title>n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer</title>
-      <link>https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html</link>
-      <description>n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&amp;amp;nbsp;sub&amp;amp;nbsp;claim alone and ignored&amp;amp;nbsp;iss.
-
-A valid token from issuer A carrying a&amp;amp;nbsp;sub&amp;amp;nbsp;that belongs to someone under issuer B logged you in as them. Their password never</description>
-      <pubDate>Thu, 16 Jul 2026 19:03:25 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Modular macOS Stealer Uses Kill Loops to Force Password Entry</title>
-      <link>https://www.infosecurity-magazine.com/news/clicklock-macos-stealer-clickfix/</link>
-      <description>New ClickLock macOS stealer locked victims out of their own system until they surrendered a password</description>
-      <pubDate>Thu, 16 Jul 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/clicklock-macos-stealer-clickfix/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Single Prompt Enables ChatGPT to Execute Full Cyber-Attack Chain, Researchers Claim</title>
-      <link>https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/</link>
-      <description>Cybersecurity researchers tested Open AI GPT 5.5’s offensive cyber capabilities – and the results showed how effective a frontier LLM can be for hackers</description>
-      <pubDate>Thu, 16 Jul 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands</title>
-      <link>https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html</link>
-      <description>Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that&amp;apos;s been spreading via websites infected with ClickFix lures since late April 2026.
-
-&amp;quot;The malware is full-featured, lightweight, and modular,&amp;quot; Elastic Security Labs researcher Cyril François said in a technical report. &amp;quot;While the number of C2 [command-and-control] domains is currently small, the daily</description>
-      <pubDate>Thu, 16 Jul 2026 18:20:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password</title>
-      <link>https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html</link>
-      <description>ClickLock Stealer, a new macOS infostealer, answers a victim&amp;apos;s refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when the victim cancels, installs two LaunchAgents and quietly exits.
-
-At the next login, Finder, the Dock, Spotlight, Terminal, Activity Monitor, and</description>
-      <pubDate>Thu, 16 Jul 2026 18:03:42 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
