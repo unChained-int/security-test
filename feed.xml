@@ -5,9 +5,83 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Jul 2026 02:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:26:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oracle Just Shipped 1,449 Security Patches in One Quarter. We Checked How Much of It Is Actually New. | UpGuard</title>
+      <link>https://www.upguard.com/blog/oracle-just-shipped-1-449-security-patches-in-one-quarter-we-checked-how-much-of-it-is-actually-new</link>
+      <description>Oracle&amp;apos;s July 2026 update shipped 1,449 security patches — 2.8x its all-time record. We parsed 23 quarters of advisories to find out how much is truly new.</description>
+      <pubDate>Wed, 22 Jul 2026 08:14:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/oracle-just-shipped-1-449-security-patches-in-one-quarter-we-checked-how-much-of-it-is-actually-new</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face</title>
+      <link>https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/</link>
+      <description>&amp;lt;p&amp;gt;The admission comes days after Hugging Face disclosed an attack powered by autonomous AI agents. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/&amp;quot;&amp;gt;OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 22 Jul 2026 07:48:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Hugging Face</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Ransomware Incident Response Checklist | UpGuard</title>
+      <link>https://www.upguard.com/blog/ransomware-incident-response-checklist</link>
+      <description>Navigate modern ransomware and double extortion with this 5-phase incident response checklist based on NIST guidelines. Contain, recover, and harden today.</description>
+      <pubDate>Wed, 22 Jul 2026 07:43:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/ransomware-incident-response-checklist</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA</title>
+      <link>https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html</link>
+      <description>German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world&amp;apos;s most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it.
+
+In a joint announcement on Monday, the Frankfurt public prosecutor&amp;apos;s cybercrime unit (ZIT) and Germany&amp;apos;s Federal Criminal Police Office (BKA)</description>
+      <pubDate>Wed, 22 Jul 2026 12:08:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library</title>
+      <link>https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html</link>
+      <description>Cybersecurity researchers have discovered a NuGet typosquat that&amp;apos;s unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it&amp;apos;s designed to rig live game results on Digitain.
+
+The package, named &amp;quot;Newtonsoftt.Json.Net,&amp;quot; masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the</description>
+      <pubDate>Wed, 22 Jul 2026 11:30:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents</title>
+      <link>https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html</link>
+      <description>A single invisible comment in an Azure DevOps pull request can turn a reviewer&amp;apos;s own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds.
+
+The flaw is in Microsoft&amp;apos;s official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had</description>
+      <pubDate>Wed, 22 Jul 2026 10:27:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark</title>
+      <link>https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html</link>
+      <description>OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an &amp;quot;even more capable pre-release model,&amp;quot; was behind the security incident that targeted Hugging Face&amp;apos;s production infrastructure last week.
+
+The AI company said the models were operating with &amp;quot;reduced cyber refusals for evaluation purposes&amp;quot; that might otherwise limit their ability to</description>
+      <pubDate>Wed, 22 Jul 2026 09:48:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>LG to Ban Residential Proxies from Smart TV Apps</title>
       <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
@@ -97,6 +171,7 @@ Hide My Email</description>
       <category>artificial inteligence</category>
       <category>Cisco</category>
       <category>Cisco Antares</category>
+      <category>Featured</category>
       <category>source code</category>
       <category>vulnerability</category>
     </item>
@@ -416,21 +491,6 @@ The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been 
       <guid isPermaLink="true">https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Exploitation of ServiceNow Vulnerability Seen Days After Disclosure</title>
-      <link>https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/</link>
-      <description>&amp;lt;p&amp;gt;The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/&amp;quot;&amp;gt;Exploitation of ServiceNow Vulnerability Seen Days After Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 21 Jul 2026 08:41:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>ServiceNow</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack</title>
@@ -1179,64 +1239,6 @@ His wife, Maria Yurova, told REN TV that border officers pulled him out of the d
       <guid isPermaLink="true">https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Mandates Urgent Patch for Actively Exploited Critical Fortinet Vulnerabilities</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/</link>
-      <description>US government agencies have until July 19 to patch two critical Fortinet vulnerabilities</description>
-      <pubDate>Fri, 17 Jul 2026 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The Gentlemen Overtakes Qilin as Most Prolific Ransomware Threat</title>
-      <link>https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/</link>
-      <description>Analysis of ransomware incidents by ReliaQuest indicates a shift in the ransomware landscape</description>
-      <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files</title>
-      <link>https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html</link>
-      <description>ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders.
-
-It gets in because someone pasted a command into a Run box and pressed Enter. Microsoft laid out two of the delivery chains on Thursday. Its Defender Experts team, the</description>
-      <pubDate>Fri, 17 Jul 2026 14:26:39 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage</title>
-      <link>https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html</link>
-      <description>Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering.
-
-Russian cybersecurity company Kaspersky, which uncovered the activity in February 2026, said it was aimed at government and diplomatic entities in</description>
-      <pubDate>Fri, 17 Jul 2026 14:16:45 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV</title>
-      <link>https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026.
-
-The vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization</description>
-      <pubDate>Fri, 17 Jul 2026 12:12:23 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Agentic AI: Taming the Unpredictable</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions</link>
-      <description>Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.</description>
-      <pubDate>Thu, 16 Jul 2026 20:57:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
