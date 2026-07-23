@@ -5,9 +5,179 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:14:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes</title>
+      <link>https://thehackernews.com/2026/07/russian-espionage-group-exploited.html</link>
+      <description>A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra&amp;apos;s webmail client.
+
+The payload goes after the last 90 days of email, the organization&amp;apos;s entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it.
+
+The NSA, CISA and partner agencies published</description>
+      <pubDate>Fri, 24 Jul 2026 00:06:08 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/russian-espionage-group-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Mapping PCI DSS v4.0.1 to the NIST Cybersecurity Framework 2.0</title>
+      <link>https://blog.pcisecuritystandards.org/mapping-pci-dss-v4.0.1-to-the-nist-cybersecurity-framework-2.0</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/mapping-pci-dss-v4.0.1-to-the-nist-cybersecurity-framework-2.0&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Mapping PCI DSS v4.0.1 to the NIST Cybersecurity Framework 2.0&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/pci-nist-blog_new.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;The PCI Security Standards Council (PCI SSC) has published a document which maps the PCI Data Security Standard (PCI DSS) v4.0.1 to the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) 2.0. With both organizations sharing the common goal to enhance data security, this document provides a resource for stakeholders to use in understanding how to align security efforts to meet objectives in both PCI DSS and the NIST CSF. &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:50:12 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/mapping-pci-dss-v4.0.1-to-the-nist-cybersecurity-framework-2.0</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Guidance</category>
+      <category>Awareness</category>
+      <category>PCI DSS</category>
+      <category>Information Supplement</category>
+      <category>Data and Environment Product Family</category>
+    </item>
+    <item>
+      <title>Russian Hackers Exploit New ‘Zero-Click’  Attack Against Western Organizations</title>
+      <link>https://www.infosecurity-magazine.com/news/russian-hackers-zero-click/</link>
+      <description>International agencies issue joint alert over state-backed campaign exploiting a critical vulnerability in the Zimbra Collaboration Suite</description>
+      <pubDate>Thu, 23 Jul 2026 15:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-hackers-zero-click/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider</title>
+      <link>https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/</link>
+      <description>&amp;lt;p&amp;gt;AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/&amp;quot;&amp;gt;OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 23 Jul 2026 15:09:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>ChatGPT</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories</title>
+      <link>https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html</link>
+      <description>Most of this week&amp;apos;s trouble came dressed as something useful.
+
+A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic.
+
+
+ The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out.
+
+
+The danger was</description>
+      <pubDate>Thu, 23 Jul 2026 20:32:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Is Patching Dead? Vulnerability Management in the Post-Mythos Era</title>
+      <link>https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/</link>
+      <description>&amp;lt;p&amp;gt;You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/&amp;quot;&amp;gt;Is Patching Dead? Vulnerability Management in the Post-Mythos Era&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/</guid>
+      <dc:creator>Danelle Au</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>Patch</category>
+    </item>
+    <item>
+      <title>Chick-fil-A Accounts Get Fried in Credential Stuffing Attack</title>
+      <link>https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/</link>
+      <description>&amp;lt;p&amp;gt;Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/&amp;quot;&amp;gt;Chick-fil-A Accounts Get Fried in Credential Stuffing Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 23 Jul 2026 14:55:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Chick-fil-A</category>
+      <category>credential stuffing</category>
+      <category>data breach</category>
+    </item>
+    <item>
+      <title>Google Holds Back Gemini 3.5 Flash Cyber as CodeMender Enters Preview</title>
+      <link>https://www.techrepublic.com/article/news-google-flash-cyber-codemender/</link>
+      <description>&amp;lt;p&amp;gt;Google is restricting Gemini 3.5 Flash Cyber to select partners as CodeMender enters preview. Here’s what security teams should verify before adoption.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-flash-cyber-codemender/&amp;quot;&amp;gt;Google Holds Back Gemini 3.5 Flash Cyber as CodeMender Enters Preview&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 23 Jul 2026 14:14:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-flash-cyber-codemender/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Cloud Security</category>
+      <category>Cybersecurity</category>
+      <category>DevOps</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>ai agents</category>
+      <category>ai cybersecurity</category>
+      <category>application security</category>
+      <category>CodeMender</category>
+      <category>devsecops</category>
+      <category>Gemini 3.5 Flash Cyber</category>
+      <category>google gemini</category>
+      <category>vulnerability management</category>
+    </item>
+    <item>
+      <title>Microsoft Copilot Deployments Delayed Over Security Concerns</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/</link>
+      <description>CoreView research finds that security leadership is concerned about AI Assistant exposing confidential data</description>
+      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Abstract Raises $25 Million to Expand Composable Security Operations Platform</title>
+      <link>https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/</link>
+      <description>&amp;lt;p&amp;gt;The latest investment round brings the total raised by Abstract to nearly $50 million.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/&amp;quot;&amp;gt;Abstract Raises $25 Million to Expand Composable Security Operations Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 23 Jul 2026 13:54:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>Abstract Security</category>
+      <category>funding</category>
+      <category>SOC</category>
+    </item>
+    <item>
+      <title>Cisco Antares Models Bring Local AI to Vulnerability Triage</title>
+      <link>https://www.techrepublic.com/article/news-cisco-antares-vulnerability-triage/</link>
+      <description>&amp;lt;p&amp;gt;Cisco’s new Antares models help security teams narrow vulnerable code searches locally, but low benchmark scores expose important adoption limits.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisco-antares-vulnerability-triage/&amp;quot;&amp;gt;Cisco Antares Models Bring Local AI to Vulnerability Triage&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 23 Jul 2026 13:39:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisco-antares-vulnerability-triage/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Developer</category>
+      <category>DevOps</category>
+      <category>Enterprise Technology</category>
+      <category>News</category>
+      <category>Open source</category>
+      <category>ai security</category>
+      <category>Antares</category>
+      <category>application security</category>
+      <category>cisco</category>
+      <category>devsecops</category>
+      <category>open-weight AI</category>
+      <category>software vulnerabilities</category>
+      <category>vulnerability localization</category>
+    </item>
     <item>
       <title>Iranian Hackers Target Siemens and Schneider Industrial Systems, CISA Warns</title>
       <link>https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/</link>
@@ -15,6 +185,28 @@
       <pubDate>Thu, 23 Jul 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files</title>
+      <link>https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html</link>
+      <description>Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic&amp;apos;s Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac.
+
+Accomplish AI, which shared details of the vulnerability with The Hacker News ahead of publication, said about 500,000 macOS users running</description>
+      <pubDate>Thu, 23 Jul 2026 18:57:59 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge</title>
+      <link>https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html</link>
+      <description>The Chaos ransomware group ran its command-and-control through the victim&amp;apos;s own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor.
+
+The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and nothing else. It starts Chrome or Edge in headless mode and drives the browser</description>
+      <pubDate>Thu, 23 Jul 2026 18:41:09 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models</title>
@@ -30,8 +222,20 @@
       <category>AI</category>
       <category>AI benchmark</category>
       <category>benchmark</category>
+      <category>Featured</category>
       <category>malware</category>
       <category>SentinelOne</category>
+    </item>
+    <item>
+      <title>China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks</title>
+      <link>https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html</link>
+      <description>An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader.
+
+Group-IB found the server in mid-April 2026 in Alibaba Cloud&amp;apos;s Singapore region; it was offline by the time the report</description>
+      <pubDate>Thu, 23 Jul 2026 17:50:23 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>How Synthetic Identity Fraud is Coming for Machine Identities</title>
@@ -215,7 +419,7 @@ The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentica
       <category>Siemens</category>
     </item>
     <item>
-      <title>Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain</title>
+      <title>Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain</link>
       <description>A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.</description>
       <pubDate>Thu, 23 Jul 2026 01:00:00 +0000</pubDate>
@@ -380,64 +584,6 @@ The shortcoming has been codenamed HermeticReader by Guardio Labs. It&amp;apos;s
       <pubDate>Wed, 22 Jul 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Palo Alto Networks to Acquire Observability Platform Provider Embrace</title>
-      <link>https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/</link>
-      <description>&amp;lt;p&amp;gt;Acquisition follows January&amp;apos;s Chronosphere deal, deepening Palo Alto Networks&amp;apos; push beyond core security into observability.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/&amp;quot;&amp;gt;Palo Alto Networks to Acquire Observability Platform Provider Embrace&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Jul 2026 14:58:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Funding/M&amp;amp;A</category>
-      <category>Network Security</category>
-      <category>Acquisition</category>
-      <category>Palo Alto Networks</category>
-    </item>
-    <item>
-      <title>Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft</title>
-      <link>https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/</link>
-      <description>&amp;lt;p&amp;gt;An attacker only needed to convince the targeted user to visit a malicious website to exfiltrate WhatsApp messages and contacts.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/&amp;quot;&amp;gt;Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Jul 2026 14:22:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Adobe</category>
-      <category>data leak</category>
-      <category>vulnerability</category>
-      <category>WhatsApp</category>
-    </item>
-    <item>
-      <title>When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover</title>
-      <link>https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/</link>
-      <description>&amp;lt;p&amp;gt;Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/&amp;quot;&amp;gt;When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/</guid>
-      <dc:creator>Torsten George</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Incident Response</category>
-      <category>IAM</category>
-      <category>SIM</category>
-      <category>SIM swapping</category>
-    </item>
-    <item>
-      <title>StrongestLayer Raises $4.1 Million in Seed Funding Extension</title>
-      <link>https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/</link>
-      <description>&amp;lt;p&amp;gt;The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/&amp;quot;&amp;gt;StrongestLayer Raises $4.1 Million in Seed Funding Extension&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybersecurity Funding</category>
-      <category>Email Security</category>
-      <category>email security</category>
-      <category>funding</category>
-      <category>StrongestLayer</category>
     </item>
     <item>
       <title>Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication</title>
@@ -1048,106 +1194,6 @@ What makes it more than a</description>
       <description>Cruciferra crypter used process ghosting and 90 custom ciphers to hide payloads for multiple actors</description>
       <pubDate>Mon, 20 Jul 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cruciferra-crypter-process-ghosting/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050</title>
-      <link>https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html</link>
-      <description>A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050.
-
-Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks</description>
-      <pubDate>Mon, 20 Jul 2026 20:03:43 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>JadePuffer Returns With Ransomware Designed to Wipe AI Models</title>
-      <link>https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/</link>
-      <description>JadePuffer follow-up campaign deployed ENCFORGE locker built to destroy AI model artifacts</description>
-      <pubDate>Mon, 20 Jul 2026 14:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cybersecurity Keeps Events &amp;apos;Uneventful&amp;apos;</title>
-      <link>https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful</link>
-      <description>From the World Cup to the United States&amp;apos; 250th celebration, this year&amp;apos;s event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.</description>
-      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful</guid>
-      <dc:creator>Olga Polishchuk</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Researchers Build WordPress Exploit Using OpenAI&amp;apos;s GPT</title>
-      <link>https://www.infosecurity-magazine.com/news/researchers-wordpress-exploit/</link>
-      <description>A researcher who discovered a critical vulnerability in WordPress has used OpenAI’s latest model to develop an exploit chain</description>
-      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-wordpress-exploit/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More</title>
-      <link>https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html</link>
-      <description>A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.
-
-The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch.
-
-Here is the full</description>
-      <pubDate>Mon, 20 Jul 2026 19:02:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New HollowGraph Malware Hijacks Microsoft 365 Calendars for Covert C2 Communications</title>
-      <link>https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/</link>
-      <description>Researchers have linked HollowGraph malware to the Cavern framework after discovering its use of Microsoft 365 calendars and Microsoft Graph APIs as a stealthy C2 channel</description>
-      <pubDate>Mon, 20 Jul 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine</title>
-      <link>https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html</link>
-      <description>At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.
-
-That is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands&amp;apos; civilian and military intelligence</description>
-      <pubDate>Mon, 20 Jul 2026 17:43:39 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mythos Didn&amp;apos;t Break Your Security Program. Your Exposure Window Could.</title>
-      <link>https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html</link>
-      <description>The industry spent the initial months after Anthropic&amp;apos;s April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of</description>
-      <pubDate>Mon, 20 Jul 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>On Flock License Plate Tracking Cameras</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html</link>
-      <description>&amp;lt;p&amp;gt;A recent story of a writer who was &amp;lt;a href=&amp;quot;https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me&amp;quot;&amp;gt;mistakenly&amp;lt;/a&amp;gt; identified, tracked, and arrested using data from Flock cameras has gone viral.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The New Jersey plates that were allegedly stolen from the LA dealer were &amp;lt;b&amp;gt;34 03 DTM&amp;lt;/b&amp;gt;, not &amp;lt;b&amp;gt;34 10 DTM&amp;lt;/b&amp;gt;. But when the police report was created and the plate was entered into Flock’s system, it was just recorded as &amp;lt;b&amp;gt;34 DTM&amp;lt;/b&amp;gt;. Just the five large characters, no little number in the middle. And Flock’s AI tech wasn’t registering that non-standard little number when it began picking up the Range Rover around town. It just saw ...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 20 Jul 2026 11:03:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cameras</category>
-      <category>cars</category>
-      <category>law enforcement</category>
-      <category>tracking</category>
-    </item>
-    <item>
-      <title>Police Chiefs Cite TfL Hack in Push for Cybercrime Risk Orders</title>
-      <link>https://www.infosecurity-magazine.com/news/police-chiefs-tfl-cybercrime-risk/</link>
-      <description>Two chiefs of UK policing agencies said the Transport for London prosecution demonstrates the need for Cybercrime Risk Orders</description>
-      <pubDate>Mon, 20 Jul 2026 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/police-chiefs-tfl-cybercrime-risk/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
