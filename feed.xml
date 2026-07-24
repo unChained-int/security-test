@@ -5,9 +5,45 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Jul 2026 02:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:25:31 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Europe&amp;apos;s Multilingual Reality Exposes AI Security Gaps</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps</link>
+      <description>The AI security layer and guardrails for many AI products don&amp;apos;t evenly protect against jailbreaking and unsafe actions in every single language.</description>
+      <pubDate>Fri, 24 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks</title>
+      <link>https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html</link>
+      <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that&amp;apos;s dressed up as a Notepad++ plugin to compromise Windows systems.
+
+The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to</description>
+      <pubDate>Fri, 24 Jul 2026 12:20:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Data Breach Confirmed After Australian Energy Giant Origin Is Hacked</title>
+      <link>https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/</link>
+      <description>&amp;lt;p&amp;gt;A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/&amp;quot;&amp;gt;Data Breach Confirmed After Australian Energy Giant Origin Is Hacked&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 24 Jul 2026 05:52:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Australia</category>
+      <category>data breach</category>
+      <category>energy</category>
+      <category>Origin Energy</category>
+      <category>Ransomware</category>
+    </item>
     <item>
       <title>Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets</link>
@@ -90,6 +126,7 @@ The NSA, CISA and partner agencies published</description>
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Artificial Intelligence</category>
       <category>ChatGPT</category>
+      <category>Featured</category>
       <category>vulnerability</category>
     </item>
     <item>
@@ -391,11 +428,11 @@ The selfie for sign-in, per the tech giant, is another option on top of existing
     <item>
       <title>Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs</title>
       <link>https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html</link>
-      <description>RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.
+      <description>RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.
 
 Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation.
 
-The company demonstrated the race</description>
+The company demonstrated the race against</description>
       <pubDate>Thu, 23 Jul 2026 13:34:35 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -583,20 +620,6 @@ The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts defa
       <category>phishing</category>
       <category>stripe</category>
       <category>suno</category>
-    </item>
-    <item>
-      <title>Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts</title>
-      <link>https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/</link>
-      <description>&amp;lt;p&amp;gt;Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/&amp;quot;&amp;gt;Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Jul 2026 15:02:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>Paidwork</category>
-      <category>Suno</category>
     </item>
     <item>
       <title>Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data</title>
@@ -841,7 +864,7 @@ Hide My Email</description>
       <link>https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html</link>
       <description>Hidden text on a web page was enough to make Kiro, AWS&amp;apos;s agentic coding IDE, rewrite its own configuration file and run an attacker&amp;apos;s code on a developer&amp;apos;s machine, with no approval step able to stop it.
 
-Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been</description>
+Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue and says it is</description>
       <pubDate>Tue, 21 Jul 2026 21:36:12 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -1170,39 +1193,6 @@ What makes it more than a</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AWS Billion-Dollar Software Bug Explained</title>
-      <link>https://www.techrepublic.com/article/news-aws-billing-bug-trillion-dollar-estimates-explained/</link>
-      <description>&amp;lt;p&amp;gt;An AWS software bug showed some customers billing estimates in the billions and trillions. Here is what failed, why invoices were unaffected, and what IT teams should know.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-aws-billing-bug-trillion-dollar-estimates-explained/&amp;quot;&amp;gt;AWS Billion-Dollar Software Bug Explained&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 20 Jul 2026 17:28:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-aws-billing-bug-trillion-dollar-estimates-explained/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Amazon</category>
-      <category>Cloud</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; Work</category>
-      <category>Tech Industry</category>
-      <category>amazon web services</category>
-      <category>aws billing</category>
-      <category>cloud computing</category>
-      <category>cloud security</category>
-      <category>cost management</category>
-      <category>finops</category>
-      <category>software bugs</category>
-    </item>
-    <item>
-      <title>Best Cyber Risk Posture Management (CRPM) Platforms | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-cyber-risk-posture-management-crpm-platforms</link>
-      <description>Learn what Cyber Risk Posture Management (CRPM) is, what it isn&amp;apos;t, and explore the top CRPM platforms built for lean security teams in 2026.</description>
-      <pubDate>Mon, 20 Jul 2026 16:41:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-cyber-risk-posture-management-crpm-platforms</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
