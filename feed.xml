@@ -5,16 +5,83 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Jul 2026 13:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 19:23:19 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery</title>
+      <link>https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</link>
+      <description>The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.
+
+&amp;quot;BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet</description>
+      <pubDate>Fri, 24 Jul 2026 20:42:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws</title>
+      <link>https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/</link>
+      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/&amp;quot;&amp;gt;In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Ransomware</category>
+      <category>Vulnerabilities</category>
+      <category>In Other News</category>
+    </item>
+    <item>
+      <title>Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller</title>
+      <link>https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html</link>
+      <description>Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.
+
+They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.</description>
+      <pubDate>Fri, 24 Jul 2026 19:45:21 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Adds Selfie Video Sign-In to Help Users Recover Locked Accounts</title>
+      <link>https://www.techrepublic.com/article/news-google-selfie-video-account-recovery/</link>
+      <description>&amp;lt;p&amp;gt;Google added selfie video recovery for eligible accounts, using encrypted videos and liveness checks to help users regain access when locked out.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-selfie-video-account-recovery/&amp;quot;&amp;gt;Google Adds Selfie Video Sign-In to Help Users Recover Locked Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 24 Jul 2026 13:11:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-selfie-video-account-recovery/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>account recovery</category>
+      <category>biometric authentication</category>
+      <category>google account</category>
+      <category>passkeys</category>
+      <category>phishing</category>
+      <category>security</category>
+      <category>selfie video</category>
+    </item>
+    <item>
       <title>Vatican&amp;apos;s Official Prayer App Leaks 700K+ Global Users&amp;apos; PII</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii</link>
-      <description>A porous API endpoint exposes, names, email addresses, location, and site status, all of which can be easily gleaned by anyone with a browser.</description>
+      <description>A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.</description>
       <pubDate>Fri, 24 Jul 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii</guid>
       <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Default Azure Automation Setting Enables Cross-Tenant Identity Takeover</title>
+      <link>https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover</link>
+      <description>Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant&amp;apos;s identity and access others&amp;apos; data, credentials, and cloud workloads.</description>
+      <pubDate>Fri, 24 Jul 2026 12:48:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -97,7 +164,7 @@ XBOW&amp;apos;s testing got the same result on workers across different hosts an
     <item>
       <title>Why AI Needs a “Genie Coefficient”</title>
       <link>https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;This essay was written with Barath Raghavan, and originally appeared in &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/ai-agent-benchmark&amp;quot;&amp;gt;The Guardian&amp;lt;/a&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;This essay was written with Barath Raghavan, and originally appeared in &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/ai-agent-benchmark&amp;quot;&amp;gt;IEEE Spectrum&amp;lt;/a&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;There&amp;amp;#8217;s often a gap between one person&amp;amp;#8217;s request and another&amp;amp;#8217;s understanding. Most of the time, we bridge it using general knowledge. For example, if you ask a friend to get you coffee, they&amp;amp;#8217;ll pour a cup from the pot or buy one from a coffee shop. They won&amp;amp;#8217;t bring you a bag of raw beans or snatch a cup from a stranger and hand it to you. You never specified any of this. You never had to...&amp;lt;/p&amp;gt;</description>
       <pubDate>Fri, 24 Jul 2026 11:03:06 +0000</pubDate>
@@ -550,21 +617,6 @@ The selfie for sign-in, per the tech giant, is another option on top of existing
       <guid isPermaLink="true">https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Assaf Keren Appointed New CISO of Meta</title>
-      <link>https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/</link>
-      <description>&amp;lt;p&amp;gt;He replaces Guy Rosen, who announced his retirement from the company after 13 years.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/&amp;quot;&amp;gt;Assaf Keren Appointed New CISO of Meta&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 23 Jul 2026 09:53:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>CISO Strategy</category>
-      <category>Management &amp;amp; Strategy</category>
-      <category>Assaf Keren</category>
-      <category>CISO</category>
-      <category>Meta</category>
     </item>
     <item>
       <title>Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs</title>
@@ -1159,48 +1211,6 @@ That is the claim behind Bit2Watt, described by three Zhejiang University resear
       <pubDate>Tue, 21 Jul 2026 09:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/north-korean-clickfake-campaign/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning</title>
-      <link>https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html</link>
-      <description>Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites.
-
-The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell.
-
-&amp;quot;By the early hours of Saturday morning (UTC), successful exploitation was already well</description>
-      <pubDate>Tue, 21 Jul 2026 14:29:30 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack</title>
-      <link>https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html</link>
-      <description>Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.
-
-The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem.
-
-The entry</description>
-      <pubDate>Tue, 21 Jul 2026 13:04:32 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Best Tools for Securing MCP and LLM Integrations | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-tools-for-securing-mcp-and-llm-integrations</link>
-      <description>Secure your AI infrastructure. Learn how to protect shadow MCP and LLM integrations using the best tools for attack surface discovery and runtime defenses.</description>
-      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-tools-for-securing-mcp-and-llm-integrations</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Threat Intelligence Platforms and Vendors | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-threat-intelligence-platforms-and-vendors</link>
-      <description>Compare the best threat intelligence platforms (TIPs) and vendors of 2026. Learn key features, criteria, and find the perfect tool for your security team.</description>
-      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-threat-intelligence-platforms-and-vendors</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
