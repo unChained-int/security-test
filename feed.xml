@@ -5,9 +5,152 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Jul 2026 08:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:42:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vatican&amp;apos;s Official Prayer App Leaks 700K+ Global Users&amp;apos; PII</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii</link>
+      <description>A porous API endpoint exposes, names, email addresses, location, and site status, all of which can be easily gleaned by anyone with a browser.</description>
+      <pubDate>Fri, 24 Jul 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AegisAI Raises $36 Million for AI-Powered Email Security</title>
+      <link>https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/</link>
+      <description>&amp;lt;p&amp;gt;The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/&amp;quot;&amp;gt;AegisAI Raises $36 Million for AI-Powered Email Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 24 Jul 2026 12:01:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>Email Security</category>
+      <category>AegisAI</category>
+      <category>email security</category>
+      <category>funding</category>
+    </item>
+    <item>
+      <title>Hotel Wi-Fi Routers Compromised to Steal Corporate Login Credentials From Visitors</title>
+      <link>https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/</link>
+      <description>Researchers at ReliaQuest warned of widespread DNS poisoning attacks targeting the hospitality sector as part of a cyber espionage campaign</description>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link</title>
+      <link>https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html</link>
+      <description>Cybersecurity researchers have disclosed a critical vulnerability in OpenAI&amp;apos;s ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim&amp;apos;s organization.
+
+The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,</description>
+      <pubDate>Fri, 24 Jul 2026 17:23:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft&amp;apos;s Servers</title>
+      <link>https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html</link>
+      <description>A crafted SVG submitted to Bing&amp;apos;s image search ran commands as NT AUTHORITY\SYSTEM on Microsoft&amp;apos;s production image-processing workers, and as root on the Linux machines in the same fleet.
+
+XBOW&amp;apos;s testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing&amp;apos;s image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and</description>
+      <pubDate>Fri, 24 Jul 2026 17:15:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do</title>
+      <link>https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html</link>
+      <description>AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we&amp;apos;ve collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we&amp;apos;ve collectively landed is that understanding the intent of</description>
+      <pubDate>Fri, 24 Jul 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday</title>
+      <link>https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/</link>
+      <description>&amp;lt;p&amp;gt;Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/&amp;quot;&amp;gt;Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 24 Jul 2026 11:19:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Feedback Friday</category>
+      <category>Hugging Face</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>ChatGPT Among Top 10 Most Impersonated Brands in Phishing Attacks, Says Check Point</title>
+      <link>https://www.infosecurity-magazine.com/news/chatgpt-most-impersonated-brands/</link>
+      <description>OpenAI’s chatbot tool ChatGPT ranked among the top 10 most impersonated brands in phishing attacks for the first time</description>
+      <pubDate>Fri, 24 Jul 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chatgpt-most-impersonated-brands/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Why AI Needs a “Genie Coefficient”</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;This essay was written with Barath Raghavan, and originally appeared in &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/ai-agent-benchmark&amp;quot;&amp;gt;The Guardian&amp;lt;/a&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;There&amp;amp;#8217;s often a gap between one person&amp;amp;#8217;s request and another&amp;amp;#8217;s understanding. Most of the time, we bridge it using general knowledge. For example, if you ask a friend to get you coffee, they&amp;amp;#8217;ll pour a cup from the pot or buy one from a coffee shop. They won&amp;amp;#8217;t bring you a bag of raw beans or snatch a cup from a stranger and hand it to you. You never specified any of this. You never had to...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 24 Jul 2026 11:03:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry</title>
+      <link>https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html</link>
+      <description>Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand&amp;apos;s Ministry of Finance, which runs the country&amp;apos;s treasury and tax collection.
+
+The agent then worked through the ministry&amp;apos;s network on its own, checking hosts for ways to gain root access, hunting through file systems, and</description>
+      <pubDate>Fri, 24 Jul 2026 15:45:29 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Golden Chickens Resurfaces With Four New Malware Families and Modular Implants</title>
+      <link>https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html</link>
+      <description>The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.
+
+The malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential</description>
+      <pubDate>Fri, 24 Jul 2026 15:39:24 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ransomware Attacks Targeting Universities on the Rise</title>
+      <link>https://www.infosecurity-magazine.com/news/university-ransomware-attacks-rise/</link>
+      <description>Comparitech’s analysis of incidents in the first half of 2026 finds that the emergence of The Gentlemen ransomware has resulted in surge in attacks against higher education</description>
+      <pubDate>Fri, 24 Jul 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/university-ransomware-attacks-rise/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats</title>
+      <link>https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html</link>
+      <description>Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software&amp;apos;s source code.
+
+Every version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2.
+
+The simplest one takes a settings change. A</description>
+      <pubDate>Fri, 24 Jul 2026 13:11:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Europe&amp;apos;s Multilingual Reality Exposes AI Security Gaps</title>
       <link>https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps</link>
@@ -16,6 +159,19 @@
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say</title>
+      <link>https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html</link>
+      <description>Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.
+
+All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution.
+
+Redis 6.2.23, 7.2.15, and 7.4.10</description>
+      <pubDate>Fri, 24 Jul 2026 12:28:27 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks</title>
@@ -41,6 +197,7 @@ The activity has been attributed by the agency to a threat cluster it tracks as 
       <category>Australia</category>
       <category>data breach</category>
       <category>energy</category>
+      <category>Featured</category>
       <category>Origin Energy</category>
       <category>Ransomware</category>
     </item>
@@ -410,22 +567,6 @@ The selfie for sign-in, per the tech giant, is another option on top of existing
       <category>Meta</category>
     </item>
     <item>
-      <title>New Check Point Zero-Day Vulnerability Exploited in the Wild</title>
-      <link>https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/</link>
-      <description>&amp;lt;p&amp;gt;The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/&amp;quot;&amp;gt;New Check Point Zero-Day Vulnerability Exploited in the Wild&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 23 Jul 2026 09:06:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Check Point</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
-    </item>
-    <item>
       <title>Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs</title>
       <link>https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html</link>
       <description>RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.
@@ -465,27 +606,6 @@ The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentica
       <guid isPermaLink="true">https://thehackernews.com/2026/07/check-point-patches-exploited.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices</title>
-      <link>https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/</link>
-      <description>&amp;lt;p&amp;gt;An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/&amp;quot;&amp;gt;US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 23 Jul 2026 05:28:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>alert</category>
-      <category>Featured</category>
-      <category>Government</category>
-      <category>ICS</category>
-      <category>Iran</category>
-      <category>OT</category>
-      <category>PLC</category>
-      <category>Rockwell Automation</category>
-      <category>Schneider Electric</category>
-      <category>Siemens</category>
     </item>
     <item>
       <title>Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain</title>
@@ -1081,118 +1201,6 @@ The entry</description>
       <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/best-threat-intelligence-platforms-and-vendors</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Data leakage risks with DBHub MCP servers | UpGuard</title>
-      <link>https://www.upguard.com/blog/data-leakage-risks-with-dbhub-mcp-servers</link>
-      <description>UpGuard found exposed DBHub servers leaking live databases to the open internet—an early sign that MCP exposure is becoming a systemic data risk.</description>
-      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/data-leakage-risks-with-dbhub-mcp-servers</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Cyber Threat Detection Tools &amp;amp; Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-cyber-threat-detection-tools</link>
-      <description>The best cyber threat detection tools and software in 2026. Learn how to protect your endpoints, logs, and external digital surfaces from a breach.</description>
-      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-cyber-threat-detection-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Vulnerability Management Tools &amp;amp; Software in 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-vendor-vulnerability-tools</link>
-      <description>Discover the best vulnerability management tools on the market and learn which vulnerability detection solution is best for your organization.</description>
-      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-vendor-vulnerability-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Data Breach &amp;amp; Data Leak Detection Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-data-leak-detection-software-solutions</link>
-      <description>Stopping an intrusion is half the battle. This guide ranks the top breach and leak detection tools to neutralize exposed credentials before attackers do.</description>
-      <pubDate>Tue, 21 Jul 2026 06:36:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-data-leak-detection-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution</title>
-      <link>https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html</link>
-      <description>Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.
-
-In a post shared on X, the threat intelligence firm said it&amp;apos;s observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code.
-
-Patches for the flaw were</description>
-      <pubDate>Tue, 21 Jul 2026 11:59:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>&amp;apos;WP2Shell&amp;apos; Opens Millions of WordPress Sites to Remote Takeover</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover</link>
-      <description>Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.</description>
-      <pubDate>Mon, 20 Jul 2026 21:38:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Remediating Vulnerabilities With LLMs: Inside Ivanti&amp;apos;s Automation Push</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation</link>
-      <description>Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.</description>
-      <pubDate>Mon, 20 Jul 2026 20:26:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>25 Years After Code Red: What the Worm Era Can Teach Us About AI Security</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2</link>
-      <description>Marc Maiffret reflects on Code Red&amp;apos;s legacy and the security lessons helping organizations navigate AI risk today.</description>
-      <pubDate>Mon, 20 Jul 2026 19:32:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2</guid>
-      <dc:creator>Marc Maiffret, James Maude, Dennis Fisher</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CISOs Feel the Heat Over AI Risk</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk</link>
-      <description>Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.</description>
-      <pubDate>Mon, 20 Jul 2026 19:07:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Attackers Combo Up Evasion Tactics for BEC Phishing</title>
-      <link>https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing</link>
-      <description>&amp;amp;quot;The TFF Trap&amp;amp;quot; uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.</description>
-      <pubDate>Mon, 20 Jul 2026 18:30:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware</title>
-      <link>https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html</link>
-      <description>Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit.
-
-&amp;quot;FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP</description>
-      <pubDate>Mon, 20 Jul 2026 23:53:03 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign</title>
-      <link>https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html</link>
-      <description>A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV.
-
-What makes it more than a</description>
-      <pubDate>Mon, 20 Jul 2026 22:59:50 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
