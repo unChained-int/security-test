@@ -5,9 +5,72 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:22:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git</title>
+      <link>https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html</link>
+      <description>Security researchers at&amp;amp;nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update.
+
+Any authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap</description>
+      <pubDate>Sat, 25 Jul 2026 15:44:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking</title>
+      <link>https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html</link>
+      <description>For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose.
+
+That model is changing.
+
+Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting</description>
+      <pubDate>Sat, 25 Jul 2026 15:44:21 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE</title>
+      <link>https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html</link>
+      <description>Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign.
+
+&amp;quot;Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling</description>
+      <pubDate>Sat, 25 Jul 2026 15:44:03 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts</title>
+      <link>https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html</link>
+      <description>The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims.
+
+Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis.
+
+&amp;quot;The portal combined build generation, finance,</description>
+      <pubDate>Sat, 25 Jul 2026 15:23:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Rockwell Patches Code Execution Flaws in Arena Simulation Software</title>
+      <link>https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/</link>
+      <description>&amp;lt;p&amp;gt;A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/&amp;quot;&amp;gt;Rockwell Patches Code Execution Flaws in Arena Simulation Software&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 25 Jul 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>Vulnerabilities</category>
+      <category>ICS</category>
+      <category>Rockwell</category>
+      <category>vulnerability</category>
+    </item>
     <item>
       <title>CISOs vs. Boards: Myth or Misunderstanding?</title>
       <link>https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-</link>
@@ -632,21 +695,6 @@ The activity involves malicious Packagist development versions spanning 10 packa
       <category>law enforcement</category>
     </item>
     <item>
-      <title>Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses</title>
-      <link>https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/</link>
-      <description>&amp;lt;p&amp;gt;Hackers recently obtained non-sensitive customer information and other documents from the company.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/&amp;quot;&amp;gt;Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:49:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Fraud &amp;amp; Identity Theft</category>
-      <category>data breach</category>
-      <category>fraud</category>
-      <category>Upbound Group</category>
-    </item>
-    <item>
       <title>New Dolphin X Stealer Employs AI Profiling to Prioritize Targets</title>
       <link>https://www.infosecurity-magazine.com/news/new-dolphin-x-stealer-ai-targets/</link>
       <description>Dolphin X is a new infostealer that uses AI to sort and rank victims, giving cybercriminals a faster way to identify lucrative targets</description>
@@ -1161,44 +1209,6 @@ Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that bega
       <description>Russian-speaking actor Trim built a commercial offensive AI pentest tool on jailbroken Claude models</description>
       <pubDate>Tue, 21 Jul 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trim-jailbroken-claude-ai-pentest/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities</title>
-      <link>https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html</link>
-      <description>Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component.
-
-As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled.
-
-Also patched</description>
-      <pubDate>Tue, 21 Jul 2026 18:48:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Choose Wisely: AI-Generated Coding Risk Varies, a Lot</title>
-      <link>https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies</link>
-      <description>AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.</description>
-      <pubDate>Tue, 21 Jul 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>A New Ransomware Threat Actor Emerges Every Week, Warns Report</title>
-      <link>https://www.infosecurity-magazine.com/news/new-ransomware-weekly/</link>
-      <description>Analysis by Black Kite warns that ransomware ecosystem is becoming bigger and more fragmented</description>
-      <pubDate>Tue, 21 Jul 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-ransomware-weekly/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>FBI Warns of Deepfake Videos Impersonating IC3 Leadership</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-deepfake-videos-ic3/</link>
-      <description>FBI warned of deepfake videos of IC3 leadership directing users to spoofed complaint sites</description>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fbi-deepfake-videos-ic3/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
