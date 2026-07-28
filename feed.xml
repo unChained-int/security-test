@@ -5,9 +5,222 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:03:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach</title>
+      <link>https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</link>
+      <description>JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.
+
+Artifactory is JFrog&amp;apos;s software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud</description>
+      <pubDate>Tue, 28 Jul 2026 19:03:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>OT Security Startup Frenos Raises $1.52 Million</title>
+      <link>https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/</link>
+      <description>&amp;lt;p&amp;gt;The company will use the fresh investment to grow its customer success and AI R&amp;amp;#038;D teams.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/&amp;quot;&amp;gt;OT Security Startup Frenos Raises $1.52 Million&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 13:05:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>ICS/OT</category>
+      <category>Frenos</category>
+      <category>funding</category>
+      <category>ICS</category>
+      <category>OT</category>
+    </item>
+    <item>
+      <title>Phishing Dominates as Initial Entry Method for Cyber-Attacks, as Hackers Hone Evasion Techniques</title>
+      <link>https://www.infosecurity-magazine.com/news/phishing-dominates-initial-entry/</link>
+      <description>Analysis of real-life incident response cases by Cisco Talos warns that phishing remains a powerful method of initial compromise</description>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/phishing-dominates-initial-entry/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root</title>
+      <link>https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html</link>
+      <description>OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.
+
+The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt&amp;apos;s GitHub advisory, lets an unauthenticated attacker able to reach the DHCPv6 server overwrite a stack buffer in odhcpd through a crafted DHCPv6</description>
+      <pubDate>Tue, 28 Jul 2026 18:26:14 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Launches Flurry of AI Security Initiatives to Combat AI-Enabled Threats</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/</link>
+      <description>Microsoft has launched a new agentic security system for cyber defenders as well as its first cyber-focused AI model</description>
+      <pubDate>Tue, 28 Jul 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Former Citigroup CISO Blauner on What Makes A Great Security Leader</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader</link>
+      <description>The cybersecurity pioneer discusses the evolution of the CISO role, AI&amp;apos;s impact on careers, and why operational resilience is the profession&amp;apos;s next frontier.</description>
+      <pubDate>Tue, 28 Jul 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader</guid>
+      <dc:creator>Kristina Beek</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays</title>
+      <link>https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html</link>
+      <description>The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia.
+
+The intrusions involve the use of a previously undocumented Windows backdoor called NightLedger and two custom WebSocket tunnelers,</description>
+      <pubDate>Tue, 28 Jul 2026 17:25:20 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model</title>
+      <link>https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/</link>
+      <description>&amp;lt;p&amp;gt;The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/&amp;quot;&amp;gt;Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:11:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>AI model</category>
+      <category>Featured</category>
+      <category>MAI-Cyber-1-Flash</category>
+      <category>Microsoft</category>
+    </item>
+    <item>
+      <title>Axon Is Another License Plate Surveillance Company</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html</link>
+      <description>&amp;lt;p&amp;gt;Governments are switching, but I&amp;amp;#8217;m not sure it &amp;lt;a href=&amp;quot;https://www.jalopnik.com/2215173/flock-cameras-replaced-by-axon-difference/&amp;quot;&amp;gt;makes a difference&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&amp;amp;#8217;re only switching from Flock to another brand of license-plate readers, like Axon, it&amp;amp;#8217;s like a gambling addict trying to kick the habit by switching from FanDuel to DraftKings.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Despite what you may read on the Flock website, Axon cameras are pretty effective when it comes to hoovering up personal details that can go far beyond your license plate numbers. That means a municipality that opts for Axon cameras instead of Flock units won&amp;amp;#8217;t necessarily reduce the amount privacy its citizens lose through their use...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:06:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>cars</category>
+      <category>law enforcement</category>
+      <category>privacy</category>
+      <category>surveillance</category>
+    </item>
+    <item>
+      <title>Coca-Cola Reveals Subsidiary Fairlife Suffered Data Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/coca-cola-subsidiary-fairlife-data/</link>
+      <description>Coca Cola claims data was stolen from its Fairlife business after a recent ransomware attack</description>
+      <pubDate>Tue, 28 Jul 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/coca-cola-subsidiary-fairlife-data/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker</title>
+      <link>https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/</link>
+      <description>&amp;lt;p&amp;gt;Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/&amp;quot;&amp;gt;Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Hacker Conversations</category>
+      <category>hacker</category>
+    </item>
+    <item>
+      <title>Act Security Emerges from Stealth to Fight the Patch Problem</title>
+      <link>https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/</link>
+      <description>&amp;lt;p&amp;gt;Act Security tackles the spiraling patch problem caused by AI’s ability to find new vulnerabilities in existing cloud environments. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/&amp;quot;&amp;gt;Act Security Emerges from Stealth to Fight the Patch Problem&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Funding/M&amp;amp;A</category>
+      <category>Vulnerabilities</category>
+      <category>funding</category>
+      <category>Patch</category>
+    </item>
+    <item>
+      <title>Hush Security Raises $30 Million for AI Agent Governance</title>
+      <link>https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/</link>
+      <description>&amp;lt;p&amp;gt;The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/&amp;quot;&amp;gt;Hush Security Raises $30 Million for AI Agent Governance&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:17:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity Funding</category>
+      <category>AI</category>
+      <category>funding</category>
+      <category>Hush Security</category>
+    </item>
+    <item>
+      <title>NVIDIA’s Open Secure AI Alliance Is Missing Some Big Names</title>
+      <link>https://www.infosecurity-magazine.com/news/nvidia-open-security-ai-alliance/</link>
+      <description>NVIDIA has launched a new Open Secure AI Alliance to build an “open defense stack for agents”</description>
+      <pubDate>Tue, 28 Jul 2026 09:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nvidia-open-security-ai-alliance/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New CREST AI Standards to Deliver AI-Enabled Pentesting Accreditation</title>
+      <link>https://www.infosecurity-magazine.com/news/crest-ai-pentesting-accreditation/</link>
+      <description>CREST’s new AI standards are optional add-on requirements for cybersecurity service providers wishing to demonstrate responsible AI usage</description>
+      <pubDate>Tue, 28 Jul 2026 08:57:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/crest-ai-pentesting-accreditation/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Adopts New Threat Actor Naming System</title>
+      <link>https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/</link>
+      <description>&amp;lt;p&amp;gt;The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/&amp;quot;&amp;gt;Google Adopts New Threat Actor Naming System&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 08:42:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>google</category>
+      <category>naming</category>
+    </item>
+    <item>
+      <title>Biggest Data Breaches in US History (Updated July 2026) | UpGuard</title>
+      <link>https://www.upguard.com/blog/biggest-data-breaches-us</link>
+      <description>Discover the biggest data breaches ever to occur in US history.</description>
+      <pubDate>Tue, 28 Jul 2026 08:32:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-us</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In</title>
+      <link>https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html</link>
+      <description>JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.
+
+The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions. It has been addressed in versions 2025.11.7 and 2026.1.3. TeamCity Cloud instances have already</description>
+      <pubDate>Tue, 28 Jul 2026 13:41:22 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit</title>
+      <link>https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html</link>
+      <description>STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel&amp;apos;s network traffic-control subsystem.Researcher Lee Jia Jie said artificial intelligence (AI) helped him find the bug and speed up exploit development. This is local</description>
+      <pubDate>Tue, 28 Jul 2026 13:34:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Unpatched Fastjson Vulnerability Exploited in Attacks</title>
       <link>https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/</link>
@@ -23,14 +236,6 @@
       <category>JSON</category>
     </item>
     <item>
-      <title>Biggest Data Breaches in US History (Updated July 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches-us</link>
-      <description>Discover the biggest data breaches ever to occur in US history.</description>
-      <pubDate>Tue, 28 Jul 2026 07:04:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-us</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day</title>
       <link>https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/</link>
       <description>&amp;lt;p&amp;gt;Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality.&amp;lt;/p&amp;gt;
@@ -42,11 +247,12 @@
       <category>Vulnerabilities</category>
       <category>Arista</category>
       <category>exploited</category>
+      <category>Featured</category>
       <category>vulnerability</category>
       <category>Zero-Day</category>
     </item>
     <item>
-      <title>Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost</title>
+      <title>Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost</title>
       <link>https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html</link>
       <description>Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.
 
@@ -104,6 +310,15 @@ The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of op
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Agentic Browsers Rewind Web Security by 20 years</title>
+      <link>https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years</link>
+      <description>PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.</description>
+      <pubDate>Mon, 27 Jul 2026 21:39:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years</guid>
+      <dc:creator>Ericka Chickowski</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>&amp;apos;Confused Deputy&amp;apos; Flaws Persist in Google Cloud, Microsoft Azure</title>
       <link>https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure</link>
       <description>This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers&amp;apos; access controls.</description>
@@ -119,6 +334,15 @@ The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of op
       <pubDate>Mon, 27 Jul 2026 20:33:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Why Resetting Passwords No Longer Stops Attackers</title>
+      <link>https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks</link>
+      <description>As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.</description>
+      <pubDate>Mon, 27 Jul 2026 18:39:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -187,21 +411,6 @@ SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, 
       <guid isPermaLink="true">https://thehackernews.com/2026/07/public-exploit-released-for-patched.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New GitHub, PyPI Policies Boost Supply Chain Security</title>
-      <link>https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/</link>
-      <description>&amp;lt;p&amp;gt;Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/&amp;quot;&amp;gt;New GitHub, PyPI Policies Boost Supply Chain Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 27 Jul 2026 14:26:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Application Security</category>
-      <category>Supply Chain Security</category>
-      <category>GitHub</category>
-      <category>PyPI</category>
-      <category>Supply Chain</category>
     </item>
     <item>
       <title>Origin Energy Data Breach Exposes Customer and Partial Card Details</title>
@@ -277,21 +486,6 @@ OpenAI Says Its AI Agent Went Rogue</description>
       <category>Artificial Intelligence (AI)</category>
     </item>
     <item>
-      <title>PTC Windchill Vulnerability Exploited in Ransomware Campaign</title>
-      <link>https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/</link>
-      <description>&amp;lt;p&amp;gt;The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/&amp;quot;&amp;gt;PTC Windchill Vulnerability Exploited in Ransomware Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 27 Jul 2026 13:19:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Ransomware</category>
-      <category>Vulnerabilities</category>
-      <category>Cl0p</category>
-      <category>exploited</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process</title>
       <link>https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html</link>
       <description>n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n&amp;apos;s February fix for CVE-2026-27577 for another bypass.
@@ -301,18 +495,6 @@ The affected ranges are &amp;amp;lt;2.31.5 and &amp;amp;gt;=2.32.0,&amp;amp;lt;2
       <guid isPermaLink="true">https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection</title>
-      <link>https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/</link>
-      <description>&amp;lt;p&amp;gt;The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/&amp;quot;&amp;gt;MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>malware</category>
     </item>
     <item>
       <title>Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update</title>
@@ -326,58 +508,12 @@ The affected ranges are &amp;amp;lt;2.31.5 and &amp;amp;gt;=2.32.0,&amp;amp;lt;2
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Nvidia and Tech Giants Launch AI Security Alliance</title>
-      <link>https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/</link>
-      <description>&amp;lt;p&amp;gt;The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/&amp;quot;&amp;gt;Nvidia and Tech Giants Launch AI Security Alliance&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 27 Jul 2026 12:25:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>AI security</category>
-      <category>alliance</category>
-      <category>Featured</category>
-      <category>NVIDIA</category>
-    </item>
-    <item>
       <title>SourTrade Malvertising Campaign Secretly Builds Malware in the Browser</title>
       <link>https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/</link>
       <description>Impersonating well-known cryptocurrency and trading sites, SourTrade has developed a novel technique to drop infostealers to victims</description>
       <pubDate>Mon, 27 Jul 2026 11:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack</title>
-      <link>https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/</link>
-      <description>&amp;lt;p&amp;gt;The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/&amp;quot;&amp;gt;Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:29:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Ransomware</category>
-      <category>Anubis</category>
-      <category>Coca-Cola</category>
-      <category>data breach</category>
-      <category>Fairlife</category>
-      <category>Featured</category>
-    </item>
-    <item>
-      <title>Beelzebub Raises $3.4 Million for Hacker-Trapping Platform</title>
-      <link>https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/</link>
-      <description>&amp;lt;p&amp;gt;The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/&amp;quot;&amp;gt;Beelzebub Raises $3.4 Million for Hacker-Trapping Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:06:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybersecurity Funding</category>
-      <category>Beelzebub</category>
-      <category>funding</category>
     </item>
     <item>
       <title>Cognyte Sells a Mobile Cell Surveillance Van</title>
@@ -1055,167 +1191,6 @@ The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentica
       <guid isPermaLink="true">https://thehackernews.com/2026/07/check-point-patches-exploited.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain</link>
-      <description>A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.</description>
-      <pubDate>Thu, 23 Jul 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Ransomware Incident Response Checklist | UpGuard</title>
-      <link>https://www.upguard.com/blog/ransomware-incident-response-checklist</link>
-      <description>Navigate modern ransomware and double extortion with this 5-phase incident response checklist based on NIST guidelines. Contain, recover, and harden today.</description>
-      <pubDate>Thu, 23 Jul 2026 00:12:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ransomware-incident-response-checklist</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Oracle Just Shipped 1,449 Security Patches in One Quarter. We Checked How Much of It Is Actually New. | UpGuard</title>
-      <link>https://www.upguard.com/blog/oracle-just-shipped-1-449-security-patches-in-one-quarter-we-checked-how-much-of-it-is-actually-new</link>
-      <description>Oracle&amp;apos;s July 2026 update shipped 1,449 security patches — 2.8x its all-time record. We parsed 23 quarters of advisories to find out how much is truly new.</description>
-      <pubDate>Thu, 23 Jul 2026 00:12:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/oracle-just-shipped-1-449-security-patches-in-one-quarter-we-checked-how-much-of-it-is-actually-new</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Flaws in Passkey Implementation Show Old Attacks Still Work</title>
-      <link>https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work</link>
-      <description>Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.</description>
-      <pubDate>Wed, 22 Jul 2026 23:50:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Attackers Are Learning to Live Off the AI Toolchain</title>
-      <link>https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain</link>
-      <description>Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.</description>
-      <pubDate>Wed, 22 Jul 2026 21:29:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fake Bahrain Alert App Deploys Android Surveillance Malware</title>
-      <link>https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware</link>
-      <description>A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.</description>
-      <pubDate>Wed, 22 Jul 2026 19:42:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Third-Party SDKs Raise Privacy Questions for Apps Marketed to U.S. Military</title>
-      <link>https://www.techrepublic.com/article/news-android-sdk-supply-chain-privacy-military-apps/</link>
-      <description>&amp;lt;p&amp;gt;Researchers found Chinese and Russian SDKs in Android apps marketed to U.S. military users, highlighting software supply chain and enterprise privacy risks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-android-sdk-supply-chain-privacy-military-apps/&amp;quot;&amp;gt;Third-Party SDKs Raise Privacy Questions for Apps Marketed to U.S. Military&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Jul 2026 18:54:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-android-sdk-supply-chain-privacy-military-apps/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Cybersecurity</category>
-      <category>International</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>Tech Industry</category>
-      <category>android</category>
-      <category>china</category>
-      <category>enterprise security</category>
-      <category>military</category>
-      <category>mobile security</category>
-      <category>russia</category>
-      <category>sdk</category>
-      <category>software supply chain</category>
-    </item>
-    <item>
-      <title>GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier</title>
-      <link>https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html</link>
-      <description>Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more.
-
-Reports filed before that date, including those already in GitHub&amp;apos;s growing triage queue, will retain the previous payout terms.
-
-GitHub said the</description>
-      <pubDate>Thu, 23 Jul 2026 00:07:42 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs</title>
-      <link>https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment.
-
-The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as</description>
-      <pubDate>Wed, 22 Jul 2026 23:37:16 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>If you pay a hacker’s ransom, chances are that they’ll come back for more</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/if-you-pay-hackers-ransom-chances-are-theyll-come-back-more</link>
-      <description/>
-      <pubDate>Wed, 22 Jul 2026 16:14:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/if-you-pay-hackers-ransom-chances-are-theyll-come-back-more</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>When AI Attacks: OpenAI Models Autonomously Hack Hugging Face</title>
-      <link>https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face</link>
-      <description>Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.</description>
-      <pubDate>Wed, 22 Jul 2026 15:53:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New Data Shows Suno Breach Affected 55M Accounts</title>
-      <link>https://www.techrepublic.com/article/news-suno-breach-affected-55-million-users/</link>
-      <description>&amp;lt;p&amp;gt;New data shows 55.3 million Suno accounts were affected in a breach exposing contact details, purchases, and partial payment card information.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-suno-breach-affected-55-million-users/&amp;quot;&amp;gt;New Data Shows Suno Breach Affected 55M Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 22 Jul 2026 15:53:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-suno-breach-affected-55-million-users/</guid>
-      <dc:creator>Kezia Jungco</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Data</category>
-      <category>Data Security</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>AI music</category>
-      <category>cybersecurity</category>
-      <category>data breach</category>
-      <category>data privacy</category>
-      <category>Have I Been Pwned</category>
-      <category>phishing</category>
-      <category>stripe</category>
-      <category>suno</category>
-    </item>
-    <item>
-      <title>Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data</title>
-      <link>https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html</link>
-      <description>Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user&amp;apos;s WhatsApp data.
-
-The shortcoming has been codenamed HermeticReader by Guardio Labs. It&amp;apos;s officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability</description>
-      <pubDate>Wed, 22 Jul 2026 20:31:21 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TrickBot Ditches HTTP for DNS Tunneling in Latest Variant</title>
-      <link>https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/</link>
-      <description>New TrickBot variant hides C2 communication inside DNS queries, replacing decade-old HTTP pattern</description>
-      <pubDate>Wed, 22 Jul 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
