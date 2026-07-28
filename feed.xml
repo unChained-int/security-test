@@ -5,9 +5,119 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Jul 2026 14:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 19:21:20 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack</title>
+      <link>https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</link>
+      <description>Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.
+
+The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic&amp;apos;s released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server</description>
+      <pubDate>Wed, 29 Jul 2026 00:29:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>&amp;apos;Certighost&amp;apos; Flaw Haunts Microsoft Active Directory Certificates</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates</link>
+      <description>Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.</description>
+      <pubDate>Tue, 28 Jul 2026 16:38:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Bugs in Hugging Face Diffusers Bypass Custom Code Safeguard</title>
+      <link>https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/</link>
+      <description>Three CVEs in Hugging Face diffusers let a malicious model repo run code on any machine that loads it</description>
+      <pubDate>Tue, 28 Jul 2026 15:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process</title>
+      <link>https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</link>
+      <description>A new Mirai-derived botnet called Tengu can use a compromised Linux device&amp;apos;s hardware watchdog to trigger a reboot when defenders kill its main process.
+
+If that happens, Tengu&amp;apos;s other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force.
+
+Tengu supports 25 distributed denial-of-service (</description>
+      <pubDate>Tue, 28 Jul 2026 20:31:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cyera Acquiring Oasis Security in $1 Billion Deal</title>
+      <link>https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/</link>
+      <description>&amp;lt;p&amp;gt;Oasis Security recently raised $120 million in Series B funding for its agentic access management platform.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/&amp;quot;&amp;gt;Cyera Acquiring Oasis Security in $1 Billion Deal&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 14:55:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Protection</category>
+      <category>Identity &amp;amp; Access</category>
+      <category>M&amp;amp;A Tracker</category>
+      <category>Acquisition</category>
+      <category>Cyera</category>
+      <category>Data Security</category>
+      <category>M&amp;amp;A</category>
+      <category>Oasis Security</category>
+    </item>
+    <item>
+      <title>2026 Europe Community Meeting Agenda Highlights</title>
+      <link>https://blog.pcisecuritystandards.org/2026-europe-community-meeting-agenda-highlights</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/2026-europe-community-meeting-agenda-highlights&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;2026 Europe Community Meeting Agenda Highlights&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/EUCM_2026_Agenda_HL_Blog.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;The upcoming &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.pcisscevents.org/event/2026-edinburgh/summary&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;PCI SSC Europe Community Meeting&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; in Edinburgh, Scotland, 20 - 22 October has a &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.pcisscevents.org/event/2026-edinburgh/agenda&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;full agenda&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; packed with &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.pcisscevents.org/event/2026-edinburgh/speakers&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;exciting speakers&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;, engaging keynotes, networking opportunities, updates on industry trends, and insights and strategies on best practices.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 14:50:43 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/2026-europe-community-meeting-agenda-highlights</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Events</category>
+      <category>Community Meetings</category>
+      <category>Participation</category>
+    </item>
+    <item>
+      <title>AI-Assisted Bug Hunt Uncovers Linux Kernel 0-Day in net/sched</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/</link>
+      <description>AI-assisted research uncovered Linux kernel use-after-free allowing root escalation</description>
+      <pubDate>Tue, 28 Jul 2026 14:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login</title>
+      <link>https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html</link>
+      <description>Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.
+
+Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to</description>
+      <pubDate>Tue, 28 Jul 2026 20:11:36 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe</title>
+      <link>https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/</link>
+      <description>&amp;lt;p&amp;gt;Apple announced that dozens of vulnerabilities have been patched in each of its operating systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/&amp;quot;&amp;gt;Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 14:19:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Endpoint Security</category>
+      <category>Vulnerabilities</category>
+      <category>Apple</category>
+      <category>Featured</category>
+      <category>patches</category>
+      <category>vulnerability</category>
+    </item>
     <item>
       <title>JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach</title>
       <link>https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</link>
@@ -263,20 +373,6 @@ The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on Cy
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Origin Energy Data Breach Affects 900,000 Australians</title>
-      <link>https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/</link>
-      <description>&amp;lt;p&amp;gt;The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/&amp;quot;&amp;gt;Origin Energy Data Breach Affects 900,000 Australians&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 28 Jul 2026 05:01:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>energy</category>
-      <category>Origin Energy</category>
-    </item>
-    <item>
       <title>Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw</title>
       <link>https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html</link>
       <description>A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild.
@@ -288,17 +384,6 @@ The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of op
       <guid isPermaLink="true">https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup</title>
-      <link>https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/</link>
-      <description>&amp;lt;p&amp;gt;Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/&amp;quot;&amp;gt;For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 28 Jul 2026 02:28:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
     </item>
     <item>
       <title>AI Agent Drives Espionage Attack on Thai Ministry of Finance</title>
@@ -1114,83 +1199,6 @@ The activity involves malicious Packagist development versions spanning 10 packa
       <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing</guid>
       <dc:creator>Agam Shah</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>End-to-End Encryption and “Going Dark”</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html</link>
-      <description>&amp;lt;p&amp;gt;New paper: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699&amp;quot;&amp;gt;Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the &amp;amp;#8216;Going Dark&amp;amp;#8217; Debate&amp;lt;/a&amp;gt;&amp;amp;#8220;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract&amp;lt;/b&amp;gt;: This Article updates and expands on 2012 research on encryption and globalization, analyzing what the authors call &amp;amp;#8220;Round 3&amp;amp;#8221; of the Going Dark Debate: the current controversies over end-to-end encryption (E2EE). Governments around the world have proposed, and in some cases enacted, laws limiting E2EE for law enforcement and national security purposes.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;This Article explains the underlying technologies and market developments for a law and policy audience to assess those proposals critically. The Article proceeds in three parts tracking three rounds of the Going Dark Debate. Round 1 covers the Crypto Wars of the 1990s, when U.S. export controls on strong encryption ultimately fell in 1999. Round 2 covers the period roughly 2010 to 2015, when encryption-in-transit became widespread but lawful access remained available through cloud providers, giving rise to what the authors called a &amp;amp;#8220;golden age of surveillance&amp;amp;#8221; rather than a period of going dark. Round 3 addresses the current debate over E2EE, where no entity between sender and recipient can read the plaintext...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:03:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>backdoors</category>
-      <category>crypto wars</category>
-      <category>encryption</category>
-      <category>law enforcement</category>
-    </item>
-    <item>
-      <title>New Dolphin X Stealer Employs AI Profiling to Prioritize Targets</title>
-      <link>https://www.infosecurity-magazine.com/news/new-dolphin-x-stealer-ai-targets/</link>
-      <description>Dolphin X is a new infostealer that uses AI to sort and rank victims, giving cybercriminals a faster way to identify lucrative targets</description>
-      <pubDate>Thu, 23 Jul 2026 10:19:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-dolphin-x-stealer-ai-targets/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts</title>
-      <link>https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html</link>
-      <description>Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.
-
-The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log in to an account, including an email address or a phone number. The idea is to use a video selfie as a way to regain access if a user ever gets locked out or doesn&amp;apos;t have access</description>
-      <pubDate>Thu, 23 Jul 2026 15:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs</title>
-      <link>https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html</link>
-      <description>RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.
-
-Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation.
-
-The company demonstrated the race against</description>
-      <pubDate>Thu, 23 Jul 2026 13:34:35 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Two-Thirds of Ransomware Victims Say AI Boosted Attack Effectiveness</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-boosts-ransomware-effectiveness/</link>
-      <description>A new study of organizations which have fallen victim to ransomware suggests the rise of AI-tools being used by hackers is making life harder for defenders</description>
-      <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-boosts-ransomware-effectiveness/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Brazilian Banking Trojan Actively Spreading in Portugal</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal</link>
-      <description>Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.</description>
-      <pubDate>Thu, 23 Jul 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access</title>
-      <link>https://thehackernews.com/2026/07/check-point-patches-exploited.html</link>
-      <description>Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild.
-
-The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an</description>
-      <pubDate>Thu, 23 Jul 2026 12:04:36 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/check-point-patches-exploited.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
