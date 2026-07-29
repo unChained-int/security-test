@@ -5,9 +5,62 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Jul 2026 19:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 02:31:15 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Measuring LLMs’ Ability to Perform Cryptanalysis</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html</link>
+      <description>&amp;lt;p&amp;gt;There&amp;amp;#8217;s new benchmark measuring AI&amp;amp;#8217;s ability to perform mathematical cryptanalysis. Anthropic&amp;amp;#8217;s frontier model actually found new attacks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The benchmark: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/pdf/2607.18538&amp;quot;&amp;gt;CryptanalysisBench: Can LLMs do Cryptanalysis?&amp;lt;/a&amp;gt;&amp;amp;#8221; The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Cryptanalysis&amp;amp;#8212;the task of finding attacks against cryptographic schemes&amp;amp;#8212;its at the intersection of mathematical reasoning and cybersecurity, two areas where LLMs have advanced fastest. Cryptanalysis represents both a clean testbed for frontier reasoning (as practical attacks can be automatically verified) and a domain with unusually high stakes, since the primitives under study underpin our digital security. In this paper we ask whether LLMs can do cryptanalysis, and find that the answer is increasingly yes. We introduce CryptanalysisBench, 191 tasks across six families of cryptographic primitives (block ciphers, hash functions, etc.) drawn primarily from four NIST standardization competitions. Our benchmark consists of three tiers: (i) primitives with known practical breaks; (ii) primitives with no known practical break, evaluated both at full strength and as scaled-down variants; and (iii) a challenge set of production primitives at the frontier of cryptanalysis. Five frontier models (Claude Opus 4.8, Sonnet 5, Mythos 5, GPT-5.5, and the open-weights GLM-5.2) break 65%­86% of Tier 1 schemes, 6­12 Tier-2 schemes at full strength, and 24­61 across all scaled-down variants. Beyond deriving known results, models produce novel cryptanalysis, such as a key-recovery attack that exploits a design flaw in the SpoC AEAD and an error in KINDI’s published CCA-security proof, both to the best of our knowledge not previously known...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 29 Jul 2026 01:47:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>cryptanalysis</category>
+      <category>cybersecurity</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>Ghost Credentials Expose Cloud Systems to Hidden Identity Risks</title>
+      <link>https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path</link>
+      <description>Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.</description>
+      <pubDate>Tue, 28 Jul 2026 21:33:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Thousands of Data Center Controllers Open to Takeover</title>
+      <link>https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover</link>
+      <description>A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.</description>
+      <pubDate>Tue, 28 Jul 2026 21:07:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>When AI Agents Escape Sandboxes, Old Security Rules Apply</title>
+      <link>https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply</link>
+      <description>OpenAI&amp;apos;s recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.</description>
+      <pubDate>Tue, 28 Jul 2026 20:27:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Stronger AI Safety Requires Peeking Inside the &amp;apos;Black Box&amp;apos;</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box</link>
+      <description>Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.</description>
+      <pubDate>Tue, 28 Jul 2026 20:05:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack</title>
       <link>https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</link>
@@ -20,6 +73,55 @@ The HAWK attack exploits a previously unused symmetry in the lattice behind the 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Cursor Quietly Patches High-Severity Git Vulnerability After Seven-Month Delay</title>
+      <link>https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/</link>
+      <description>&amp;lt;p&amp;gt;Cursor has patched a high-severity Windows vulnerability that allowed malicious Git repositories to execute code, highlighting security risks in AI coding environments.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/&amp;quot;&amp;gt;Cursor Quietly Patches High-Severity Git Vulnerability After Seven-Month Delay&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 17:15:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>Tech Industry</category>
+      <category>Windows</category>
+      <category>ai coding</category>
+      <category>cursor</category>
+      <category>developer security</category>
+      <category>git</category>
+      <category>software supply chain</category>
+      <category>windows</category>
+      <category>windows developer</category>
+    </item>
+    <item>
+      <title>Coca-Cola Confirms Data Theft as Fairlife Ransomware Attack Escalates</title>
+      <link>https://www.techrepublic.com/article/news-coca-cola-confirms-data-theft-fairlife-ransomware/</link>
+      <description>&amp;lt;p&amp;gt;Coca-Cola has confirmed data was stolen in the ransomware attack on Fairlife after the Anubis gang published allegedly stolen files, escalating the incident.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-coca-cola-confirms-data-theft-fairlife-ransomware/&amp;quot;&amp;gt;Coca-Cola Confirms Data Theft as Fairlife Ransomware Attack Escalates&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 16:50:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-coca-cola-confirms-data-theft-fairlife-ransomware/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Enterprises</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>anubis ransomware</category>
+      <category>coca-cola</category>
+      <category>data breach</category>
+      <category>data theft</category>
+      <category>enterprise security</category>
+      <category>fairlife</category>
+      <category>ransomware</category>
+      <category>sec filing</category>
+      <category>stolen files</category>
+    </item>
+    <item>
       <title>&amp;apos;Certighost&amp;apos; Flaw Haunts Microsoft Active Directory Certificates</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates</link>
       <description>Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.</description>
@@ -27,6 +129,54 @@ The HAWK attack exploits a previously unused symmetry in the lattice behind the 
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical TeamCity Flaw Could Let Unauthenticated Attackers Execute Server Commands</title>
+      <link>https://www.techrepublic.com/article/news-critical-teamcity-rce-flaw/</link>
+      <description>&amp;lt;p&amp;gt;JetBrains has patched CVE-2026-63077, a critical TeamCity flaw that could let unauthenticated attackers execute server commands and compromise connected CI/CD pipelines.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-critical-teamcity-rce-flaw/&amp;quot;&amp;gt;Critical TeamCity Flaw Could Let Unauthenticated Attackers Execute Server Commands&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 16:08:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-critical-teamcity-rce-flaw/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>DevOps</category>
+      <category>Enterprise Software</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>CI/CD security</category>
+      <category>CVE-2026-63077</category>
+      <category>devops security</category>
+      <category>JetBrains</category>
+      <category>remote code execution</category>
+      <category>software supply chain</category>
+      <category>TeamCity</category>
+      <category>vulnerability management</category>
+    </item>
+    <item>
+      <title>Meta Faces Scrutiny After Report Finds Thousands of AI Nudify Ads on Facebook, Instagram</title>
+      <link>https://www.techrepublic.com/article/news-meta-nudify-ai-ads-facebook-instagram-ttp/</link>
+      <description>&amp;lt;p&amp;gt;Meta is under renewed scrutiny after researchers found thousands of AI &amp;quot;nudify&amp;quot; ads on Facebook and Instagram, raising questions about the company&amp;apos;s advertising enforcement.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-meta-nudify-ai-ads-facebook-instagram-ttp/&amp;quot;&amp;gt;Meta Faces Scrutiny After Report Finds Thousands of AI Nudify Ads on Facebook, Instagram&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 15:31:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-meta-nudify-ai-ads-facebook-instagram-ttp/</guid>
+      <dc:creator>David Curry</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Meta</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Social Media</category>
+      <category>Tech Industry</category>
+      <category>ai</category>
+      <category>ai regulation</category>
+      <category>ai safety</category>
+      <category>facebook</category>
+      <category>generative ai</category>
+      <category>instagram</category>
+      <category>meta</category>
+      <category>online advertising</category>
+      <category>tech transparency project</category>
     </item>
     <item>
       <title>Bugs in Hugging Face Diffusers Bypass Custom Code Safeguard</title>
@@ -119,6 +269,31 @@ Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650
       <category>vulnerability</category>
     </item>
     <item>
+      <title>Claude Shared Chats Appeared in Google Search, Exposing Sensitive Data</title>
+      <link>https://www.techrepublic.com/article/news-claude-shared-chats-google-search/</link>
+      <description>&amp;lt;p&amp;gt;Claude shared chats containing medical, corporate, and credential data appeared in Google Search, raising new questions about public AI links.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-claude-shared-chats-google-search/&amp;quot;&amp;gt;Claude Shared Chats Appeared in Google Search, Exposing Sensitive Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 14:08:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-claude-shared-chats-google-search/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Claude</category>
+      <category>Cybersecurity</category>
+      <category>Data Privacy</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>ai chatbots</category>
+      <category>anthropic</category>
+      <category>artificial intelligence</category>
+      <category>claude</category>
+      <category>cybersecurity</category>
+      <category>data privacy</category>
+      <category>google search</category>
+      <category>shared links</category>
+    </item>
+    <item>
       <title>JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach</title>
       <link>https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</link>
       <description>JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.
@@ -128,6 +303,29 @@ Artifactory is JFrog&amp;apos;s software repository manager. OpenAI says the mod
       <guid isPermaLink="true">https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Silicon Valley Splits Over Chinese AI as Washington Weighs New Controls</title>
+      <link>https://www.techrepublic.com/article/news-silicon-valley-chinese-ai-debate/</link>
+      <description>&amp;lt;p&amp;gt;US technology companies are resisting broad controls on Chinese AI models while enterprise teams weigh lower costs against security and governance concerns.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-silicon-valley-chinese-ai-debate/&amp;quot;&amp;gt;Silicon Valley Splits Over Chinese AI as Washington Weighs New Controls&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 13:08:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-silicon-valley-chinese-ai-debate/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI Governance &amp;amp; Policy</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Tech Regulation</category>
+      <category>AI governance</category>
+      <category>ai regulation</category>
+      <category>anthropic</category>
+      <category>chinese ai</category>
+      <category>deepseek</category>
+      <category>enterprise ai</category>
+      <category>model security</category>
+      <category>open-weight AI</category>
     </item>
     <item>
       <title>OT Security Startup Frenos Raises $1.52 Million</title>
@@ -260,6 +458,54 @@ The intrusions involve the use of a previously undocumented Windows backdoor cal
       <category>Patch</category>
     </item>
     <item>
+      <title>AI Agents, Foldables, Cyberattacks, and Chip Deals Reshape Tech</title>
+      <link>https://www.techrepublic.com/article/ai-agents-foldables-cyberattacks-and-chip-deals-reshape-tech/</link>
+      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from July 20–24.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ai-agents-foldables-cyberattacks-and-chip-deals-reshape-tech/&amp;quot;&amp;gt;AI Agents, Foldables, Cyberattacks, and Chip Deals Reshape Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:48:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/ai-agents-foldables-cyberattacks-and-chip-deals-reshape-tech/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI</category>
+      <category>ai infrastructure</category>
+      <category>Amazon</category>
+      <category>Anthropic</category>
+      <category>Apple</category>
+      <category>Cybersecurity</category>
+      <category>Data Security</category>
+      <category>Enterprise Technology</category>
+      <category>Google</category>
+      <category>Hardware</category>
+      <category>Meta</category>
+      <category>NVIDIA</category>
+      <category>OpenAI</category>
+      <category>Privacy</category>
+      <category>Robotics</category>
+      <category>Samsung</category>
+      <category>Smartphones</category>
+      <category>Tech Industry</category>
+      <category>Weekly Roundup</category>
+      <category>adobe news</category>
+      <category>amazon aws</category>
+      <category>amd</category>
+      <category>apple news</category>
+      <category>Daily Tech Insider</category>
+      <category>data breach</category>
+      <category>gemini ai</category>
+      <category>gemini news</category>
+      <category>hide my email</category>
+      <category>kimi k3</category>
+      <category>meta news</category>
+      <category>Netflix</category>
+      <category>Newsletter Roundup</category>
+      <category>openai news</category>
+      <category>Reddit</category>
+      <category>samsung galaxy</category>
+      <category>samsung news</category>
+      <category>suno</category>
+      <category>tsmc</category>
+    </item>
+    <item>
       <title>Hush Security Raises $30 Million for AI Agent Governance</title>
       <link>https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/</link>
       <description>&amp;lt;p&amp;gt;The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships.&amp;lt;/p&amp;gt;
@@ -281,6 +527,29 @@ The intrusions involve the use of a previously undocumented Windows backdoor cal
       <pubDate>Tue, 28 Jul 2026 09:40:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nvidia-open-security-ai-alliance/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ChatGPT Joins Most Faked Brands Ranking in Phishing, Check Point Says</title>
+      <link>https://www.techrepublic.com/article/news-chatgpt-top-10-phishing-brand-ranking/</link>
+      <description>&amp;lt;p&amp;gt;ChatGPT entered Check Point’s top 10 phishing brand ranking as fake ChatGPT Plus payment failure emails targeted users’ credit card details.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-chatgpt-top-10-phishing-brand-ranking/&amp;quot;&amp;gt;ChatGPT Joins Most Faked Brands Ranking in Phishing, Check Point Says&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 28 Jul 2026 09:38:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-chatgpt-top-10-phishing-brand-ranking/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>ChatGPT</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>artificial intelligence</category>
+      <category>brand phishing</category>
+      <category>chatgpt</category>
+      <category>check point</category>
+      <category>cybersecurity</category>
+      <category>online scams</category>
+      <category>openai</category>
+      <category>phishing</category>
     </item>
     <item>
       <title>New CREST AI Standards to Deliver AI-Enabled Pentesting Accreditation</title>
@@ -395,7 +664,7 @@ The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of op
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Agentic Browsers Rewind Web Security by 20 years</title>
+      <title>Agentic Browsers Rewind Web Security by 20 Years</title>
       <link>https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years</link>
       <description>PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.</description>
       <pubDate>Mon, 27 Jul 2026 21:39:09 +0000</pubDate>
@@ -1037,168 +1306,6 @@ The NSA, CISA and partner agencies published</description>
       <pubDate>Thu, 23 Jul 2026 16:09:25 +0000</pubDate>
       <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/us-and-allies-say-russian-hackers-stole-emails-without-social-engineering</guid>
       <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Russian Hackers Exploit New ‘Zero-Click’  Attack Against Western Organizations</title>
-      <link>https://www.infosecurity-magazine.com/news/russian-hackers-zero-click/</link>
-      <description>International agencies issue joint alert over state-backed campaign exploiting a critical vulnerability in the Zimbra Collaboration Suite</description>
-      <pubDate>Thu, 23 Jul 2026 15:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/russian-hackers-zero-click/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories</title>
-      <link>https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html</link>
-      <description>Most of this week&amp;apos;s trouble came dressed as something useful.
-
-A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic.
-
-
- The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out.
-
-
-The danger was</description>
-      <pubDate>Thu, 23 Jul 2026 20:32:07 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Holds Back Gemini 3.5 Flash Cyber as CodeMender Enters Preview</title>
-      <link>https://www.techrepublic.com/article/news-google-flash-cyber-codemender/</link>
-      <description>&amp;lt;p&amp;gt;Google is restricting Gemini 3.5 Flash Cyber to select partners as CodeMender enters preview. Here’s what security teams should verify before adoption.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-flash-cyber-codemender/&amp;quot;&amp;gt;Google Holds Back Gemini 3.5 Flash Cyber as CodeMender Enters Preview&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 23 Jul 2026 14:14:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-flash-cyber-codemender/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Cloud Security</category>
-      <category>Cybersecurity</category>
-      <category>DevOps</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>ai agents</category>
-      <category>ai cybersecurity</category>
-      <category>application security</category>
-      <category>CodeMender</category>
-      <category>devsecops</category>
-      <category>Gemini 3.5 Flash Cyber</category>
-      <category>google gemini</category>
-      <category>vulnerability management</category>
-    </item>
-    <item>
-      <title>Microsoft Copilot Deployments Delayed Over Security Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/</link>
-      <description>CoreView research finds that security leadership is concerned about AI Assistant exposing confidential data</description>
-      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cisco Antares Models Bring Local AI to Vulnerability Triage</title>
-      <link>https://www.techrepublic.com/article/news-cisco-antares-vulnerability-triage/</link>
-      <description>&amp;lt;p&amp;gt;Cisco’s new Antares models help security teams narrow vulnerable code searches locally, but low benchmark scores expose important adoption limits.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisco-antares-vulnerability-triage/&amp;quot;&amp;gt;Cisco Antares Models Bring Local AI to Vulnerability Triage&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 23 Jul 2026 13:39:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisco-antares-vulnerability-triage/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>DevOps</category>
-      <category>Enterprise Technology</category>
-      <category>News</category>
-      <category>Open source</category>
-      <category>ai security</category>
-      <category>Antares</category>
-      <category>application security</category>
-      <category>cisco</category>
-      <category>devsecops</category>
-      <category>open-weight AI</category>
-      <category>software vulnerabilities</category>
-      <category>vulnerability localization</category>
-    </item>
-    <item>
-      <title>Iranian Hackers Target Siemens and Schneider Industrial Systems, CISA Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/</link>
-      <description>US government agencies have warned that Iranian cyber actors are targeting US-based Siemens and Schneider industrial equipment</description>
-      <pubDate>Thu, 23 Jul 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files</title>
-      <link>https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html</link>
-      <description>Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic&amp;apos;s Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac.
-
-Accomplish AI, which shared details of the vulnerability with The Hacker News ahead of publication, said about 500,000 macOS users running</description>
-      <pubDate>Thu, 23 Jul 2026 18:57:59 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge</title>
-      <link>https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html</link>
-      <description>The Chaos ransomware group ran its command-and-control through the victim&amp;apos;s own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor.
-
-The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and nothing else. It starts Chrome or Edge in headless mode and drives the browser</description>
-      <pubDate>Thu, 23 Jul 2026 18:41:09 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks</title>
-      <link>https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html</link>
-      <description>An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader.
-
-Group-IB found the server in mid-April 2026 in Alibaba Cloud&amp;apos;s Singapore region; it was offline by the time the report</description>
-      <pubDate>Thu, 23 Jul 2026 17:50:23 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How Synthetic Identity Fraud is Coming for Machine Identities</title>
-      <link>https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html</link>
-      <description>Most people understand identity theft as an attacker stealing a real person&amp;apos;s sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points with fabricated ones to create a person who doesn&amp;apos;t exist. Since no real victim monitors misuse, a</description>
-      <pubDate>Thu, 23 Jul 2026 17:15:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Agents Now the Enterprises Fastest Growing Exposed Attack Surface</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-agents-attack-surface/</link>
-      <description>Sophos report warns that the rapid adoption of AI by businesses is leaving them vulnerable to a new source of cyber threats</description>
-      <pubDate>Thu, 23 Jul 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-agents-attack-surface/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers</title>
-      <link>https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html</link>
-      <description>Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances.
-
-The activity involves malicious Packagist development versions spanning 10 packages associated with a legitimate PHP and DevOps developer, dinushchathurya, between July 12 and 13,</description>
-      <pubDate>Thu, 23 Jul 2026 16:58:54 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Agentic AI Challenges Progress in Confidential Computing</title>
-      <link>https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing</link>
-      <description>Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.</description>
-      <pubDate>Thu, 23 Jul 2026 11:17:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing</guid>
-      <dc:creator>Agam Shah</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
