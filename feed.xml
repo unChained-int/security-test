@@ -5,9 +5,54 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 31 Jul 2026 02:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:47:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic Reveals Claude Escaped Testing, Breaching Three Companies</title>
+      <link>https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/</link>
+      <description>Anthropic has revealed that Claude AI models broke free of sandbox to compromise third-party organizations</description>
+      <pubDate>Fri, 31 Jul 2026 08:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>CareCloud Data Breach Impacts Over 350,000</title>
+      <link>https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/</link>
+      <description>&amp;lt;p&amp;gt;In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/&amp;quot;&amp;gt;CareCloud Data Breach Impacts Over 350,000&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 31 Jul 2026 07:51:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>CareCloud</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+    </item>
+    <item>
+      <title>Critical Code Execution Vulnerability Patched in TeamCity</title>
+      <link>https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/</link>
+      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/&amp;quot;&amp;gt;Critical Code Execution Vulnerability Patched in TeamCity &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 31 Jul 2026 06:50:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>JetBrains</category>
+      <category>Patch</category>
+      <category>TeamCity</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>No Hackers Required: 10 Shadow AI Leaks Hiding in Plain Sight | UpGuard</title>
+      <link>https://www.upguard.com/blog/10-shadow-ai-leaks-in-plain-sight</link>
+      <description>No hackers or malware, just employees using AI tools IT never approved. Read about 10 real Shadow AI incidents and the controls that could&amp;apos;ve stopped them.</description>
+      <pubDate>Fri, 31 Jul 2026 00:10:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/10-shadow-ai-leaks-in-plain-sight</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs</title>
       <link>https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/</link>
@@ -18,6 +63,11 @@
       <dc:creator>Mike Lennon</dc:creator>
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>ICS/OT</category>
+      <category>CISA</category>
+      <category>Featured</category>
+      <category>ICS</category>
+      <category>PLC</category>
+      <category>Water</category>
     </item>
     <item>
       <title>Minnesota Water Utility Attacks Expose Sector&amp;apos;s Cyber-Risks</title>
@@ -299,18 +349,6 @@ Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a
       <category>Onyx Security</category>
     </item>
     <item>
-      <title>‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale</title>
-      <link>https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/</link>
-      <description>&amp;lt;p&amp;gt;Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/&amp;quot;&amp;gt;‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 30 Jul 2026 12:15:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Network Security</category>
-      <category>DNS</category>
-    </item>
-    <item>
       <title>Teams-Themed Phishing Campaign Abused Legitimate Microsoft Login Pages</title>
       <link>https://www.infosecurity-magazine.com/news/teams-phishing-abused-legit/</link>
       <description>Check Point researchers detail phishing attack as an example of attackers dropping fake Microsoft login pages in favor of abusing Microsoft’s legitimate authentication infrastructure</description>
@@ -339,21 +377,6 @@ Måløy&amp;apos;s</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/the-network-has-become-control-plane.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Semiconductor Firm Analog Devices Discloses Data Breach</title>
-      <link>https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/</link>
-      <description>&amp;lt;p&amp;gt;Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/&amp;quot;&amp;gt;Semiconductor Firm Analog Devices Discloses Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 30 Jul 2026 11:16:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Ransomware</category>
-      <category>Analog Devices</category>
-      <category>data breach</category>
-      <category>semiconductor</category>
     </item>
     <item>
       <title>Should You Use AI for a Task? Here’s a Simple Way to Decide</title>
@@ -773,14 +796,6 @@ The principal security agency said the instant messaging platform &amp;quot;fail
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>No Hackers Required: 10 Shadow AI Leaks Hiding in Plain Sight | UpGuard</title>
-      <link>https://www.upguard.com/blog/10-shadow-ai-leaks-in-plain-sight</link>
-      <description>No hackers or malware, just employees using AI tools IT never approved. Read about 10 real Shadow AI incidents and the controls that could&amp;apos;ve stopped them.</description>
-      <pubDate>Wed, 29 Jul 2026 09:20:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/10-shadow-ai-leaks-in-plain-sight</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass</title>
       <link>https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html</link>
       <description>Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild.
@@ -1183,14 +1198,6 @@ Tengu supports 25 distributed denial-of-service (</description>
       <category>Events</category>
       <category>Community Meetings</category>
       <category>Participation</category>
-    </item>
-    <item>
-      <title>AI-Assisted Bug Hunt Uncovers Linux Kernel 0-Day in net/sched</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/</link>
-      <description>AI-assisted research uncovered Linux kernel use-after-free allowing root escalation</description>
-      <pubDate>Tue, 28 Jul 2026 14:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
