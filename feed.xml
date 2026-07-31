@@ -5,9 +5,94 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:22:44 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk</title>
+      <link>https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html</link>
+      <description>A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025.
+
+These targeted organizations operate across several sectors, such as healthcare, research, government offices,</description>
+      <pubDate>Sat, 01 Aug 2026 00:22:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Issues Fresh SBOM Guidance. Did They Get It Right?</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance</link>
+      <description>A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.</description>
+      <pubDate>Fri, 31 Jul 2026 18:13:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Anthropic’s Opus 5 Is Better at Resisting Prompt Injection</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html</link>
+      <description>&amp;lt;p&amp;gt;The &amp;lt;a href=&amp;quot;https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf#page=73&amp;quot;&amp;gt;chart&amp;lt;/a&amp;gt; is interesting.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model evaluated. Opus 5 also outperformed all non-Claude models on this benchmark. The most robust non-Claude model was Muse Spark at 16.5% within 15 attempts&amp;amp;#8212;more than eight times Opus 5’s rate. The most capable GPT 5.6 variant, Sol, was comparable to its predecessor GPT 5.5 (20.0% versus 20.8% within 15 attempts), and was 10 times as likely to be successfully attacked as Claude Opus 5 at 2.0%. The other GPT 5.6 variants are less robust, at 30.4% (Terra) and 43.9% (Luna). A single attempt against GPT 5.6 Sol succeeded 3.1% of the time, higher than the 2.0% an attacker achieved against Opus 5 after fifteen attempts...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 31 Jul 2026 17:23:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cyberattack</category>
+      <category>LLM</category>
+      <category>reports</category>
+    </item>
+    <item>
+      <title>HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm</title>
+      <link>https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html</link>
+      <description>Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.
+
+According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that</description>
+      <pubDate>Fri, 31 Jul 2026 22:09:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</title>
+      <link>https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/</link>
+      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/&amp;quot;&amp;gt;In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 31 Jul 2026 15:47:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>In Other News</category>
+    </item>
+    <item>
+      <title>Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</title>
+      <link>https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/</link>
+      <description>&amp;lt;p&amp;gt;Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/&amp;quot;&amp;gt;Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 31 Jul 2026 15:17:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Iran</category>
+      <category>Minnesota</category>
+      <category>Water</category>
+    </item>
+    <item>
+      <title>Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies</title>
+      <link>https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html</link>
+      <description>Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.
+
+Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019.
+
+The same apps have a second job. When a box</description>
+      <pubDate>Fri, 31 Jul 2026 20:15:01 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>The Morning After We Pull a Root of Trust, Nobody Owns It</title>
       <link>https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it</link>
@@ -43,6 +128,28 @@
       <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined</title>
+      <link>https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html</link>
+      <description>Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.
+
+Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the</description>
+      <pubDate>Fri, 31 Jul 2026 18:21:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw</title>
+      <link>https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html</link>
+      <description>An academic study has disclosed a &amp;quot;widespread class&amp;quot; of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user&amp;apos;s network session.
+
+The findings have been released by a group of researchers from Singapore&amp;apos;s Nanyang Technological University</description>
+      <pubDate>Fri, 31 Jul 2026 17:25:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026</title>
@@ -98,6 +205,7 @@ The operator, tracked through the aliases knaithe and KnYuan,</description>
       <category>Vulnerabilities</category>
       <category>AI</category>
       <category>Chrome</category>
+      <category>Featured</category>
       <category>google</category>
       <category>vulnerability</category>
     </item>
@@ -139,10 +247,10 @@ The operator, tracked through the aliases knaithe and KnYuan,</description>
       <category>Featured</category>
     </item>
     <item>
-      <title>Critical Flaw Led to Azure Cosmos DB Pwnage</title>
+      <title>Critical Flaw Allowed to Azure Cosmos DB Pwnage</title>
       <link>https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/</link>
       <description>&amp;lt;p&amp;gt;Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/&amp;quot;&amp;gt;Critical Flaw Led to Azure Cosmos DB Pwnage&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/&amp;quot;&amp;gt;Critical Flaw Allowed to Azure Cosmos DB Pwnage&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
       <pubDate>Fri, 31 Jul 2026 09:04:02 +0000</pubDate>
       <guid isPermaLink="true">https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/</guid>
       <dc:creator>Ionut Arghire</dc:creator>
@@ -260,21 +368,6 @@ The AI firm said the earliest incidents date back to April 2026, adding it made 
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Okta to Acquire Identity Threat Detection Firm Permiso</title>
-      <link>https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/</link>
-      <description>&amp;lt;p&amp;gt;The deal extends Okta&amp;apos;s reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/&amp;quot;&amp;gt;Okta to Acquire Identity Threat Detection Firm Permiso&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 30 Jul 2026 19:10:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Identity &amp;amp; Access</category>
-      <category>M&amp;amp;A Tracker</category>
-      <category>Acquisition</category>
-      <category>Featured</category>
-      <category>Okta</category>
-    </item>
-    <item>
       <title>DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware</title>
       <link>https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html</link>
       <description>Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign.
@@ -328,20 +421,6 @@ The defining aspect of the attack is that bogus macOS software update screen ste
       <category>law enforcement</category>
       <category>national security policy</category>
       <category>privacy</category>
-    </item>
-    <item>
-      <title>Timeless Compliance: Why Better Questions Beat Bigger Frameworks</title>
-      <link>https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/</link>
-      <description>&amp;lt;p&amp;gt;The best compliance programs aren&amp;apos;t the biggest ones. They&amp;apos;re the ones built on a short list of questions that can actually be answered, and that still hold true when the models change.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/&amp;quot;&amp;gt;Timeless Compliance: Why Better Questions Beat Bigger Frameworks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 30 Jul 2026 15:46:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/</guid>
-      <dc:creator>Matt Honea</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Compliance</category>
-      <category>AI</category>
-      <category>compliance</category>
     </item>
     <item>
       <title>Claude Mythos — Hype vs. Reality: What Security Teams Need to Know</title>
@@ -1069,83 +1148,6 @@ They linked the framework to a fake &amp;quot;公安一网通办&amp;quot; Publi
       <pubDate>Wed, 29 Jul 2026 05:44:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/what-is-a-reverse-proxy</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Cache Explained: How It Works, Types, and When to Clear It | UpGuard</title>
-      <link>https://www.upguard.com/blog/cache</link>
-      <description>A cache is a temporary data storage location that stores copies of frequently accessed data or files. Learn more about its types and uses.</description>
-      <pubDate>Wed, 29 Jul 2026 05:41:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cache</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>HTTPS vs HTTP Explained: Why Encrypted Sites Matter | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-https</link>
-      <description>HTTPS (Hypertext Transfer Protocol Secure) allows users to safely send information via the Web through encryption. Learn more about its uses and benefits.</description>
-      <pubDate>Wed, 29 Jul 2026 05:40:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-https</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js</title>
-      <link>https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html</link>
-      <description>Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.
-
-The list of affected packages is as follows -
-
-
-  @joyfill/layouts@0.1.2-2773.beta.0
-  @joyfill/components@4.0.0-rc24-2773-beta.4
-
-The two packages &amp;quot;contain an import-time JavaScript implant that resolves encrypted code</description>
-      <pubDate>Wed, 29 Jul 2026 09:50:57 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Measuring LLMs’ Ability to Perform Cryptanalysis</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html</link>
-      <description>&amp;lt;p&amp;gt;There&amp;amp;#8217;s new benchmark measuring AI&amp;amp;#8217;s ability to perform mathematical cryptanalysis. Anthropic&amp;amp;#8217;s frontier model actually found new attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The benchmark: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/pdf/2607.18538&amp;quot;&amp;gt;CryptanalysisBench: Can LLMs do Cryptanalysis?&amp;lt;/a&amp;gt;&amp;amp;#8221; The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Cryptanalysis&amp;amp;#8212;the task of finding attacks against cryptographic schemes&amp;amp;#8212;its at the intersection of mathematical reasoning and cybersecurity, two areas where LLMs have advanced fastest. Cryptanalysis represents both a clean testbed for frontier reasoning (as practical attacks can be automatically verified) and a domain with unusually high stakes, since the primitives under study underpin our digital security. In this paper we ask whether LLMs can do cryptanalysis, and find that the answer is increasingly yes. We introduce CryptanalysisBench, 191 tasks across six families of cryptographic primitives (block ciphers, hash functions, etc.) drawn primarily from four NIST standardization competitions. Our benchmark consists of three tiers: (i) primitives with known practical breaks; (ii) primitives with no known practical break, evaluated both at full strength and as scaled-down variants; and (iii) a challenge set of production primitives at the frontier of cryptanalysis. Five frontier models (Claude Opus 4.8, Sonnet 5, Mythos 5, GPT-5.5, and the open-weights GLM-5.2) break 65%­86% of Tier 1 schemes, 6­12 Tier-2 schemes at full strength, and 24­61 across all scaled-down variants. Beyond deriving known results, models produce novel cryptanalysis, such as a key-recovery attack that exploits a design flaw in the SpoC AEAD and an error in KINDI’s published CCA-security proof, both to the best of our knowledge not previously known...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 29 Jul 2026 01:47:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>AI</category>
-      <category>cryptanalysis</category>
-      <category>cybersecurity</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>Ghost Credentials Expose Cloud Systems to Hidden Identity Risks</title>
-      <link>https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path</link>
-      <description>Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.</description>
-      <pubDate>Tue, 28 Jul 2026 21:33:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Thousands of Data Center Controllers Open to Takeover</title>
-      <link>https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover</link>
-      <description>A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.</description>
-      <pubDate>Tue, 28 Jul 2026 21:07:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>When AI Agents Escape Sandboxes, Old Security Rules Apply</title>
-      <link>https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply</link>
-      <description>OpenAI&amp;apos;s recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.</description>
-      <pubDate>Tue, 28 Jul 2026 20:27:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
