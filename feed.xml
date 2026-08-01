@@ -5,9 +5,20 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 01 Aug 2026 13:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 19:05:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes</title>
+      <link>https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html</link>
+      <description>An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite.
+
+A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG</description>
+      <pubDate>Sat, 01 Aug 2026 22:47:22 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</title>
       <link>https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/</link>
@@ -1171,14 +1182,6 @@ They linked the framework to a fake &amp;quot;公安一网通办&amp;quot; Publi
       <description>An incident response plan is a set of written instructions that outline your organization&amp;apos;s response to data breaches, data leaks, and cyber attacks.</description>
       <pubDate>Wed, 29 Jul 2026 05:55:03 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/incident-response-plan</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vulnerability Assessments Explained: Types, Process, and Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/vulnerability-assessment</link>
-      <description>This is a complete overview of vulnerability assessments. Learn how to conduct a vulnerability assessment for your organization in this in-depth post.</description>
-      <pubDate>Wed, 29 Jul 2026 05:54:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vulnerability-assessment</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
