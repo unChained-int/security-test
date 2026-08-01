@@ -5,9 +5,33 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 01 Aug 2026 02:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:18:35 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction</title>
+      <link>https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html</link>
+      <description>Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.
+
+The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system.
+
+It has been described as a case of incorrect authorization that could result in</description>
+      <pubDate>Sat, 01 Aug 2026 12:42:42 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware</title>
+      <link>https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html</link>
+      <description>A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report.
+
+Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as</description>
+      <pubDate>Sat, 01 Aug 2026 11:59:05 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Squid Helps Discover New Marine Species</title>
       <link>https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html</link>
@@ -1153,22 +1177,6 @@ They linked the framework to a fake &amp;quot;公安一网通办&amp;quot; Publi
       <description>Common Vulnerabilities and Exposures (CVE) is a list of publicly disclosed information security vulnerabilities and exposures.</description>
       <pubDate>Wed, 29 Jul 2026 05:53:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/cve</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Intrusion Detection Systems (IDS): Types, How They Work, and Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/intrusion-detection-system</link>
-      <description>An intrusion detection system (IDS) is a software application or hardware device that detects cyber attacks. Learn more about how it works and its uses.</description>
-      <pubDate>Wed, 29 Jul 2026 05:53:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/intrusion-detection-system</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>6 Data Backup Strategies That Prevent Costly Data Loss | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-back-up-your-data</link>
-      <description>Find out how you can back up your data safely to protect yourself from data loss or theft.</description>
-      <pubDate>Wed, 29 Jul 2026 05:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-back-up-your-data</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
