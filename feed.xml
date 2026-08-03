@@ -5,9 +5,114 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Aug 2026 14:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 19:27:55 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users</title>
+      <link>https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html</link>
+      <description>Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments.
+
+One of the packages in question is &amp;quot;lib-mtop,&amp;quot; an unscoped package with the same name as a private Alibaba package</description>
+      <pubDate>Tue, 04 Aug 2026 00:13:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>More on the OpenAI Agent’s Attack on Hugging Face</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html</link>
+      <description>&amp;lt;p&amp;gt;Hugging Face has &amp;lt;a href=&amp;quot;https://huggingface.co/blog/agent-intrusion-technical-timeline&amp;quot;&amp;gt;published&amp;lt;/a&amp;gt; a detailed timeline of the attack. From the summary:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark&amp;amp;#8217;s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent&amp;amp;#8217;s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 03 Aug 2026 17:02:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cyberattack</category>
+      <category>disclosure</category>
+      <category>intrusion detection</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts</title>
+      <link>https://thehackernews.com/2026/08/google-password-manager-attacks-could.html</link>
+      <description>Malware running as an ordinary user on a Windows machine can sign into a victim&amp;apos;s passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim&amp;apos;s screen.
+
+Unit 42 detailed three attack paths against Chrome&amp;apos;s Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key</description>
+      <pubDate>Mon, 03 Aug 2026 21:54:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/google-password-manager-attacks-could.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws</title>
+      <link>https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html</link>
+      <description>The INC Ransomware operation has emerged as the &amp;quot;dominant threat actor&amp;quot; exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.
+
+In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per</description>
+      <pubDate>Mon, 03 Aug 2026 21:45:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)</title>
+      <link>https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/</link>
+      <description>&amp;lt;p&amp;gt;Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/&amp;quot;&amp;gt;Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 03 Aug 2026 15:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Management &amp;amp; Strategy</category>
+      <category>Black Hat</category>
+      <category>Black Hat 2026</category>
+      <category>security products</category>
+    </item>
+    <item>
+      <title>Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm</link>
+      <description>Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks</description>
+      <pubDate>Mon, 03 Aug 2026 15:42:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion</title>
+      <link>https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/</link>
+      <description>&amp;lt;p&amp;gt;The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/&amp;quot;&amp;gt;Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 03 Aug 2026 15:32:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Fraud &amp;amp; Identity Theft</category>
+      <category>Acquisition</category>
+    </item>
+    <item>
+      <title>Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations</title>
+      <link>https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/</link>
+      <description>&amp;lt;p&amp;gt;The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/&amp;quot;&amp;gt;Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 03 Aug 2026 15:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Liechtenstein</category>
+    </item>
+    <item>
+      <title>China-Linked Threat Actors Weaponize New Vulnerabilities in Under a Day</title>
+      <link>https://www.infosecurity-magazine.com/news/chinalinked-threat-actors/</link>
+      <description>Chinese actors exploited the critical React2Shell exploit inside a day, while 88% of exploited vulnerabilities in H1 2026 were compromised within 48 hours of disclosure</description>
+      <pubDate>Mon, 03 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinalinked-threat-actors/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Midnight Blizzard Targets Travelers via Captive Portals</title>
       <link>https://www.infosecurity-magazine.com/news/captivecrunch-midnight-blizzard/</link>
@@ -119,11 +224,9 @@ With so many new AI</description>
     <item>
       <title>Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS</title>
       <link>https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html</link>
-      <description>An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.
+      <description>An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.
 
-Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit.
-
-&amp;quot;</description>
+Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit</description>
       <pubDate>Mon, 03 Aug 2026 16:19:06 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -272,32 +375,6 @@ A March 2021 firmware integration error routed seed generation to a deterministi
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</title>
-      <link>https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/</link>
-      <description>&amp;lt;p&amp;gt;The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/&amp;quot;&amp;gt;Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 01 Aug 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/</guid>
-      <dc:creator>Mike Lennon</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>CISO Strategy</category>
-      <category>Cybersecurity Funding</category>
-    </item>
-    <item>
-      <title>Ruby on Rails Patches Critical Vulnerability</title>
-      <link>https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/</link>
-      <description>&amp;lt;p&amp;gt;The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/&amp;quot;&amp;gt;Ruby on Rails Patches Critical Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 01 Aug 2026 11:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Ruby</category>
-      <category>Ruby on Rails</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites</title>
       <link>https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html</link>
       <description>Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.
@@ -415,18 +492,6 @@ According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishi
       <guid isPermaLink="true">https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</title>
-      <link>https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/</link>
-      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/&amp;quot;&amp;gt;In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 31 Jul 2026 15:47:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>In Other News</category>
     </item>
     <item>
       <title>Chinese Hacker Uses DeepSeek AI to Orchestrate Vulnerability Exploits</title>
@@ -1134,76 +1199,6 @@ The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8),
       <pubDate>Wed, 29 Jul 2026 15:10:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Patch-Resistant &amp;apos;RufRoot&amp;apos; Flaw Can Unleash Malicious AI Agent Swarms</title>
-      <link>https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms</link>
-      <description>The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.</description>
-      <pubDate>Wed, 29 Jul 2026 14:40:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline</title>
-      <link>https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html</link>
-      <description>A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.
-
-Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.
-
-Braham&amp;apos;s water plant went offline, and the city asked residents to minimize</description>
-      <pubDate>Wed, 29 Jul 2026 19:18:36 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments</title>
-      <link>https://thehackernews.com/2026/07/nine-year-fraud-campaign.html</link>
-      <description>Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.
-
-According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies</description>
-      <pubDate>Wed, 29 Jul 2026 19:12:57 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/nine-year-fraud-campaign.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mythos Asks the Right Question. It Doesn&amp;apos;t Answer It.</title>
-      <link>https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html</link>
-      <description>AI is compressing exploit timelines. The real question isn&amp;apos;t whether your vulnerability management playbook needs to change, it&amp;apos;s which part of it you&amp;apos;ve been getting wrong all along.
-
-The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change?
-
-The honest answer is</description>
-      <pubDate>Wed, 29 Jul 2026 17:45:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser</title>
-      <link>https://thehackernews.com/2026/07/researchers-show-single-malicious.html</link>
-      <description>Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.
-
-Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser&amp;apos;s renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update.
-
-&amp;quot;No settings or additional user interaction are required,&amp;quot; Eten Zou,</description>
-      <pubDate>Wed, 29 Jul 2026 17:27:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/researchers-show-single-malicious.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack</title>
-      <link>https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html</link>
-      <description>Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.
-
-According to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January</description>
-      <pubDate>Wed, 29 Jul 2026 16:43:10 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
