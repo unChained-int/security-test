@@ -5,9 +5,44 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 04 Aug 2026 02:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:33:59 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises</title>
+      <link>https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows</description>
+      <pubDate>Tue, 04 Aug 2026 12:30:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Device Code Phishing Up 1,500% in 2026; Vishing Doubles</title>
+      <link>https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles</link>
+      <description>Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.</description>
+      <pubDate>Tue, 04 Aug 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers</title>
+      <link>https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/</link>
+      <description>&amp;lt;p&amp;gt;The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/&amp;quot;&amp;gt;Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 04 Aug 2026 05:18:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>bug bounty program</category>
+      <category>Featured</category>
+      <category>Microsoft</category>
+      <category>vulnerability</category>
+    </item>
     <item>
       <title>New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems</title>
       <link>https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/</link>
@@ -360,24 +395,6 @@ Attack surface management platform Censys said it identified the threat actor ru
       <pubDate>Mon, 03 Aug 2026 09:36:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/koreas-largest-telco-kt-fine-39m/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking</title>
-      <link>https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/</link>
-      <description>&amp;lt;p&amp;gt;Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/&amp;quot;&amp;gt;Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 03 Aug 2026 09:17:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Mobile &amp;amp; Wireless</category>
-      <category>Phishing</category>
-      <category>APT</category>
-      <category>Microsoft</category>
-      <category>Midnight Blizzard</category>
-      <category>phishing</category>
-      <category>Russia</category>
-      <category>Wi-Fi</category>
     </item>
     <item>
       <title>PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web</title>
@@ -1180,34 +1197,6 @@ Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails proce
       <category>cybersecurity</category>
       <category>hacking</category>
       <category>LLM</category>
-    </item>
-    <item>
-      <title>When AppSec Scanners Become a Supply Chain Attack Vector</title>
-      <link>https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector</link>
-      <description>New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.</description>
-      <pubDate>Wed, 29 Jul 2026 17:06:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector</guid>
-      <dc:creator>Ericka Chickowski</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Coffee with the Council Podcast: Meet This Year’s Asia-Pacific Community Meeting Keynote Speaker, CJ Meadows</title>
-      <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-meet-this-years-asia-pacific-community-meeting-keynote-speaker-cj-meadows</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-meet-this-years-asia-pacific-community-meeting-keynote-speaker-cj-meadows&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Coffee with the Council Podcast: Meet This Year’s Asia-Pacific Community Meeting Keynote Speaker, CJ Meadows&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/CJ-Meadows-Blog.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome to our podcast series, &amp;lt;em&amp;gt;Coffee with the Council&amp;lt;/em&amp;gt;. I&amp;apos;m Alicia Malone, Director of Communications and Public Relations for the PCI Security Standards Council. Today, I&amp;apos;m excited to bring you a preview of our 2026 &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.pcisscevents.org/event/2026-kuala-lumpur/summary&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;Asia-Pacific Community Meeting&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; keynote speaker, Dr. CJ Meadows. CJ is a globally recognized innovation and leadership expert whose work explores the intersection of emerging technology, creativity, and human behavior. She&amp;apos;s known for her dynamic, research-driven approach and her ability to translate complex ideas about AI, design, and transformation into practical insights for organizations around the world. &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 29 Jul 2026 16:22:33 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-meet-this-years-asia-pacific-community-meeting-keynote-speaker-cj-meadows</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Events</category>
-      <category>Community Meetings</category>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Participation</category>
-      <category>Coffee with the Council podcasts</category>
     </item>
   </channel>
 </rss>
