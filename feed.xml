@@ -5,9 +5,168 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:57:18 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Coordination Gap: How Attackers Are Outpacing Law Enforcement</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement</link>
+      <description>The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.</description>
+      <pubDate>Thu, 06 Aug 2026 21:42:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researcher Claims Control of ChatGPT Secure Sandbox</title>
+      <link>https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox</link>
+      <description>A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT&amp;apos;s isolated sandbox during a session at Black Hat USA 2026.</description>
+      <pubDate>Thu, 06 Aug 2026 20:38:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture</link>
+      <description>Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.</description>
+      <pubDate>Thu, 06 Aug 2026 19:00:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts</title>
+      <link>https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html</link>
+      <description>Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests.
+
+The flaw is tracked as&amp;amp;nbsp;CVE-2026-64561&amp;amp;nbsp;and affects KVM/x86&amp;apos;s shadow memory management unit (MMU), which manages shadow page</description>
+      <pubDate>Thu, 06 Aug 2026 23:28:30 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs</title>
+      <link>https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html</link>
+      <description>Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.
+
+The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode.
+
+&amp;quot;These vulnerabilities were found</description>
+      <pubDate>Thu, 06 Aug 2026 22:43:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Canadian Man Pleads Guilty in Snowflake Extortions</title>
+      <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
+      <description>A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&amp;amp;#038;T customers.</description>
+      <pubDate>Thu, 06 Aug 2026 17:00:56 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>Breadcrumbs</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Ransomware</category>
+      <category>Cameron John Wagenius</category>
+      <category>Connor Riley Moucka</category>
+      <category>IntelSecrets</category>
+      <category>IRDev</category>
+      <category>John Erin Binns</category>
+      <category>Judische</category>
+      <category>Snowflake</category>
+      <category>Waifu</category>
+    </item>
+    <item>
+      <title>New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs</title>
+      <link>https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</link>
+      <description>An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.
+
+MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on,</description>
+      <pubDate>Thu, 06 Aug 2026 21:47:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Toolkit Hidden Inside Oracle Database Evades Endpoint Tools</title>
+      <link>https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/</link>
+      <description>Attackers used SQL injection to compile a post-exploitation toolkit inside an Oracle database</description>
+      <pubDate>Thu, 06 Aug 2026 15:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories</title>
+      <link>https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html</link>
+      <description>Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.
+
+This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and trusted defaults doing attackers a favor.
+
+Nothing here is especially mystical.</description>
+      <pubDate>Thu, 06 Aug 2026 20:54:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Snowflake Hacker Pleads Guilty in US Court</title>
+      <link>https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/</link>
+      <description>&amp;lt;p&amp;gt;Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/&amp;quot;&amp;gt;Snowflake Hacker Pleads Guilty in US Court&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 06 Aug 2026 14:56:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>hacker</category>
+      <category>plead guilty</category>
+      <category>Snowflake</category>
+    </item>
+    <item>
+      <title>ChatGPT Atlas Shuts Down Aug. 9: What Users Must Save Before Migrating</title>
+      <link>https://www.techrepublic.com/article/news-chatgpt-atlas-shutdown-migration/</link>
+      <description>&amp;lt;p&amp;gt;ChatGPT Atlas is scheduled to stop working Aug. 9, 2026. Users should export browser data, verify account access, and test replacement workflows before uninstalling it.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-chatgpt-atlas-shutdown-migration/&amp;quot;&amp;gt;ChatGPT Atlas Shuts Down Aug. 9: What Users Must Save Before Migrating&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 06 Aug 2026 14:45:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-chatgpt-atlas-shutdown-migration/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Browsers</category>
+      <category>ChatGPT</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Technology</category>
+      <category>IT Operations</category>
+      <category>News</category>
+      <category>OpenAI</category>
+      <category>ai agents</category>
+      <category>ai browsers</category>
+      <category>browser migration</category>
+      <category>chatgpt</category>
+      <category>ChatGPT Atlas</category>
+      <category>enterprise ai</category>
+      <category>it security</category>
+      <category>openai</category>
+    </item>
+    <item>
+      <title>TeamPCP Traced Back to 2020 Cryptojacking Operation</title>
+      <link>https://www.infosecurity-magazine.com/news/teampcp-shadowray-ta-natalstatus/</link>
+      <description>Oligo Security has linked TeamPCP to ShadowRay 2.0 and to cryptojacking infrastructure dating back to 2020</description>
+      <pubDate>Thu, 06 Aug 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/teampcp-shadowray-ta-natalstatus/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Higher Education TPRM in 2026: New Research Maps the Vendor Visibility Gap | UpGuard</title>
+      <link>https://www.upguard.com/blog/higher-education-tprm-2026</link>
+      <description>Explore UpGuard’s latest research into higher education third-party risk, including supplier concentration and systemic vendor exposure.</description>
+      <pubDate>Thu, 06 Aug 2026 14:03:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/higher-education-tprm-2026</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>The Vendor Assurance Confidence Gap: Why It’s Widest With Your Most Critical Vendors | UpGuard</title>
       <link>https://www.upguard.com/blog/vendor-assurance-confidence-gap</link>
@@ -210,6 +369,29 @@ The affected products include Amazon</description>
       <pubDate>Thu, 06 Aug 2026 08:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/safe-initiative-agentic-threat/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Android App Advertising SDK Location Data Sharing Explained</title>
+      <link>https://www.techrepublic.com/article/news-android-ad-sdk-location-data-sharing/</link>
+      <description>&amp;lt;p&amp;gt;Android app teams can inherit location-sharing behavior from advertising SDKs even when consent screens and Play disclosures do not reflect it.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-android-ad-sdk-location-data-sharing/&amp;quot;&amp;gt;Android App Advertising SDK Location Data Sharing Explained&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 06 Aug 2026 08:26:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-android-ad-sdk-location-data-sharing/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Android</category>
+      <category>Applications</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>advertising SDKs</category>
+      <category>android</category>
+      <category>app development</category>
+      <category>EFF</category>
+      <category>google play</category>
+      <category>location data</category>
+      <category>mobile security</category>
+      <category>privacy</category>
     </item>
     <item>
       <title>Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells</title>
@@ -586,20 +768,6 @@ The new dead drop resolver approach, observed in two trojanized npm packages &am
       <category>Events</category>
       <category>Community Meetings</category>
       <category>Participation</category>
-    </item>
-    <item>
-      <title>The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict</title>
-      <link>https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/</link>
-      <description>&amp;lt;p&amp;gt;CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/&amp;quot;&amp;gt;The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 05 Aug 2026 13:00:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cyberwarfare</category>
-      <category>cyberwar</category>
-      <category>Featured</category>
-      <category>Geopolitics</category>
     </item>
     <item>
       <title>New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch</title>
@@ -1043,166 +1211,6 @@ The database bug is tracked as CVE-2026-58048 (CVSS 4.0 score: 9.4) and affects<
       <description>The UK’s Police National Legal Database and Ask the Police service have been breached</description>
       <pubDate>Tue, 04 Aug 2026 08:40:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uks-police-national-legal-database/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises</title>
-      <link>https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.
-
-The vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows</description>
-      <pubDate>Tue, 04 Aug 2026 12:30:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Device Code Phishing Up 1,500% in 2026; Vishing Doubles</title>
-      <link>https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles</link>
-      <description>Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.</description>
-      <pubDate>Tue, 04 Aug 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Attackers Exploit N-able Patch Bypass Flaw on RMM Servers</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw</link>
-      <description>Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.</description>
-      <pubDate>Mon, 03 Aug 2026 21:21:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>New Tool Traces AI Videos Back to Their Source</title>
-      <link>https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection</link>
-      <description>Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.</description>
-      <pubDate>Mon, 03 Aug 2026 20:42:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues</title>
-      <link>https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps</link>
-      <description>Last month&amp;apos;s incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.</description>
-      <pubDate>Mon, 03 Aug 2026 20:31:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users</title>
-      <link>https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html</link>
-      <description>Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments.
-
-One of the packages in question is &amp;quot;lib-mtop,&amp;quot; an unscoped package with the same name as a private Alibaba package</description>
-      <pubDate>Tue, 04 Aug 2026 00:13:53 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>More on the OpenAI Agent’s Attack on Hugging Face</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html</link>
-      <description>&amp;lt;p&amp;gt;Hugging Face has &amp;lt;a href=&amp;quot;https://huggingface.co/blog/agent-intrusion-technical-timeline&amp;quot;&amp;gt;published&amp;lt;/a&amp;gt; a detailed timeline of the attack. From the summary:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark&amp;amp;#8217;s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent&amp;amp;#8217;s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 03 Aug 2026 17:02:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>cyberattack</category>
-      <category>disclosure</category>
-      <category>intrusion detection</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts</title>
-      <link>https://thehackernews.com/2026/08/google-password-manager-attacks-could.html</link>
-      <description>Malware running as an ordinary user on a Windows machine can sign into a victim&amp;apos;s passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim&amp;apos;s screen.
-
-Unit 42 detailed three attack paths against Chrome&amp;apos;s Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key</description>
-      <pubDate>Mon, 03 Aug 2026 21:54:47 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/google-password-manager-attacks-could.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Tests Twice-Weekly Chrome Security Updates as AI Finds More Vulnerabilities</title>
-      <link>https://www.techrepublic.com/article/news-google-chrome-twice-weekly-security-updates/</link>
-      <description>&amp;lt;p&amp;gt;Google is testing twice-weekly Chrome security updates as AI tools uncover more vulnerabilities and the company works to shrink the browser’s patch gap.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-twice-weekly-security-updates/&amp;quot;&amp;gt;Google Tests Twice-Weekly Chrome Security Updates as AI Finds More Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 03 Aug 2026 16:18:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-twice-weekly-security-updates/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Browsers</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>artificial intelligence</category>
-      <category>browser security</category>
-      <category>chrome security</category>
-      <category>enterprise security</category>
-      <category>google chrome</category>
-      <category>patch management</category>
-      <category>security updates</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws</title>
-      <link>https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html</link>
-      <description>The INC Ransomware operation has emerged as the &amp;quot;dominant threat actor&amp;quot; exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.
-
-In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per</description>
-      <pubDate>Mon, 03 Aug 2026 21:45:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Polar AI Browser Launches With a New Model for Workplace Automation</title>
-      <link>https://www.techrepublic.com/article/news-polar-ai-browser-security/</link>
-      <description>&amp;lt;p&amp;gt;Polar’s AI browser can automate work across logged-in websites, but IT teams should test its permissions, data handling, approval controls, and prompt-injection defenses before wider deployment.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-polar-ai-browser-security/&amp;quot;&amp;gt;Polar AI Browser Launches With a New Model for Workplace Automation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 03 Aug 2026 15:52:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-polar-ai-browser-security/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>Artificial Intelligence</category>
-      <category>Browsers</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>agentic ai</category>
-      <category>ai browsers</category>
-      <category>AI governance</category>
-      <category>browser agents</category>
-      <category>enterprise security</category>
-      <category>Polar</category>
-      <category>prompt injection</category>
-      <category>workplace automation</category>
-    </item>
-    <item>
-      <title>Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm</link>
-      <description>Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.</description>
-      <pubDate>Mon, 03 Aug 2026 15:42:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>China-Linked Threat Actors Weaponize New Vulnerabilities in Under a Day</title>
-      <link>https://www.infosecurity-magazine.com/news/chinalinked-threat-actors/</link>
-      <description>Chinese actors exploited the critical React2Shell exploit inside a day, while 88% of exploited vulnerabilities in H1 2026 were compromised within 48 hours of disclosure</description>
-      <pubDate>Mon, 03 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinalinked-threat-actors/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
