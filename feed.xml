@@ -5,9 +5,42 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Aug 2026 12:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 18:54:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI-Generated Patches Fail Half the Time</title>
+      <link>https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time</link>
+      <description>A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.</description>
+      <pubDate>Fri, 07 Aug 2026 16:47:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street</title>
+      <link>https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/</link>
+      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/&amp;quot;&amp;gt;In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 07 Aug 2026 14:26:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Malware &amp;amp; Threats</category>
+      <category>In Other News</category>
+    </item>
+    <item>
+      <title>New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP</title>
+      <link>https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</link>
+      <description>WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.
+
+Tracked as&amp;amp;nbsp;CVE-2026-64638&amp;amp;nbsp;(CVSS score: 8.9), the</description>
+      <pubDate>Fri, 07 Aug 2026 18:26:23 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Growing Up The Hard Way</title>
       <link>https://thehackernews.com/2026/08/growing-up-hard-way.html</link>
@@ -161,6 +194,7 @@ PortSwigger said a separate human-guided discovery cascade also exposed a zero-d
       <category>Endpoint Security</category>
       <category>Vulnerabilities</category>
       <category>Apple</category>
+      <category>Featured</category>
       <category>Microsoft</category>
       <category>patched</category>
       <category>vulnerability</category>
@@ -253,6 +287,15 @@ Novee Security ran the attack against each vendor&amp;apos;s agent in the config
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Déjà Vu? Meta&amp;apos;s AI Escapes Testing Lab in Hacking Joyride</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride</link>
+      <description>In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.</description>
+      <pubDate>Thu, 06 Aug 2026 20:39:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Researcher Claims Control of ChatGPT Secure Sandbox</title>
       <link>https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox</link>
       <description>A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT&amp;apos;s isolated sandbox during a session at Black Hat USA 2026.</description>
@@ -262,6 +305,27 @@ Novee Security ran the attack against each vendor&amp;apos;s agent in the config
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>15 AI Security Lessons From Black Hat and Ai4 2026</title>
+      <link>https://www.techrepublic.com/article/news-black-hat-ai4-2026-ai-security-takeaways/</link>
+      <description>&amp;lt;p&amp;gt;Black Hat and Ai4 2026 highlighted gaps in AI agent security, identity controls, software supply chains, monitoring, and incident response.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-black-hat-ai4-2026-ai-security-takeaways/&amp;quot;&amp;gt;15 AI Security Lessons From Black Hat and Ai4 2026&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 06 Aug 2026 19:43:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-black-hat-ai4-2026-ai-security-takeaways/</guid>
+      <dc:creator>Tim Freestone</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Security</category>
+      <category>ai agents</category>
+      <category>AI governance</category>
+      <category>ai security</category>
+      <category>ai4</category>
+      <category>black hat</category>
+      <category>cybersecurity</category>
+      <category>enterprise ai</category>
+      <category>identity security</category>
+    </item>
+    <item>
       <title>From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture</title>
       <link>https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture</link>
       <description>Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.</description>
@@ -269,6 +333,29 @@ Novee Security ran the attack against each vendor&amp;apos;s agent in the config
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture</guid>
       <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Google Begins Restoring Blogger Sites After False Malware Alerts</title>
+      <link>https://www.techrepublic.com/article/news-google-blogger-malware-false-positive/</link>
+      <description>&amp;lt;p&amp;gt;Google is restoring Blogger sites wrongly flagged for malware after hundreds of publishers reported locked or unavailable blogs and false-positive alerts.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-blogger-malware-false-positive/&amp;quot;&amp;gt;Google Begins Restoring Blogger Sites After False Malware Alerts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 06 Aug 2026 18:22:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-blogger-malware-false-positive/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>automated enforcement</category>
+      <category>blogger</category>
+      <category>Content Moderation</category>
+      <category>cybersecurity</category>
+      <category>google blogger</category>
+      <category>malware false positive</category>
+      <category>platform moderation</category>
+      <category>publishing platforms</category>
+      <category>website suspension</category>
     </item>
     <item>
       <title>New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts</title>
@@ -315,6 +402,33 @@ The security issues affect Cisco Catalyst SD-WAN Software, regardless of device 
       <category>Waifu</category>
     </item>
     <item>
+      <title>UK AI tests found 19 unauthorized agent actions involving Anthropic and OpenAI models</title>
+      <link>https://www.techrepublic.com/article/news-uk-ai-agents-unsanctioned-cyber-actions-emea/</link>
+      <description>&amp;lt;p&amp;gt;UK researchers reported 19 unsanctioned actions by Anthropic and OpenAI agents during permissive cyber tests involving real external systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-uk-ai-agents-unsanctioned-cyber-actions-emea/&amp;quot;&amp;gt;UK AI tests found 19 unauthorized agent actions involving Anthropic and OpenAI models&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 06 Aug 2026 16:43:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-uk-ai-agents-unsanctioned-cyber-actions-emea/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>EMEA</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai safety</category>
+      <category>anthropic</category>
+      <category>autonomous ai</category>
+      <category>gpt 5.6 sol</category>
+      <category>mythos 5</category>
+      <category>openai</category>
+      <category>openai models</category>
+      <category>security testing</category>
+      <category>uk</category>
+      <category>uk aisi</category>
+    </item>
+    <item>
       <title>New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs</title>
       <link>https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</link>
       <description>An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.
@@ -345,6 +459,31 @@ Nothing here is especially mystical.</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Vietnam’s FPT Says It Joined OpenAI Partner Network to Expand Enterprise AI in APAC</title>
+      <link>https://www.techrepublic.com/article/fpt-openai-partner-apac-vietnam/</link>
+      <description>&amp;lt;p&amp;gt;Vietnam’s FPT says it has joined the OpenAI Partner Network as a Select Partner, with plans to expand enterprise AI and cybersecurity services across Asia-Pacific. The announcement gives APAC organizations another potential implementation option but leaves questions about customer deployments, performance, and data governance.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/fpt-openai-partner-apac-vietnam/&amp;quot;&amp;gt;Vietnam’s FPT Says It Joined OpenAI Partner Network to Expand Enterprise AI in APAC&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 06 Aug 2026 15:24:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/fpt-openai-partner-apac-vietnam/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Digital Transformation</category>
+      <category>Enterprise Technology</category>
+      <category>News</category>
+      <category>OpenAI</category>
+      <category>ai agents</category>
+      <category>ai cybersecurity</category>
+      <category>APAC technology</category>
+      <category>enterprise ai</category>
+      <category>FPT</category>
+      <category>OpenAI Partner Network</category>
+      <category>Vietnam technology</category>
+      <category>vulnerability management</category>
     </item>
     <item>
       <title>Snowflake Hacker Pleads Guilty in US Court</title>
@@ -492,21 +631,6 @@ We observed production websites embedding hidden prompt injection payloads insid
       <guid isPermaLink="true">https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Critical Paperclip Flaw Allowed Admin Access, Code Execution</title>
-      <link>https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/</link>
-      <description>&amp;lt;p&amp;gt;An attacker could self-register, sign in for board-level API access, and import a new company for code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/&amp;quot;&amp;gt;Critical Paperclip Flaw Allowed Admin Access, Code Execution&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 06 Aug 2026 11:09:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Vulnerabilities</category>
-      <category>AI</category>
-      <category>Paperclip</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Adversarial Clothing Designed to Fool Facial Recognition Systems</title>
@@ -1083,99 +1207,6 @@ According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing 
       <category>cyberattack</category>
       <category>infrastructure</category>
       <category>Iran</category>
-    </item>
-    <item>
-      <title>Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook</link>
-      <description>The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.</description>
-      <pubDate>Tue, 04 Aug 2026 18:37:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Open Secure AI Alliance Expands at Black Hat: What You Should Know</title>
-      <link>https://www.techrepublic.com/article/news-open-secure-ai-alliance-safe-guidelines-black-hat/</link>
-      <description>&amp;lt;p&amp;gt;The Open Secure AI Alliance introduced SAFE guidelines and open agent-security tools at Black Hat, giving enterprises a framework for safer AI deployment.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-open-secure-ai-alliance-safe-guidelines-black-hat/&amp;quot;&amp;gt;Open Secure AI Alliance Expands at Black Hat: What You Should Know&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 04 Aug 2026 18:11:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-open-secure-ai-alliance-safe-guidelines-black-hat/</guid>
-      <dc:creator>Zeus Kerravala</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Enterprise AI</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Tech Industry</category>
-      <category>agentic ai</category>
-      <category>ai security</category>
-      <category>black hat usa</category>
-      <category>linux foundation</category>
-      <category>nvidia</category>
-      <category>open secure ai alliance</category>
-      <category>osaa</category>
-    </item>
-    <item>
-      <title>Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens</title>
-      <link>https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html</link>
-      <description>The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts.
-
-&amp;quot;Greatness supports AiTM [adversary-in-the-middle] credential and</description>
-      <pubDate>Tue, 04 Aug 2026 22:57:39 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Chrome to Block Policy-Abusing Extensions on Personal Devices</title>
-      <link>https://www.techrepublic.com/article/news-chrome-extension-policy-abuse/</link>
-      <description>&amp;lt;p&amp;gt;Google is developing Chrome protections that could block policy-installed extensions from hijacking New Tab pages and search settings on personal devices.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-chrome-extension-policy-abuse/&amp;quot;&amp;gt;Chrome to Block Policy-Abusing Extensions on Personal Devices&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 04 Aug 2026 14:43:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-chrome-extension-policy-abuse/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Browsers</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>browser security</category>
-      <category>chrome extensions</category>
-      <category>endpoint security</category>
-      <category>enterprise policies</category>
-      <category>google chrome</category>
-      <category>malware</category>
-      <category>new tab page</category>
-      <category>search hijacking</category>
-    </item>
-    <item>
-      <title>WhatsApp Scam Hijacks Accounts via Linked Devices Feature</title>
-      <link>https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/</link>
-      <description>WhatsApp scam abused the Linked devices feature to hijack accounts without stealing any passwords</description>
-      <pubDate>Tue, 04 Aug 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks</title>
-      <link>https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html</link>
-      <description>A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.
-
-SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages</description>
-      <pubDate>Tue, 04 Aug 2026 19:00:23 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cybercriminals Bypass AI Safety Controls by Splitting Malicious Tasks Across Multiple Sessions</title>
-      <link>https://www.infosecurity-magazine.com/news/talos-attackers-split-tasks-evade/</link>
-      <description>Talos read attacker prompt logs and found guardrails fell to task splitting and ownership claims</description>
-      <pubDate>Tue, 04 Aug 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/talos-attackers-split-tasks-evade/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
