@@ -5,9 +5,31 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Aug 2026 02:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:13:04 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical Vulnerabilities Patched With Chrome 151 Update</title>
+      <link>https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/</link>
+      <description>&amp;lt;p&amp;gt;The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/&amp;quot;&amp;gt;Critical Vulnerabilities Patched With Chrome 151 Update&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 07 Aug 2026 06:56:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Chrome</category>
+      <category>Patch</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>The Vendor Assurance Confidence Gap: Why It’s Widest With Your Most Critical Vendors | UpGuard</title>
+      <link>https://www.upguard.com/blog/vendor-assurance-confidence-gap</link>
+      <description>Vendor assurance efforts are rising while confidence in them is falling. This gap is widest with the vendors that matter most. Here’s why.</description>
+      <pubDate>Fri, 07 Aug 2026 05:28:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-assurance-confidence-gap</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>The Coordination Gap: How Attackers Are Outpacing Law Enforcement</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement</link>
@@ -168,14 +190,6 @@ Nothing here is especially mystical.</description>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>The Vendor Assurance Confidence Gap: Why It’s Widest With Your Most Critical Vendors | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-assurance-confidence-gap</link>
-      <description>Vendor assurance efforts are rising while confidence in them is falling. This gap is widest with the vendors that matter most. Here’s why.</description>
-      <pubDate>Thu, 06 Aug 2026 13:57:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-assurance-confidence-gap</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Meta Joins OpenAI and Anthropic in Reporting AI Exploit Incident</title>
       <link>https://www.infosecurity-magazine.com/news/meta-ai-exploit-incident/</link>
       <description>One of Meta’s AI models exploited a third-party security flaw during an evaluation, the latest in a series of similar incidents involving advanced AI systems</description>
@@ -196,6 +210,7 @@ Nothing here is especially mystical.</description>
       <category>AI</category>
       <category>ChatGPT Atlas</category>
       <category>Claude</category>
+      <category>Featured</category>
       <category>vulnerability</category>
     </item>
     <item>
@@ -704,20 +719,6 @@ A third flaw could expose sensitive data and control-plane details through appli
       <category>GPT-Red</category>
       <category>openai</category>
       <category>prompt injection</category>
-    </item>
-    <item>
-      <title>Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)</title>
-      <link>https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/</link>
-      <description>&amp;lt;p&amp;gt;Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/&amp;quot;&amp;gt;Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 05 Aug 2026 14:36:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Management &amp;amp; Strategy</category>
-      <category>Black Hat</category>
-      <category>Black Hat 2026</category>
-      <category>security products</category>
     </item>
     <item>
       <title>Paperclip AI Flaws Let Unauthenticated Attackers Run Commands</title>
