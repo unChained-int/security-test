@@ -5,9 +5,84 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:43:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data</title>
+      <link>https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/</link>
+      <description>&amp;lt;p&amp;gt;The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/&amp;quot;&amp;gt;Critical One-Click Vulnerability in Atlassian&amp;amp;#8217;s Rovo AI Exposed Enterprise Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 08 Aug 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>Atlassian</category>
+      <category>data theft</category>
+      <category>Rovo</category>
+    </item>
+    <item>
+      <title>Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers</title>
+      <link>https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html</link>
+      <description>Attacker-controlled instructions can make Atlassian&amp;apos;s Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed.
+
+PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was</description>
+      <pubDate>Sat, 08 Aug 2026 14:24:50 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens</title>
+      <link>https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html</link>
+      <description>New research shows content inside an email can escape its message boundary and interfere with the webmail interface.
+
+Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email.
+
+PortSwigger researcher Gareth</description>
+      <pubDate>Sat, 08 Aug 2026 13:33:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication</title>
+      <link>https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</link>
+      <description>Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.
+
+The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain</description>
+      <pubDate>Sat, 08 Aug 2026 12:28:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist</title>
+      <link>https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html</link>
+      <description>N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.
+
+&amp;quot;We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,&amp;quot; the company said.
+
+&amp;quot;This is not a duplicate of our</description>
+      <pubDate>Sat, 08 Aug 2026 12:27:43 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts</title>
+      <link>https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary</description>
+      <pubDate>Sat, 08 Aug 2026 12:22:16 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Arctic Bobtail Squid Video</title>
       <link>https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html</link>
@@ -47,30 +122,6 @@ The macOS-focused infection chain is designed to deliver a shell script that pro
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Samsung’s August Update Patches 56 Security Vulnerabilities Across Galaxy Devices</title>
-      <link>https://www.techrepublic.com/article/news-samsung-august-2026-security-update/</link>
-      <description>&amp;lt;p&amp;gt;Samsung’s August 2026 Galaxy update fixes 56 Android and One UI security flaws, including critical vulnerabilities and clipboard access risks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-samsung-august-2026-security-update/&amp;quot;&amp;gt;Samsung&amp;amp;#8217;s August Update Patches 56 Security Vulnerabilities Across Galaxy Devices&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 07 Aug 2026 18:20:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-samsung-august-2026-security-update/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Mobile</category>
-      <category>News</category>
-      <category>Samsung</category>
-      <category>Security</category>
-      <category>Smartphones</category>
-      <category>android security</category>
-      <category>galaxy security update</category>
-      <category>mobile security</category>
-      <category>one ui</category>
-      <category>samsung</category>
-      <category>samsung galaxy</category>
-      <category>security updates</category>
-      <category>software vulnerabilities</category>
-    </item>
-    <item>
       <title>UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data</title>
       <link>https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</link>
       <description>A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671.
@@ -104,55 +155,11 @@ The macOS-focused infection chain is designed to deliver a shell script that pro
       <category>In Other News</category>
     </item>
     <item>
-      <title>Runaway AI Agents, Cyberattacks, and Power Shifts Define the Week in Tech</title>
-      <link>https://www.techrepublic.com/article/runaway-ai-agents-cyberattacks-and-power-shifts-define-the-week-in-tech/</link>
-      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from August 3–7.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/runaway-ai-agents-cyberattacks-and-power-shifts-define-the-week-in-tech/&amp;quot;&amp;gt;Runaway AI Agents, Cyberattacks, and Power Shifts Define the Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 07 Aug 2026 14:04:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/runaway-ai-agents-cyberattacks-and-power-shifts-define-the-week-in-tech/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI</category>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>Anthropic</category>
-      <category>Apple</category>
-      <category>ChatGPT</category>
-      <category>Claude</category>
-      <category>Cloud Security</category>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>DeepMind</category>
-      <category>Google</category>
-      <category>iOS</category>
-      <category>Meta</category>
-      <category>Microsoft</category>
-      <category>Mobile</category>
-      <category>Open source</category>
-      <category>OpenAI</category>
-      <category>Privacy</category>
-      <category>Robotics</category>
-      <category>Tech Industry</category>
-      <category>Weekly Roundup</category>
-      <category>Windows</category>
-      <category>ai agent containment</category>
-      <category>ai security patches</category>
-      <category>Daily Tech Insider</category>
-      <category>google deepmind</category>
-      <category>gpt-5.6 pricing</category>
-      <category>icloud private relay</category>
-      <category>Newsletter Roundup</category>
-      <category>openai astra</category>
-      <category>robotaxi investment</category>
-      <category>shai-hulud worm</category>
-      <category>spacex mobile</category>
-      <category>water utility cyberattacks</category>
-    </item>
-    <item>
       <title>New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP</title>
       <link>https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</link>
       <description>WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page.
 
-Tracked as&amp;amp;nbsp;CVE-2026-64638&amp;amp;nbsp;(CVSS score: 8.9), the</description>
+Tracked as&amp;amp;nbsp;CVE-2026-64638&amp;amp;nbsp;(CVSS score: 8.9), the high-severity</description>
       <pubDate>Fri, 07 Aug 2026 18:26:23 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -702,21 +709,6 @@ Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, includin
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway</title>
-      <link>https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/</link>
-      <description>&amp;lt;p&amp;gt;(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/&amp;quot;&amp;gt;Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Compliance</category>
-      <category>Management &amp;amp; Strategy</category>
-      <category>governance</category>
-      <category>GRC</category>
-      <category>Podcast</category>
-    </item>
-    <item>
       <title>CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps</title>
       <link>https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html</link>
       <description>Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.
@@ -1232,31 +1224,6 @@ The &amp;quot;evil twin&amp;quot; extensions were uploaded to the repository bet
       <guid isPermaLink="true">https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Frontier Models Engage in Unsanctioned Behavior During Testing</title>
-      <link>https://www.infosecurity-magazine.com/news/frontier-models-unsanctioned/</link>
-      <description>Anthropic and OpenAI models attacked “real people and organizations” during AI Security Institute tests</description>
-      <pubDate>Wed, 05 Aug 2026 08:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/frontier-models-unsanctioned/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Angola&amp;apos;s Largest Telco Breached Hours Before IPO</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo</link>
-      <description>Unitel, Angola&amp;apos;s dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco&amp;apos;s public offering.</description>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fake Bank of America Phishing Scam Installs Remote Access Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/</link>
-      <description>Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enabling remote access and persistence on compromised systems</description>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
