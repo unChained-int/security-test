@@ -5,9 +5,58 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Aug 2026 18:54:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 01:26:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Arctic Bobtail Squid Video</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html</link>
+      <description>&amp;lt;p&amp;gt;Nice &amp;lt;a href=&amp;quot;https://petapixel.com/2026/07/23/rare-arctic-bobtail-squid-filmed-in-its-natural-habitat-for-the-first-time/&amp;quot;&amp;gt;video&amp;lt;/a&amp;gt; of the Arctic bobtail squid.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 07 Aug 2026 21:07:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+      <category>video</category>
+    </item>
+    <item>
+      <title>Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer</title>
+      <link>https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</link>
+      <description>A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.
+
+&amp;quot;These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,&amp;quot; OpenSourceMalware researcher Paul</description>
+      <pubDate>Sat, 08 Aug 2026 00:18:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets</title>
+      <link>https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</link>
+      <description>ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.
+
+The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that&amp;apos;s compatible with the computer&amp;apos;s CPU architecture.
+
+&amp;quot;</description>
+      <pubDate>Fri, 07 Aug 2026 23:59:08 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data</title>
+      <link>https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</link>
+      <description>A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671.
+
+&amp;quot;UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their</description>
+      <pubDate>Fri, 07 Aug 2026 23:46:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>AI-Generated Patches Fail Half the Time</title>
       <link>https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time</link>
@@ -1165,48 +1214,6 @@ The list of vulnerabilities is as follows -
       <guid isPermaLink="true">https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The 40 Biggest Data Breaches of All Time (Updated July 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches</link>
-      <description>Our updated list for 2025 ranks the 83 biggest data breaches of all time, ranked by impact. Learn from their mistakes to avoid costly damages.</description>
-      <pubDate>Wed, 05 Aug 2026 07:30:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Biggest Data Breaches in the UK (Updated July 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches-uk</link>
-      <description>Learn about the biggest data breaches to ever occur in the UK.</description>
-      <pubDate>Wed, 05 Aug 2026 07:24:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-uk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer</title>
-      <link>https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html</link>
-      <description>Cybersecurity researchers have disclosed what has been described as a &amp;quot;long-standing supply chain attack&amp;quot; on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.
-
-According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August 2025 and involves a trojanized version of the application to deliver FDMTP, a</description>
-      <pubDate>Wed, 05 Aug 2026 11:17:19 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iran Cyberattacks Against Minnesota Water Systems</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html&amp;quot;&amp;gt;Attribution&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/&amp;quot;&amp;gt;is&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/amp/&amp;quot;&amp;gt;preliminary&amp;lt;/a&amp;gt;, and so far it seems no real damage.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;And it seems like this is a campaign that has targeted at least &amp;lt;a href=&amp;quot;https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html?unlocked_article_code=1.2FA.xPwI.F0C0GgLEjGZc&amp;amp;#38;smid=nytcore-ios-share&amp;quot;&amp;gt;seven states&amp;lt;/a&amp;gt;. And, because this is where the US is right now, Trump doesn&amp;amp;#8217;t believe it&amp;amp;#8217;s Iran and that Minnesota&amp;amp;#8230;I guess&amp;amp;#8230;hacked itself.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#8220;I think I blame it on Minnesota because they&amp;amp;#8217;re grossly incompetent,&amp;amp;#8221; Trump said. &amp;amp;#8220;I would blame it on Minnesota and the governor, the corrupt governor of Minnesota. They like to say, &amp;amp;#8216;Oh, it&amp;amp;#8217;s Iran.&amp;amp;#8217; Iran should be so lucky. Iran&amp;amp;#8217;s got bigger problems than worrying about Minnesota.&amp;amp;#8221;...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 04 Aug 2026 19:00:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cyberattack</category>
-      <category>infrastructure</category>
-      <category>Iran</category>
     </item>
   </channel>
 </rss>
