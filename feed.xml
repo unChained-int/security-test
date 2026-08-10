@@ -5,9 +5,37 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Aug 2026 01:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:37:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI&amp;apos;s Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause</title>
+      <link>https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html</link>
+      <description>OpenAI has announced that it&amp;apos;s pausing some &amp;quot;internal activities&amp;quot; involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity.
+
+In response to the discovery, the AI upstart said it&amp;apos;s implementing security controls for higher-capability models and associated activities, such as isolated</description>
+      <pubDate>Mon, 10 Aug 2026 11:20:03 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Flaws Discovered in Belgian eID Software Used by 2 Million People</title>
+      <link>https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/</link>
+      <description>&amp;lt;p&amp;gt;The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/&amp;quot;&amp;gt;Critical Flaws Discovered in Belgian eID Software Used by 2 Million People&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 10 Aug 2026 04:44:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Belgium</category>
+      <category>Connective</category>
+      <category>eID</category>
+      <category>electronic signature</category>
+      <category>Nitro</category>
+      <category>vulnerability</category>
+    </item>
     <item>
       <title>Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data</title>
       <link>https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/</link>
@@ -22,6 +50,7 @@
       <category>AI</category>
       <category>Atlassian</category>
       <category>data theft</category>
+      <category>Featured</category>
       <category>Rovo</category>
     </item>
     <item>
@@ -743,22 +772,6 @@ Nothing here is especially mystical.</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</title>
-      <link>https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/</link>
-      <description>&amp;lt;p&amp;gt;Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/&amp;quot;&amp;gt;Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 06 Aug 2026 12:54:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>ChatGPT Atlas</category>
-      <category>Claude</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities</title>
       <link>https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html</link>
       <description>Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.
@@ -1258,14 +1271,6 @@ We scanned public GitHub commits for exposed n8n API tokens and identified 4,576
       <guid isPermaLink="true">https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ChainDrop Worm Hits 400+ npm Packages with Two Billion Monthly Installs</title>
-      <link>https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/</link>
-      <description>A new npm worm has compromised packages with over two billion monthly installs</description>
-      <pubDate>Wed, 05 Aug 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
