@@ -5,9 +5,47 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 11 Aug 2026 01:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:04:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Biggest Data Breaches in Retail (Updated August 2026) | UpGuard</title>
+      <link>https://www.upguard.com/blog/biggest-data-breaches-in-retail</link>
+      <description>The biggest data breaches in retail and e-commerce, from Target to Marks &amp;amp; Spencer, plus what PCI DSS 4.0.1 now requires of merchants.</description>
+      <pubDate>Tue, 11 Aug 2026 06:16:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-in-retail</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Mozilla Issues New Firefox GPG Key Following Exposure</title>
+      <link>https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/</link>
+      <description>&amp;lt;p&amp;gt;The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/&amp;quot;&amp;gt;Mozilla Issues New Firefox GPG Key Following Exposure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 11 Aug 2026 06:16:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Application Security</category>
+      <category>Data Protection</category>
+      <category>exposed key</category>
+      <category>Firefox</category>
+      <category>GPG</category>
+      <category>Mozilla</category>
+      <category>signing key</category>
+      <category>Supply Chain</category>
+      <category>Thunderbird</category>
+    </item>
+    <item>
+      <title>BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins</title>
+      <link>https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html</link>
+      <description>Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform&amp;apos;s plugins team to temporarily disable their downloads.
+
+&amp;quot;Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,&amp;quot; Wordfence researcher Paolo Tresso said.</description>
+      <pubDate>Tue, 11 Aug 2026 11:18:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>&amp;apos;GhostJacking&amp;apos; Exposes Identity Governance Gaps in AI Agents</title>
       <link>https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents</link>
@@ -201,6 +239,7 @@ That’s only part of it. Here’s</description>
       <category>AI</category>
       <category>Astra</category>
       <category>cybersecurity AI</category>
+      <category>Featured</category>
       <category>OpenAI</category>
       <category>OpenAI Astra</category>
     </item>
@@ -495,24 +534,6 @@ In response to the discovery, the AI upstart said it&amp;apos;s implementing sec
       <guid isPermaLink="true">https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Critical Flaws Discovered in Belgian eID Software Used by 2 Million People</title>
-      <link>https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/</link>
-      <description>&amp;lt;p&amp;gt;The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/&amp;quot;&amp;gt;Critical Flaws Discovered in Belgian eID Software Used by 2 Million People&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 10 Aug 2026 04:44:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Belgium</category>
-      <category>Connective</category>
-      <category>eID</category>
-      <category>electronic signature</category>
-      <category>Featured</category>
-      <category>Nitro</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers</title>
@@ -1293,22 +1314,6 @@ The intrusions reached at least 165 organizations and exposed records belonging 
       <guid isPermaLink="true">https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>23 Biggest Data Breaches in Australia (Updated July 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches-australia</link>
-      <description>Learn about some of the biggest data breaches that have impacted Australian businesses, including recent cyberattacks in 2025.</description>
-      <pubDate>Thu, 06 Aug 2026 04:24:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-australia</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>26 Biggest Data Breaches in Finance (Updated July 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches-financial-services</link>
-      <description>This regularly updated list analyzes the biggest data breaches in the financial services sector. Learn the key errors that lead to each breach event.</description>
-      <pubDate>Thu, 06 Aug 2026 04:20:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-financial-services</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
