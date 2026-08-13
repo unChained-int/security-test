@@ -5,9 +5,18 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 12 Aug 2026 18:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 01:51:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Long-running Data Theft Campaign Targeting Salesforce, ServiceNow</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow</link>
+      <description>The &amp;amp;quot;City-Forum&amp;amp;quot; campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.</description>
+      <pubDate>Wed, 12 Aug 2026 21:08:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor</title>
       <link>https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html</link>
@@ -193,6 +202,15 @@ The extensions, published across at least 40 Chrome Web Store developer accounts
       <pubDate>Wed, 12 Aug 2026 12:04:25 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/manual-vs-ai-assisted-vendor-assessment</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Shaping the NVD for the Future: We Need Your Feedback on AI-Enabled Vulnerability Management</title>
+      <link>https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability</link>
+      <description>For over two decades, the NIST National Vulnerability Database (NVD) has served as the U.S. government repository for standards-based vulnerability management data and as a foundational resource for cybersecurity risk analysis, vulnerability management, compliance automation, and software security. New Opportunities for the NVD via Automation Our cybersecurity landscape is changing dramatically and is being reconfigured by artificial intelligence (AI) in unique, exciting, and yes, sometimes challenging ways. This is creating openings to potentially leverage AI systems to discover and exploit</description>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nist.gov/blogs/cybersecurity-insights/shaping-nvd-future-we-need-your-feedback-ai-enabled-vulnerability</guid>
+      <dc:creator>Harold Booth, Jon Boyens</dc:creator>
+      <source url="https://www.nist.gov/blogs/cybersecurity-insights/rss.xml">Cybersecurity Insights</source>
     </item>
     <item>
       <title>OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models&amp;apos; Reasoning</title>
@@ -1203,31 +1221,6 @@ The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, all
 The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary</description>
       <pubDate>Sat, 08 Aug 2026 12:22:16 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: Arctic Bobtail Squid Video</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html</link>
-      <description>&amp;lt;p&amp;gt;Nice &amp;lt;a href=&amp;quot;https://petapixel.com/2026/07/23/rare-arctic-bobtail-squid-filmed-in-its-natural-habitat-for-the-first-time/&amp;quot;&amp;gt;video&amp;lt;/a&amp;gt; of the Arctic bobtail squid.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 07 Aug 2026 21:07:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>squid</category>
-      <category>video</category>
-    </item>
-    <item>
-      <title>Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer</title>
-      <link>https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</link>
-      <description>A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.
-
-&amp;quot;These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,&amp;quot; OpenSourceMalware researcher Paul</description>
-      <pubDate>Sat, 08 Aug 2026 00:18:17 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
