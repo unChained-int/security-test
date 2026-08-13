@@ -5,9 +5,39 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 13 Aug 2026 01:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:24:27 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Belgium&amp;apos;s eID Authentication Opens Citizen Accounts to RCE</title>
+      <link>https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce</link>
+      <description>The trust framework underlying Belgium&amp;apos;s electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.</description>
+      <pubDate>Thu, 13 Aug 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Exploit SharePoint Authentication Bypass After Public PoC Release</title>
+      <link>https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html</link>
+      <description>Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
+
+The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates.
+
+&amp;quot;The authentication</description>
+      <pubDate>Thu, 13 Aug 2026 11:39:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>What is a Content Security Policy (CSP)? | UpGuard</title>
+      <link>https://www.upguard.com/blog/content-security-policy</link>
+      <description>The Content Security Policy is a standard to prevent cross-site scripting attacks (XSS), clickjacking, packet sniffing, and malicious code injection.</description>
+      <pubDate>Thu, 13 Aug 2026 05:14:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/content-security-policy</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>Long-running Data Theft Campaign Targeting Salesforce, ServiceNow</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow</link>
@@ -175,6 +205,7 @@ The extensions, published across at least 40 Chrome Web Store developer accounts
       <dc:creator>Kevin Townsend</dc:creator>
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Malware &amp;amp; Threats</category>
+      <category>Featured</category>
       <category>Salesforce</category>
       <category>ServiceNow</category>
     </item>
@@ -1186,41 +1217,6 @@ Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail,
 PortSwigger researcher Gareth</description>
       <pubDate>Sat, 08 Aug 2026 13:33:57 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication</title>
-      <link>https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</link>
-      <description>Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.
-
-The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain</description>
-      <pubDate>Sat, 08 Aug 2026 12:28:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist</title>
-      <link>https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html</link>
-      <description>N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.
-
-&amp;quot;We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,&amp;quot; the company said.
-
-&amp;quot;This is not a duplicate of our</description>
-      <pubDate>Sat, 08 Aug 2026 12:27:43 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts</title>
-      <link>https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
-
-The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary</description>
-      <pubDate>Sat, 08 Aug 2026 12:22:16 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
