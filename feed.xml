@@ -5,9 +5,81 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 17 Aug 2026 18:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:08:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Video Call Exploit Chains Two Flaws in Unisoc Modems</title>
+      <link>https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems</link>
+      <description>Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.</description>
+      <pubDate>Mon, 17 Aug 2026 21:37:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</title>
+      <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
+      <description>GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.
+
+The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4.
+
+Released on</description>
+      <pubDate>Tue, 18 Aug 2026 02:33:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>&amp;apos;Turf War&amp;apos; Between Claude Agents Leads to Self-Replicating Malware</title>
+      <link>https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</link>
+      <description>Three testing models with the same goal but different directives engaged in &amp;amp;quot;increasingly aggressive&amp;amp;quot; territorial attacks on one another, according to Anthropic.</description>
+      <pubDate>Mon, 17 Aug 2026 20:26:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Adam Shostack Talks Hugging Face &amp;amp;amp; PHANTOM-B</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</link>
+      <description>World-class threat modeler Adam Shostack shared he was &amp;amp;quot;blown away&amp;amp;quot; by OpenAI&amp;apos;s revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both &amp;amp;quot;lightweight yet still usable.&amp;amp;quot;</description>
+      <pubDate>Mon, 17 Aug 2026 19:22:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
+      <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
+      <description>Cybersecurity researchers at Wiz&amp;amp;nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake&amp;apos;s public&amp;amp;nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.
+
+The issue was present in&amp;amp;nbsp;.github/workflows/jira_issue.yml, which ran when a</description>
+      <pubDate>Tue, 18 Aug 2026 00:14:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads</title>
+      <link>https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</link>
+      <description>A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.
+
+The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias &amp;quot;</description>
+      <pubDate>Mon, 17 Aug 2026 23:52:09 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic</title>
+      <link>https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</link>
+      <description>Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.
+
+Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the</description>
+      <pubDate>Mon, 17 Aug 2026 23:11:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>US Courts To Begin Publishing Spyware Records From 2029</title>
       <link>https://www.techrepublic.com/article/news-us-courts-government-spyware-wiretap-report/</link>
@@ -1155,80 +1227,6 @@ The most severe of the flaws are listed below -
       <guid isPermaLink="true">https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Prompt Injections for Defense</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html</link>
-      <description>&amp;lt;p&amp;gt;This seems to &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/&amp;quot;&amp;gt;work&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Researchers from &amp;lt;a href=&amp;quot;https://tracebit.com/&amp;quot;&amp;gt;Tracebit&amp;lt;/a&amp;gt; on Monday &amp;lt;a href=&amp;quot;https://agentic.tracebit.com/context-bombs/&amp;quot;&amp;gt;said&amp;lt;/a&amp;gt; they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts direct the attacking LLM to perform an action forbidden by its guardrails, the safety barriers AI developers erect to prevent it from taking harmful actions. The LLM responds by shutting down.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Examples are a prompt that orders the LLM to provide steps for developing inhalable Anthrax spores, or, in the case of LLMs from Chinese developers, make references to the iconic Tank Man from the 1989 Tiananmen Square massacre. Once the LLM encounters these forbidden commands, it no longer follows its existing commands. The researchers have named the technique context bombing...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 12 Aug 2026 09:56:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>defense</category>
-      <category>prompt injection</category>
-    </item>
-    <item>
-      <title>Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL</title>
-      <link>https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/</link>
-      <description>The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country</description>
-      <pubDate>Wed, 12 Aug 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access</title>
-      <link>https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html</link>
-      <description>Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.
-
-The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were</description>
-      <pubDate>Wed, 12 Aug 2026 14:31:54 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Fixes 400 Flaws on August Patch Tuesday</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/</link>
-      <description>Microsoft has issued another massive batch of security updates with 400 fixed in the August Patch Tuesday</description>
-      <pubDate>Wed, 12 Aug 2026 08:12:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations</title>
-      <link>https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html</link>
-      <description>Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.
-
-Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more</description>
-      <pubDate>Wed, 12 Aug 2026 13:34:52 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code</title>
-      <link>https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html</link>
-      <description>SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.
-
-The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation.
-
-&amp;quot;SAP Commerce Cloud allows an</description>
-      <pubDate>Wed, 12 Aug 2026 13:01:40 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Stop chasing your team for security questionnaire answers  | UpGuard</title>
-      <link>https://www.upguard.com/blog/stop-chasing-your-team-for-security-questionnaire-answers</link>
-      <description>If you work in sales, you know the frustrations of chasing departments for help with questionnaire responses. Learn the faster and more calming approch.</description>
-      <pubDate>Wed, 12 Aug 2026 06:47:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/stop-chasing-your-team-for-security-questionnaire-answers</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
