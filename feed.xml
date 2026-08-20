@@ -5,9 +5,40 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:08:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>No-Filter &amp;apos;Kriminal&amp;apos; AI Platform Raises Cybercrime Concerns</title>
+      <link>https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</link>
+      <description>The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.</description>
+      <pubDate>Wed, 19 Aug 2026 20:32:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
+      <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
+      <description>Cybersecurity researchers have disclosed details of a&amp;amp;nbsp;remote Spectre attack&amp;amp;nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021.
+
+The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,</description>
+      <pubDate>Thu, 20 Aug 2026 00:32:40 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior</title>
+      <link>https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</link>
+      <description>OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident.
+
+&amp;quot;As models become more capable, the risks associated with developing and testing them internally also grow,&amp;quot; the AI company</description>
+      <pubDate>Wed, 19 Aug 2026 23:36:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>SilkParasite Threatens Central Asian Orgs With Flurry of RATs</title>
       <link>https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats</link>
@@ -325,6 +356,14 @@ The cybersecurity company characterized the web shell as a fully equipped extort
       <pubDate>Tue, 18 Aug 2026 20:17:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture</guid>
       <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The &amp;apos;Industrial Accidents&amp;apos; Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures</link>
+      <description>Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.</description>
+      <pubDate>Tue, 18 Aug 2026 19:09:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1198,50 +1237,6 @@ Russian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mo
       <category>Raspberry Pi</category>
       <category>uBlock Origin</category>
       <category>Zach Edwards</category>
-    </item>
-    <item>
-      <title>Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers</title>
-      <link>https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html</link>
-      <description>Cybersecurity researchers have detailed a post-exploitation technique that enables the&amp;amp;nbsp;Chrome DevTools Protocol (CDP)&amp;amp;nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions.
-
-The technique assumes that an operator already has code execution on the Windows host and does not involve</description>
-      <pubDate>Fri, 14 Aug 2026 16:37:45 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;This essay was written with Nathan E. Sanders, and originally appeared in &amp;lt;a href=&amp;quot;https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models&amp;quot;&amp;gt;The Guardian&amp;lt;/a&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;OpenAI, and then &amp;lt;a href=&amp;quot;https://www.theguardian.com/technology/anthropic&amp;quot;&amp;gt;Anthropic&amp;lt;/a&amp;gt;, were each formed by AI developers who feared unrestrained corporate AI development&amp;amp;#8212;specifically, that companies like Google and Meta would steer the technology towards deleterious, maybe even catastrophically unsafe, outcomes for society. Their founders proclaimed that their new labs, uniquely, could be trusted to develop the technology in humanity&amp;amp;#8217;s best interest. But each, in turn, were themselves co-opted by the same market incentives, themselves becoming corporate behemoths zealously guarding future investor value rather than the public interest...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 14 Aug 2026 11:03:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>LLM</category>
-      <category>public interest</category>
-    </item>
-    <item>
-      <title>CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps</title>
-      <link>https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html</link>
-      <description>Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time.
-
-CTM360, which detailed the activity in a new report titled RecruitTrap, said it</description>
-      <pubDate>Fri, 14 Aug 2026 16:27:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Novel macOS Infostealer AmnesiaStealer Spread via ClickFix</title>
-      <link>https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/</link>
-      <description>AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data</description>
-      <pubDate>Fri, 14 Aug 2026 10:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
