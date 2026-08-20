@@ -5,9 +5,30 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:42:03 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code</title>
+      <link>https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</link>
+      <description>Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.
+
+The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type.
+
+&amp;quot;The flaw lives in the Forms module&amp;apos;s File</description>
+      <pubDate>Thu, 20 Aug 2026 11:34:34 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Stop chasing your team for security questionnaire answers  | UpGuard</title>
+      <link>https://www.upguard.com/blog/stop-chasing-your-team-for-security-questionnaire-answers</link>
+      <description>If you work in sales, you know the frustrations of chasing departments for help with questionnaire responses. Learn the faster and more calming approch.</description>
+      <pubDate>Thu, 20 Aug 2026 05:56:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/stop-chasing-your-team-for-security-questionnaire-answers</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>No-Filter &amp;apos;Kriminal&amp;apos; AI Platform Raises Cybercrime Concerns</title>
       <link>https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</link>
@@ -501,21 +522,21 @@ According to independent reports from watchTowr and VulnCheck, the vulnerabiliti
       <category>spyware</category>
     </item>
     <item>
-      <title>Silent &amp;apos;TwinLoot&amp;apos; Cyber Threat Operates Entirely From Microsoft&amp;apos;s Cloud</title>
-      <link>https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</link>
-      <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.</description>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>&amp;apos;Ransom Busters&amp;apos;: Ransomware Actor Poses as Incident-Recovery Service</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
       <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.</description>
       <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
       <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Silent &amp;apos;TwinLoot&amp;apos; Cyber Threat Operates Entirely From Microsoft&amp;apos;s Cloud</title>
+      <link>https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</link>
+      <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.</description>
+      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1203,40 +1224,6 @@ Russian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mo
       <pubDate>Fri, 14 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cyera&amp;apos;s Oasis Security Buy Is All About AI Agent Control</title>
-      <link>https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control</link>
-      <description>The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.</description>
-      <pubDate>Fri, 14 Aug 2026 12:17:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control</guid>
-      <dc:creator>Jeffrey Schwartz</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Who’s Tracking You? Use This New Service to Find Out</title>
-      <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
-      <description>It can be daunting to determine who&amp;apos;s responsible for showing ads on the websites we visit, or who&amp;apos;s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.</description>
-      <pubDate>Fri, 14 Aug 2026 11:24:35 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Security Tools</category>
-      <category>Web Fraud 2.0</category>
-      <category>AdBlock</category>
-      <category>AdBlock Plus</category>
-      <category>Alfa Bank</category>
-      <category>Between Digital</category>
-      <category>BitSight</category>
-      <category>DecryptAds</category>
-      <category>Fengwo Group</category>
-      <category>Infoblox</category>
-      <category>opera</category>
-      <category>Pi-hole</category>
-      <category>Raspberry Pi</category>
-      <category>uBlock Origin</category>
-      <category>Zach Edwards</category>
     </item>
   </channel>
 </rss>
