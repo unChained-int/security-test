@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:42:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,150 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall</guid>
       <dc:creator>Darshan Tiwari</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>North Korean Hackers Tied to Rust Supply Chain Attack</title>
+      <link>https://www.infosecurity-magazine.com/news/north-korean-rust-supply-chain/</link>
+      <description>Cybersecurity researchers have linked a malicious backdoor in compromised Rust packages to previous North Korean supply chain attacks</description>
+      <pubDate>Fri, 21 Aug 2026 12:40:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/north-korean-rust-supply-chain/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical Isolated-vm Vulnerability Leads to RCE on Host</title>
+      <link>https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/</link>
+      <description>&amp;lt;p&amp;gt;The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/&amp;quot;&amp;gt;Critical Isolated-vm Vulnerability Leads to RCE on Host&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 21 Aug 2026 12:26:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Isolated-vm</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>New Agent Tesla Malware Variant Boosts Evasion Capabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/</link>
+      <description>An Agent Tesla v4 malware campaign used novel emoji-based code obfuscation to evade detection, KnowBe4 has revealed</description>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Wazuh and AI For Enhanced SOC Workflows</title>
+      <link>https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html</link>
+      <description>Artificial Intelligence (AI) has become one of this decade&amp;apos;s defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate</description>
+      <pubDate>Fri, 21 Aug 2026 16:51:39 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0</title>
+      <link>https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html</link>
+      <description>Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.
+
+Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -</description>
+      <pubDate>Fri, 21 Aug 2026 15:33:11 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>More Incidents of AIs Going Rogue in Cybersecurity Challenges</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html</link>
+      <description>&amp;lt;p&amp;gt;The AI Security Institute has a &amp;lt;a href=&amp;quot;https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing&amp;quot;&amp;gt;new report&amp;lt;/a&amp;gt; of AI systems engaging in &amp;amp;#8220;unsanctioned behavior&amp;amp;#8221;&amp;amp;#8212;what I have been calling &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://spectrum.ieee.org/ai-agent-benchmark&amp;quot;&amp;gt;genie behavior&amp;lt;/a&amp;gt;&amp;amp;#8212;while being tested on their cybersecurity capabilities.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The incident stemmed from a single evaluation where agents were given a task of solving a cyber security challenge. We ran this challenge 122 times across several models. Our investigation found that in 10 of those runs, an AI agent took autonomous, unsanctioned action on the live internet, targeting real people and organisations. In total, we catalogued 19 such actions. Almost all of this behaviour (17 actions) came from a single model, Anthropic&amp;amp;#8217;s Mythos 5, with 2 actions involving OpenAI&amp;amp;#8217;s GPT-5.6-Sol with cyber classifiers (mechanisms to prevent misuse) disabled. In the most serious case, an agent tried to insert malicious code into an open-source project. In an attempt to get the code approved, the agent engaged in social engineering&amp;amp;#8212;creating fake online identities and using them to pressure the project&amp;amp;#8217;s maintainer to approve the code. A human maintainer caught and refused to approve the malicious code...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 21 Aug 2026 09:42:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cybersecurity</category>
+      <category>loopholes</category>
+    </item>
+    <item>
+      <title>Rust Supply Chain Attack Linked to North Korean Hackers</title>
+      <link>https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/</link>
+      <description>&amp;lt;p&amp;gt;Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/&amp;quot;&amp;gt;Rust Supply Chain Attack Linked to North Korean Hackers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 21 Aug 2026 09:23:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Supply Chain Security</category>
+      <category>Arrayref</category>
+      <category>North Korea</category>
+      <category>Rust</category>
+      <category>supply chain attack</category>
+    </item>
+    <item>
+      <title>Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind</title>
+      <link>https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/</link>
+      <description>&amp;lt;p&amp;gt;Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/&amp;quot;&amp;gt;Contractors&amp;amp;#8217; CMMC Confidence Rises as Ability to Prove It Falls Behind&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 21 Aug 2026 08:41:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Compliance</category>
+      <category>Government</category>
+      <category>CMMC</category>
+      <category>compliance</category>
+      <category>Report</category>
+    </item>
+    <item>
+      <title>Microsoft Rolls Out 22 Fresh Security Patches</title>
+      <link>https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/</link>
+      <description>&amp;lt;p&amp;gt;Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/&amp;quot;&amp;gt;Microsoft Rolls Out 22 Fresh Security Patches&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 21 Aug 2026 08:12:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cloud Security</category>
+      <category>Vulnerabilities</category>
+      <category>Microsoft</category>
+      <category>patches</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Cybersecurity Job Ads Requiring AI Skills Double</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/</link>
+      <description>An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI</description>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities</title>
+      <link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/&amp;quot;&amp;gt;CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 21 Aug 2026 07:25:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CISA KEV</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>TrueConf</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure</title>
+      <link>https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</link>
+      <description>A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.
+
+The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring</description>
+      <pubDate>Fri, 21 Aug 2026 12:34:25 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
@@ -182,14 +326,6 @@ The AI security company, which has codenamed the technique &amp;quot;Cryptograph
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>JFrog Artifactory Flaws Enable Software Supply Chain Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/</link>
-      <description>Two Artifactory flaws allowed attackers to poison package metadata across software repositories</description>
-      <pubDate>Thu, 20 Aug 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
       <title>Surveillance – Everything You Wanted to Know, But Were Afraid to Ask</title>
       <link>https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/</link>
       <description>&amp;lt;p&amp;gt;We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it.&amp;lt;/p&amp;gt;
@@ -330,20 +466,6 @@ The attack, which the researchers named &amp;quot;Zombie Card,&amp;quot; require
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities</title>
-      <link>https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/&amp;quot;&amp;gt;Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 20 Aug 2026 11:46:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Cisco</category>
-      <category>patches</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Is a SOC 2 Report Enough to Assess a Cloud Vendor? | UpGuard</title>
       <link>https://www.upguard.com/blog/soc-2-cloud-vendors</link>
       <description>A SOC 2 report answers some questions about a cloud vendor. It was never built to answer the cloud-specific ones.</description>
@@ -385,23 +507,6 @@ The attacks, collectively named &amp;quot;CDN Tsunami,&amp;quot; were evaluated 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking</title>
-      <link>https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/</link>
-      <description>&amp;lt;p&amp;gt;Atalanta&amp;apos;s Argo product is now being used to prove the resilience of Viasat’s satellite communications network.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/&amp;quot;&amp;gt;AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 20 Aug 2026 11:08:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>ICS/OT</category>
-      <category>AI</category>
-      <category>OT</category>
-      <category>Russia</category>
-      <category>Satellite</category>
-      <category>security product</category>
-    </item>
-    <item>
       <title>NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands</title>
       <link>https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html</link>
       <description>Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL&amp;apos;s open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software&amp;apos;s spacecraft and instrument command bus.
@@ -430,20 +535,6 @@ Zimperium zLabs, in a Wednesday report, said the Android malware also features a
       <guid isPermaLink="true">https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses</title>
-      <link>https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/</link>
-      <description>&amp;lt;p&amp;gt;The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/&amp;quot;&amp;gt;OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 20 Aug 2026 10:36:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>AI model</category>
-      <category>OpenAI</category>
     </item>
     <item>
       <title>Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps</title>
@@ -486,35 +577,6 @@ According to the Socket Threat Research team, the extensions are part of a broad
       <guid isPermaLink="true">https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler</title>
-      <link>https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/</link>
-      <description>&amp;lt;p&amp;gt;Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/&amp;quot;&amp;gt;Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 20 Aug 2026 08:33:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Citrix</category>
-      <category>NetScaler</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Critical GitLab Flaw Exploited Shortly After Disclosure</title>
-      <link>https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/</link>
-      <description>&amp;lt;p&amp;gt;CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/&amp;quot;&amp;gt;Critical GitLab Flaw Exploited Shortly After Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 20 Aug 2026 07:48:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>GitLab</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code</title>
@@ -1082,67 +1144,6 @@ The hardware wallet maker said all affected customers were notified individually
       <pubDate>Tue, 18 Aug 2026 08:17:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE</title>
-      <link>https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and machine learning workloads. As of writing, the GitHub project has more than</description>
-      <pubDate>Tue, 18 Aug 2026 12:04:20 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Video Call Exploit Chains Two Flaws in Unisoc Modems</title>
-      <link>https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems</link>
-      <description>Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.</description>
-      <pubDate>Mon, 17 Aug 2026 21:37:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</title>
-      <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
-      <description>GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.
-
-The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4.
-
-Released on</description>
-      <pubDate>Tue, 18 Aug 2026 02:33:04 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>&amp;apos;Turf War&amp;apos; Between Claude Agents Leads to Self-Replicating Malware</title>
-      <link>https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</link>
-      <description>Three testing models with the same goal but different directives engaged in &amp;amp;quot;increasingly aggressive&amp;amp;quot; territorial attacks on one another, according to Anthropic.</description>
-      <pubDate>Mon, 17 Aug 2026 20:26:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hugging Face Breach Raises Big Questions About AI Security Controls</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</link>
-      <description>Adam Shostack, president of Shostack &amp;amp;amp; Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was &amp;amp;quot;blown away&amp;amp;quot; by OpenAI&amp;apos;s revelations regarding the Hugging Face attack.</description>
-      <pubDate>Mon, 17 Aug 2026 19:22:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
-      <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
-      <description>Cybersecurity researchers at Wiz&amp;amp;nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake&amp;apos;s public&amp;amp;nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.
-
-The issue was present in&amp;amp;nbsp;.github/workflows/jira_issue.yml, which ran when a</description>
-      <pubDate>Tue, 18 Aug 2026 00:14:17 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
