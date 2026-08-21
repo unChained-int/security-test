@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:42:45 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,17 @@
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall</guid>
       <dc:creator>Darshan Tiwari</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
+      <description>Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.
+
+The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant&amp;apos;s cloud-based identity and access management service. It was previously called Azure Active Directory</description>
+      <pubDate>Fri, 21 Aug 2026 11:36:11 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>New CUSTODY Framework Constrains AI Agents Inside the Network</title>
@@ -90,7 +101,7 @@ These clusters include UNC6293, UNC7005, and UNC5976.
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More</title>
+      <title>ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More</title>
       <link>https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</link>
       <description>A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.
 
@@ -191,6 +202,7 @@ The AI security company, which has codenamed the technique &amp;quot;Cryptograph
       <category>Threat Intelligence</category>
       <category>Tracking &amp;amp; Law Enforcement</category>
       <category>AI</category>
+      <category>Featured</category>
       <category>Surveillance</category>
     </item>
     <item>
@@ -1129,17 +1141,6 @@ Released on</description>
 The issue was present in&amp;amp;nbsp;.github/workflows/jira_issue.yml, which ran when a</description>
       <pubDate>Tue, 18 Aug 2026 00:14:17 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads</title>
-      <link>https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</link>
-      <description>A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.
-
-The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias &amp;quot;</description>
-      <pubDate>Mon, 17 Aug 2026 23:52:09 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
