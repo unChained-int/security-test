@@ -5,9 +5,59 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:11:57 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Calling on Cyber Pros to Help Defend City Hall</title>
+      <link>https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall</link>
+      <description>Government agencies with smaller budgets need support — and here&amp;apos;s how you can help.</description>
+      <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall</guid>
+      <dc:creator>Darshan Tiwari</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New CUSTODY Framework Constrains AI Agents Inside the Network</title>
+      <link>https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network</link>
+      <description>Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.</description>
+      <pubDate>Thu, 20 Aug 2026 20:42:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads</title>
+      <link>https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html</link>
+      <description>The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation.
+
+The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner</description>
+      <pubDate>Fri, 21 Aug 2026 01:52:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts</title>
+      <link>https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</link>
+      <description>Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S.
+
+These clusters include UNC6293, UNC7005, and UNC5976.
+
+&amp;quot;These clusters engage in persistent, adaptive</description>
+      <pubDate>Fri, 21 Aug 2026 01:29:19 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>What We Missed: Delta Flight Disrupted With Wi-Fi Hack</title>
+      <link>https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack</link>
+      <description>In this video, Dark Reading editors discuss some of the news they didn&amp;apos;t get a chance to cover, including some scary airplane security risks and the US government&amp;apos;s newest &amp;amp;quot;hack back&amp;amp;quot; strategy.</description>
+      <pubDate>Thu, 20 Aug 2026 19:11:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack</guid>
+      <dc:creator>Rob Wright, Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Detailed Timeline of OpenAI’s Cyberattack on Hugging Face</title>
       <link>https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html</link>
@@ -38,6 +88,19 @@
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing</guid>
       <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More</title>
+      <link>https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</link>
+      <description>A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.
+
+Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage.
+
+Nothing here needs</description>
+      <pubDate>Thu, 20 Aug 2026 22:53:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure</title>
@@ -863,21 +926,21 @@ According to independent reports from watchTowr and VulnCheck, the vulnerabiliti
       <category>spyware</category>
     </item>
     <item>
-      <title>&amp;apos;Ransom Busters&amp;apos;: Ransomware Actor Poses as Incident-Recovery Service</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
-      <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.</description>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
       <title>Silent &amp;apos;TwinLoot&amp;apos; Cyber Threat Operates Entirely From Microsoft&amp;apos;s Cloud</title>
       <link>https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</link>
       <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.</description>
       <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;Ransom Busters&amp;apos;: Ransomware Actor Poses as Incident-Recovery Service</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
+      <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.</description>
+      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1079,81 +1142,6 @@ The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CV
       <guid isPermaLink="true">https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic</title>
-      <link>https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</link>
-      <description>Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.
-
-Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the</description>
-      <pubDate>Mon, 17 Aug 2026 23:11:06 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>US Courts To Begin Publishing Spyware Records From 2029</title>
-      <link>https://www.techrepublic.com/article/news-us-courts-government-spyware-wiretap-report/</link>
-      <description>&amp;lt;p&amp;gt;U.S. courts will begin separately tracking spyware-based interceptions, giving the public new data on government hacking while leaving key gaps.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-us-courts-government-spyware-wiretap-report/&amp;quot;&amp;gt;US Courts To Begin Publishing Spyware Records From 2029&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:47:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-us-courts-government-spyware-wiretap-report/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Governance</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>digital surveillance</category>
-      <category>EFF</category>
-      <category>government surveillance</category>
-      <category>privacy</category>
-      <category>ron wyden</category>
-      <category>spyware</category>
-      <category>us courts</category>
-      <category>wiretap report</category>
-    </item>
-    <item>
-      <title>UNISOC Modem Flaw Enables Remote Code Execution via Video Calls</title>
-      <link>https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/</link>
-      <description>UNISOC modem flaw enabled kernel-level code execution through video calls</description>
-      <pubDate>Mon, 17 Aug 2026 15:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS</title>
-      <link>https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos</link>
-      <description>The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.</description>
-      <pubDate>Mon, 17 Aug 2026 15:44:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>The AI Exchange: Innovators in Payment Security Featuring GM Sectec</title>
-      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-gm-sectec</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-gm-sectec&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring GM Sectec&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/Hector-Guillermo-Mart%C3%ADnez-blog.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 17 Aug 2026 14:16:18 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-gm-sectec</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Artificial Intelligence (AI)</category>
-    </item>
-    <item>
-      <title>WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover</title>
-      <link>https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/</link>
-      <description>Critical User Profile Builder flaw let unauthenticated attackers access administrator accounts</description>
-      <pubDate>Mon, 17 Aug 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
