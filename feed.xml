@@ -5,9 +5,33 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:08:20 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Neon Flying Squid</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html</link>
+      <description>&amp;lt;p&amp;gt;The neon flying squid can &amp;lt;a href=&amp;quot;https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean&amp;quot;&amp;gt;fly&amp;lt;/a&amp;gt; in formation.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a thing, which looked like the early stages of an alien invasion.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;They were probably neon flying squid (&amp;lt;i&amp;gt;Ommastrephes bartramii&amp;lt;/i&amp;gt;), the subsequent study &amp;lt;a href=&amp;quot;https://link.springer.com/article/10.1007/s00227-013-2169-9&amp;quot;&amp;gt;states&amp;lt;/a&amp;gt;, a species that is part of a 20-strong flying squid family that was known to leap from the water but, until then, was only rumoured to also be able to glide above it...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 21 Aug 2026 21:07:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2</title>
+      <link>https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</link>
+      <description>Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0.
+
+&amp;quot;When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,&amp;quot; TrendAI, Trend Micro&amp;apos;s</description>
+      <pubDate>Sat, 22 Aug 2026 00:23:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>OWASP Flags Top AI Skill Risks in New Security Blueprint</title>
       <link>https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint</link>
@@ -403,7 +427,7 @@ These clusters include UNC6293, UNC7005, and UNC5976.
     <item>
       <title>Money and Mindset: The Two Biggest Roadblocks to Cyber Policing</title>
       <link>https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing</link>
-      <description>Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.</description>
+      <description>Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.</description>
       <pubDate>Thu, 20 Aug 2026 17:32:51 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing</guid>
       <dc:creator>Arielle Waldman</dc:creator>
@@ -1111,26 +1135,6 @@ According to independent reports from watchTowr and VulnCheck, the vulnerabiliti
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>&amp;apos;Ransom Busters&amp;apos;: Ransomware Actor Poses as Incident-Recovery Service</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
-      <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.</description>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI &amp;quot;Mind Viruses&amp;quot; Can Spread Between Agents Through Persistent Prompt Files</title>
-      <link>https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html</link>
-      <description>Security researchers at Anthropic and Switzerland&amp;apos;s EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.
-
-The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding</description>
-      <pubDate>Tue, 18 Aug 2026 18:08:36 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
