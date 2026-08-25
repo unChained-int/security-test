@@ -5,9 +5,182 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:43:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:43:27 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows</title>
+      <link>https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</link>
+      <description>Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.
+
+According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based.
+
+Mirage2FA Campaign</description>
+      <pubDate>Tue, 25 Aug 2026 17:26:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages</title>
+      <link>https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.
+
+&amp;quot;While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn&amp;apos;t do harm, the threat actor’s use of npm isn&amp;apos;t to infect developers who install it, but to use the</description>
+      <pubDate>Tue, 25 Aug 2026 17:22:43 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands</title>
+      <link>https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html</link>
+      <description>Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE.
+
+While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development</description>
+      <pubDate>Tue, 25 Aug 2026 17:03:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>First Malware Built Specifically for Car Head Units Fuels Botnet</title>
+      <link>https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/</link>
+      <description>&amp;lt;p&amp;gt;Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/&amp;quot;&amp;gt;First Malware Built Specifically for Car Head Units Fuels Botnet&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 25 Aug 2026 11:18:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>IoT Security</category>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Android malware</category>
+      <category>BadBox</category>
+      <category>botnet</category>
+      <category>car hacking</category>
+      <category>head unit</category>
+    </item>
+    <item>
+      <title>Left Unsupervised: 10 Times Access Outlived Its Authorization | UpGuard</title>
+      <link>https://www.upguard.com/blog/10-times-access-outlived-authorization</link>
+      <description>Access granted once shouldn’t mean access forever. Read more on how unmonitored access caused 10 of these real-life breaches and what they taught us.</description>
+      <pubDate>Tue, 25 Aug 2026 11:14:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/10-times-access-outlived-authorization</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Frontier AI: Vulnerability Management&amp;apos;s Systemic Revolution</title>
+      <link>https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html</link>
+      <description>Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a</description>
+      <pubDate>Tue, 25 Aug 2026 16:44:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Australia Warns of Active Exploitation of Critical TeamCity Server Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/</link>
+      <description>Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government</description>
+      <pubDate>Tue, 25 Aug 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Black Hat State of Security Vendors</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html</link>
+      <description>&amp;lt;p&amp;gt;Andy Ellis has a &amp;lt;a href=&amp;quot;https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/&amp;quot;&amp;gt;roundup&amp;lt;/a&amp;gt; of the security vendors at Black Hat this year.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Key Takeaways: We have entered into an AI world.  While nearly half of booths didn&amp;amp;#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere.  Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;At the same time, there&amp;amp;#8217;s a clear trichotomy in the market: tools that tell you how bad things are; tools that stop adversaries, and tools that prevent problems from occurring. While you&amp;amp;#8217;d suspect that the tools that fix things would dominate, the tools that merely tell you how bad things are seem to be frustratingly plentiful...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 25 Aug 2026 10:54:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>conferences</category>
+      <category>marketing</category>
+      <category>security conferences</category>
+    </item>
+    <item>
+      <title>Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</link>
+      <description>A threat actor keeps spreading the WeedHack malware to Minecraft players despite its original infrastructure taken down in July</description>
+      <pubDate>Tue, 25 Aug 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Silent Patches Don’t Stop Attackers – They Blind Defenders</title>
+      <link>https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/</link>
+      <description>&amp;lt;p&amp;gt;Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/&amp;quot;&amp;gt;Silent Patches Don’t Stop Attackers &amp;amp;#8211; They Blind Defenders&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/</guid>
+      <dc:creator>Tod Beardsley</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>patches</category>
+    </item>
+    <item>
+      <title>ReliaQuest Rejects Compromise Claims After ShinyHunters Incident</title>
+      <link>https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/</link>
+      <description>ReliaQuest has detailed a social engineering attack linked to ShinyHunters, denying reports that the threat actor successfully compromised its systems</description>
+      <pubDate>Tue, 25 Aug 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/</link>
+      <description>The US has sanctioned individuals connected to hacking-for-hire group the Mabna Institute</description>
+      <pubDate>Tue, 25 Aug 2026 09:10:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access</title>
+      <link>https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html</link>
+      <description>Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators.
+
+The vulnerabilities, as disclosed by Patchstack, are listed below -
+
+
+  CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation</description>
+      <pubDate>Tue, 25 Aug 2026 14:04:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff</title>
+      <link>https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/</link>
+      <description>&amp;lt;p&amp;gt;AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/&amp;quot;&amp;gt;Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 25 Aug 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>China</category>
+      <category>NVIDIA</category>
+    </item>
+    <item>
+      <title>CISA Warns of Exploited Oracle WebLogic Vulnerability</title>
+      <link>https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/</link>
+      <description>&amp;lt;p&amp;gt;The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/&amp;quot;&amp;gt;CISA Warns of Exploited Oracle WebLogic Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 25 Aug 2026 07:46:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CISA KEV</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>Oracle</category>
+      <category>Oracle WebLogic</category>
+      <category>vulnerability</category>
+    </item>
     <item>
       <title>Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data</title>
       <link>https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html</link>
@@ -36,6 +209,28 @@ The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unaut
       <guid isPermaLink="true">https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apollo Confirms Data Breach Amid Cyberattacks Targeting Financial Firms</title>
+      <link>https://www.techrepublic.com/article/news-apollo-data-breach-financial-firms-social-engineering/</link>
+      <description>&amp;lt;p&amp;gt;Apollo Global Management confirmed a social-engineering breach exposing sensitive personal data amid a wider hacking campaign targeting financial firms.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apollo-data-breach-financial-firms-social-engineering/&amp;quot;&amp;gt;Apollo Confirms Data Breach Amid Cyberattacks Targeting Financial Firms&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 24 Aug 2026 18:00:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apollo-data-breach-financial-firms-social-engineering/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>apollo global management</category>
+      <category>cloud security</category>
+      <category>data breach</category>
+      <category>financial cybersecurity</category>
+      <category>identity theft</category>
+      <category>phishing</category>
+      <category>social engineering</category>
+      <category>the com</category>
     </item>
     <item>
       <title>Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt</title>
@@ -353,49 +548,6 @@ According to new research published by Akamai, the top 5% of enterprise power</d
       <category>Featured</category>
     </item>
     <item>
-      <title>Rethinking Application Security for the AI Era</title>
-      <link>https://www.securityweek.com/rethinking-application-security-for-the-ai-era/</link>
-      <description>&amp;lt;p&amp;gt;As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/rethinking-application-security-for-the-ai-era/&amp;quot;&amp;gt;Rethinking Application Security for the AI Era&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/rethinking-application-security-for-the-ai-era/</guid>
-      <dc:creator>Joshua Goldfarb</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Application Security</category>
-      <category>AI</category>
-      <category>appsec</category>
-    </item>
-    <item>
-      <title>Iran-Linked Hackers Shut Down UK Power Plant for Four Days</title>
-      <link>https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/</link>
-      <description>&amp;lt;p&amp;gt;The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/&amp;quot;&amp;gt;Iran-Linked Hackers Shut Down UK Power Plant for Four Days&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 24 Aug 2026 09:22:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>critical infrastructure</category>
-      <category>cyberattack</category>
-      <category>Featured</category>
-      <category>Iran</category>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy</title>
-      <link>https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/</link>
-      <description>&amp;lt;p&amp;gt;TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/&amp;quot;&amp;gt;TikTok Reaches $400 Million Settlement With US Justice Department Over Children&amp;amp;#8217;s Privacy&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 24 Aug 2026 09:11:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Privacy &amp;amp; Compliance</category>
-      <category>privacy</category>
-      <category>settlement</category>
-      <category>TikTok</category>
-    </item>
-    <item>
       <title>Wake-Up Call for CNI After Iranian Attack Shuts Down UK Power Plant</title>
       <link>https://www.infosecurity-magazine.com/news/cni-iranian-attack-shuts-uk-power/</link>
       <description>Experts argue Iranian cyber-attack on UK power plant lays bare frailty of critical national infrastructure</description>
@@ -421,21 +573,6 @@ The vast majority of the targets are located in Brazil, Bolivia, China, Canada, 
       <pubDate>Mon, 24 Aug 2026 08:05:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund</title>
-      <link>https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/</link>
-      <description>&amp;lt;p&amp;gt;Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/&amp;quot;&amp;gt;Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 24 Aug 2026 07:18:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Anthorpic</category>
-      <category>Featured</category>
-      <category>Mythos</category>
     </item>
     <item>
       <title>No Hackers Required: 10 Shadow AI Leaks Hiding in Plain Sight | UpGuard</title>
@@ -1000,132 +1137,6 @@ The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers 
 The attack, which the researchers named &amp;quot;Zombie Card,&amp;quot; requires physical</description>
       <pubDate>Thu, 20 Aug 2026 17:31:24 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Is a SOC 2 Report Enough to Assess a Cloud Vendor? | UpGuard</title>
-      <link>https://www.upguard.com/blog/soc-2-cloud-vendors</link>
-      <description>A SOC 2 report answers some questions about a cloud vendor. It was never built to answer the cloud-specific ones.</description>
-      <pubDate>Thu, 20 Aug 2026 11:45:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/soc-2-cloud-vendors</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Why &amp;quot;Shady AI&amp;quot; is Security&amp;apos;s Next Big Governance Problem</title>
-      <link>https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html</link>
-      <description>In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&amp;amp;nbsp;
-
-The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee</description>
-      <pubDate>Thu, 20 Aug 2026 17:15:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification</title>
-      <link>https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html</link>
-      <description>Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server.
-
-The attacks, collectively named &amp;quot;CDN Tsunami,&amp;quot; were evaluated against Alibaba, Baidu,</description>
-      <pubDate>Thu, 20 Aug 2026 17:09:35 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices</title>
-      <link>https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html</link>
-      <description>A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications.
-
-&amp;quot;Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud</description>
-      <pubDate>Thu, 20 Aug 2026 16:56:08 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands</title>
-      <link>https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html</link>
-      <description>Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL&amp;apos;s open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software&amp;apos;s spacecraft and instrument command bus.
-
-The chain, tracked as GHSA-p9r8-2q67-fp86 and rated 9.4 on the CVSS v3.1 scoring system, impacts AIT-GUI</description>
-      <pubDate>Thu, 20 Aug 2026 16:35:11 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ICS Operators Warned of AI-Driven Attacks on Siemens PLCs</title>
-      <link>https://www.infosecurity-magazine.com/news/ics-ai-attacks-siemens/</link>
-      <description>A US government advisory warned that attackers are deploying AI-generated exploitation scripts against exposed Siemens S7 Series PLCs</description>
-      <pubDate>Thu, 20 Aug 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ics-ai-attacks-siemens/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud</title>
-      <link>https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html</link>
-      <description>Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with &amp;quot;significant enhancements,&amp;quot; including a set of 167 remote commands and expands its targeting footprint globally.
-
-Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.</description>
-      <pubDate>Thu, 20 Aug 2026 16:08:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps</title>
-      <link>https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/</link>
-      <description>Zimperium lifts the lid on the ToxicPanda 2.0 Android banking Trojan</description>
-      <pubDate>Thu, 20 Aug 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Police Are Hiding Their Use of Flock Surveillance Cameras</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html</link>
-      <description>&amp;lt;p&amp;gt;A usage policy for Flock license plate reader cameras &amp;lt;a href=&amp;quot;https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/&amp;quot;&amp;gt;tells&amp;lt;/a&amp;gt; police not to talk about the cameras:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;When cops use Flock to arrest someone in Wapello County, Iowa, they don&amp;amp;#8217;t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncertain terms, to keep them a secret: &amp;amp;#8220;DO NOT MENTION ALPR USAGE TO THE OCCUPANTS OF THE VEHICLE,&amp;amp;#8221; the policy document reads. &amp;amp;#8220;DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT UNLESS ABSOLUTELY NECESSARY.&amp;amp;#8221;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
-&amp;lt;p&amp;gt;This reminds me of IMSI-catchers (Stingray was the most popular) a couple of decades ago. Police would go to even more extremes to hide their usage...&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 20 Aug 2026 09:48:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cars</category>
-      <category>law enforcement</category>
-      <category>police</category>
-    </item>
-    <item>
-      <title>Def Con Attendees Targeted by Persistent Phishing Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/</link>
-      <description>Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con</description>
-      <pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets</title>
-      <link>https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html</link>
-      <description>A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.
-
-According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to</description>
-      <pubDate>Thu, 20 Aug 2026 14:12:03 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code</title>
-      <link>https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</link>
-      <description>Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.
-
-The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type.
-
-&amp;quot;The flaw lives in the Forms module&amp;apos;s File</description>
-      <pubDate>Thu, 20 Aug 2026 11:34:34 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
