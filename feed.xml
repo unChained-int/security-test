@@ -5,9 +5,71 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:10:20 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Exploited Zimbra Flaw Highlights Shrinking Window to Patch</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</link>
+      <description>CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user&amp;apos;s communications.</description>
+      <pubDate>Mon, 24 Aug 2026 21:46:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Foul Language: WordlistLoader Disguises Malware as Ordinary Text</title>
+      <link>https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</link>
+      <description>ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.</description>
+      <pubDate>Mon, 24 Aug 2026 20:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apollo Confirms Data Breach Amid Cyberattacks Targeting Financial Firms</title>
+      <link>https://www.techrepublic.com/article/news-apollo-data-breach-financial-firms-social-engineering/</link>
+      <description>&amp;lt;p&amp;gt;Apollo Global Management confirmed a social-engineering breach exposing sensitive personal data amid a wider hacking campaign targeting financial firms.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-apollo-data-breach-financial-firms-social-engineering/&amp;quot;&amp;gt;Apollo Confirms Data Breach Amid Cyberattacks Targeting Financial Firms&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 24 Aug 2026 18:00:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-apollo-data-breach-financial-firms-social-engineering/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>apollo global management</category>
+      <category>cloud security</category>
+      <category>data breach</category>
+      <category>financial cybersecurity</category>
+      <category>identity theft</category>
+      <category>phishing</category>
+      <category>social engineering</category>
+      <category>the com</category>
+    </item>
+    <item>
+      <title>Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt</title>
+      <link>https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</link>
+      <description>If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.
+
+The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can</description>
+      <pubDate>Mon, 24 Aug 2026 23:11:30 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning</title>
+      <link>https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html</link>
+      <description>Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.
+
+McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,</description>
+      <pubDate>Mon, 24 Aug 2026 23:11:11 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited</title>
       <link>https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/</link>
@@ -177,17 +239,6 @@ According to findings from Gen Digital, WordlistLoader is being used to deliver 
       <category>Vulnerabilities</category>
       <category>Spring</category>
       <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt</title>
-      <link>https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</link>
-      <description>If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.
-
-The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can</description>
-      <pubDate>Mon, 24 Aug 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account</title>
@@ -1087,54 +1138,6 @@ The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of
       <guid isPermaLink="true">https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Stop chasing your team for security questionnaire answers  | UpGuard</title>
-      <link>https://www.upguard.com/blog/stop-chasing-your-team-for-security-questionnaire-answers</link>
-      <description>If you work in sales, you know the frustrations of chasing departments for help with questionnaire responses. Learn the faster and more calming approch.</description>
-      <pubDate>Thu, 20 Aug 2026 05:56:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/stop-chasing-your-team-for-security-questionnaire-answers</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>No-Filter &amp;apos;Kriminal&amp;apos; AI Platform Raises Cybercrime Concerns</title>
-      <link>https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</link>
-      <description>The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.</description>
-      <pubDate>Wed, 19 Aug 2026 20:32:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Agentic AI Presents New Insider Threat Model for Orgs</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model</link>
-      <description>Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.</description>
-      <pubDate>Wed, 19 Aug 2026 19:54:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>OpenAI Keeps Major AI Training Run on Hold After Hugging Face Security Incident</title>
-      <link>https://www.techrepublic.com/article/news-openai-ai-training-hold-hugging-face-cyber-incident/</link>
-      <description>&amp;lt;p&amp;gt;OpenAI is holding a major frontier AI training run as it strengthens safeguards following the Hugging Face breach and other model testing incidents.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-openai-ai-training-hold-hugging-face-cyber-incident/&amp;quot;&amp;gt;OpenAI Keeps Major AI Training Run on Hold After Hugging Face Security Incident&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 19 Aug 2026 19:50:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openai-ai-training-hold-hugging-face-cyber-incident/</guid>
-      <dc:creator>Eric Mboizi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Agentic AI</category>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Hugging Face</category>
-      <category>OpenAI</category>
-      <category>agentic ai</category>
-      <category>ai safety</category>
-      <category>anthropic</category>
-      <category>artificial intelligence</category>
-      <category>cybersecurity</category>
-      <category>hugging face</category>
-      <category>meta</category>
-      <category>openai</category>
     </item>
   </channel>
 </rss>
