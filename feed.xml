@@ -5,9 +5,312 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:44:04 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Truckload of Squid Spills in Rhode Island</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.huffpost.com/entry/squid-spill-rhode-island-street_n_6a863090e4b0e9f1dd275d79&amp;quot;&amp;gt;Ugh&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the &amp;amp;#8220;Squidpocalypse of &amp;amp;#8217;26.&amp;amp;#8221;&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;That would be &amp;lt;a href=&amp;quot;https://www.theguardian.com/us-news/2026/aug/19/squid-spill-rhode-island-highway&amp;quot;&amp;gt;twenty tons&amp;lt;/a&amp;gt; of squid.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 21:02:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable</title>
+      <link>https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html</link>
+      <description>Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.
+
+The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score.
+
+Affected versions are &amp;amp;lt; 0.6.2 and &amp;amp;gt;=</description>
+      <pubDate>Sat, 29 Aug 2026 02:08:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hundreds of OpenAI Agents Invaded Hugging Face Servers</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers</link>
+      <description>The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.</description>
+      <pubDate>Fri, 28 Aug 2026 20:19:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Offensive Security Investments Surge as AI Threats Increase</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase</link>
+      <description>Omdia&amp;apos;s Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.</description>
+      <pubDate>Fri, 28 Aug 2026 18:25:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication</title>
+      <link>https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html</link>
+      <description>Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening.
+
+&amp;quot;This vulnerability gives an unauthenticated attacker remote control over PaperCut&amp;apos;s trusted configuration, which could be used to execute arbitrary Java code inside the application&amp;apos;s</description>
+      <pubDate>Fri, 28 Aug 2026 22:42:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers</title>
+      <link>https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html</link>
+      <description>Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users&amp;apos; home networks.
+
+Topping the list is support for Encrypted Client Hello (ECH), a privacy standard that prevents networks from eavesdropping on which websites a user is visiting.
+
+&amp;quot;This new privacy standard works in tandem</description>
+      <pubDate>Fri, 28 Aug 2026 21:50:46 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body</title>
+      <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines.
+
+The vulnerability, tracked as CVE-2023-49105 (CVSS score: 9.8), is a case of</description>
+      <pubDate>Fri, 28 Aug 2026 21:26:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions</title>
+      <link>https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/</link>
+      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/&amp;quot;&amp;gt;In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 15:35:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>In Other News</category>
+    </item>
+    <item>
+      <title>19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code</title>
+      <link>https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html</link>
+      <description>Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities.
+
+
+The extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active</description>
+      <pubDate>Fri, 28 Aug 2026 20:57:26 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Human Risk Management Platforms: How to Choose the Right Software | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-human-risk-management-platforms</link>
+      <description>Protect your workforce with human risk management software that fits. Compare 10 platforms, the features that matter, and how to choose the right one.</description>
+      <pubDate>Fri, 28 Aug 2026 14:05:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-human-risk-management-platforms</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>You Need Cyber Deception for OT</title>
+      <link>https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot</link>
+      <description>The frustrating reality after an OT cyberattack: no data, no trail, and no history.</description>
+      <pubDate>Fri, 28 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot</guid>
+      <dc:creator>Scott Hawk</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ATF Confirms Cyber Incident After Ransomware Group Claims Attack</title>
+      <link>https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/</link>
+      <description>&amp;lt;p&amp;gt;The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/&amp;quot;&amp;gt;ATF Confirms Cyber Incident After Ransomware Group Claims Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 13:59:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Ransomware</category>
+      <category>ATF</category>
+      <category>Qilin</category>
+    </item>
+    <item>
+      <title>Defining an AI Kill Switch Is Hard, but Necessary</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary</link>
+      <description>Proposed legislation could mandate that companies be able to &amp;amp;quot;throttle, suspend, or shut ... down&amp;amp;quot; AI agents, but how and when to do that remain open questions.</description>
+      <pubDate>Fri, 28 Aug 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>The Vulnpocalypse Is Repricing the Bug Bounty Economy</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy</link>
+      <description>The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.</description>
+      <pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fake Voicemail SVG Attachments Fuel Large-Scale Phishing Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/</link>
+      <description>A large-scale phishing campaign used fake voicemail SVG attachments to bypass email defenses, targeting 5527 organizations with over 26,000 malicious messages</description>
+      <pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Cyberattack on Three UK Airports Exposes Data of 8.7 Million Customers</title>
+      <link>https://www.techrepublic.com/article/news-uk-airport-cyberattack-8-7-million-customers-emea/</link>
+      <description>&amp;lt;p&amp;gt;A cyberattack on Manchester Airports Group exposed information belonging to about 8.7 million customers across three UK airports.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-uk-airport-cyberattack-8-7-million-customers-emea/&amp;quot;&amp;gt;Cyberattack on Three UK Airports Exposes Data of 8.7 Million Customers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 12:46:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-uk-airport-cyberattack-8-7-million-customers-emea/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>EMEA</category>
+      <category>Infrastructure</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>cyberattack</category>
+      <category>cybersecurity</category>
+      <category>data breach</category>
+      <category>east midlands airport</category>
+      <category>london stansted airport</category>
+      <category>manchester airport</category>
+      <category>manchester airports group</category>
+      <category>phishing</category>
+    </item>
+    <item>
+      <title>OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems</title>
+      <link>https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/</link>
+      <description>&amp;lt;p&amp;gt;CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/&amp;quot;&amp;gt;OpenAI Agents Exploited Linux Kernel Flaw on Company&amp;amp;#8217;s Own Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 12:36:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>CISA KEV</category>
+      <category>exploited</category>
+      <category>Linux</category>
+      <category>Linux kernel</category>
+      <category>OpenAI</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth</title>
+      <link>https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html</link>
+      <description>Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot&amp;apos;s Locomotion PC.
+
+The flaws are tracked as&amp;amp;nbsp;CVE-2026-76639&amp;amp;nbsp;and&amp;amp;nbsp;CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the</description>
+      <pubDate>Fri, 28 Aug 2026 17:37:24 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Key Reasons Why Identity Fabric Matters in 2026</title>
+      <link>https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html</link>
+      <description>An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and</description>
+      <pubDate>Fri, 28 Aug 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL</title>
+      <link>https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html</link>
+      <description>ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.
+
+The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their</description>
+      <pubDate>Fri, 28 Aug 2026 16:50:32 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Doesn’t Mean the End of Mathematics—at Least Not Yet</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;This essay was written with Kasra Rafi, and originally appeared in The Guardian.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Earlier this month, about 40 top mathematicians &amp;lt;a href=&amp;quot;https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/&amp;quot;&amp;gt;gathered&amp;lt;/a&amp;gt; at OpenAI&amp;amp;#8217;s offices to discuss the future of their profession. The meeting was off-the-record, but if &amp;lt;a href=&amp;quot;https://spectrum.ieee.org/ai-in-mathematics&amp;quot;&amp;gt;recent&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://arxiv.org/pdf/2608.16753&amp;quot;&amp;gt;articles&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://arxiv.org/html/2608.02859v1&amp;quot;&amp;gt;by&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy&amp;quot;&amp;gt;mathematicians&amp;lt;/a&amp;gt; are any guide, it was mostly pretty glum. People fear for their jobs, their careers and the work they love.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;We think the &amp;lt;a href=&amp;quot;https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics/&amp;quot;&amp;gt;contrary&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/&amp;quot;&amp;gt;view&amp;lt;/a&amp;gt; is more likely, at least in the short-term. AI models are nowhere near as capable as experienced academic mathematicians.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This isn&amp;amp;#8217;t to say that AIs aren&amp;amp;#8217;t producing stunning mathematical results at the level of PhD researchers. In mid-May, OpenAI ...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 11:02:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>LLM</category>
+      <category>mathematics</category>
+    </item>
+    <item>
+      <title>Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge</title>
+      <link>https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/</link>
+      <description>&amp;lt;p&amp;gt;Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/&amp;quot;&amp;gt;Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 11:01:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>coalition</category>
+      <category>Featured</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access</title>
+      <link>https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html</link>
+      <description>VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices.
+
+The implants, named SPEAKINGSTONE and DARKLANTERN by the company&amp;apos;s zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.</description>
+      <pubDate>Fri, 28 Aug 2026 16:28:29 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says</title>
+      <link>https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/</link>
+      <description>&amp;lt;p&amp;gt;New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/&amp;quot;&amp;gt;Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>China</category>
+      <category>Featured</category>
+    </item>
+    <item>
+      <title>Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server</title>
+      <link>https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html</link>
+      <description>cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.
+
+The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp;amp;amp; WHM.
+
+cPanel described the issue as a critical security vulnerability and said that an</description>
+      <pubDate>Fri, 28 Aug 2026 15:15:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn</title>
       <link>https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/</link>
@@ -326,19 +629,6 @@ For the teams already using AI, what is actually changing? Here are the ten bigg
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite</title>
-      <link>https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/</link>
-      <description>&amp;lt;p&amp;gt;SecurityWeek talks to Chris Wheeler, CISO at Resilience, about his journey from the Navy to becoming a cybersecurity leader.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/&amp;quot;&amp;gt;CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 11:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>CISO Conversations</category>
-      <category>CISO Strategy</category>
-      <category>CISO</category>
-    </item>
-    <item>
       <title>Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
       <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
       <description>Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.
@@ -399,39 +689,12 @@ The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Cyberattack Causes Global Disruption at Boston Scientific</title>
-      <link>https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/</link>
-      <description>&amp;lt;p&amp;gt;The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/&amp;quot;&amp;gt;Cyberattack Causes Global Disruption at Boston Scientific&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 10:18:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Boston Scientific</category>
-      <category>cyberattack</category>
-      <category>healthcare</category>
-    </item>
-    <item>
       <title>Boston Scientific Reveals Global Disruption After Cyber Incident</title>
       <link>https://www.infosecurity-magazine.com/news/boston-scientific-global/</link>
       <description>MedTech giant Boston Scientific has revealed IT outages following a cyber incident</description>
       <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/boston-scientific-global/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The Future of AI-Driven Security Depends on Complete Data</title>
-      <link>https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/</link>
-      <description>&amp;lt;p&amp;gt;For twenty-five years, &amp;quot;data&amp;quot; in security meant logs and events. But logs are a lossy representation of reality. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/&amp;quot;&amp;gt;The Future of AI-Driven Security Depends on Complete Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/</guid>
-      <dc:creator>Danelle Au</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Security Infrastructure</category>
-      <category>AI</category>
     </item>
     <item>
       <title>LLM-Based Social Engineering Scams</title>
@@ -477,24 +740,6 @@ GoCaracal provides operators with remote shell access and payload execution, whi
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks</title>
-      <link>https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/</link>
-      <description>&amp;lt;p&amp;gt;The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/&amp;quot;&amp;gt;US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 09:01:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Nation-State</category>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>China</category>
-      <category>China APT</category>
-      <category>disrupted</category>
-      <category>disruption</category>
-      <category>Featured</category>
-      <category>QTFY</category>
-    </item>
-    <item>
       <title>AI-assisted reconnaissance: Why everyone could be a viable target for fraud</title>
       <link>https://www.welivesecurity.com/en/privacy/ai-powered-osint-why-everyone-viable-target-fraud/</link>
       <description>It’s getting cheaper and easier for cybercriminals to research potential victims. Here’s what’s still in your control.</description>
@@ -513,21 +758,6 @@ Dubbed GPUThor, the attack was developed by researchers at the University of Tor
       <guid isPermaLink="true">https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services</title>
-      <link>https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/</link>
-      <description>&amp;lt;p&amp;gt;The pro-Russian hacker group Server Killers claimed responsibility for the attack.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/&amp;quot;&amp;gt;Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Cyberwarfare</category>
-      <category>Norway</category>
-      <category>Russia</category>
-      <category>Server Killers</category>
     </item>
     <item>
       <title>AI Assurance: The Third Head of Your AI Governance Watchdog | UpGuard</title>
@@ -919,226 +1149,6 @@ The accounts &amp;quot;were being used to promote the International Burke Instit
       <pubDate>Wed, 26 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ddos-attack-hits-norwegian/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Interpol&amp;apos;s Jackal IV Disrupts West African Crime Infrastructure</title>
-      <link>https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure</link>
-      <description>The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.</description>
-      <pubDate>Wed, 26 Aug 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Nigeria Looks to Sovereign Cloud for Cyber, National Security</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security</link>
-      <description>The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge.</description>
-      <pubDate>Wed, 26 Aug 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown</title>
-      <link>https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html</link>
-      <description>An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.
-
-&amp;quot;The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African criminal networks – such as the Black Axe and other similar groups,&amp;quot; INTERPOL said.
-
-&amp;quot;These groups are</description>
-      <pubDate>Wed, 26 Aug 2026 13:24:12 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode</title>
-      <link>https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</link>
-      <description>An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design.
-
-The sample is an unsigned 64-bit Windows dynamic-link library (DLL) of 59,904 bytes, built to be side-loaded into&amp;amp;</description>
-      <pubDate>Wed, 26 Aug 2026 12:42:55 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload</title>
-      <link>https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.
-
-The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the</description>
-      <pubDate>Wed, 26 Aug 2026 11:57:07 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes</title>
-      <link>https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html</link>
-      <description>Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple&amp;apos;s Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode.
-
-SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is credit-metered and drives lures across</description>
-      <pubDate>Wed, 26 Aug 2026 11:17:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hidden Prompts Trick AI Into False Email Summaries</title>
-      <link>https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries</link>
-      <description>With some simple HTML that&amp;apos;s invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.</description>
-      <pubDate>Tue, 25 Aug 2026 21:08:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw</title>
-      <link>https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw</link>
-      <description>Attackers can exploit a security bug in Nvidia&amp;apos;s tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.</description>
-      <pubDate>Tue, 25 Aug 2026 19:50:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>The Password Notebook Is Back — but Is It Actually Safer?</title>
-      <link>https://www.techrepublic.com/article/news-password-notebooks-infostealers-password-managers-australia-apac/</link>
-      <description>&amp;lt;p&amp;gt;Password notebooks are making an unexpected comeback as infostealers and browser attacks revive debate over the safest way to store credentials.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-password-notebooks-infostealers-password-managers-australia-apac/&amp;quot;&amp;gt;The Password Notebook Is Back — but Is It Actually Safer?&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 25 Aug 2026 18:18:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-password-notebooks-infostealers-password-managers-australia-apac/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>APAC</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>Tech &amp;amp; News</category>
-      <category>authentication</category>
-      <category>browser security</category>
-      <category>credential theft</category>
-      <category>cybersecurity</category>
-      <category>infostealers</category>
-      <category>passkeys</category>
-      <category>password managers</category>
-      <category>passwords</category>
-    </item>
-    <item>
-      <title>U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches</title>
-      <link>https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html</link>
-      <description>The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an &amp;quot;unprecedented, whole-of-government, economic campaign&amp;quot; against the nation and its enablers.
-
-&amp;quot;We are launching an economic onslaught against Iran&amp;apos;s financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime</description>
-      <pubDate>Tue, 25 Aug 2026 23:47:17 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Is Cyber Facing an Affordability Crisis?</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</link>
-      <description>As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.</description>
-      <pubDate>Tue, 25 Aug 2026 14:53:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ZeroTokens Phishing Platform Steers Attacks in Real Time</title>
-      <link>https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/</link>
-      <description>ZeroTokens gives phishing operators live control of victim sessions targeting 53 financial brands</description>
-      <pubDate>Tue, 25 Aug 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw</title>
-      <link>https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</link>
-      <description>Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.
-
-The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA&amp;apos;s Product Security Incident</description>
-      <pubDate>Tue, 25 Aug 2026 19:37:37 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android</title>
-      <link>https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</link>
-      <description>Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method.
-
-The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,</description>
-      <pubDate>Tue, 25 Aug 2026 18:49:41 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fake Recruiter Scams Target Corporate Credentials on Mobile</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/</link>
-      <description>RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials</description>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode</title>
-      <link>https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html</link>
-      <description>Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck&amp;apos;s CVE Numbering Authority (CNA) record.
-
-The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode.
-
-The vulnerability, tracked</description>
-      <pubDate>Tue, 25 Aug 2026 18:13:51 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows</title>
-      <link>https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</link>
-      <description>Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication.
-
-According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based.
-
-Mirage2FA Campaign</description>
-      <pubDate>Tue, 25 Aug 2026 17:26:15 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages</title>
-      <link>https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.
-
-&amp;quot;While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn&amp;apos;t do harm, the threat actor’s use of npm isn&amp;apos;t to infect developers who install it, but to use the</description>
-      <pubDate>Tue, 25 Aug 2026 17:22:43 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands</title>
-      <link>https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html</link>
-      <description>Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE.
-
-While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development</description>
-      <pubDate>Tue, 25 Aug 2026 17:03:44 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Left Unsupervised: 10 Times Access Outlived Its Authorization | UpGuard</title>
-      <link>https://www.upguard.com/blog/10-times-access-outlived-authorization</link>
-      <description>Access granted once shouldn’t mean access forever. Read more on how unmonitored access caused 10 of these real-life breaches and what they taught us.</description>
-      <pubDate>Tue, 25 Aug 2026 11:14:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/10-times-access-outlived-authorization</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
