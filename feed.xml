@@ -5,9 +5,64 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:41:10 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn</title>
+      <link>https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/</link>
+      <description>More than 100 companies, including OpenAI, Anthropic, Google and Microsoft, have urged collective action to unlock the power of AI to protect critical public services</description>
+      <pubDate>Fri, 28 Aug 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>PaperCut Releases Emergency Patch for Exploited Zero-Day</title>
+      <link>https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/</link>
+      <description>&amp;lt;p&amp;gt;A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/&amp;quot;&amp;gt;PaperCut Releases Emergency Patch for Exploited Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 28 Aug 2026 08:40:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>PaperCut</category>
+      <category>printer</category>
+      <category>vulnerability</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions</title>
+      <link>https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html</link>
+      <description>PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.
+
+The company has released an emergency patch for v25 and v26 to address the issue. It said it&amp;apos;s &amp;quot;aware of confirmed customer incidents and is treating this matter with the highest priority.&amp;quot; An</description>
+      <pubDate>Fri, 28 Aug 2026 13:55:36 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations</title>
+      <link>https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html</link>
+      <description>Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026.
+
+These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed HOOKEDGE, a lightweight Windows batch script that&amp;apos;s distributed via</description>
+      <pubDate>Fri, 28 Aug 2026 13:50:59 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations</title>
+      <link>https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/</link>
+      <description>Aurora ransomware operators are abusing SpaceX’s Cursor Agent AI tool to conduct tasks such as reconnaissance and exploitation activities</description>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Chinese Routers Sold Worldwide Contain Backdoors</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors</link>
@@ -125,7 +180,7 @@ The rest of the week gets stranger: botnets borrowing AI, command traffic hiding
       <link>https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html</link>
       <description>Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers.
 
-The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindguard. The latest version of</description>
+The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindgard. The latest version of</description>
       <pubDate>Thu, 27 Aug 2026 19:09:56 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -209,6 +264,7 @@ The security flaw, which does not have a CVE identifier, works against Kiro IDE 
       <category>Artificial Intelligence</category>
       <category>Incident Response</category>
       <category>AI</category>
+      <category>Featured</category>
       <category>Hugging Face</category>
       <category>Incident response</category>
       <category>OpenAI</category>
@@ -439,6 +495,15 @@ GoCaracal provides operators with remote shell access and payload execution, whi
       <category>QTFY</category>
     </item>
     <item>
+      <title>AI-assisted reconnaissance: Why everyone could be a viable target for fraud</title>
+      <link>https://www.welivesecurity.com/en/privacy/ai-powered-osint-why-everyone-viable-target-fraud/</link>
+      <description>It’s getting cheaper and easier for cybercriminals to research potential victims. Here’s what’s still in your control.</description>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/privacy/ai-powered-osint-why-everyone-viable-target-fraud/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Privacy</category>
+    </item>
+    <item>
       <title>New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access</title>
       <link>https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html</link>
       <description>Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell.
@@ -493,22 +558,6 @@ The vulnerabilities are listed below -
       <pubDate>Thu, 27 Aug 2026 06:03:50 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-in-education-updated-august-2026</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Recent Citrix NetScaler Vulnerability Exploited in the Wild</title>
-      <link>https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/</link>
-      <description>&amp;lt;p&amp;gt;CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/&amp;quot;&amp;gt;Recent Citrix NetScaler Vulnerability Exploited in the Wild&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 04:39:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>CISA KEV</category>
-      <category>Citrix</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Dark Caracal Adds New Malware to Cyber Espionage Arsenal</title>
@@ -1090,55 +1139,6 @@ While threat actors are known to abuse legitimate services to point to additiona
       <pubDate>Tue, 25 Aug 2026 11:14:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/10-times-access-outlived-authorization</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Frontier AI: Vulnerability Management&amp;apos;s Systemic Revolution</title>
-      <link>https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html</link>
-      <description>Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a</description>
-      <pubDate>Tue, 25 Aug 2026 16:44:07 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Australia Warns of Active Exploitation of Critical TeamCity Server Flaw</title>
-      <link>https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/</link>
-      <description>Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government</description>
-      <pubDate>Tue, 25 Aug 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Black Hat State of Security Vendors</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html</link>
-      <description>&amp;lt;p&amp;gt;Andy Ellis has a &amp;lt;a href=&amp;quot;https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/&amp;quot;&amp;gt;roundup&amp;lt;/a&amp;gt; of the security vendors at Black Hat this year.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Key Takeaways: We have entered into an AI world.  While nearly half of booths didn&amp;amp;#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere.  Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;At the same time, there&amp;amp;#8217;s a clear trichotomy in the market: tools that tell you how bad things are; tools that stop adversaries, and tools that prevent problems from occurring. While you&amp;amp;#8217;d suspect that the tools that fix things would dominate, the tools that merely tell you how bad things are seem to be frustratingly plentiful...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 25 Aug 2026 10:54:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>conferences</category>
-      <category>marketing</category>
-      <category>security conferences</category>
-    </item>
-    <item>
-      <title>Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</link>
-      <description>A threat actor keeps spreading the WeedHack malware to Minecraft players despite its original infrastructure taken down in July</description>
-      <pubDate>Tue, 25 Aug 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ReliaQuest Rejects Compromise Claims After ShinyHunters Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/</link>
-      <description>ReliaQuest has detailed a social engineering attack linked to ShinyHunters, denying reports that the threat actor successfully compromised its systems</description>
-      <pubDate>Tue, 25 Aug 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
