@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 30 Aug 2026 03:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:18:40 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,17 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor</title>
+      <link>https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html</link>
+      <description>Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.
+
+&amp;quot;While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex</description>
+      <pubDate>Sun, 30 Aug 2026 13:06:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE</title>
@@ -1198,14 +1209,6 @@ The accounts &amp;quot;were being used to promote the International Burke Instit
       <description>Learn more about the importance of KPIs and discover what metrics your organization should track to measure the health of its TPRM program.</description>
       <pubDate>Wed, 26 Aug 2026 09:23:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/kpis-to-measure-tprm</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>11 Third-Party Risk Management Best Practices in 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/11-tprm-best-practices-2024</link>
-      <description>Discover 11 third-party risk management practices your organization should implement in 2026.</description>
-      <pubDate>Wed, 26 Aug 2026 09:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/11-tprm-best-practices-2024</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
