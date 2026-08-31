@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 31 Aug 2026 03:49:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:46:24 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,204 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>What the Hugging Face Incident Teaches Security Leaders About AI Agent Access</title>
+      <link>https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/</link>
+      <description>&amp;lt;p&amp;gt;Security teams must treat autonomous agents as highly privileged identities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/&amp;quot;&amp;gt;What the Hugging Face Incident Teaches Security Leaders About AI Agent Access&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 12:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/</guid>
+      <dc:creator>Etay Maor</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Identity &amp;amp; Access</category>
+      <category>AI</category>
+      <category>Hugging Face</category>
+    </item>
+    <item>
+      <title>ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions</title>
+      <link>https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html</link>
+      <description>The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions.
+
+Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool</description>
+      <pubDate>Mon, 31 Aug 2026 17:44:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic Warns Claude Users of Infostealer Malware Infections</title>
+      <link>https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/</link>
+      <description>&amp;lt;p&amp;gt;The AI giant is logging customers out of their accounts and removing payment data to prevent unauthorized Claude usage.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/&amp;quot;&amp;gt;Anthropic Warns Claude Users of Infostealer Malware Infections&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 12:11:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Malware &amp;amp; Threats</category>
+      <category>AI</category>
+      <category>Anthropic</category>
+      <category>Claude</category>
+      <category>malware</category>
+    </item>
+    <item>
+      <title>Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets</title>
+      <link>https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html</link>
+      <description>Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX&amp;apos;s artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security.
+
+The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its</description>
+      <pubDate>Mon, 31 Aug 2026 17:17:24 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance</title>
+      <link>https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html</link>
+      <description>Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent’s access is legitimate.
+
+
+AI has moved from the browser tab to the</description>
+      <pubDate>Mon, 31 Aug 2026 17:01:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs</title>
+      <link>https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/</link>
+      <description>&amp;lt;p&amp;gt;Named KindaRails2Shell, the arbitrary file read flaw allows attackers to extract secrets and execute arbitrary code remotely.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/&amp;quot;&amp;gt;Critical Ruby on Rails Vulnerability in Attackers&amp;amp;#8217; Crosshairs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 11:24:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Ruby on Rails</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>UpGuard’s Future: The Strategic Edge Your Security Team Needs | UpGuard</title>
+      <link>https://www.upguard.com/blog/strategic-edge-your-security-team-needs</link>
+      <description>Discover every risk, act with AI, and prove it&amp;apos;s working. See how UpGuard&amp;apos;s Risk Operations Center connects vendor, attack surface, and workforce risk.</description>
+      <pubDate>Mon, 31 Aug 2026 11:11:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/strategic-edge-your-security-team-needs</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Hiding Prompt Injection in Legal Filing</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html</link>
+      <description>&amp;lt;p&amp;gt;Someone &amp;lt;a href=&amp;quot;https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/&amp;quot;&amp;gt;hid&amp;lt;/a&amp;gt; AI instructions into a legal filing.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Alternate &amp;lt;a href=&amp;quot;https://archive.ph/NHf32&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 11:03:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>courts</category>
+      <category>prompt injection</category>
+    </item>
+    <item>
+      <title>Boston Scientific Still Recovering From Cyberattack</title>
+      <link>https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/</link>
+      <description>&amp;lt;p&amp;gt;The company has called in CrowdStrike and others to investigate the attack that caused global network disruption.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/&amp;quot;&amp;gt;Boston Scientific Still Recovering From Cyberattack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 10:50:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Incident Response</category>
+      <category>Boston Scientific</category>
+      <category>cyberattack</category>
+      <category>disruption</category>
+      <category>Incident response</category>
+    </item>
+    <item>
+      <title>Extortion Group Claims Manchester Airports Group Data Breach</title>
+      <link>https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/</link>
+      <description>&amp;lt;p&amp;gt;FulcrumSec says it stole over 80 GB of data from Manchester Airports Group and plans to leak it online.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/&amp;quot;&amp;gt;Extortion Group Claims Manchester Airports Group Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 10:29:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Ransomware</category>
+      <category>airport</category>
+      <category>data breach</category>
+    </item>
+    <item>
+      <title>Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’</title>
+      <link>https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/</link>
+      <description>&amp;lt;p&amp;gt;The ruling is part of Anthropic&amp;apos;s legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/&amp;quot;&amp;gt;Judge Says Pentagon&amp;amp;#8217;s Measures Against Anthropic Were &amp;amp;#8216;Illegal and Baseless&amp;amp;#8217;&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 09:07:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Government</category>
+      <category>AI</category>
+      <category>Anthropic</category>
+      <category>lawsuit</category>
+    </item>
+    <item>
+      <title>China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs</title>
+      <link>https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html</link>
+      <description>A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks.
+
+Sygnia, the incident response firm that investigated the intrusion, said the actor</description>
+      <pubDate>Mon, 31 Aug 2026 14:34:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Berlin Won’t Pay Extortion Group Claiming Data Theft</title>
+      <link>https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/</link>
+      <description>&amp;lt;p&amp;gt;The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/&amp;quot;&amp;gt;Berlin Won’t Pay Extortion Group Claiming Data Theft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 08:49:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Ransomware</category>
+      <category>Berlin</category>
+      <category>data breach</category>
+      <category>Featured</category>
+      <category>Rhysida</category>
+    </item>
+    <item>
+      <title>DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims</title>
+      <link>https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html</link>
+      <description>The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted.
+
+Last week, the DoJ said the National Aeronautics and Space Administration, Federal Reserve, Department of Energy, Department of Justice, Department</description>
+      <pubDate>Mon, 31 Aug 2026 13:26:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>More Details Emerge on Exploited PaperCut Vulnerabilities</title>
+      <link>https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;PaperCut has released a second emergency patch for the exploited vulnerabilities, which are now tracked as CVE-2026-82078 and CVE-2026-81578.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/&amp;quot;&amp;gt;More Details Emerge on Exploited PaperCut Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 31 Aug 2026 06:51:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>PaperCut</category>
+      <category>vulnerability</category>
+      <category>Zero-Day</category>
     </item>
     <item>
       <title>TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor</title>
@@ -258,19 +456,6 @@ The extensions, per Socket security researcher Karlo Zanki, share similarities i
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>ATF Confirms Cyber Incident After Ransomware Group Claims Attack</title>
-      <link>https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/</link>
-      <description>&amp;lt;p&amp;gt;The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/&amp;quot;&amp;gt;ATF Confirms Cyber Incident After Ransomware Group Claims Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 28 Aug 2026 13:59:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Ransomware</category>
-      <category>ATF</category>
-      <category>Qilin</category>
-    </item>
-    <item>
       <title>Defining an AI Kill Switch Is Hard, but Necessary</title>
       <link>https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary</link>
       <description>Proposed legislation could mandate that companies be able to &amp;amp;quot;throttle, suspend, or shut ... down&amp;amp;quot; AI agents, but how and when to do that remain open questions.</description>
@@ -282,7 +467,7 @@ The extensions, per Socket security researcher Karlo Zanki, share similarities i
     <item>
       <title>The Vulnpocalypse Is Repricing the Bug Bounty Economy</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy</link>
-      <description>The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.</description>
+      <description>The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.</description>
       <pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy</guid>
       <dc:creator>Alexander Culafi</dc:creator>
@@ -319,26 +504,6 @@ The extensions, per Socket security researcher Karlo Zanki, share similarities i
       <category>manchester airport</category>
       <category>manchester airports group</category>
       <category>phishing</category>
-    </item>
-    <item>
-      <title>OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems</title>
-      <link>https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/</link>
-      <description>&amp;lt;p&amp;gt;CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/&amp;quot;&amp;gt;OpenAI Agents Exploited Linux Kernel Flaw on Company&amp;amp;#8217;s Own Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 28 Aug 2026 12:36:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Vulnerabilities</category>
-      <category>AI</category>
-      <category>CISA KEV</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Linux</category>
-      <category>Linux kernel</category>
-      <category>OpenAI</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth</title>
@@ -388,21 +553,6 @@ The company said it deployed a security update to hosted instances and provided 
       <category>mathematics</category>
     </item>
     <item>
-      <title>Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge</title>
-      <link>https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/</link>
-      <description>&amp;lt;p&amp;gt;Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/&amp;quot;&amp;gt;Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 28 Aug 2026 11:01:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>coalition</category>
-      <category>Featured</category>
-      <category>OpenAI</category>
-    </item>
-    <item>
       <title>China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access</title>
       <link>https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html</link>
       <description>VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices.
@@ -412,20 +562,6 @@ The implants, named SPEAKINGSTONE and DARKLANTERN by the company&amp;apos;s zero
       <guid isPermaLink="true">https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says</title>
-      <link>https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/</link>
-      <description>&amp;lt;p&amp;gt;New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/&amp;quot;&amp;gt;Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 28 Aug 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>China</category>
-      <category>Featured</category>
     </item>
     <item>
       <title>Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server</title>
@@ -447,23 +583,6 @@ cPanel described the issue as a critical security vulnerability and said that an
       <pubDate>Fri, 28 Aug 2026 09:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>PaperCut Releases Emergency Patch for Exploited Zero-Day</title>
-      <link>https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/</link>
-      <description>&amp;lt;p&amp;gt;A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/&amp;quot;&amp;gt;PaperCut Releases Emergency Patch for Exploited Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 28 Aug 2026 08:40:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>PaperCut</category>
-      <category>printer</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
     </item>
     <item>
       <title>PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions</title>
@@ -564,24 +683,6 @@ The rest of the week gets stranger: botnets borrowing AI, command traffic hiding
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear</title>
-      <link>https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/</link>
-      <description>&amp;lt;p&amp;gt;The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/&amp;quot;&amp;gt;Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 14:17:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>ICS/OT</category>
-      <category>energy</category>
-      <category>executive order</category>
-      <category>Government Policy</category>
-      <category>ICS</category>
-      <category>OT</category>
-      <category>White House</category>
-    </item>
-    <item>
       <title>Claude Opus 4.6 Found a Gym API Flaw — Then Exploited It in 9 of 10 Tests</title>
       <link>https://www.techrepublic.com/article/news-claude-gym-api-flaw/</link>
       <description>&amp;lt;p&amp;gt;Claude Opus 4.6 exploited a gym API flaw in 9 of 10 controlled tests, highlighting security risks when AI agents gain backend access.&amp;lt;/p&amp;gt;
@@ -653,21 +754,6 @@ The security flaw, which does not have a CVE identifier, works against Kiro IDE 
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Australia Arrests 2 Alleged TeamPCP Hackers</title>
-      <link>https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/</link>
-      <description>&amp;lt;p&amp;gt;Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/&amp;quot;&amp;gt;Australia Arrests 2 Alleged TeamPCP Hackers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 12:48:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>arrested</category>
-      <category>Australia</category>
-      <category>hacker</category>
-      <category>TeamPCP</category>
-    </item>
-    <item>
       <title>Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-qtfy-us-infrastructure-fbi/</link>
       <description>The FBI advisory set out QTFY’s distributed hacking ecosystem, allowing it to exploit vulnerabilities at scale and obfuscate its activities</description>
@@ -683,23 +769,6 @@ The security flaw, which does not have a CVE identifier, works against Kiro IDE 
       <guid isPermaLink="true">https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation</guid>
       <dc:creator>Bill Fisher, Ryan Galluzzo</dc:creator>
       <source url="https://www.nist.gov/blogs/cybersecurity-insights/rss.xml">Cybersecurity Insights</source>
-    </item>
-    <item>
-      <title>OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack</title>
-      <link>https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/</link>
-      <description>&amp;lt;p&amp;gt;New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/&amp;quot;&amp;gt;OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 27 Aug 2026 11:58:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Incident Response</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>Hugging Face</category>
-      <category>Incident response</category>
-      <category>OpenAI</category>
     </item>
     <item>
       <title>Learn How to Build Security Operations Ready for AI-Powered Attacks</title>
@@ -1150,65 +1219,6 @@ The original incident was first reported by ABC News on August 10, based on chat
       <description>Learn how to evaluate higher education TPRM software, including HECVAT workflows, vendor monitoring, remediation, audit readiness, and reporting.</description>
       <pubDate>Wed, 26 Aug 2026 09:51:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/best-tprm-software-higher-education</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Enterprise Vendor Risk Management: 2026 Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/enterprise-vendor-risk-management</link>
-      <description>Discover how enterprise VRM programs help large-scale organizations remain robust and resilient against growing third-party risks from outside vendors.</description>
-      <pubDate>Wed, 26 Aug 2026 09:51:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/enterprise-vendor-risk-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation</title>
-      <link>https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html</link>
-      <description>OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn.
-
-The accounts &amp;quot;were being used to promote the International Burke Institute (IBI), a</description>
-      <pubDate>Wed, 26 Aug 2026 15:08:45 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>What is Third-Party Risk? | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-third-party-risk</link>
-      <description>Third-party risk is any risk brought on to an organization by external parties in its ecosystem or supply chain. Learn more about its importance.</description>
-      <pubDate>Wed, 26 Aug 2026 09:23:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-third-party-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vendor Risk Management: Strategies for Protecting Your Business | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-risk-management</link>
-      <description>Explore the fundamentals of vendor risk management, including strategies, best practices, and tools to safeguard your organization from third-party risks.</description>
-      <pubDate>Wed, 26 Aug 2026 09:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Vendor Risk Assessments: An Ultimate Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-risk-assessment</link>
-      <description>Master vendor risk assessment: frameworks, real examples, and tools. Learn how automation and continuous monitoring strengthen your security.</description>
-      <pubDate>Wed, 26 Aug 2026 09:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-assessment</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>TPRM Lifecycle Guide with Examples and Framework Integration | UpGuard</title>
-      <link>https://www.upguard.com/blog/tprm-lifecycle</link>
-      <description>Explore the six critical phases of a TPRM lifecycle, including key strategies to help organizations mitigate and manage third-party cybersecurity risks.</description>
-      <pubDate>Wed, 26 Aug 2026 09:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/tprm-lifecycle</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>15 KPIs &amp;amp; Metrics to Measure the Success of Your TPRM Program | UpGuard</title>
-      <link>https://www.upguard.com/blog/kpis-to-measure-tprm</link>
-      <description>Learn more about the importance of KPIs and discover what metrics your organization should track to measure the health of its TPRM program.</description>
-      <pubDate>Wed, 26 Aug 2026 09:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/kpis-to-measure-tprm</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
