@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:49:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:32:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,6 +25,39 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>What We Missed: Did ShinyHunters &amp;apos;Breach&amp;apos; ReliaQuest?</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest</link>
+      <description>In this video conversation, Dark Reading editors discuss some of the news they didn&amp;apos;t get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware.</description>
+      <pubDate>Thu, 03 Sep 2026 19:42:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories</title>
+      <link>https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html</link>
+      <description>The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door?
+
+That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe downloads. One wrong letter in a web address can be enough.
+
+There is also</description>
+      <pubDate>Thu, 03 Sep 2026 23:32:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root</title>
+      <link>https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html</link>
+      <description>Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version.
+
+The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is</description>
+      <pubDate>Thu, 03 Sep 2026 21:22:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal</title>
       <link>https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/</link>
       <description>&amp;lt;p&amp;gt;Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.&amp;lt;/p&amp;gt;
@@ -36,6 +69,17 @@
       <category>Cybercrime</category>
       <category>Data Breaches</category>
       <category>ransom</category>
+    </item>
+    <item>
+      <title>BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory</title>
+      <link>https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html</link>
+      <description>Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts.
+
+&amp;quot;Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access Brokers (IABs) by turning compromised systems into highly valuable commercial</description>
+      <pubDate>Thu, 03 Sep 2026 20:56:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Pegasus Zero-Click Exploit Infects Serbian Student Activist&amp;apos;s iPhone</title>
@@ -57,6 +101,17 @@
       <category>Artificial Intelligence</category>
       <category>AI</category>
       <category>LLM</category>
+    </item>
+    <item>
+      <title>Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data</title>
+      <link>https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html</link>
+      <description>Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada.
+
+West Publishing said it discovered the activity on June 30, 2026. A subset of court records could contain individuals&amp;apos; names</description>
+      <pubDate>Thu, 03 Sep 2026 20:09:05 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>AI &amp;apos;Machine Speed&amp;apos; Cuts 2-Week Attack Down to 10 Hours</title>
@@ -286,7 +341,7 @@ The vulnerabilities are as follows -
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>AI’s Vulnerability Surge May Be More Manageable Than First Feared</title>
+      <title>AI&amp;apos;s Vulnerability Surge May Be More Manageable Than First Feared</title>
       <link>https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared</link>
       <description>New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.</description>
       <pubDate>Wed, 02 Sep 2026 21:14:06 +0000</pubDate>
@@ -998,46 +1053,6 @@ The vulnerabilities in question are listed below -
       <description>Protect your workforce with human risk management software that fits. Compare 10 platforms, the features that matter, and how to choose the right one.</description>
       <pubDate>Tue, 01 Sep 2026 01:09:42 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/best-human-risk-management-platforms</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Biggest Data Breaches in Education (Updated August 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches-in-education-updated-august-2026</link>
-      <description>Explore the 30 largest education data breaches as of August 2026, from PowerSchool to Canvas, alongside key sector statistics and US student privacy laws.</description>
-      <pubDate>Tue, 01 Sep 2026 01:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-in-education-updated-august-2026</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Jira + UpGuard: Automating Risk Management Together | UpGuard</title>
-      <link>https://www.upguard.com/blog/risk-automations-jira-integration</link>
-      <description>UpGuard’s Risk Automations route vendor, breach, and user risk signals into Jira, eliminating manual back-and-forth updates between the two platforms.</description>
-      <pubDate>Tue, 01 Sep 2026 01:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/risk-automations-jira-integration</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>ServiceNow + UpGuard: Automating Risk Management Together | UpGuard</title>
-      <link>https://www.upguard.com/blog/risk-automations-servicenow-integration</link>
-      <description>See how UpGuard’s Risk Automations ServiceNow integration turns vendor, breach, and user risk findings into tickets and syncs without manual data entry.</description>
-      <pubDate>Tue, 01 Sep 2026 01:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/risk-automations-servicenow-integration</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>AI Assurance: The Third Head of Your AI Governance Watchdog | UpGuard</title>
-      <link>https://www.upguard.com/blog/ai-governance-to-ai-assurance</link>
-      <description>AI governance needs three things: policy, enforcement, and assurance. Most organizations have built the first two. Here&amp;apos;s why the third one matters now.</description>
-      <pubDate>Tue, 01 Sep 2026 01:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ai-governance-to-ai-assurance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best TPRM Software for Higher Education: What to Look For | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-tprm-software-higher-education</link>
-      <description>Learn how to evaluate higher education TPRM software, including HECVAT workflows, vendor monitoring, remediation, audit readiness, and reporting.</description>
-      <pubDate>Tue, 01 Sep 2026 01:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-tprm-software-higher-education</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
