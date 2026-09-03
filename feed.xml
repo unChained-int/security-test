@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:02:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -22,6 +22,24 @@
       <description/>
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI’s Vulnerability Surge May Be More Manageable Than First Feared</title>
+      <link>https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared</link>
+      <description>New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.</description>
+      <pubDate>Wed, 02 Sep 2026 21:14:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce</link>
+      <description>The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor&amp;apos;s edge devices.</description>
+      <pubDate>Wed, 02 Sep 2026 20:43:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -1005,31 +1023,6 @@ The vulnerabilities in question are listed below -
       <pubDate>Mon, 31 Aug 2026 20:09:24 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind</guid>
       <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Is Someone Hacking DoD Refrigerators?</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html</link>
-      <description>&amp;lt;p&amp;gt;It sure &amp;lt;a href=&amp;quot;https://www.militarytimes.com/news/your-military/2026/08/28/dod-confirms-refrigeration-disruption-at-military-commissaries/&amp;quot;&amp;gt;seems&amp;lt;/a&amp;gt; &amp;lt;a&amp;gt;like&amp;lt;/a&amp;gt; it.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The stores confirmed to be affected include &amp;lt;a href=&amp;quot;https://www.facebook.com/FTirwin/posts/pfbid0bkY1LoQRDustXmQjfLGXYhaDGTXHU6VxBB6or9nL78FE14CeVFQUJHyAkmKWBTi9l&amp;quot;&amp;gt;Fort Irwin&amp;lt;/a&amp;gt;, Calif.; &amp;lt;a href=&amp;quot;https://www.facebook.com/FEWarrenAirForceBase/posts/pfbid0fm9piUzNegdz97zDwT7FtgkDCojLFUXwXiWzUYu2Wc3vhGh1YYtoLdhiQ9VnAsYtl&amp;quot;&amp;gt;F.E. Warren Air Force Base&amp;lt;/a&amp;gt;, Wyo.; &amp;lt;a href=&amp;quot;https://www.facebook.com/u.s.armyforthuachuca/posts/pfbid0Wx3okmC23RattgcReg3KSjbZvWAptgirher4Hgu6NdaCVbJzGPDjrp83zfzrVriJl&amp;quot;&amp;gt;Fort Huachuca&amp;lt;/a&amp;gt;, Ariz.; &amp;lt;a href=&amp;quot;https://www.facebook.com/NAVSTANewport/posts/pfbid0sCiLdtm1RcJ6kW6pNwNFeSRWXa2zvKcBPjQfBr95YGFrQPdqysmxfdzwSvTCfSCAl&amp;quot;&amp;gt;Naval Station Newport&amp;lt;/a&amp;gt;, R.I.; &amp;lt;a href=&amp;quot;https://www.facebook.com/ColumbusAFB/posts/pfbid02UfFNo6XuiHkATpULyGGENf1J8Ck3qZNzsDTzZVEjudFDZqk3uJwQGK5on6K1TRaNl&amp;quot;&amp;gt;Columbus Air Force Base&amp;lt;/a&amp;gt;, Miss.; and &amp;lt;a href=&amp;quot;https://corp.commissaries.com/shopping/store-locations/travis-afb&amp;quot;&amp;gt;Travis Air Force Base&amp;lt;/a&amp;gt;, Calif., according to announcements made online by each installation.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Naval Air Station Lemoore, Calif., also experienced an outage, according to M. Elizabeth, &amp;lt;a href=&amp;quot;https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary&amp;quot;&amp;gt;writer of the Substack newsletter Signal and Silence&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Each service declined to answer questions about how many bases are affected by the outages, referring all questions to the Defense Department. Pentagon officials did not respond to questions...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 31 Aug 2026 18:20:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>hacking</category>
-      <category>infrastructure</category>
-      <category>military</category>
-    </item>
-    <item>
-      <title>AI Model Rules Are Not Security Controls</title>
-      <link>https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control</link>
-      <description>OpenAI&amp;apos;s Hugging Face attack postmortem shows agents don&amp;apos;t care about rules — they need strong controls.</description>
-      <pubDate>Mon, 31 Aug 2026 17:34:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control</guid>
-      <dc:creator>Jacob Krell</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
