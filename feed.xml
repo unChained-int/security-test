@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 04 Sep 2026 03:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:38:41 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,254 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html</link>
+      <description>&amp;lt;p&amp;gt;We cannot forget that AI coding agents are &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/&amp;quot;&amp;gt;not yet trustworthy&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a different site, pointed to one or more code packages or domain names that weren&amp;amp;#8217;t registered. To test what happens when an AI agent processes such files, the researchers registered a handful of the unclaimed names and hosted packages that caused any machine executing them to reach out to their server. Within an hour, the researchers received a phone-home response from a Fortune 500 company. Over time, they got a few dozen more, some from more Fortune 500 companies and others from startups. Their beacon also recorded the chain of parent processes that spawned each install, ultimately revealing that coding agents, including Claude, OpenAI&amp;amp;#8217;s Codex, and Nous Research&amp;amp;#8217;s Hermes, were involved. Anthropic, OpenAI, and Nous Research did not respond to requests for comment by the time of publication...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 10:35:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>exploits</category>
+      <category>trust</category>
+    </item>
+    <item>
+      <title>OpenAI Pledges $1bn to Bring its AI Cybersecurity Tools to Essential Services</title>
+      <link>https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/</link>
+      <description>OpenAI has committed to subsidizing access to Daybreak, helping defenders deploy its AI models in its existing cybersecurity infrastructure</description>
+      <pubDate>Fri, 04 Sep 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules</title>
+      <link>https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/</link>
+      <description>The G7 has published a call to action, urging governments to launch national strategies dedicated to the post-quantum encryption transition</description>
+      <pubDate>Fri, 04 Sep 2026 09:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws</title>
+      <link>https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html</link>
+      <description>Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.
+
+The vulnerabilities in question are -
+
+
+  CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag &amp;amp;amp; Drop Form Builder that allows unauthenticated attackers to upload files of any type, including</description>
+      <pubDate>Fri, 04 Sep 2026 14:18:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws</title>
+      <link>https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html</link>
+      <description>Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.
+
+The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them.
+
+&amp;quot;We recommend all server owners and Desktop users</description>
+      <pubDate>Fri, 04 Sep 2026 13:05:14 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day</title>
+      <link>https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</link>
+      <description>Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.
+
+The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome&amp;apos;s JavaScript and WebAssembly engine.
+
+&amp;quot;Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote</description>
+      <pubDate>Fri, 04 Sep 2026 12:48:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests</title>
+      <link>https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html</link>
+      <description>OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the &amp;quot;world&amp;apos;s most intelligent and aligned model.&amp;quot;
+
+The development comes days after the artificial intelligence (AI) company said the model had reached the &amp;quot;Critical&amp;quot; cybersecurity capability threshold under its Preparedness Framework.
+
+&amp;quot;Astra is state-of-the-art on computer use, browsing, software engineering,</description>
+      <pubDate>Fri, 04 Sep 2026 12:17:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Introducing Subprocessor listing in Trust Center profiles  | UpGuard</title>
+      <link>https://www.upguard.com/blog/introducing-subprocessor-listing-in-trust-center-profiles</link>
+      <description>Publish your subprocessors in your UpGuard Trust Center, keep the list current, and let customers subscribe to changes.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/introducing-subprocessor-listing-in-trust-center-profiles</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Biggest Data Breaches in Telecommunications (Updated September 2026) | UpGuard</title>
+      <link>https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications-updated-september-2026</link>
+      <description>See the 32 largest telecom data breaches through September 2026, including Salt Typhoon and AT&amp;amp;amp;T. Analyze key security risks, compliance, and defenses.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications-updated-september-2026</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The Best IT and Cyber Risk Management Software | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-it-and-cyber-risk-management-software</link>
+      <description>Discover the best IT and cyber risk management software, including UpGuard, Riskonnect, Diligent, Optro, ServiceNow, Archer, and MetricStream.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-it-and-cyber-risk-management-software</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>How to Choose Trust Center Software | UpGuard</title>
+      <link>https://www.upguard.com/blog/how-to-choose-trust-center-software</link>
+      <description>Compare trust center software on the capabilities that matter: NDA gating, watermarks, access logs, and two-sided answering. Plus a vendor checklist for 20</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-choose-trust-center-software</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>AI Security Questionnaire Software (2026 Guide) | UpGuard</title>
+      <link>https://www.upguard.com/blog/ai-security-questionnaire-software</link>
+      <description>Compare AI security questionnaire software with this buyer&amp;apos;s guide. Key criteria, red flags, and vendor comparisons to help you avoid choosing the wrong to</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/ai-security-questionnaire-software</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The Context Gap: From Noise To High-Context Intelligence | UpGuard</title>
+      <link>https://www.upguard.com/blog/from-noise-to-high-context-intelligence</link>
+      <description>Bridge the context gap with high-context intelligence. Stop the manual hunt for alert context and reclaim your time with UpGuard Breach Risk.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/from-noise-to-high-context-intelligence</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Solving Human Risk: Automate Governance and Prioritize Action | UpGuard</title>
+      <link>https://www.upguard.com/blog/automate-governance-prioritize-action</link>
+      <description>Visibility is not enough. Discover how User Risk empowers automated governance and drives immediate action by prioritizing human risk data.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/automate-governance-prioritize-action</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Solving Human Risk: Close the Visibility Gap | UpGuard</title>
+      <link>https://www.upguard.com/blog/closing-the-visibility-gap</link>
+      <description>Don&amp;apos;t fly blind. In this blog, we expose the full scope of human risk visibility challenges and explore how User Risk provides the tools to address them.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/closing-the-visibility-gap</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Trust Exchange Paid: Scaling Security Communication | UpGuard</title>
+      <link>https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</link>
+      <description>Trust Exchange Paid automates due diligence, featuring AI autofills, custom pages, watermarked PDFs, and upcoming multiple trust pages. Learn more here.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>A CISO’s Guide to the DoW&amp;apos;s New CSRMC Framework | UpGuard</title>
+      <link>https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</link>
+      <description>The new CSRMC framework makes static security obsolete. This guide offers actionable steps to modernize your SOC with continuous assurance.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Shai-Hulud&amp;apos;s True Lesson for CISOs: A Crisis of Communication | UpGuard</title>
+      <link>https://www.upguard.com/blog/shai-hulud-lesson-for-cisos</link>
+      <description>Shai-Hulud was driven by a communication crisis between security and engineering. Get a CISO&amp;apos;s perspective on how to finally bridge this gap.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/shai-hulud-lesson-for-cisos</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Breach Risk Threat Monitoring: A Path to Clarity in Cyber Noise | UpGuard</title>
+      <link>https://www.upguard.com/blog/threat-monitoring</link>
+      <description>Cut through the noise of constant security alerts to proactively identify and mitigate urgent breach risks before they escalate with threat monitoring.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/threat-monitoring</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Ultimate List of Cybersecurity Regulations by Industry | UpGuard</title>
+      <link>https://www.upguard.com/blog/cybersecurity-regulations-by-industry</link>
+      <description>Cybersecurity regulations protect sensitive information from cyber threats. Explore the most well-known regulations, categorized by industry, in this blog.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-regulations-by-industry</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Choosing Security Questionnaire Automation Software | UpGuard</title>
+      <link>https://www.upguard.com/blog/choosing-security-questionnaire-automation-software</link>
+      <description>Learn which features to look for when selecting the best security questionnaire automation software in 2023. The wrong choice will degrade your ROI.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-security-questionnaire-automation-software</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>How to Answer a Security Questionnaire: A 4-Step Guide | UpGuard</title>
+      <link>https://www.upguard.com/blog/how-to-answer-a-security-questionnaire</link>
+      <description>Learn best practices on how to answer a security questionnaire as a vendor.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-answer-a-security-questionnaire</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is a Security Questionnaire? | UpGuard</title>
+      <link>https://www.upguard.com/blog/security-questionnaire</link>
+      <description>A security questionnaire helps organizations identify potential cybersecurity weaknesses among their third-party and even fourth-party vendors. Learn more.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/security-questionnaire</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is the Consensus Assessments Initiative Questionnaire (CAIQ)? | UpGuard</title>
+      <link>https://www.upguard.com/blog/caiq</link>
+      <description>This is a complete overview of the Consensus Assessments Initiative Questionnaire (CAIQ). Learn how to use the CAIQ in this in-depth post.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/caiq</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is the NIST Cybersecurity Framework (NIST CSF)?  | UpGuard</title>
+      <link>https://www.upguard.com/blog/nist-cybersecurity-framework</link>
+      <description>What is the NIST CSF? Learn its phases, compare tools, and see how UpGuard helps your business improve security posture and streamline compliance.</description>
+      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/nist-cybersecurity-framework</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>CrowdStrike Disrupts Sality Botnet After More Than 20 Years</title>
+      <link>https://www.techrepublic.com/article/news-crowdstrike-sality-botnet-disruption/</link>
+      <description>&amp;lt;p&amp;gt;Cybersecurity expert Ken Underhill reports from CrowdStrike on the disruption of the 20-year-old Sality botnet and what security teams need to know.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-crowdstrike-sality-botnet-disruption/&amp;quot;&amp;gt;CrowdStrike Disrupts Sality Botnet After More Than 20 Years&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 03 Sep 2026 21:36:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-crowdstrike-sality-botnet-disruption/</guid>
+      <dc:creator>Ken Underhill</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>botnets</category>
+      <category>crowdstrike</category>
+      <category>cybercrime</category>
+      <category>cybersecurity</category>
+      <category>law enforcement</category>
+      <category>malware</category>
+      <category>sality</category>
+      <category>threat intelligence</category>
     </item>
     <item>
       <title>Large Enterprises Targeted in Fake Merger &amp;amp;amp; Acquisition Scams</title>
@@ -298,14 +546,6 @@ Earlier variants of the infostealer worm only checked 189 paths. The jump says a
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>The Context Gap: From Noise To High-Context Intelligence | UpGuard</title>
-      <link>https://www.upguard.com/blog/from-noise-to-high-context-intelligence</link>
-      <description>Bridge the context gap with high-context intelligence. Stop the manual hunt for alert context and reclaim your time with UpGuard Breach Risk.</description>
-      <pubDate>Thu, 03 Sep 2026 09:00:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/from-noise-to-high-context-intelligence</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member&amp;apos;s iPhone</title>
       <link>https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html</link>
       <description>The iPhone belonging to a member of Serbia&amp;apos;s student protest movement was infected with NSO Group&amp;apos;s Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.
@@ -327,9 +567,9 @@ Earlier variants of the infostealer worm only checked 189 paths. The jump says a
     <item>
       <title>Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon</title>
       <link>https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html</link>
-      <description>The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.
+      <description>The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.
 
-&amp;quot;FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,&amp;quot; the researcher said in a GitHub README file, adding</description>
+&amp;quot;FalconFlank is a 0-day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,&amp;quot; the researcher said in</description>
       <pubDate>Thu, 03 Sep 2026 11:56:59 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -348,14 +588,6 @@ The vulnerabilities are as follows -
       <guid isPermaLink="true">https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Introducing Subprocessor listing in Trust Center profiles  | UpGuard</title>
-      <link>https://www.upguard.com/blog/introducing-subprocessor-listing-in-trust-center-profiles</link>
-      <description>Publish your subprocessors in your UpGuard Trust Center, keep the list current, and let customers subscribe to changes.</description>
-      <pubDate>Thu, 03 Sep 2026 03:15:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/introducing-subprocessor-listing-in-trust-center-profiles</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>AI&amp;apos;s Vulnerability Surge May Be More Manageable Than First Feared</title>
@@ -465,14 +697,6 @@ The vulnerabilities are as follows -
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Solving Human Risk: Close the Visibility Gap | UpGuard</title>
-      <link>https://www.upguard.com/blog/closing-the-visibility-gap</link>
-      <description>Don&amp;apos;t fly blind. In this blog, we expose the full scope of human risk visibility challenges and explore how User Risk provides the tools to address them.</description>
-      <pubDate>Wed, 02 Sep 2026 14:34:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/closing-the-visibility-gap</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code</title>
       <link>https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html</link>
       <description>Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository&amp;apos;s own Git configuration names a command that the agent runs on the developer&amp;apos;s machine, four of them still unpatched at publication.
@@ -505,14 +729,6 @@ The modules</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Shai-Hulud&amp;apos;s True Lesson for CISOs: A Crisis of Communication | UpGuard</title>
-      <link>https://www.upguard.com/blog/shai-hulud-lesson-for-cisos</link>
-      <description>Shai-Hulud was driven by a communication crisis between security and engineering. Get a CISO&amp;apos;s perspective on how to finally bridge this gap.</description>
-      <pubDate>Wed, 02 Sep 2026 13:19:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shai-hulud-lesson-for-cisos</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access</title>
       <link>https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html</link>
       <description>Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise.
@@ -536,14 +752,6 @@ The incident window ran from approximately August 28 at 20:57</description>
       <category>ICS</category>
       <category>Rockwell Automation</category>
       <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Breach Risk Threat Monitoring: A Path to Clarity in Cyber Noise | UpGuard</title>
-      <link>https://www.upguard.com/blog/threat-monitoring</link>
-      <description>Cut through the noise of constant security alerts to proactively identify and mitigate urgent breach risks before they escalate with threat monitoring.</description>
-      <pubDate>Wed, 02 Sep 2026 12:30:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/threat-monitoring</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control</title>
@@ -689,22 +897,6 @@ The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulg
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>How to Choose Trust Center Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-choose-trust-center-software</link>
-      <description>Compare trust center software on the capabilities that matter: NDA gating, watermarks, access logs, and two-sided answering. Plus a vendor checklist for 20</description>
-      <pubDate>Wed, 02 Sep 2026 06:29:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-choose-trust-center-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>AI Security Questionnaire Software (2026 Guide) | UpGuard</title>
-      <link>https://www.upguard.com/blog/ai-security-questionnaire-software</link>
-      <description>Compare AI security questionnaire software with this buyer&amp;apos;s guide. Key criteria, red flags, and vendor comparisons to help you avoid choosing the wrong to</description>
-      <pubDate>Wed, 02 Sep 2026 06:24:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ai-security-questionnaire-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency</link>
       <description>Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.</description>
@@ -832,28 +1024,12 @@ Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat 
       <category>Russia</category>
     </item>
     <item>
-      <title>Biggest Data Breaches in Telecommunications (Updated September 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications-updated-september-2026</link>
-      <description>See the 32 largest telecom data breaches through September 2026, including Salt Typhoon and AT&amp;amp;amp;T. Analyze key security risks, compliance, and defenses.</description>
-      <pubDate>Tue, 01 Sep 2026 15:28:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications-updated-september-2026</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Attackers Steal METR API Key and Burn $600,000 in AI Credits</title>
       <link>https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/</link>
       <description>Attackers used a stolen METR API key for three weeks, consuming model credits worth $600,000</description>
       <pubDate>Tue, 01 Sep 2026 14:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The Best IT and Cyber Risk Management Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-it-and-cyber-risk-management-software</link>
-      <description>Discover the best IT and cyber risk management software, including UpGuard, Riskonnect, Diligent, Optro, ServiceNow, Archer, and MetricStream.</description>
-      <pubDate>Tue, 01 Sep 2026 14:08:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-it-and-cyber-risk-management-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds</title>
@@ -865,14 +1041,6 @@ Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat 
       <guid isPermaLink="true">https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Solving Human Risk: Automate Governance and Prioritize Action | UpGuard</title>
-      <link>https://www.upguard.com/blog/automate-governance-prioritize-action</link>
-      <description>Visibility is not enough. Discover how User Risk empowers automated governance and drives immediate action by prioritizing human risk data.</description>
-      <pubDate>Tue, 01 Sep 2026 14:00:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/automate-governance-prioritize-action</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain</title>
@@ -892,14 +1060,6 @@ Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat 
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>A CISO’s Guide to the DoW&amp;apos;s New CSRMC Framework | UpGuard</title>
-      <link>https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</link>
-      <description>The new CSRMC framework makes static security obsolete. This guide offers actionable steps to modernize your SOC with continuous assurance.</description>
-      <pubDate>Tue, 01 Sep 2026 13:09:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/a-cisos-guide-to-the-new-csrmc-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests</title>
       <link>https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</link>
       <description>The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript.
@@ -907,152 +1067,6 @@ Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat 
 Russian cybersecurity company Kaspersky is tracking the</description>
       <pubDate>Tue, 01 Sep 2026 18:38:58 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>White House Launches Pilot Program in Texas to Protect Water Infrastructure</title>
-      <link>https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/</link>
-      <description>Project Watershed 250 will see water providers in Texas provided with federal and private sector cybersecurity resources amid rising nation-state threats</description>
-      <pubDate>Tue, 01 Sep 2026 12:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Ultimate List of Cybersecurity Regulations by Industry | UpGuard</title>
-      <link>https://www.upguard.com/blog/cybersecurity-regulations-by-industry</link>
-      <description>Cybersecurity regulations protect sensitive information from cyber threats. Explore the most well-known regulations, categorized by industry, in this blog.</description>
-      <pubDate>Tue, 01 Sep 2026 12:00:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-regulations-by-industry</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones</title>
-      <link>https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html</link>
-      <description>The most common way into a company last year was to ask.
-
-A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft’s team observed last year, accounting</description>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Rewiring Democracy Series on The Renovator</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html</link>
-      <description>&amp;lt;p&amp;gt;Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for &amp;lt;cite&amp;gt;The Renovator&amp;lt;/cite&amp;gt;. I haven&amp;amp;#8217;t been posting the full text on the blog because they&amp;amp;#8217;re a bit long, but here are links.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://therenovator.substack.com/p/rewiring-democracy-now&amp;quot;&amp;gt;Part 1&amp;lt;/a&amp;gt; is about the Japanese digital democracy party, Team Mirai.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://therenovator.substack.com/p/rewiring-democracy-now-switzerland&amp;quot;&amp;gt;Part 2&amp;lt;/a&amp;gt; is about the Swiss Public AI model, Apertus.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://therenovator.substack.com/p/rewiring-democracy-ai-and-the-struggle&amp;quot;&amp;gt;Part 3&amp;lt;/a&amp;gt; is about the civic technologists of Open Knowledge Brazil.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;And the new one, &amp;lt;a href=&amp;quot;https://www.schneier.com/essays/archives/2026/08/rewiring-democracy-citizen-science-leads-to-civic-ai-in-scotland.html&amp;quot;&amp;gt;Part 4&amp;lt;/a&amp;gt;, is about civic AI in Scotland.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 01 Sep 2026 09:59:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>democracy</category>
-      <category>LLM</category>
-      <category>Rewiring Democracy</category>
-    </item>
-    <item>
-      <title>Financial Stability Board Sounds the Alarm Over Frontier AI Risks</title>
-      <link>https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/</link>
-      <description>The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI</description>
-      <pubDate>Tue, 01 Sep 2026 09:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attackers Steal METR API Key and Consume AI Credits Worth About $600,000</title>
-      <link>https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html</link>
-      <description>METR (short for Model Evaluation and Threat Research and pronounced &amp;quot;Meter&amp;quot;), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered &amp;quot;two notable security incidents&amp;quot; where external actors attempted to gain unauthorized access to its systems.
-
-No sensitive information is believed to</description>
-      <pubDate>Tue, 01 Sep 2026 14:35:30 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trust Exchange Paid: Scaling Security Communication | UpGuard</title>
-      <link>https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</link>
-      <description>Trust Exchange Paid automates due diligence, featuring AI autofills, custom pages, watermarked PDFs, and upcoming multiple trust pages. Learn more here.</description>
-      <pubDate>Tue, 01 Sep 2026 08:40:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/trust-exchange-paid-scaling-security-communication</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Answer a Security Questionnaire: A 4-Step Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-answer-a-security-questionnaire</link>
-      <description>Learn best practices on how to answer a security questionnaire as a vendor.</description>
-      <pubDate>Tue, 01 Sep 2026 08:34:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-answer-a-security-questionnaire</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Choosing Security Questionnaire Automation Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/choosing-security-questionnaire-automation-software</link>
-      <description>Learn which features to look for when selecting the best security questionnaire automation software in 2023. The wrong choice will degrade your ROI.</description>
-      <pubDate>Tue, 01 Sep 2026 08:29:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-security-questionnaire-automation-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis</title>
-      <link>https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html</link>
-      <description>Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that&amp;apos;s been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis.
-
-The idea, ESET said in a series of posts on X, is to deliberately trip a large language model&amp;apos;s (LLM) safety mechanisms and prevent its</description>
-      <pubDate>Tue, 01 Sep 2026 13:56:24 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Healthcare Giant McKesson Investigates Data Breach Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/</link>
-      <description>ShinyHunters claims to have stolen 284 million records from McKesson</description>
-      <pubDate>Tue, 01 Sep 2026 08:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>What is the Consensus Assessments Initiative Questionnaire (CAIQ)? | UpGuard</title>
-      <link>https://www.upguard.com/blog/caiq</link>
-      <description>This is a complete overview of the Consensus Assessments Initiative Questionnaire (CAIQ). Learn how to use the CAIQ in this in-depth post.</description>
-      <pubDate>Tue, 01 Sep 2026 08:20:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/caiq</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is a Security Questionnaire? | UpGuard</title>
-      <link>https://www.upguard.com/blog/security-questionnaire</link>
-      <description>A security questionnaire helps organizations identify potential cybersecurity weaknesses among their third-party and even fourth-party vendors. Learn more.</description>
-      <pubDate>Tue, 01 Sep 2026 08:09:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/security-questionnaire</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is the NIST Cybersecurity Framework (NIST CSF)?  | UpGuard</title>
-      <link>https://www.upguard.com/blog/nist-cybersecurity-framework</link>
-      <description>What is the NIST CSF? Learn its phases, compare tools, and see how UpGuard helps your business improve security posture and streamline compliance.</description>
-      <pubDate>Tue, 01 Sep 2026 07:42:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/nist-cybersecurity-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity</title>
-      <link>https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</link>
-      <description>Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.
-
-The vulnerabilities in question are listed below -
-
-
-  CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user.
-  CVE-2026-66066 aka</description>
-      <pubDate>Tue, 01 Sep 2026 12:52:30 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
