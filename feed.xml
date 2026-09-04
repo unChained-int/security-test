@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:48:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,130 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Ted Backdoor Hides Inside Victims&amp;apos; Own HAProxy Builds to Intercept Web Traffic</title>
+      <link>https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html</link>
+      <description>A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.
+
+The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and</description>
+      <pubDate>Fri, 04 Sep 2026 20:21:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Best Digital Risk Protection (DRP) Software, Platforms, and Solutions | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-digital-risk-protection-drp-software-platforms-and-solutions</link>
+      <description>Compare the top Digital Risk Protection (DRP) platforms, essential features, vendor trade-offs, and how DRP compares to EASM, DRPS, and CTI tools.</description>
+      <pubDate>Fri, 04 Sep 2026 14:34:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-digital-risk-protection-drp-software-platforms-and-solutions</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Sangoma Switchvox Vulnerabilities Exploited in the Wild</title>
+      <link>https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/</link>
+      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/&amp;quot;&amp;gt;Sangoma Switchvox Vulnerabilities Exploited in the Wild&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 13:23:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+    </item>
+    <item>
+      <title>AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready</link>
+      <description>A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.</description>
+      <pubDate>Fri, 04 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Biggest Data Breaches in Telecommunications (Updated September 2026) | UpGuard</title>
+      <link>https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications</link>
+      <description>See the 32 largest telecom data breaches through September 2026, including Salt Typhoon and AT&amp;amp;amp;T. Analyze key security risks, compliance, and defenses.</description>
+      <pubDate>Fri, 04 Sep 2026 12:58:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>AI Assurance: The Third Head of Your AI Governance Watchdog | UpGuard</title>
+      <link>https://www.upguard.com/blog/ai-governance-to-ai-assurance</link>
+      <description>AI governance needs three things: policy, enforcement, and assurance. Most organizations have built the first two. Here&amp;apos;s why the third one matters now.</description>
+      <pubDate>Fri, 04 Sep 2026 12:14:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/ai-governance-to-ai-assurance</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</title>
+      <link>https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/</link>
+      <description>&amp;lt;p&amp;gt;Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/&amp;quot;&amp;gt;12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 12:06:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CVE-2026-6471</category>
+      <category>Featured</category>
+      <category>PostgreSQL</category>
+    </item>
+    <item>
+      <title>Catch Raises $5 Million for AI Executive Assistant With Guardrails</title>
+      <link>https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/</link>
+      <description>&amp;lt;p&amp;gt;Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/&amp;quot;&amp;gt;Catch Raises $5 Million for AI Executive Assistant With Guardrails&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 11:55:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity Funding</category>
+      <category>AI</category>
+      <category>funding</category>
+    </item>
+    <item>
+      <title>VMware Workstation and Fusion Updates Patch Critical Vulnerability</title>
+      <link>https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/</link>
+      <description>&amp;lt;p&amp;gt;The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/&amp;quot;&amp;gt;VMware Workstation and Fusion Updates Patch Critical Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 11:42:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CVE-2026-59346</category>
+      <category>VMware</category>
+    </item>
+    <item>
+      <title>Google Patches 6th Chrome Zero-Day of 2026</title>
+      <link>https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/</link>
+      <description>&amp;lt;p&amp;gt;Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/&amp;quot;&amp;gt;Google Patches 6th Chrome Zero-Day of 2026&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 11:31:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Chrome</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Security Vulnerability in a Voting System</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html</link>
+      <description>&amp;lt;p&amp;gt;It&amp;amp;#8217;s a vulnerability that allows someone to recover the order of ballots cast, &amp;lt;a href=&amp;quot;https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/&amp;quot;&amp;gt;newly exploited&amp;lt;/a&amp;gt; with AI tools.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Notably, I never touched a voting machine, exploited a network, examined source code, or accessed anything non-public.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;After pointing a coding agent to the original vulnerability paper, I supplied it with two data sources highlighted in the paper: the early-voting list for each county, and the  &amp;amp;#8220;CVR&amp;amp;#8221; (cast-vote record) file, containing every ballot and its selections (but not the voters&amp;amp;#8217; names or other identifying information). The CVR file is available upon request, precisely because a public, ballot-level record is what makes election results independently verifiable...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 11:09:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>voting</category>
+      <category>vulnerabilities</category>
     </item>
     <item>
       <title>AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks</title>
@@ -45,6 +169,19 @@
       <pubDate>Fri, 04 Sep 2026 10:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Nvidia Is Buying AI Platform Hugging Face for $13 Billion</title>
+      <link>https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/</link>
+      <description>&amp;lt;p&amp;gt;The deal highlights Nvidia’s push to champion increasingly popular open-source AI models.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/&amp;quot;&amp;gt;Nvidia Is Buying AI Platform Hugging Face for $13 Billion&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Hugging Face</category>
+      <category>NVIDIA</category>
     </item>
     <item>
       <title>G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules</title>
@@ -113,14 +250,6 @@ The development comes days after the artificial intelligence (AI) company said t
       <description>Publish your subprocessors in your UpGuard Trust Center, keep the list current, and let customers subscribe to changes.</description>
       <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/introducing-subprocessor-listing-in-trust-center-profiles</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Biggest Data Breaches in Telecommunications (Updated September 2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications-updated-september-2026</link>
-      <description>See the 32 largest telecom data breaches through September 2026, including Salt Typhoon and AT&amp;amp;amp;T. Analyze key security risks, compliance, and defenses.</description>
-      <pubDate>Thu, 03 Sep 2026 22:27:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/biggest-data-breaches-in-telecommunications-updated-september-2026</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
@@ -471,20 +600,6 @@ Around 45% of observed activity was associated with the United States, making it
       <category>scams</category>
     </item>
     <item>
-      <title>153 Million Driver License Images Offered on Dark Web</title>
-      <link>https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/</link>
-      <description>&amp;lt;p&amp;gt;Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/&amp;quot;&amp;gt;153 Million Driver License Images Offered on Dark Web&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 03 Sep 2026 10:54:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Data Breaches</category>
-      <category>Featured</category>
-      <category>Nexus</category>
-    </item>
-    <item>
       <title>Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks</title>
       <link>https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html</link>
       <description>Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.
@@ -498,20 +613,6 @@ According to a new report published by the Symantec Threat Hunter Team today, th
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</title>
-      <link>https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/</link>
-      <description>&amp;lt;p&amp;gt;The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/&amp;quot;&amp;gt;Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 03 Sep 2026 10:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>CVE-2026-19949</category>
-      <category>vulnerability</category>
-      <category>WordPress</category>
-    </item>
-    <item>
       <title>Shai-Hulud&amp;apos;s Reach Just Grew to 469 Credential Locations. Here&amp;apos;s What That Means</title>
       <link>https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</link>
       <description>In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs.
@@ -521,21 +622,6 @@ Earlier variants of the infostealer worm only checked 189 paths. The jump says a
       <guid isPermaLink="true">https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</title>
-      <link>https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/&amp;quot;&amp;gt;Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 03 Sep 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Network Security</category>
-      <category>Vulnerabilities</category>
-      <category>Cisco</category>
-      <category>CVE-2026-20354</category>
-      <category>CVE-2026-20355</category>
     </item>
     <item>
       <title>FBI Probes Possible Breach of 153 Million Driver’s Licenses</title>
@@ -617,18 +703,6 @@ The vulnerabilities are as follows -
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>OpenLeash Adds a Human Check to Risky AI Agent Actions</title>
-      <link>https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/</link>
-      <description>&amp;lt;p&amp;gt;The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/&amp;quot;&amp;gt;OpenLeash Adds a Human Check to Risky AI Agent Actions&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 02 Sep 2026 19:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-    </item>
-    <item>
       <title>AI Agents Are Now Emailing Me with Their Security Concerns</title>
       <link>https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html</link>
       <description>&amp;lt;p&amp;gt;I received the two emails below earlier in the month. They&amp;amp;#8217;re vaguely coherent. I suppose I shouldn&amp;amp;#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and network security problems. After all, I observe that behavior in many humans as well. (Hi, humans. Glad you&amp;amp;#8217;re still reading.)&amp;lt;/p&amp;gt;
@@ -673,20 +747,6 @@ The vulnerabilities are as follows -
       <guid isPermaLink="true">https://thehackernews.com/2026/09/fake-software-installers-disable.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</title>
-      <link>https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/</link>
-      <description>&amp;lt;p&amp;gt;Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/&amp;quot;&amp;gt;UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 02 Sep 2026 15:45:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>ICS/OT</category>
-      <category>CSRB</category>
-      <category>UK</category>
     </item>
     <item>
       <title>Russian Man Extradited Over Malware Campaign Targeting Freelancers</title>
@@ -738,20 +798,6 @@ The incident window ran from approximately August 28 at 20:57</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</title>
-      <link>https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/</link>
-      <description>&amp;lt;p&amp;gt;The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/&amp;quot;&amp;gt;Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 02 Sep 2026 12:39:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>ICS</category>
-      <category>Rockwell Automation</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control</title>
@@ -1022,53 +1068,6 @@ Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat 
       <category>cybersecurity</category>
       <category>leaks</category>
       <category>Russia</category>
-    </item>
-    <item>
-      <title>Attackers Steal METR API Key and Burn $600,000 in AI Credits</title>
-      <link>https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/</link>
-      <description>Attackers used a stolen METR API key for three weeks, consuming model credits worth $600,000</description>
-      <pubDate>Tue, 01 Sep 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds</title>
-      <link>https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html</link>
-      <description>Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices.
-
-&amp;quot;The injected code runs two operations against a site&amp;apos;s visitors: a mobile ad-fraud and gambling-redirect</description>
-      <pubDate>Tue, 01 Sep 2026 19:37:20 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain</title>
-      <link>https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain</link>
-      <description>The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.</description>
-      <pubDate>Tue, 01 Sep 2026 13:56:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>65% of Enterprises Have Seen AI Agents Act Out of Scope</title>
-      <link>https://www.infosecurity-magazine.com/news/65-percent-enterprises-ai-agents/</link>
-      <description>EMA survey finds 65% of enterprises have seen AI agents act beyond intended scope</description>
-      <pubDate>Tue, 01 Sep 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/65-percent-enterprises-ai-agents/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests</title>
-      <link>https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</link>
-      <description>The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript.
-
-Russian cybersecurity company Kaspersky is tracking the</description>
-      <pubDate>Tue, 01 Sep 2026 18:38:58 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
