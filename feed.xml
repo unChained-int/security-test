@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 05 Sep 2026 14:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:57:47 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,41 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials</title>
+      <link>https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html</link>
+      <description>JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.
+
+&amp;quot;Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,&amp;quot; JetBrains said.</description>
+      <pubDate>Sat, 05 Sep 2026 22:22:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code</title>
+      <link>https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html</link>
+      <description>Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.
+
+The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code.
+
+&amp;quot;A</description>
+      <pubDate>Sat, 05 Sep 2026 21:35:08 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers&amp;apos; Data It Said Was Deleted</title>
+      <link>https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html</link>
+      <description>Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.
+
+The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company&amp;apos;s hardware wallets</description>
+      <pubDate>Sat, 05 Sep 2026 19:47:02 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</title>
@@ -1062,36 +1097,6 @@ Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U
       <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>FulcrumSec Claims Responsibility for Manchester Airport Group Breach</title>
-      <link>https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/</link>
-      <description>Threat group FulcrumSec claims MAG breach and leaks 550GB of data online</description>
-      <pubDate>Wed, 02 Sep 2026 08:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another</title>
-      <link>https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html</link>
-      <description>Forescout Research - Vedere Labs said it used Anthropic&amp;apos;s Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware.
-
-The exploit targets&amp;amp;nbsp;CVE-2021-31886, a stack-based buffer overflow in the Nucleus FTP server&amp;apos;s handling of the&amp;amp;nbsp;USER&amp;amp;nbsp;command</description>
-      <pubDate>Wed, 02 Sep 2026 13:17:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials</title>
-      <link>https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html</link>
-      <description>Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.
-
-The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as</description>
-      <pubDate>Wed, 02 Sep 2026 12:38:50 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
