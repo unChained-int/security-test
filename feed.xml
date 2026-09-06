@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 06 Sep 2026 03:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:18:46 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,30 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication</title>
+      <link>https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</link>
+      <description>Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&amp;amp;nbsp;CERT Polska&amp;apos;s attack warning, published on September 5.
+
+Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or</description>
+      <pubDate>Sun, 06 Sep 2026 15:02:38 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner</title>
+      <link>https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html</link>
+      <description>Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.
+
+One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner.
+
+The company named the four programs ProManager, WinUpdate, SoftManager, and</description>
+      <pubDate>Sun, 06 Sep 2026 14:04:20 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</title>
@@ -1076,30 +1100,6 @@ The vulnerabilities, discovered internally by SonicWall&amp;apos;s William Perry
       <category>privacy</category>
       <category>surveillance</category>
       <category>wireless</category>
-    </item>
-    <item>
-      <title>GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends</title>
-      <link>https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html</link>
-      <description>Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.
-
-The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability details on August 31.
-
-GeoNetwork originated at the United Nations Food and</description>
-      <pubDate>Wed, 02 Sep 2026 14:48:02 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands</title>
-      <link>https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html</link>
-      <description>The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017.
-
-Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U.S. Attorney&amp;apos;s Office for the Northern District of California</description>
-      <pubDate>Wed, 02 Sep 2026 14:40:23 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
