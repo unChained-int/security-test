@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:08:42 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,17 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution</title>
+      <link>https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</link>
+      <description>Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.
+
+&amp;quot;Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium&amp;apos;s own Secure Preferences</description>
+      <pubDate>Mon, 07 Sep 2026 23:42:09 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks</title>
@@ -1070,15 +1081,6 @@ The vulnerabilities are as follows -
       <pubDate>Wed, 02 Sep 2026 21:14:06 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared</guid>
       <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce</link>
-      <description>The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor&amp;apos;s edge devices.</description>
-      <pubDate>Wed, 02 Sep 2026 20:43:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
