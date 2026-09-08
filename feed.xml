@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Sep 2026 03:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:38:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,6 +25,79 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>Stealing AI Reasoning Traces</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html</link>
+      <description>&amp;lt;p&amp;gt;Interesting research: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2608.09867&amp;quot;&amp;gt;Stealing Reasoning Traces from Proprietary LLM APIs&amp;lt;/a&amp;gt;&amp;amp;#8220;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Leading large language model providers now conceal their models&amp;amp;#8217; step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, users, and models within a provider&amp;amp;#8217;s ecosystem. We exploit this compatibility to develop a scalable decryption jailbreak. By injecting an encrypted reasoning trace from a given model into a weaker, and less safeguarded model from the same provider, we force it to decode and output the trace verbatim in plaintext, without ever jailbreaking the more capable model directly. This vulnerability enables four distinct attack vectors. First, it circumvents anti-distillation mechanisms, allowing adversaries to extract a proprietary model&amp;amp;#8217;s reasoning, as we demonstrate across Anthropic, OpenAI, and Google. Second, it allows for large-scale private data extraction. Developers frequently share session logs publicly, unaware of contents of the encrypted blocks. By decoding 315,320 reasoning blocks scraped from public repositories, we recovered 367 Personally Identifiable Information (PII) artifacts and 182 credentials. Third, it inadvertently reveals hazardous information hidden within the reasoning process, even in cases where the model&amp;amp;#8217;s final, visible output safely rejects a malicious request. Fourth, attackers can leverage this flaw to execute invisible prompt injections, embedding malicious payloads entirely within encrypted blocks to poison public agentic rollouts. Following responsible disclosure, we propose concrete cryptographic and system-level mitigations to secure client-side reasoning...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 08 Sep 2026 10:20:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>LLM</category>
+    </item>
+    <item>
+      <title>BigBear 2 PhaaS Campaign Steals 5000+ Microsoft Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/</link>
+      <description>CloudSEK has uncovered BigBear 2.0, a new phishing-as-a-service operation targeting Microsoft 365</description>
+      <pubDate>Tue, 08 Sep 2026 09:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Proofpoint Strengthens Executive Leadership Team with Appointment of Chief Legal Officer and Chief People Officer</title>
+      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo</link>
+      <description/>
+      <pubDate>Tue, 08 Sep 2026 09:30:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-exec-leadership-appointment-clo-cpo</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
+      <title>Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell</title>
+      <link>https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html</link>
+      <description>Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.
+
+The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026.
+
+&amp;quot;This update resolves a critical</description>
+      <pubDate>Tue, 08 Sep 2026 14:43:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Trezor Supply Chain Breach Now Impacts 81,000 Customers</title>
+      <link>https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/</link>
+      <description>Crypto wallet-maker Trezor says a data breach at supplier ShipMonk is far worse than originally thought</description>
+      <pubDate>Tue, 08 Sep 2026 09:08:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams</title>
+      <link>https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html</link>
+      <description>Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.
+
+The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect</description>
+      <pubDate>Tue, 08 Sep 2026 14:13:51 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing</title>
+      <link>https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html</link>
+      <description>Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users&amp;apos; personal information, including their HIV status, with third-parties.
+
+Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.</description>
+      <pubDate>Tue, 08 Sep 2026 12:30:43 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
       <title>Best Shadow AI Governance Tools for Enterprises: Buyer&amp;apos;s Shortlist | UpGuard</title>
       <link>https://www.upguard.com/blog/best-shadow-ai-tools</link>
       <description>Compare top shadow AI governance tools for enterprises, covering key capabilities and how to shortlist the right platform for your organization.</description>
@@ -41,6 +114,28 @@
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
+      <title>OpenAI Commits $1B to Put Daybreak AI in Defenders’ Hands</title>
+      <link>https://www.techrepublic.com/article/news-openai-daybreak-ai-cybersecurity/</link>
+      <description>&amp;lt;p&amp;gt;OpenAI is committing $1 billion in subsidized Daybreak access and support to help cyber defenders protect critical infrastructure and fix flaws faster.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-openai-daybreak-ai-cybersecurity/&amp;quot;&amp;gt;OpenAI Commits $1B to Put Daybreak AI in Defenders’ Hands&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 07 Sep 2026 20:29:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openai-daybreak-ai-cybersecurity/</guid>
+      <dc:creator>Eric Mboizi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>OpenAI</category>
+      <category>Technology</category>
+      <category>artificial intelligence</category>
+      <category>codex security</category>
+      <category>critical infrastructure</category>
+      <category>cyber defense</category>
+      <category>cybersecurity</category>
+      <category>daybreak</category>
+      <category>enterprise security</category>
+      <category>openai</category>
+    </item>
+    <item>
       <title>PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution</title>
       <link>https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</link>
       <description>Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.
@@ -50,6 +145,54 @@
       <guid isPermaLink="true">https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Before You Paste Anything Into ChatGPT, Check This List</title>
+      <link>https://www.techrepublic.com/article/news-what-not-to-share-chatgpt-ai-chatbots/</link>
+      <description>&amp;lt;p&amp;gt;Before pasting passwords, medical records, source code, or company data into ChatGPT, use this checklist to decide what should stay private.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-what-not-to-share-chatgpt-ai-chatbots/&amp;quot;&amp;gt;Before You Paste Anything Into ChatGPT, Check This List&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 07 Sep 2026 17:41:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-what-not-to-share-chatgpt-ai-chatbots/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Generative AI</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>ai chatbots</category>
+      <category>ai privacy</category>
+      <category>artificial intelligence</category>
+      <category>chatgpt</category>
+      <category>cybersecurity</category>
+      <category>data privacy</category>
+      <category>online security</category>
+      <category>personal data</category>
+    </item>
+    <item>
+      <title>AI Could Shrink the Supply of Exploits Governments Rely On</title>
+      <link>https://www.techrepublic.com/article/news-ai-government-hackers-vulnerability-discovery/</link>
+      <description>&amp;lt;p&amp;gt;AI could accelerate vulnerability discovery, shrinking the pool of exploits governments rely on while speeding up the race between attackers and defenders.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-ai-government-hackers-vulnerability-discovery/&amp;quot;&amp;gt;AI Could Shrink the Supply of Exploits Governments Rely On&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 07 Sep 2026 17:33:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-ai-government-hackers-vulnerability-discovery/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai security</category>
+      <category>artificial intelligence</category>
+      <category>cybersecurity</category>
+      <category>encryption</category>
+      <category>government hacking</category>
+      <category>matthew green</category>
+      <category>vulnerability management</category>
+      <category>zero-day vulnerabilities</category>
     </item>
     <item>
       <title>Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks</title>
@@ -977,111 +1120,6 @@ Around 45% of observed activity was associated with the United States, making it
       <guid isPermaLink="true">https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats Faster</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak</link>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 11:53:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Researching Employment Scams</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html</link>
-      <description>&amp;lt;p&amp;gt;Researchers built a fake company to study &amp;lt;a href=&amp;quot;https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/&amp;quot;&amp;gt;fake employee scams&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 03 Sep 2026 11:18:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>employment</category>
-      <category>scams</category>
-    </item>
-    <item>
-      <title>Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks</title>
-      <link>https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html</link>
-      <description>Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.
-
-According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and hotels since February 2026.
-
-&amp;quot;The technique&amp;apos;s appeal is that node.exe (the</description>
-      <pubDate>Thu, 03 Sep 2026 16:13:01 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Shai-Hulud&amp;apos;s Reach Just Grew to 469 Credential Locations. Here&amp;apos;s What That Means</title>
-      <link>https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</link>
-      <description>In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs.
-
-Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have</description>
-      <pubDate>Thu, 03 Sep 2026 16:06:39 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>FBI Probes Possible Breach of 153 Million Driver’s Licenses</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/</link>
-      <description>The FBI is investigating how scans of over 153 million driver’s licenses are being sold on the dark web</description>
-      <pubDate>Thu, 03 Sep 2026 09:33:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member&amp;apos;s iPhone</title>
-      <link>https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html</link>
-      <description>The iPhone belonging to a member of Serbia&amp;apos;s student protest movement was infected with NSO Group&amp;apos;s Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.
-
-&amp;quot;Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group&amp;apos;s Pegasus spyware,&amp;quot; the Citizen Lab said. &amp;quot;We found high-confidence indicators of</description>
-      <pubDate>Thu, 03 Sep 2026 14:13:17 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>International Operation Disrupts Sality P2P Botnet</title>
-      <link>https://www.infosecurity-magazine.com/news/international-operation-disrupts/</link>
-      <description>US-led action sinkholes machines caught up in Sality botnet</description>
-      <pubDate>Thu, 03 Sep 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/international-operation-disrupts/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon</title>
-      <link>https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html</link>
-      <description>The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.
-
-&amp;quot;FalconFlank is a 0-day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,&amp;quot; the researcher said in</description>
-      <pubDate>Thu, 03 Sep 2026 11:56:59 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners</title>
-      <link>https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers&amp;apos; crosshairs.
-
-The vulnerabilities are as follows -
-
-
-  CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated</description>
-      <pubDate>Thu, 03 Sep 2026 10:49:04 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI&amp;apos;s Vulnerability Surge May Be More Manageable Than First Feared</title>
-      <link>https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared</link>
-      <description>New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.</description>
-      <pubDate>Wed, 02 Sep 2026 21:14:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
