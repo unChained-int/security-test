@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:12:52 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -22,6 +22,15 @@
       <description/>
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Mythos Vulnerability Firehose Hits a Human Bottleneck</title>
+      <link>https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck</link>
+      <description>An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.</description>
+      <pubDate>Wed, 09 Sep 2026 21:19:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -152,6 +161,26 @@ The first in-the-wild use of BlueMoon has been attributed to the China-aligned s
       <category>Awareness</category>
       <category>Interview</category>
       <category>Post Quantum Cryptography</category>
+    </item>
+    <item>
+      <title>Microsoft Fixes 974 Flaws in Record Patch Tuesday</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-974-flaws-record-patch-tuesday/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft’s record September Patch Tuesday fixes 974 vulnerabilities, including two exploited zero-days. Here’s what IT teams should prioritize.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-974-flaws-record-patch-tuesday/&amp;quot;&amp;gt;Microsoft Fixes 974 Flaws in Record Patch Tuesday&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 09 Sep 2026 15:12:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-974-flaws-record-patch-tuesday/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>Windows</category>
+      <category>cybersecurity</category>
+      <category>it administration</category>
+      <category>patch tuesday</category>
+      <category>security updates</category>
+      <category>vulnerability management</category>
+      <category>windows security</category>
+      <category>zero-day vulnerabilities</category>
     </item>
     <item>
       <title>Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls</title>
@@ -1071,30 +1100,6 @@ N-able has released its&amp;amp;nbsp;fourth hotfix&amp;amp;nbsp;in five weeks fo
 Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or</description>
       <pubDate>Sun, 06 Sep 2026 15:02:38 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner</title>
-      <link>https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html</link>
-      <description>Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.
-
-One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner.
-
-The company named the four programs ProManager, WinUpdate, SoftManager, and</description>
-      <pubDate>Sun, 06 Sep 2026 14:04:20 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</title>
-      <link>https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html</link>
-      <description>Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store&amp;apos;s server without logging in, Dutch e-commerce security company Sansec said in an&amp;amp;nbsp;advisory published on September 5.
-
-Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. &amp;quot;Sansec is</description>
-      <pubDate>Sun, 06 Sep 2026 01:44:47 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
