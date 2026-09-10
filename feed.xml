@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:27:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -25,7 +25,50 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Nightmare-Eclipse Strikes Again with &amp;apos;ShieldCrash&amp;apos; Windows Exploit</title>
+      <title>Coffee with the Council Podcast: Celebrating 20 Years of Securing Payment Data</title>
+      <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-celebrating-20-years-of-securing-payment-data</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-celebrating-20-years-of-securing-payment-data&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Coffee with the Council Podcast: Celebrating 20 Years of Securing Payment Data&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/20-Years-Blog-Header-new.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome to our podcast series, &amp;lt;em&amp;gt;Coffee with the Council&amp;lt;/em&amp;gt;. I&amp;apos;m Bryli Muse, Marketing and Communications Analyst for the PCI Security Standards Council. In today&amp;apos;s episode, I&amp;apos;m excited to celebrate the 20th Anniversary of the Council.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 10 Sep 2026 18:26:21 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-celebrating-20-years-of-securing-payment-data</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Community Meetings</category>
+      <category>Awareness</category>
+      <category>Interview</category>
+      <category>Participation</category>
+      <category>Coffee with the Council podcasts</category>
+    </item>
+    <item>
+      <title>ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories</title>
+      <link>https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html</link>
+      <description>A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”
+
+An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already</description>
+      <pubDate>Thu, 10 Sep 2026 23:17:38 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cybersecurity M&amp;amp;A Roundup: 33 Deals Announced in August 2026</title>
+      <link>https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/</link>
+      <description>&amp;lt;p&amp;gt;Significant cybersecurity M&amp;amp;#038;A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/&amp;quot;&amp;gt;Cybersecurity M&amp;amp;#038;A Roundup: 33 Deals Announced in August 2026&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 10 Sep 2026 16:14:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Funding/M&amp;amp;A</category>
+      <category>M&amp;amp;A Tracker</category>
+      <category>Acquisitions</category>
+      <category>M&amp;amp;A</category>
+    </item>
+    <item>
+      <title>Nightmare-Eclipse Strikes Again With &amp;apos;ShieldCrash&amp;apos; Windows Exploit</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit</link>
       <description>The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.</description>
       <pubDate>Thu, 10 Sep 2026 15:29:12 +0000</pubDate>
@@ -331,26 +374,6 @@ The AI company said the incident dates back to January 2026 and involved an earl
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks</title>
-      <link>https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/</link>
-      <description>&amp;lt;p&amp;gt;The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/&amp;quot;&amp;gt;Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:33:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>FortiGate</category>
-      <category>Fortinet</category>
-      <category>malware</category>
-      <category>PivotC2</category>
-      <category>RAT</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Mythos Vulnerability Firehose Hits a Human Bottleneck</title>
@@ -1043,39 +1066,6 @@ Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing
       <pubDate>Tue, 08 Sep 2026 01:21:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/introducing-app-store-threat-detection-visibility-where-brand-monitoring-couldnt-reach</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>OpenAI Commits $1B to Put Daybreak AI in Defenders’ Hands</title>
-      <link>https://www.techrepublic.com/article/news-openai-daybreak-ai-cybersecurity/</link>
-      <description>&amp;lt;p&amp;gt;OpenAI is committing $1 billion in subsidized Daybreak access and support to help cyber defenders protect critical infrastructure and fix flaws faster.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-openai-daybreak-ai-cybersecurity/&amp;quot;&amp;gt;OpenAI Commits $1B to Put Daybreak AI in Defenders’ Hands&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 07 Sep 2026 20:29:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openai-daybreak-ai-cybersecurity/</guid>
-      <dc:creator>Eric Mboizi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>OpenAI</category>
-      <category>Technology</category>
-      <category>artificial intelligence</category>
-      <category>codex security</category>
-      <category>critical infrastructure</category>
-      <category>cyber defense</category>
-      <category>cybersecurity</category>
-      <category>daybreak</category>
-      <category>enterprise security</category>
-      <category>openai</category>
-    </item>
-    <item>
-      <title>PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution</title>
-      <link>https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</link>
-      <description>Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.
-
-&amp;quot;Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium&amp;apos;s own Secure Preferences</description>
-      <pubDate>Mon, 07 Sep 2026 23:42:09 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
