@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:12:54 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,20 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</title>
+      <link>https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+
+Details of the vulnerabilities are as follows -
+
+
+  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization</description>
+      <pubDate>Sat, 12 Sep 2026 21:24:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days</title>
@@ -1154,17 +1168,6 @@ Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their o
       <pubDate>Wed, 09 Sep 2026 09:40:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok</title>
-      <link>https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html</link>
-      <description>U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting &amp;quot;systematic extraction&amp;quot; of proprietary functionalities and capabilities of American frontier models through distillation attacks.
-
-The activity has been described as occurring at an industrial-scale and one that forms the &amp;quot;core&amp;quot; of their AI development strategy, according to</description>
-      <pubDate>Wed, 09 Sep 2026 15:02:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
