@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Sep 2026 03:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:07:59 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,17 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data</title>
+      <link>https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html</link>
+      <description>Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.
+
+The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers</description>
+      <pubDate>Sun, 13 Sep 2026 15:41:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</title>
@@ -1160,14 +1171,6 @@ Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their o
       <guid isPermaLink="true">https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Shatters Patch Tuesday Record With 974 CVE Fixes in September 2026</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/</link>
-      <description>The update contained 119 critical flaws and two zero days, with security teams needing to prioritize updates</description>
-      <pubDate>Wed, 09 Sep 2026 09:40:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
