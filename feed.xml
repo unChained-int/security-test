@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:53:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:45:11 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,182 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Just Published: PCI Key Management and Operations (KMO)™ Standard v1.0</title>
+      <link>https://blog.pcisecuritystandards.org/just-published-pci-key-management-operations-kmo-standard-v1.0</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/just-published-pci-key-management-operations-kmo-standard-v1.0&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Just Published: PCI Key Management and Operations (KMO)™&amp;amp;nbsp;Standard v1.0&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/kmo-blog-v2-1.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;The PCI Security Standards Council (PCI SSC) has published a new standard designed for entities involved in the use of cryptographic keys. The Payment Card Industry (PCI) Key Management and Operations &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;(KMO)™&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; Standard v1.0 defines security requirements, test requirements, and guidance for entities involved in the operation and management of systems that use cryptographic keys for the security of account data. &amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 14 Sep 2026 17:03:41 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/just-published-pci-key-management-operations-kmo-standard-v1.0</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>P2PE Product Family</category>
+      <category>PIN Security Standard</category>
+      <category>PIN Assessments</category>
+      <category>Key Management Operations KMO</category>
+      <category>Key Management Product Family</category>
+    </item>
+    <item>
+      <title>New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing</title>
+      <link>https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html</link>
+      <description>Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server&amp;apos;s memory, so the processor keeps reading old encrypted data as if it were current.
+
+The attack requires an attacker who already controls the server&amp;apos;s software and can briefly access the machine to insert a small circuit</description>
+      <pubDate>Mon, 14 Sep 2026 22:28:42 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries</title>
+      <link>https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html</link>
+      <description>A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.
+
+&amp;quot;Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,&amp;quot; Acronis Threat Research Unit (TRU) said in an</description>
+      <pubDate>Mon, 14 Sep 2026 22:26:30 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic CEO: Time to Shift From Improving to Controlling AI</title>
+      <link>https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai</link>
+      <description>Dario Amodei says it&amp;apos;s time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?</description>
+      <pubDate>Mon, 14 Sep 2026 16:41:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Using AI for Weapons Development</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html</link>
+      <description>&amp;lt;p&amp;gt;Last week, Anthropic released a long and detailed &amp;lt;a href=&amp;quot;https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf&amp;quot;&amp;gt;document&amp;lt;/a&amp;gt; describing current misuses of their Claude models. I&amp;amp;#8217;m still reading it, but I wanted to flag this:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the &amp;amp;#8220;R2000&amp;amp;#8221; set) that included a hypersonic glide vehicle variant...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 14 Sep 2026 16:07:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>reports</category>
+      <category>weapons</category>
+    </item>
+    <item>
+      <title>WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution</title>
+      <link>https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html</link>
+      <description>WordPress has announced it&amp;apos;s launching an automated security review for every release of a plugin before it&amp;apos;s distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved.
+
+&amp;quot;New plugins are reviewed before they enter the directory, but updates ship continuously after that,&amp;quot; David Perez, WordPress Official Plugin</description>
+      <pubDate>Mon, 14 Sep 2026 21:30:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Malicious Twitch Extension Exposes 31,000 Users&amp;apos; OAuth Tokens</title>
+      <link>https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/</link>
+      <description>Socket has discovered a Twitch browser extension forwarding users&amp;apos; OAuth tokens to a Russian bot service</description>
+      <pubDate>Mon, 14 Sep 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits</title>
+      <link>https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html</link>
+      <description>AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination.
+
+The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems, weak defaults, and simple paths that should have been harder to abuse. A few of</description>
+      <pubDate>Mon, 14 Sep 2026 20:10:34 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development</title>
+      <link>https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/</link>
+      <description>&amp;lt;p&amp;gt;China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/&amp;quot;&amp;gt;Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 14 Sep 2026 14:28:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Anthropic</category>
+      <category>China</category>
+    </item>
+    <item>
+      <title>Human Attacker Hits Machine-Speed Exploitation of Marimo RCE</title>
+      <link>https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/</link>
+      <description>A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds</description>
+      <pubDate>Mon, 14 Sep 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate</title>
+      <link>https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/</link>
+      <description>&amp;lt;p&amp;gt;Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/&amp;quot;&amp;gt;New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 14 Sep 2026 13:31:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Risk</category>
+    </item>
+    <item>
+      <title>Personal, Financial Info Exposed in Revolut Data Breach</title>
+      <link>https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/</link>
+      <description>&amp;lt;p&amp;gt;The company unintentionally disclosed users’ information to a third party impersonating a government agency.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/&amp;quot;&amp;gt;Personal, Financial Info Exposed in Revolut Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 14 Sep 2026 13:03:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>Revolut</category>
+    </item>
+    <item>
+      <title>The Race to Control AI and Protect What Makes Us Human</title>
+      <link>https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/</link>
+      <description>&amp;lt;p&amp;gt;As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/&amp;quot;&amp;gt;The Race to Control AI and Protect What Makes Us Human&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 14 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>ICS/OT</category>
+      <category>AI</category>
+      <category>Featured</category>
+      <category>Humanity</category>
+      <category>Risks</category>
+    </item>
+    <item>
+      <title>Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems</title>
+      <link>https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/</link>
+      <description>MarketsandMarkets has projected the cyber warfare market to double by 2031, amid growing demand for defensive and offensive cyber capabilities in the military</description>
+      <pubDate>Mon, 14 Sep 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AI Changed the Exposure Problem. Validation Needs to Change With It.</title>
+      <link>https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</link>
+      <description>There&amp;apos;s a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action.
+
+In the first half of 2026, a whopping 35,853 CVEs were published, roughly 49% more than in the</description>
+      <pubDate>Mon, 14 Sep 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution</title>
@@ -82,6 +258,30 @@
       <category>AI</category>
       <category>CISO</category>
       <category>Featured</category>
+    </item>
+    <item>
+      <title>LG Pushes Back on Claims That Its Smart TVs Are Spying on Users</title>
+      <link>https://www.techrepublic.com/article/news-lg-smart-tv-ambient-audio-privacy-claims/</link>
+      <description>&amp;lt;p&amp;gt;Researchers allege LG smart TVs can capture ambient audio and scan home networks, while LG disputes the findings and explains its privacy controls.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-lg-smart-tv-ambient-audio-privacy-claims/&amp;quot;&amp;gt;LG Pushes Back on Claims That Its Smart TVs Are Spying on Users&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 14 Sep 2026 10:13:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-lg-smart-tv-ambient-audio-privacy-claims/</guid>
+      <dc:creator>Madeline Clarke</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Hardware</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Smart Home</category>
+      <category>connected devices</category>
+      <category>consumer technology</category>
+      <category>cybersecurity</category>
+      <category>data collection</category>
+      <category>lg</category>
+      <category>privacy</category>
+      <category>smart tv</category>
+      <category>voice recognition</category>
     </item>
     <item>
       <title>Good Security Rating? Your Dark Web Exposure Says Otherwise | UpGuard</title>
@@ -218,23 +418,6 @@ Details of the vulnerabilities are as follows -
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days</title>
-      <link>https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/</link>
-      <description>&amp;lt;p&amp;gt;Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/&amp;quot;&amp;gt;BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 12 Sep 2026 11:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>BlueMoon</category>
-      <category>Chrome</category>
-      <category>exploit kit</category>
-      <category>exploited</category>
-      <category>Windows</category>
-      <category>Zero-Day</category>
-    </item>
-    <item>
       <title>When the Whole Company Adopts AI: What It Does to Your SOC</title>
       <link>https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html</link>
       <description>Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate</description>
@@ -253,20 +436,6 @@ On May 12, Maciej Mensfeld, senior product manager for software supply chain sec
       <guid isPermaLink="true">https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says</title>
-      <link>https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/</link>
-      <description>&amp;lt;p&amp;gt;Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/&amp;quot;&amp;gt;Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 12 Sep 2026 01:50:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Anthropic</category>
-      <category>Featured</category>
     </item>
     <item>
       <title>Friday Squid Blogging: Rotting Squid on a Beached California Boat</title>
@@ -319,6 +488,15 @@ On May 12, Maciej Mensfeld, senior product manager for software supply chain sec
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>SpiderSilk Hunts External Threats With AI-Based Scanner</title>
+      <link>https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning</link>
+      <description>The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.</description>
+      <pubDate>Fri, 11 Sep 2026 18:27:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning</guid>
+      <dc:creator>Agam Shah</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Why AI Is So Good at Scamming Humans</title>
       <link>https://www.darkreading.com/cyber-risk/ai-scamming-humans</link>
       <description>Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.</description>
@@ -341,19 +519,6 @@ On May 12, Maciej Mensfeld, senior product manager for software supply chain sec
       <category>hacking</category>
       <category>Schneier news</category>
       <category>videos</category>
-    </item>
-    <item>
-      <title>Phishing Research Challenges Conventional Security Awareness Testing</title>
-      <link>https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/</link>
-      <description>&amp;lt;p&amp;gt;Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/&amp;quot;&amp;gt;Phishing Research Challenges Conventional Security Awareness Testing&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 11 Sep 2026 17:23:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Phishing</category>
-      <category>awareness training</category>
-      <category>phishing</category>
     </item>
     <item>
       <title>AI Governance Can&amp;apos;t Wait</title>
@@ -406,20 +571,6 @@ Knowledge distillation by itself is a legitimate training method. It refers to a
       <guid isPermaLink="true">https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>GitLab Vulnerability Exploited One Day After Disclosure</title>
-      <link>https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/</link>
-      <description>&amp;lt;p&amp;gt;The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/&amp;quot;&amp;gt;GitLab Vulnerability Exploited One Day After Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 11 Sep 2026 16:11:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>GitLab</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain</title>
@@ -1033,142 +1184,6 @@ The AI company said the incident dates back to January 2026 and involved an earl
       <guid isPermaLink="true">https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Four groups caught using the same Chrome and Windows exploit kit</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/four-groups-caught-using-same-chrome-and-windows-exploit-kit</link>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 21:19:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/four-groups-caught-using-same-chrome-and-windows-exploit-kit</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>CISOs are feeling the security burden of accelerated AI use</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/cisos-are-feeling-security-burden-accelerated-ai-use</link>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 21:18:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/cisos-are-feeling-security-burden-accelerated-ai-use</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Chinese espionage groups swarm to exploit triple-link chain of zero-days</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/chinese-espionage-groups-swarm-exploit-triple-link-chain-zero-days</link>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 21:17:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/chinese-espionage-groups-swarm-exploit-triple-link-chain-zero-days</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>US Government Accuses Chinese AI Firms of Distilling Frontier Models</title>
-      <link>https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models</link>
-      <description>US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX&amp;apos;s Grok to reduce development costs.</description>
-      <pubDate>Wed, 09 Sep 2026 19:47:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Cyber Resilience Act Preparedness: Who&amp;apos;s Ready, and Who Can&amp;apos;t Be Reached | UpGuard</title>
-      <link>https://www.upguard.com/blog/cyber-resilience-act-preparedness-whos-ready-and-who-cant-be-reached</link>
-      <description>We surveyed 2,374 EU-registered devices and 226 listed software makers for a way to report a vulnerability. Market leaders are ready. Others, not so much.</description>
-      <pubDate>Wed, 09 Sep 2026 18:45:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cyber-resilience-act-preparedness-whos-ready-and-who-cant-be-reached</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto</title>
-      <link>https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html</link>
-      <description>The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime</description>
-      <pubDate>Wed, 09 Sep 2026 23:56:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week</title>
-      <link>https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html</link>
-      <description>Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome.
-
-The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,</description>
-      <pubDate>Wed, 09 Sep 2026 22:04:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Driver’s License Data for Sale</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html</link>
-      <description>&amp;lt;p&amp;gt;A database of 153 million drivers licenses is &amp;lt;a href=&amp;quot;https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/&amp;quot;&amp;gt;for sale&amp;lt;/a&amp;gt; on the dark web. Brian Krebs has more &amp;lt;a href=&amp;quot;https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/&amp;quot;&amp;gt;detail&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 09 Sep 2026 16:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cars</category>
-      <category>dark web</category>
-      <category>data breaches</category>
-      <category>databases</category>
-    </item>
-    <item>
-      <title>The Quantum Leap: Preparing for Post Quantum Cryptography Featuring Futurex</title>
-      <link>https://blog.pcisecuritystandards.org/the-quantum-leap-preparing-for-post-quantum-cryptography-featuring-futurex</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-quantum-leap-preparing-for-post-quantum-cryptography-featuring-futurex&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The Quantum Leap: Preparing for Post Quantum Cryptography Featuring Futurex&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/adam-cason-pqc-blog-v2.png&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The Quantum Leap: Preparing for Post Quantum Cryptography. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to share information about how they are taking steps to ensure their systems are crypto-agile into the future. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 09 Sep 2026 16:04:14 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-quantum-leap-preparing-for-post-quantum-cryptography-featuring-futurex</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Post Quantum Cryptography</category>
-    </item>
-    <item>
-      <title>Microsoft Fixes 974 Flaws in Record Patch Tuesday</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-974-flaws-record-patch-tuesday/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft’s record September Patch Tuesday fixes 974 vulnerabilities, including two exploited zero-days. Here’s what IT teams should prioritize.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-974-flaws-record-patch-tuesday/&amp;quot;&amp;gt;Microsoft Fixes 974 Flaws in Record Patch Tuesday&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 09 Sep 2026 15:12:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-974-flaws-record-patch-tuesday/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>Windows</category>
-      <category>cybersecurity</category>
-      <category>it administration</category>
-      <category>patch tuesday</category>
-      <category>security updates</category>
-      <category>vulnerability management</category>
-      <category>windows security</category>
-      <category>zero-day vulnerabilities</category>
-    </item>
-    <item>
-      <title>Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls</title>
-      <link>https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/</link>
-      <description>The hacking tool, built using a combination of AI models, is effective against Android and iOS devices</description>
-      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Identity-Based AI Attack Threatens Security of Enterprise Data</title>
-      <link>https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data</link>
-      <description>&amp;amp;quot;Workflow identity hijacking&amp;amp;quot; can bypass standard security controls and hijack an organization&amp;apos;s data by sending a basic request through an unauthenticated entry point.</description>
-      <pubDate>Wed, 09 Sep 2026 14:39:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Gigabud Uses Android App Cloning to Evade Fraud Detection</title>
-      <link>https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/</link>
-      <description>Gigabud clones banking apps into a work profile to break the link between malware alerts and fraud</description>
-      <pubDate>Wed, 09 Sep 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
