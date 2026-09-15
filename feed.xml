@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:53:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -23,6 +23,84 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?</title>
+      <link>https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/&amp;quot;&amp;gt;Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 15 Sep 2026 20:24:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Microsoft</category>
+    </item>
+    <item>
+      <title>Microsoft Issues Emergency Fixes After Massive Patch Tuesday</title>
+      <link>https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday</link>
+      <description>You can&amp;apos;t make an omelet without breaking a few eggs, and you can&amp;apos;t patch nearly 1,000 CVEs without a few glitches.</description>
+      <pubDate>Tue, 15 Sep 2026 20:16:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>“We Think the Security Control Is Working” Is No Longer Good Enough</title>
+      <link>https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/</link>
+      <description>&amp;lt;p&amp;gt;Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/&amp;quot;&amp;gt;“We Think the Security Control Is Working” Is No Longer Good Enough&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 15 Sep 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/</guid>
+      <dc:creator>Sravish Sridhar</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>CISO Strategy</category>
+      <category>Risk Management</category>
+      <category>Controls</category>
+    </item>
+    <item>
+      <title>Black Hat USA 2026 | The &amp;apos;Breaking&amp;apos; News: The OpenAI–Hugging Face Incident</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk</link>
+      <description>&amp;lt;p&amp;gt;The &amp;apos;Breaking&amp;apos; News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment. Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensive use cases for AI, and the broader implications of increasingly autonomous systems for the cybersecurity community.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The session will trace the models&amp;apos; attack path, including how frontier models are sandboxed during evaluations, how the models exploited a zero-day vulnerability to gain internet access, and how they identified and leveraged a remote code execution path on Hugging Face infrastructure. Drawing on the joint investigation, the speakers will explain how the activity was detected, contained, and investigated. They will also discuss the changes OpenAI is making to strengthen evaluation environments, containment controls, and monitoring capabilities, as well as the role AI systems played in supporting the investigation and response.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;In addition to the technical reconstruction of the incident, the session will address broader questions relevant to the security community, including lessons for improving AI system security, defensive applications of AI in incident response, and approaches to mitigating emerging risks associated with increasingly capable models.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The discussion will also examine alignment challenges associated with long-running agents, including reward hacking, shifts in model behavior and persona over extended trajectories, and information sharing across multi-agent systems. Finally, the speakers will explore what this incident suggests about emerging AI cyber capabilities and how organizations can use AI to strengthen prevention, detection, investigation, and response efforts.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 15 Sep 2026 19:27:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens</title>
+      <link>https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html</link>
+      <description>Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
+
+Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and</description>
+      <pubDate>Wed, 16 Sep 2026 00:24:14 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>VectraRAT Can Hack Windows Enterprises for $250 per Month</title>
+      <link>https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises</link>
+      <description>The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.</description>
+      <pubDate>Tue, 15 Sep 2026 16:45:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists</title>
+      <link>https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html</link>
+      <description>Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran&amp;apos;s intelligence service uses to spy on dissidents, journalists, and activists around the world.
+
+The malware is controlled via the Telegram messaging app and can copy a target&amp;apos;s emails and chat messages, take screenshots, and activate the microphone to record</description>
+      <pubDate>Tue, 15 Sep 2026 21:59:51 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws</title>
@@ -274,22 +352,6 @@ The</description>
       <category>Microsoft</category>
     </item>
     <item>
-      <title>Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack</title>
-      <link>https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/</link>
-      <description>&amp;lt;p&amp;gt;Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/&amp;quot;&amp;gt;Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 15 Sep 2026 09:09:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>ClickFix</category>
-      <category>Mac malware</category>
-      <category>malvertising</category>
-      <category>malware</category>
-      <category>Reddit</category>
-    </item>
-    <item>
       <title>Microsoft Releases Emergency Patch to Fix RDS Vulnerability</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/</link>
       <description>Microsoft has been forced to issue an out-of-band fix for several issues stemming from this month’s Patch Tuesday</description>
@@ -331,24 +393,6 @@ Volexity, which is tracking the threat cluster under the moniker UTA0560, said t
       <guid isPermaLink="true">https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation</title>
-      <link>https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/</link>
-      <description>&amp;lt;p&amp;gt;An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/&amp;quot;&amp;gt;Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 15 Sep 2026 05:18:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Email Security</category>
-      <category>Vulnerabilities</category>
-      <category>Cisco</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Secure Email Gateway</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
     </item>
     <item>
       <title>&amp;apos;Sandworm&amp;apos; Chains Cisco Vulnerabilities to Deploy Cyclops Blink</title>
@@ -1144,87 +1188,6 @@ The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass
       <guid isPermaLink="true">https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Indonesia Hit by Android Banking App-Cloning Campaign</title>
-      <link>https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign</link>
-      <description>The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.</description>
-      <pubDate>Fri, 11 Sep 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data</title>
-      <link>https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data</link>
-      <description>Threat actors are leveraging Microsoft&amp;apos;s Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.</description>
-      <pubDate>Thu, 10 Sep 2026 20:36:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>180 Android Security Flaws Patched: What Users Should Do</title>
-      <link>https://www.techrepublic.com/article/news-google-android-update-180-security-flaws/</link>
-      <description>&amp;lt;p&amp;gt;Google’s September Android update fixes 180 security flaws, including critical bugs. Learn how to check your phone’s security patch level.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-android-update-180-security-flaws/&amp;quot;&amp;gt;180 Android Security Flaws Patched: What Users Should Do&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 10 Sep 2026 20:10:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-android-update-180-security-flaws/</guid>
-      <dc:creator>Aminu Abdullahi</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Android</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>Smartphones</category>
-      <category>android</category>
-      <category>android security</category>
-      <category>cybersecurity</category>
-      <category>mobile security</category>
-      <category>samsung galaxy</category>
-      <category>security updates</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>CISA’s ChatGPT Incident Exposes a Bigger AI Governance Problem</title>
-      <link>https://www.techrepublic.com/article/news-cisa-chatgpt-ai-agent-governance-accountability/</link>
-      <description>&amp;lt;p&amp;gt;CISA’s ChatGPT incident exposes a growing AI governance gap as enterprises struggle to define who is accountable for actions taken by AI agents.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-cisa-chatgpt-ai-agent-governance-accountability/&amp;quot;&amp;gt;CISA’s ChatGPT Incident Exposes a Bigger AI Governance Problem&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 10 Sep 2026 19:13:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-cisa-chatgpt-ai-agent-governance-accountability/</guid>
-      <dc:creator>Tim Freestone</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>ChatGPT</category>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>OpenAI</category>
-      <category>Security</category>
-      <category>ai agents</category>
-      <category>AI governance</category>
-      <category>ai security</category>
-      <category>chatgpt</category>
-      <category>CISA</category>
-      <category>cybersecurity</category>
-      <category>data governance</category>
-      <category>enterprise ai</category>
-    </item>
-    <item>
-      <title>Coffee with the Council Podcast: Celebrating 20 Years of Securing Payment Data</title>
-      <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-celebrating-20-years-of-securing-payment-data</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-celebrating-20-years-of-securing-payment-data&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Coffee with the Council Podcast: Celebrating 20 Years of Securing Payment Data&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/20-Years-Blog-Header-new.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
-&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome to our podcast series, &amp;lt;em&amp;gt;Coffee with the Council&amp;lt;/em&amp;gt;. I&amp;apos;m Bryli Muse, Marketing and Communications Analyst for the PCI Security Standards Council. In today&amp;apos;s episode, I&amp;apos;m excited to celebrate the 20th Anniversary of the Council.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 10 Sep 2026 18:26:21 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-celebrating-20-years-of-securing-payment-data</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Community Meetings</category>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Participation</category>
-      <category>Coffee with the Council podcasts</category>
     </item>
   </channel>
 </rss>
