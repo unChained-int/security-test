@@ -5,9 +5,42 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:33:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Security Spending Jumps as Fear Outpaces Proof of Value</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value</link>
+      <description>CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?</description>
+      <pubDate>Wed, 16 Sep 2026 21:26:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China’s Answer to AI Safety: More Controls, Not Slower Development</title>
+      <link>https://www.techrepublic.com/article/news-china-ai-control-agents-safety-standards-apac/</link>
+      <description>&amp;lt;p&amp;gt;China is emphasizing technical controls for AI agents as U.S. leaders debate slowing frontier AI, raising new questions for businesses deploying autonomous systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-china-ai-control-agents-safety-standards-apac/&amp;quot;&amp;gt;China’s Answer to AI Safety: More Controls, Not Slower Development&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:44:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-china-ai-control-agents-safety-standards-apac/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai agents</category>
+      <category>ai safety</category>
+      <category>artificial intelligence</category>
+      <category>china</category>
+      <category>cybersecurity</category>
+      <category>Dario Amodei</category>
+      <category>enterprise ai</category>
+      <category>open-weight AI</category>
+    </item>
     <item>
       <title>Data Broker Radaris Loses Domains in Privacy Fight</title>
       <link>https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/</link>
@@ -918,42 +951,6 @@ The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as 
       <pubDate>Wed, 16 Sep 2026 07:50:37 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-management-best-practices</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Microsoft Issues Out-of-Band Windows Update After September Patch Breaks Remote Desktop, Hyper-V</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-windows-update-remote-desktop-hyper-v-fix/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft released an out-of-band Windows update to fix Remote Desktop, Hyper-V Linux sharing, and USB audio issues caused by its September patch.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-windows-update-remote-desktop-hyper-v-fix/&amp;quot;&amp;gt;Microsoft Issues Out-of-Band Windows Update After September Patch Breaks Remote Desktop, Hyper-V&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 16 Sep 2026 07:27:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-windows-update-remote-desktop-hyper-v-fix/</guid>
-      <dc:creator>AI Cerrudo</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>Tech Industry</category>
-      <category>hyper-v</category>
-      <category>patch management</category>
-      <category>remote desktop</category>
-      <category>windows</category>
-      <category>Windows 11</category>
-      <category>windows security</category>
-      <category>windows update</category>
-    </item>
-    <item>
-      <title>Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells</title>
-      <link>https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html</link>
-      <description>Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.
-
-&amp;quot;This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,&amp;quot; Wordfence said.
-
-The WordPress security company said it has blocked over</description>
-      <pubDate>Wed, 16 Sep 2026 11:18:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
