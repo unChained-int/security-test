@@ -5,9 +5,68 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:58:11 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Virtual Event] Cybersecurity Outlook 2027</title>
+      <link>https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</link>
+      <description/>
+      <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China&amp;apos;s FamousSparrow APT Spies on US Politics in Latin America</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america</link>
+      <description>Amid the US and China&amp;apos;s fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.</description>
+      <pubDate>Thu, 17 Sep 2026 19:15:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CISA Gives Agencies 3 Days to Patch Exploited Pixel Zero-Day</title>
+      <link>https://www.techrepublic.com/article/news-google-pixel-modem-zero-day-cve-2026-58704/</link>
+      <description>&amp;lt;p&amp;gt;Google says a Pixel modem zero-day was under targeted exploitation. CISA has added CVE-2026-58704 to KEV as users are urged to patch.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-pixel-modem-zero-day-cve-2026-58704/&amp;quot;&amp;gt;CISA Gives Agencies 3 Days to Patch Exploited Pixel Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 17 Sep 2026 18:46:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-pixel-modem-zero-day-cve-2026-58704/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Google</category>
+      <category>Mobile</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Smartphones</category>
+      <category>android security</category>
+      <category>CISA</category>
+      <category>cve-2026-58704</category>
+      <category>cybersecurity</category>
+      <category>mobile security</category>
+      <category>pixel</category>
+      <category>zero day</category>
+    </item>
+    <item>
+      <title>Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</title>
+      <link>https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/</link>
+      <description>&amp;lt;p&amp;gt;The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/&amp;quot;&amp;gt;Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 17 Sep 2026 17:09:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>Nation-State</category>
+      <category>coast guard</category>
+      <category>cyberattack</category>
+      <category>FBI</category>
+      <category>Featured</category>
+      <category>Maritime</category>
+      <category>ShipMonk</category>
+      <category>tanker</category>
+    </item>
     <item>
       <title>OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training</title>
       <link>https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/</link>
@@ -470,23 +529,6 @@ The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day</title>
-      <link>https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/</link>
-      <description>&amp;lt;p&amp;gt;Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/&amp;quot;&amp;gt;Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 17 Sep 2026 06:19:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Cisco</category>
-      <category>Cisco ISE</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
-    </item>
-    <item>
       <title>U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks</title>
       <link>https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html</link>
       <description>The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser.
@@ -507,6 +549,30 @@ The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]or
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>China’s Answer to AI Safety: More Controls, Not Slower Development</title>
+      <link>https://www.techrepublic.com/article/news-china-ai-control-agents-safety-standards-apac/</link>
+      <description>&amp;lt;p&amp;gt;China is emphasizing technical controls for AI agents as U.S. leaders debate slowing frontier AI, raising new questions for businesses deploying autonomous systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-china-ai-control-agents-safety-standards-apac/&amp;quot;&amp;gt;China’s Answer to AI Safety: More Controls, Not Slower Development&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:44:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-china-ai-control-agents-safety-standards-apac/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>ai agents</category>
+      <category>ai safety</category>
+      <category>artificial intelligence</category>
+      <category>china</category>
+      <category>cybersecurity</category>
+      <category>Dario Amodei</category>
+      <category>enterprise ai</category>
+      <category>open-weight AI</category>
     </item>
     <item>
       <title>Data Broker Radaris Loses Domains in Privacy Fight</title>
@@ -951,38 +1017,6 @@ The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as 
       <description>Learn what Vendor Tiering is and how it could improve the efficiency of your vendor risk management program.</description>
       <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/what-is-vendor-tiering</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Identify Vulnerable Third-Party Software (Quickly) | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-identify-vulnerable-third-party-software</link>
-      <description>Learn how to identify vulnerable third-party software before hackers exploit them to steal your sensitive data.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-identify-vulnerable-third-party-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Choosing Automated Vendor Risk Remediation Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/choosing-automated-vendor-risk-remediation-software</link>
-      <description>Learn which VRM processes should be automated when choosing vendor risk remediation software. The right choice will create a scalable VRM framework.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-automated-vendor-risk-remediation-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Fourth-Party Risk? | UpGuard</title>
-      <link>https://www.upguard.com/blog/what-is-fourth-party-risk</link>
-      <description>Fourth-party risk is the risk to your company posed by suppliers&amp;apos; suppliers. Learn more about why it&amp;apos;s important to your organization and how to manage it.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-fourth-party-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Vendor Due Diligence? Choosing Secure Vendors in 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-due-diligence</link>
-      <description>Your vendors need to follow stringent cybersecurity practices to protect you from cyberattacks. Learn the correct vendor due diligence process.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-due-diligence</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
