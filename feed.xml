@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:52:58 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,159 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2</title>
+      <link>https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html</link>
+      <description>The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.
+
+The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation</description>
+      <pubDate>Fri, 18 Sep 2026 20:54:16 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw</title>
+      <link>https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/</link>
+      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: Mandiant&amp;apos;s 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/&amp;quot;&amp;gt;In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 14:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybercrime</category>
+      <category>Vulnerabilities</category>
+      <category>In Other News</category>
+    </item>
+    <item>
+      <title>ServiceNow + UpGuard: Automating Risk Management Together | UpGuard</title>
+      <link>https://www.upguard.com/blog/risk-automations-servicenow-integration</link>
+      <description>See how UpGuard’s Risk Automations ServiceNow integration turns vendor, breach, and user risk findings into tickets and syncs without manual data entry.</description>
+      <pubDate>Fri, 18 Sep 2026 14:09:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/risk-automations-servicenow-integration</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing</title>
+      <link>https://www.infosecurity-magazine.com/news/settra-ransomware-retail/</link>
+      <description>Huntress researchers highlighted a new ransomware variant, named Settra, and the post-compromise techniques used in two recent attacks</description>
+      <pubDate>Fri, 18 Sep 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/settra-ransomware-retail/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation</title>
+      <link>https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html</link>
+      <description>Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.
+
+The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0.
+
+&amp;quot;Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,&amp;quot;</description>
+      <pubDate>Fri, 18 Sep 2026 18:17:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code</title>
+      <link>https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/</link>
+      <description>&amp;lt;p&amp;gt;Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/&amp;quot;&amp;gt;AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 12:45:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>ChatGPT</category>
+      <category>OpenAI</category>
+      <category>source code</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>23 Million User Records Compromised in Gyazo Data Breach</title>
+      <link>https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/</link>
+      <description>&amp;lt;p&amp;gt;Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/&amp;quot;&amp;gt;23 Million User Records Compromised in Gyazo Data Breach &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 11:38:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>Gyazo</category>
+      <category>images</category>
+    </item>
+    <item>
+      <title>Are AIs Still Struggling with CAPTCHAs?</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html</link>
+      <description>&amp;lt;p&amp;gt;Anthropic&amp;amp;#8217;s recent security-incident &amp;lt;a href=&amp;quot;https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf&amp;quot;&amp;gt;document&amp;lt;/a&amp;gt; contains a bit about how CAPTCHAs are still &amp;lt;a href=&amp;quot;https://gizmodo.com/ai-models-can-crack-everything-but-captchas-2000810126&amp;quot;&amp;gt;frustrating&amp;lt;/a&amp;gt; Claude.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple image identification test. In a test where the agent was asked to identify a shape that didn&amp;amp;#8217;t match the others displayed, it couldn&amp;amp;#8217;t even decide which image to select. Instead, it repeatedly went over the same images and questioned its own conclusions.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;#8220;Actually hmm, wait,&amp;amp;#8221; it said in its chain-of-thought transcript, later adding &amp;amp;#8220;Ugh,&amp;amp;#8221; because we&amp;amp;#8217;ve decided that we need to inject human mannerisms into these machines for some reason. The whole thing took so long that the agent eventually realized that the challenge had expired and it would have to start the process again...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 11:05:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>captchas</category>
+      <category>games</category>
+    </item>
+    <item>
+      <title>An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.</title>
+      <link>https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html</link>
+      <description>In July 2025, someone registered a domain that used to belong to a content delivery network.&amp;amp;nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry hard-coded references to hostnames beneath it.&amp;amp;nbsp;
+
+The new owner holds</description>
+      <pubDate>Fri, 18 Sep 2026 16:31:16 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents</title>
+      <link>https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html</link>
+      <description>A flaw in four widely used AI coding agents lets someone who controls a plugin&amp;apos;s code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm&amp;amp;nbsp;Air Security said on Thursday.
+
+The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no</description>
+      <pubDate>Fri, 18 Sep 2026 16:31:01 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Patches 18 Vulnerabilities in AI, Cloud Products</title>
+      <link>https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/&amp;quot;&amp;gt;Microsoft Patches 18 Vulnerabilities in AI, Cloud Products&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 10:57:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cloud Security</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>Azure</category>
+      <category>cloud</category>
+      <category>Copilot</category>
+      <category>Featured</category>
+      <category>Microsoft</category>
+      <category>patches</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage</title>
+      <link>https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html</link>
+      <description>Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.
+
+The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People&amp;apos;s Republic of Korea&amp;apos;s (DPRK) Contagious Interview campaign: BeaverTail and</description>
+      <pubDate>Fri, 18 Sep 2026 16:10:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>NightmareStresser DDoS Service Disrupted in International Operation</title>
@@ -241,20 +394,6 @@ So the threat landscape is not getting cleaner. It is just</description>
       <category>tanker</category>
     </item>
     <item>
-      <title>OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training</title>
-      <link>https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/</link>
-      <description>&amp;lt;p&amp;gt;OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/&amp;quot;&amp;gt;OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:45:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>OpenAI</category>
-      <category>rogue AI</category>
-    </item>
-    <item>
       <title>Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files</title>
       <link>https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html</link>
       <description>Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&amp;amp;nbsp;security announcement&amp;amp;nbsp;on September 15.
@@ -272,22 +411,6 @@ The escape runs with the rights of the host account that runs the virtual machin
       <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/famoussparrow-sparrowocky-latin/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot</title>
-      <link>https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/</link>
-      <description>&amp;lt;p&amp;gt;The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/&amp;quot;&amp;gt;CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 17 Sep 2026 14:28:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>Vulnerabilities</category>
-      <category>CISA</category>
-      <category>risk management</category>
-      <category>vulnerability</category>
-      <category>vulnerability management</category>
     </item>
     <item>
       <title>34 Biggest Healthcare Data Breaches (Updated July 2026) | UpGuard</title>
@@ -389,21 +512,6 @@ The escape runs with the rights of the host account that runs the virtual machin
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom</title>
-      <link>https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/</link>
-      <description>&amp;lt;p&amp;gt;Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/&amp;quot;&amp;gt;Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 17 Sep 2026 13:57:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>data leak</category>
-      <category>Featured</category>
-      <category>Revolut</category>
-    </item>
-    <item>
       <title>Was My Facebook Data Leaked? Find Out in 2 Steps | UpGuard</title>
       <link>https://www.upguard.com/blog/was-my-facebook-data-leaked</link>
       <description>Find out in two steps whether your Facebook data was included in the 500+ million account details that were published on the dark web.</description>
@@ -482,22 +590,6 @@ The escape runs with the rights of the host account that runs the virtual machin
       <pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rathat-android-malware-ai-steal/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Comp AI Raises $34 Million for AI-Native Compliance and Security</title>
-      <link>https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/</link>
-      <description>&amp;lt;p&amp;gt;The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/&amp;quot;&amp;gt;Comp AI Raises $34 Million for AI-Native Compliance and Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Compliance</category>
-      <category>Cybersecurity Funding</category>
-      <category>Risk Management</category>
-      <category>compliance</category>
-      <category>funding</category>
-      <category>GRC</category>
     </item>
     <item>
       <title>Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone</title>
@@ -990,70 +1082,6 @@ The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as 
       <description>An effective TPRM program begins with a logical framework. Learn how to tier vendors using weighted risk scoring to maintain a defensible program.</description>
       <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/vendor-tiering-that-scales</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Ongoing TPRM Success: Continuous Security Monitoring with AI | UpGuard</title>
-      <link>https://www.upguard.com/blog/continuous-security-monitoring-with-ai</link>
-      <description>Is manual work weighing down your security team and limiting your ability to scale? Learn how UpGuard and its AI features can help.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/continuous-security-monitoring-with-ai</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Security Bottleneck? Here’s How to Accelerate Vendor Approvals | UpGuard</title>
-      <link>https://www.upguard.com/blog/accelerate-vendor-approvals</link>
-      <description>Are slow vendor approvals putting your organization at risk? Learn how to speed up third-party reviews without compromising security.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/accelerate-vendor-approvals</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Vendor Risk Monitoring in Cybersecurity? | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-risk-monitoring</link>
-      <description>Learn why vendor risk monitoring is a critical component of every Vendor Risk Management and Third-Party Risk Management program.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-monitoring</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Remediation Made Easy: Reducing Risks and Driving Vendor Action | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-remediation-solved</link>
-      <description>Is your security team lost in the chaos of managing vendor remediation? Learn how UpGuard’s AI can help.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-remediation-solved</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Cyber Supply Chain Risk Management? | UpGuard</title>
-      <link>https://www.upguard.com/blog/cyber-supply-chain-risk-management</link>
-      <description>Learn the importance of C-SCRM and how it could benefit your strategy for detecting and mitigating supply chain cyber risks.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cyber-supply-chain-risk-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Top Vendor Risk Monitoring Solutions for Continuous Oversight | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-vendor-risk-monitoring-solutions</link>
-      <description>Explore the best vendor risk monitoring solutions that provide continuous oversight of third-party vendors, ensuring compliance and security.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-vendor-risk-monitoring-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Key Vendor Risk Assessment Criteria and How to Apply Them | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-risk-assessment-criteria</link>
-      <description>Learn how to apply vendor risk assessment criteria effectively. Use automation, scoring tools, and checklists to reduce third-party risk.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-assessment-criteria</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Building a Robust Vendor Risk Management Dashboard | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-risk-management-dashboard</link>
-      <description>Discover the importance of building a robust VRM dashboard. This article outlines key features, essential metrics, and best practices.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-management-dashboard</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
