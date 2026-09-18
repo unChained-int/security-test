@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:26:18 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,56 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cisco Zero-Day Highlights API Endpoint Authentication Issues</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues</link>
+      <description>The authentication bypass flaw CVE-2026-76460 impacts Cisco&amp;apos;s Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.</description>
+      <pubDate>Fri, 18 Sep 2026 19:26:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>EY Survey Finds Autonomous AI Implementation Outpaces Oversight</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight</link>
+      <description>A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.</description>
+      <pubDate>Fri, 18 Sep 2026 19:23:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>MFA Won&amp;apos;t Save You From OAuth Consent Abuse</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse</link>
+      <description>MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.</description>
+      <pubDate>Fri, 18 Sep 2026 18:15:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse</guid>
+      <dc:creator>Vishnu Galata</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root</title>
+      <link>https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html</link>
+      <description>A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.
+
+Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated.
+
+The flaws</description>
+      <pubDate>Fri, 18 Sep 2026 23:32:24 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution</title>
+      <link>https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html</link>
+      <description>WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install.
+
+The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only</description>
+      <pubDate>Fri, 18 Sep 2026 22:26:19 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2</title>
@@ -48,6 +98,49 @@ The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented 
       <pubDate>Fri, 18 Sep 2026 14:09:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/risk-automations-servicenow-integration</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech</title>
+      <link>https://www.techrepublic.com/article/ai-expansion-robot-factories-and-escalating-security-threats-define-this-week-in-tech/</link>
+      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from Sept. 14–18.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ai-expansion-robot-factories-and-escalating-security-threats-define-this-week-in-tech/&amp;quot;&amp;gt;AI Expansion, Robot Factories, and Escalating Security Threats Define This Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 14:02:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/ai-expansion-robot-factories-and-escalating-security-threats-define-this-week-in-tech/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI</category>
+      <category>AI Governance &amp;amp; Policy</category>
+      <category>ai infrastructure</category>
+      <category>Amazon</category>
+      <category>Android</category>
+      <category>Anthropic</category>
+      <category>Apple</category>
+      <category>ChatGPT</category>
+      <category>Claude</category>
+      <category>Cloud Security</category>
+      <category>Cybersecurity</category>
+      <category>Data Centers</category>
+      <category>Data Security</category>
+      <category>DeepMind</category>
+      <category>Google</category>
+      <category>Microsoft</category>
+      <category>OpenAI</category>
+      <category>Privacy</category>
+      <category>Robotics</category>
+      <category>Servers</category>
+      <category>Weekly Roundup</category>
+      <category>Windows</category>
+      <category>ai agent security</category>
+      <category>android security</category>
+      <category>anthropic claude</category>
+      <category>chatgpt sponsored agents</category>
+      <category>cisco secure email</category>
+      <category>Daily Tech Insider</category>
+      <category>gitlab vulnerability</category>
+      <category>humanoid robots</category>
+      <category>Newsletter Roundup</category>
+      <category>oracle layoffs</category>
+      <category>orbital data centers</category>
     </item>
     <item>
       <title>New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing</title>
@@ -1035,54 +1128,6 @@ The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as 
       <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>NCSC and Allies Warn of Iranian Spyware Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-allies-warn-iranian-chosen/</link>
-      <description>The UK’s National Cyber Security Centre says Iranian Chosen Brick spyware is designed to snoop on dissidents</description>
-      <pubDate>Wed, 16 Sep 2026 08:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-allies-warn-iranian-chosen/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>7-Step Third-Party Risk Assessment Process | UpGuard</title>
-      <link>https://www.upguard.com/blog/third-party-risk-assessment-process</link>
-      <description>Tackle your organization’s third-party risk assessment process in seven easy steps and explore TPRM best practices in this blog.</description>
-      <pubDate>Wed, 16 Sep 2026 08:05:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/third-party-risk-assessment-process</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Shadow IT: Tiering the Unseen to Manage Vendor Risk | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-it-tiering-vendor-risk</link>
-      <description>Invisible apps become riskier with time. Use real-time user signals to categorize every vendor in your ecosystem based on its true risk profile.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-it-tiering-vendor-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Map Vendor Tiers to Inherent Risk | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-tiering-mapping-to-inherent-risk</link>
-      <description>Map vendors to inherent risk using five observable criteria — data access, continuity, regulatory, strategic, and security.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-tiering-mapping-to-inherent-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Beyond the Red Flags: Responding to a Failed Vendor Audit | UpGuard</title>
-      <link>https://www.upguard.com/blog/failed-vendor-audits</link>
-      <description>Turn audit failures into stronger security—explore practical steps for assessment, remediation planning, validation, and continuous risk monitoring.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/failed-vendor-audits</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Vendor Tiering Series: Tiering that Scales | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-tiering-that-scales</link>
-      <description>An effective TPRM program begins with a logical framework. Learn how to tier vendors using weighted risk scoring to maintain a defensible program.</description>
-      <pubDate>Wed, 16 Sep 2026 07:50:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-tiering-that-scales</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
