@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 15:24:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,67 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>TigerByte Cyber Emerges From Stealth With $3 Million in Funding</title>
+      <link>https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/</link>
+      <description>&amp;lt;p&amp;gt;The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/&amp;quot;&amp;gt;TigerByte Cyber Emerges From Stealth With $3 Million in Funding&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 19 Sep 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>funding</category>
+      <category>TigerByte Cyber</category>
+    </item>
+    <item>
+      <title>Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar</title>
+      <link>https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html</link>
+      <description>A new CVE drops. Your scanner finds it. The severity score looks ugly.
+
+But that still does not answer the question that matters: Can it actually be exploited in your environment?
+
+Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is</description>
+      <pubDate>Sat, 19 Sep 2026 18:58:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Identity Visibility in 2026: The Foundation of Identity Security</title>
+      <link>https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html</link>
+      <description>Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon&amp;apos;s annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in</description>
+      <pubDate>Sat, 19 Sep 2026 18:58:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</title>
+      <link>https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</link>
+      <description>Three researchers at the security firm&amp;amp;nbsp;Hacktron&amp;amp;nbsp;used Anthropic&amp;apos;s Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.
+
+The chain began with a bug in the software that runs OpenAI&amp;apos;s public help forum and moved through a weakness in OpenAI&amp;apos;s own login system.
+
+This was security research,</description>
+      <pubDate>Sat, 19 Sep 2026 18:58:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE</title>
+      <link>https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html</link>
+      <description>SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.
+
+The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior.
+
+&amp;quot;SolarWinds</description>
+      <pubDate>Sat, 19 Sep 2026 15:01:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild</title>
@@ -547,25 +608,6 @@ So the threat landscape is not getting cleaner. It is just</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</title>
-      <link>https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/</link>
-      <description>&amp;lt;p&amp;gt;The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/&amp;quot;&amp;gt;Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 17 Sep 2026 17:09:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>Nation-State</category>
-      <category>coast guard</category>
-      <category>cyberattack</category>
-      <category>FBI</category>
-      <category>Featured</category>
-      <category>Maritime</category>
-      <category>ShipMonk</category>
-      <category>tanker</category>
-    </item>
-    <item>
       <title>Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files</title>
       <link>https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html</link>
       <description>Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&amp;amp;nbsp;security announcement&amp;amp;nbsp;on September 15.
@@ -783,19 +825,6 @@ Unbound 1.26.1, released the same day, fixes the bug, tracked as&amp;amp;nbsp;CV
       <pubDate>Thu, 17 Sep 2026 12:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-essentials-has-record-year/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar</title>
-      <link>https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html</link>
-      <description>A new CVE drops. Your scanner finds it. The severity score looks ugly.
-
-But that still does not answer the question that matters: Can it actually be exploited in your environment?
-
-Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is</description>
-      <pubDate>Thu, 17 Sep 2026 17:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Cisco Warns of Active Exploitation of Critical ISE Flaw</title>
@@ -1107,37 +1136,6 @@ Yuval Moravchick, who leads</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Reducing Supply Chain Security Risks with Vendor Segmentation | UpGuard</title>
-      <link>https://www.upguard.com/blog/reducing-supply-chain-security-risks-with-vendor-segmentation</link>
-      <description>Learn to segment vendors on an impact × security-risk matrix, then apply four methods: tiering, portfolios, labels, custom attributes.</description>
-      <pubDate>Wed, 16 Sep 2026 12:41:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/reducing-supply-chain-security-risks-with-vendor-segmentation</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security</title>
-      <link>https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html</link>
-      <description>N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity.
-
-From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud</description>
-      <pubDate>Wed, 16 Sep 2026 17:28:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Fake CAPTCHA Scams</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html</link>
-      <description>&amp;lt;p&amp;gt;New &amp;lt;a href=&amp;quot;https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams&amp;quot;&amp;gt;variant&amp;lt;/a&amp;gt; of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 16 Sep 2026 11:25:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>captchas</category>
-      <category>scams</category>
     </item>
   </channel>
 </rss>
