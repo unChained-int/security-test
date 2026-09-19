@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:15:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -14,6 +14,27 @@
       <description/>
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: On Squid Egg Sacs</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html</link>
+      <description>&amp;lt;p&amp;gt;Short &amp;lt;a href=&amp;quot;https://harpswellanchor.org/2026/08/intertidal-squid-courtship-is-unusual-and-colorful/&amp;quot;&amp;gt;essay&amp;lt;/a&amp;gt; about squid egg sacs.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 21:06:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks</link>
+      <description>The new program expands Vectra AI&amp;apos;s partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.</description>
+      <pubDate>Fri, 18 Sep 2026 20:24:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -316,6 +337,15 @@ The new malware family, per OpenSourceMalware, exhibits functional overlaps with
       <guid isPermaLink="true">https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>‘Nudify’ apps: What to do if someone makes a fake nude of you</title>
+      <link>https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/</link>
+      <description>Whether you’re a victim, the parent of a victim, or just concerned, here’s what you can do about fake nude images</description>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Privacy</category>
     </item>
     <item>
       <title>Critical Orkes Conductor Vulnerability Exploited in Attacks</title>
@@ -1102,31 +1132,6 @@ The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as 
       <description>Hiscox highlighted the huge financial and operational costs of cyber-attacks, with the average cost of an incident at $52,000</description>
       <pubDate>Wed, 16 Sep 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyberattacks-cost-organizations/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Zero-Day Flaw in TP-Link Cameras Enables Eavesdropping</title>
-      <link>https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/</link>
-      <description>OPSWAT researchers find two zero-days in TP-Link cameras</description>
-      <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cyberthreats are moving faster than SMBs: Readiness must accelerate</title>
-      <link>https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/</link>
-      <description>As AI adoption expands the attack surface and adds to the security workload, businesses need automation backed by experts</description>
-      <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>Major Cyber Vendors Turn to New UK Testing Program as MITRE Evaluations Face Changes</title>
-      <link>https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/</link>
-      <description>A group of cyber threat detection providers, including CrowdStrike, Palo Alto Networks and Sophos, have joined SE Labs’ PIVOT program</description>
-      <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
