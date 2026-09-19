@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Sep 2026 15:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:05:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,19 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</title>
+      <link>https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</link>
+      <description>Three researchers at the security firm&amp;amp;nbsp;Hacktron&amp;amp;nbsp;used Anthropic&amp;apos;s Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.
+
+The chain began with a bug in the software that runs OpenAI&amp;apos;s public help forum and moved through a weakness in OpenAI&amp;apos;s own login system.
+
+This was security research,</description>
+      <pubDate>Sun, 20 Sep 2026 00:06:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>TigerByte Cyber Emerges From Stealth With $3 Million in Funding</title>
@@ -48,19 +61,6 @@ Mythos-class AI is compressing the time between disclosure and working exploitat
       <description>Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon&amp;apos;s annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in</description>
       <pubDate>Sat, 19 Sep 2026 18:58:41 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</title>
-      <link>https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</link>
-      <description>Three researchers at the security firm&amp;amp;nbsp;Hacktron&amp;amp;nbsp;used Anthropic&amp;apos;s Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.
-
-The chain began with a bug in the software that runs OpenAI&amp;apos;s public help forum and moved through a weakness in OpenAI&amp;apos;s own login system.
-
-This was security research,</description>
-      <pubDate>Sat, 19 Sep 2026 18:58:35 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -125,6 +125,76 @@ The vulnerabilities are listed below -
       <guid isPermaLink="true">https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Are Using Passkey Updates as a New Microsoft Phishing Hook</title>
+      <link>https://www.techrepublic.com/article/news-microsoft-passkey-phishing-mfa-device-code/</link>
+      <description>&amp;lt;p&amp;gt;Microsoft warns attackers are using passkey and MFA update requests to phish employees, hijack sessions, and access Microsoft 365 data.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-passkey-phishing-mfa-device-code/&amp;quot;&amp;gt;Hackers Are Using Passkey Updates as a New Microsoft Phishing Hook&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 23:36:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-passkey-phishing-mfa-device-code/</guid>
+      <dc:creator>Joseph Ofonagoro</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Microsoft</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Tech Industry</category>
+      <category>account security</category>
+      <category>device code phishing</category>
+      <category>identity security</category>
+      <category>Microsoft 365</category>
+      <category>multifactor authentication</category>
+      <category>passkeys</category>
+      <category>phishing</category>
+    </item>
+    <item>
+      <title>UAE Cyber Chief Says Country Faced 640,000 Cyberattacks in One Day</title>
+      <link>https://www.techrepublic.com/article/news-uae-640000-cyberattacks-deepfakes-ransomware-emea/</link>
+      <description>&amp;lt;p&amp;gt;The UAE faced 640,000 cyberattacks in one day, its cyber chief says, highlighting risks from unpatched software, ransomware, and deepfakes.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-uae-640000-cyberattacks-deepfakes-ransomware-emea/&amp;quot;&amp;gt;UAE Cyber Chief Says Country Faced 640,000 Cyberattacks in One Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 23:30:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-uae-640000-cyberattacks-deepfakes-ransomware-emea/</guid>
+      <dc:creator>Aminu Abdullahi</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>EMEA</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>artificial intelligence</category>
+      <category>critical infrastructure</category>
+      <category>cyberattacks</category>
+      <category>cybersecurity</category>
+      <category>deepfakes</category>
+      <category>patch management</category>
+      <category>ransomware</category>
+      <category>uae</category>
+    </item>
+    <item>
+      <title>Hackers Crack Flock Camera, Expose 1.6M Images in 21 Days</title>
+      <link>https://www.techrepublic.com/article/news-flock-camera-hack-1-6m-images/</link>
+      <description>&amp;lt;p&amp;gt;Hackers physically compromised a Flock camera and found an encryption key, 27,000 clips, and 1.6 million images generated in 21 days.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-flock-camera-hack-1-6m-images/&amp;quot;&amp;gt;Hackers Crack Flock Camera, Expose 1.6M Images in 21 Days&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 18 Sep 2026 21:48:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-flock-camera-hack-1-6m-images/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Hardware</category>
+      <category>Innovation</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>Software</category>
+      <category>cybersecurity</category>
+      <category>edge security</category>
+      <category>encryption</category>
+      <category>flock safety</category>
+      <category>hackers</category>
+      <category>license plate readers</category>
+      <category>privacy</category>
+      <category>surveillance cameras</category>
     </item>
     <item>
       <title>Friday Squid Blogging: On Squid Egg Sacs</title>
@@ -1102,38 +1172,6 @@ The cybersecurity vendor said it has identified attacks mounted by NightEagle (a
 Once the extension was installed, it could access each product&amp;apos;s built-in AI with a single click. On Comet, Edge,</description>
       <pubDate>Wed, 16 Sep 2026 20:06:44 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA and NIST Issue Guidance to Protect Cloud Identity Tokens</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-nist-cloud-identity-token/</link>
-      <description>CISA and NIST issued final guidance to help protect cloud identity tokens and assertions</description>
-      <pubDate>Wed, 16 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-nist-cloud-identity-token/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories</title>
-      <link>https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html</link>
-      <description>Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&amp;amp;nbsp;Shai-Hulud&amp;amp;nbsp;across about 100 internal code repositories.
-
-Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the</description>
-      <pubDate>Wed, 16 Sep 2026 19:07:07 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can&amp;apos;t Install Fix</title>
-      <link>https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html</link>
-      <description>Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.
-
-The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install.
-
-Yuval Moravchick, who leads</description>
-      <pubDate>Wed, 16 Sep 2026 18:44:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
