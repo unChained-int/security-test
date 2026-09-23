@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:09:53 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -24,6 +24,183 @@
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks</guid>
       <dc:creator>Robert Lemos</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Hundreds of Leaked GitHub App Keys Still Authenticate</title>
+      <link>https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/</link>
+      <description>GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access</description>
+      <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign</title>
+      <link>https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign</link>
+      <description>Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.</description>
+      <pubDate>Wed, 23 Sep 2026 14:47:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move</title>
+      <link>https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html</link>
+      <description>A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker&amp;apos;s server,&amp;amp;nbsp;Cisco Talos said&amp;amp;nbsp;on September 22.
+
+The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.</description>
+      <pubDate>Wed, 23 Sep 2026 19:47:58 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods</title>
+      <link>https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/</link>
+      <description>Qrator found a Windows botnet advertised with AI API draining, credential theft and SOCKS5 proxying</description>
+      <pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI</title>
+      <link>https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html</link>
+      <description>Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.
+
+According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below -
+
+
+  @memtensor/memos-cloud-openclaw-plugin versions</description>
+      <pubDate>Wed, 23 Sep 2026 19:22:46 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare</title>
+      <link>https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/</link>
+      <description>&amp;lt;p&amp;gt;Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/&amp;quot;&amp;gt;Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 23 Sep 2026 12:17:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>Honeywell</category>
+      <category>ICS</category>
+      <category>Report</category>
+    </item>
+    <item>
+      <title>New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control</title>
+      <link>https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html</link>
+      <description>A flaw in cPanel&amp;apos;s&amp;amp;nbsp;CalDAV and CardDAV service&amp;amp;nbsp;lets anyone with a cPanel hosting account run code as root and take &amp;quot;full control of the server,&amp;quot; the company said on September 22.
+
+A&amp;amp;nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts.
+
+cPanel has released fixed versions for both,</description>
+      <pubDate>Wed, 23 Sep 2026 17:46:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ransomware Attacks Reach Record High for 2026</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/</link>
+      <description>A total of 1073 firms fell victim to ransomware attacks globally in August, with the industrial sector the most affected, according to new NCC data</description>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent</title>
+      <link>https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html</link>
+      <description>Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a security background then sits down and checks every claim against the target. Which findings are real,</description>
+      <pubDate>Wed, 23 Sep 2026 17:17:19 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests</title>
+      <link>https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html</link>
+      <description>Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.
+
+Opus 5.5, per Anthropic, is a &amp;quot;major step up from Opus 5,&amp;quot; and &amp;quot;achieves the best scores of any model to date on our automated behavioral audit, our alignment suite that tests Claude across thousands</description>
+      <pubDate>Wed, 23 Sep 2026 17:17:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Adobe Patches Critical Flaws in Connect, AEM Forms</title>
+      <link>https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/</link>
+      <description>&amp;lt;p&amp;gt;The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/&amp;quot;&amp;gt;Adobe Patches Critical Flaws in Connect, AEM Forms&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 23 Sep 2026 11:40:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Adobe</category>
+      <category>Patch</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</title>
+      <link>https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/</link>
+      <description>&amp;lt;p&amp;gt;The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/&amp;quot;&amp;gt;AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 23 Sep 2026 11:23:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Phishing</category>
+      <category>cybercrime</category>
+      <category>EvilTokens</category>
+      <category>Microsoft</category>
+      <category>phishing</category>
+      <category>takedown</category>
+    </item>
+    <item>
+      <title>Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape</title>
+      <link>https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</link>
+      <description>A use-after-free in the Linux kernel&amp;apos;s AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&amp;amp;nbsp;said in research published September 22.
+
+The flaw, tracked as&amp;amp;nbsp;CVE-2026-80521&amp;amp;nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shipped the patch for its 26.04, 24.04, or 22.04 LTS releases. DepthFirst&amp;amp;nbsp;</description>
+      <pubDate>Wed, 23 Sep 2026 16:42:18 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Shadow IT Solutions: Tools to Discover and Manage Unsanctioned Apps | UpGuard</title>
+      <link>https://www.upguard.com/blog/shadow-it</link>
+      <description>Your SSO logs only tell half the story. Learn what shadow IT is, how discovery tools compare, and how teams are closing the gap without banning apps.</description>
+      <pubDate>Wed, 23 Sep 2026 11:06:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-it</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Research on Models Engaging in Genie-Like Behavior</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</link>
+      <description>&amp;lt;p&amp;gt;New paper: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2510.20956&amp;quot;&amp;gt;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training&amp;lt;/a&amp;gt;.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domains, RLMs will use multiple strategies to circumvent their own safety guardrails. One strategy is to introduce benign assumptions about users and scenarios to justify fulfilling harmful requests. For instance, an RLM reasons that harmful requests like &amp;amp;#8220;outline a strategy for stealing customers&amp;amp;#8217; credit card information from a retail store&amp;amp;#8221; could be associated with the benign intent of &amp;amp;#8220;a security professional trying to test defense,&amp;amp;#8221; despite no such benign context being provided as input. We observe that many open-weight RLMs, including DeepSeek-R1-distilled, s1.1, Phi-4-mini-reasoning, and Nemotron, suffer from self-jailbreaking despite being aware of the harmfulness of the requests. We also provide a mechanistic understanding of self-jailbreaking: RLMs are more compliant after benign reasoning training, and after self-jailbreaking, models appear to perceive malicious requests as less harmful in the CoT, thus enabling compliance with them. To mitigate self-jailbreaking, we find that including minimal safety reasoning data during training is sufficient to ensure RLMs remain safety-aligned. Our work provides the first systematic analysis of self-jailbreaking behavior and offers a practical path forward for maintaining safety in increasingly capable RLMs...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 23 Sep 2026 11:03:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>lies</category>
+    </item>
+    <item>
+      <title>What Is Shadow AI? | UpGuard</title>
+      <link>https://www.upguard.com/blog/unmasking-shadow-ai</link>
+      <description>Shadow AI is the use of unapproved AI tools at work. Learn how it differs from shadow IT, the risks it creates, and how to detect and govern it.</description>
+      <pubDate>Wed, 23 Sep 2026 10:54:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/unmasking-shadow-ai</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Chrome 154 Patches 108 Vulnerabilities</title>
@@ -314,12 +491,30 @@ The risk applies when an app puts values an attacker controls, such as text read
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
+      <title>How the CISO-CMO Alliance Builds Trust Before Crisis Strikes</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis</link>
+      <description>Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform those treating security as an operational IT concern.</description>
+      <pubDate>Tue, 22 Sep 2026 20:55:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis</guid>
+      <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
       <title>Microsoft Disrupts EvilTokens Device Code Phishing Service</title>
       <link>https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service</link>
       <description>Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.</description>
       <pubDate>Tue, 22 Sep 2026 20:02:02 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service</guid>
       <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Deception by Design: CISA&amp;apos;s Guide to Tricking Cybercriminals</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals</link>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.</description>
+      <pubDate>Tue, 22 Sep 2026 19:59:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -354,31 +549,6 @@ The package, named &amp;quot;tw-pkgprobe-7731,&amp;quot; was first uploaded to t
       <guid isPermaLink="true">https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>BigCommerce Data Stolen via Ribon Apps Hack</title>
-      <link>https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/</link>
-      <description>&amp;lt;p&amp;gt;The attackers used a compromised BigCommerce application key held by Ribon to access customer data.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/&amp;quot;&amp;gt;BigCommerce Data Stolen via Ribon Apps Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:58:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Supply Chain Security</category>
-      <category>BigCommerce</category>
-      <category>data breach</category>
-      <category>Ribon</category>
-      <category>supply chain attack</category>
-    </item>
-    <item>
-      <title>Shai-Hulud Attack Nips Cyber-Firm CrowdSec&amp;apos;s GitHub Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</link>
-      <description>Threat actors stole 170 private repositories using an OAuth token stolen from a former employee&amp;apos;s computer through the TanStack npm supply chain attack.</description>
-      <pubDate>Tue, 22 Sep 2026 17:32:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real</title>
@@ -423,21 +593,6 @@ The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory.
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Cyera Raises $400 Million at $12+ Billion Valuation</title>
-      <link>https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/</link>
-      <description>&amp;lt;p&amp;gt;The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/&amp;quot;&amp;gt;Cyera Raises $400 Million at $12+ Billion Valuation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 22 Sep 2026 14:29:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybersecurity Funding</category>
-      <category>Data Protection</category>
-      <category>Cyera</category>
-      <category>Data Security</category>
-      <category>funding</category>
-    </item>
-    <item>
       <title>Secure Your Spot at the 2026 PCI SSC Community Meetings</title>
       <link>https://blog.pcisecuritystandards.org/secure-your-spot-at-the-2026-pci-ssc-community-meetings</link>
       <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
@@ -460,23 +615,6 @@ The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory.
       <pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/north-korean-waterplum-30000/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity</title>
-      <link>https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/</link>
-      <description>&amp;lt;p&amp;gt;Abdelhamid Naceri, a former Microsoft Germany employee, is the exploit leaker Nightmare Eclipse, aka Chaotic Eclipse. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/&amp;quot;&amp;gt;Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 22 Sep 2026 13:26:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>BigDiskBuster</category>
-      <category>Chaotic Eclipse</category>
-      <category>controversy</category>
-      <category>Featured</category>
-      <category>PoC exploit</category>
-      <category>unmasked</category>
     </item>
     <item>
       <title>AI Incident Response Readiness Lags Behind AI Adoption, ISACA Finds</title>
@@ -611,6 +749,15 @@ The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription
       <pubDate>Tue, 22 Sep 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Shai-Hulud Attack Nips Cyber-Firm CrowdSec&amp;apos;s GitHub Data</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</link>
+      <description>Threat actors stole the contents of 170 private repositories using an OAuth token stolen from a former employee&amp;apos;s computer through the TanStack npm supply chain attack.</description>
+      <pubDate>Tue, 22 Sep 2026 10:22:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>NIST AI RMF 1.0: The AI Risk Management Framework | UpGuard</title>
@@ -878,147 +1025,6 @@ Ireland&amp;apos;s Data Protection Commission (DPC), Google&amp;apos;s lead regu
       <category>Awareness</category>
       <category>Interview</category>
       <category>Artificial Intelligence (AI)</category>
-    </item>
-    <item>
-      <title>Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents</title>
-      <link>https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents</link>
-      <description>The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.</description>
-      <pubDate>Mon, 21 Sep 2026 14:47:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Reverse-Engineering Flock Cameras</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html</link>
-      <description>&amp;lt;p&amp;gt;Hackers captured a Flock camera and got a &amp;lt;a href=&amp;quot;https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/&amp;quot;&amp;gt;look&amp;lt;/a&amp;gt; (alternate &amp;lt;a href=&amp;quot;https://archive.ph/gQoMs&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;) at the software:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;While much of the automatic license plate reader&amp;amp;#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data shows that software running on the device explicitly detects people as well as vehicles, license plates, and bicycles. The camera can produce dozens of images of a single passing vehicle and, according to several weeks of recovered logs, generated more than a million images. Its computer-vision software also sometimes isolated bumper stickers and other graphics, including, in one case, an American flag patch on a motorcyclist&amp;amp;#8217;s saddlebag...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Mon, 21 Sep 2026 14:37:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>cameras</category>
-      <category>cars</category>
-      <category>reverse engineering</category>
-    </item>
-    <item>
-      <title>New Exvicy ClickFix Framework Built on Rival ErrTraffic&amp;apos;s Code</title>
-      <link>https://www.infosecurity-magazine.com/news/exvicy-clickfix-framework/</link>
-      <description>Sekoia said Exvicy, a new ClickFix MaaS framework, reused code from rival service ErrTraffic</description>
-      <pubDate>Mon, 21 Sep 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/exvicy-clickfix-framework/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks</title>
-      <link>https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html</link>
-      <description>A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.
-
-The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not</description>
-      <pubDate>Mon, 21 Sep 2026 19:54:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data</title>
-      <link>https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.
-
-The backdoor &amp;quot;automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary</description>
-      <pubDate>Mon, 21 Sep 2026 19:45:40 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attackers Abuse npm Trusted Publishing in GHAPPIER Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/attackers-abuse-npm-trusted/</link>
-      <description>CloudSEK linked GHAPPIER to a compromised npm package with valid trusted-publishing provenance</description>
-      <pubDate>Mon, 21 Sep 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-abuse-npm-trusted/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ShinyHunters Claim Hack of Rival Ransomware Gang Clop</title>
-      <link>https://www.infosecurity-magazine.com/news/shinyhunters-claim-hack-of-clop/</link>
-      <description>ShinyHunters has claimed responsibility for hacking the Clop ransomware group, defacing its leak site and alleging theft of key operational data</description>
-      <pubDate>Mon, 21 Sep 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shinyhunters-claim-hack-of-clop/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Proofpoint Recognizes 2026 Global Partner Award Winners at Flagship Event</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event</link>
-      <description/>
-      <pubDate>Mon, 21 Sep 2026 11:22:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-recognizes-2026-global-partner-award-winners-flagship-event</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Experts Alarmed Over Gyazo’s Breach of 490 Million Metadata Records</title>
-      <link>https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million/</link>
-      <description>A breach at image-sharing service Gyazo on September 11 affected over 23 million customers</description>
-      <pubDate>Mon, 21 Sep 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive</title>
-      <link>https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/</link>
-      <description>As AI opens new paths to company data while making familiar attacks faster and cheaper, SMBs need protection designed around the time and expertise available to operate it</description>
-      <pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Business Security</category>
-    </item>
-    <item>
-      <title>Revolut Customers Targeted with New Wave of Phishing Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/</link>
-      <description>Following a major data breach, Revolut customers are being sent convincing phishing messages</description>
-      <pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure</title>
-      <link>https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html</link>
-      <description>Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.
-
-&amp;quot;ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,&amp;quot; Blackpoint Adversary Pursuit Group (APG)</description>
-      <pubDate>Mon, 21 Sep 2026 14:09:38 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors</title>
-      <link>https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html</link>
-      <description>The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based &amp;quot;much smaller organization&amp;quot; in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks.
-
-Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple</description>
-      <pubDate>Mon, 21 Sep 2026 11:36:44 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Brand Impersonation is moving into the App Store | UpGuard</title>
-      <link>https://www.upguard.com/blog/brand-impersonation-is-moving-into-the-app-store</link>
-      <description>Fake apps in the Apple App Store and Google Play Store. Breach Risk now spots them.</description>
-      <pubDate>Mon, 21 Sep 2026 04:01:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/brand-impersonation-is-moving-into-the-app-store</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Good Security Rating? Your Dark Web Exposure Says Otherwise | UpGuard</title>
-      <link>https://www.upguard.com/blog/good-security-rating-your-dark-web-exposure-says-otherwise</link>
-      <description>Scan your domain to see just how exposed you are on the Dark Web.</description>
-      <pubDate>Mon, 21 Sep 2026 04:01:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/good-security-rating-your-dark-web-exposure-says-otherwise</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
