@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:07:06 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,84 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>EDR Evasion Stack Helps Process Injection Slip Past Defenses</title>
+      <link>https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</link>
+      <description>A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.</description>
+      <pubDate>Wed, 23 Sep 2026 21:03:01 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks</title>
+      <link>https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks</link>
+      <description>Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.</description>
+      <pubDate>Wed, 23 Sep 2026 20:53:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin</title>
+      <link>https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/</link>
+      <description>&amp;lt;p&amp;gt;IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/&amp;quot;&amp;gt;IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 23 Sep 2026 19:32:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Protection</category>
+      <category>Quantum</category>
+    </item>
+    <item>
+      <title>Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</title>
+      <link>https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</link>
+      <description>Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads.
+
+According to Aikido, the list of Terraform providers and Go modules is below -
+
+
+  gocommunity-io/dockerd (222 downloads)
+  kreuzwenker/</description>
+      <pubDate>Wed, 23 Sep 2026 23:36:30 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios</title>
+      <link>https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/</link>
+      <description>&amp;lt;p&amp;gt;The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/&amp;quot;&amp;gt;Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 23 Sep 2026 18:05:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You</title>
+      <link>https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</link>
+      <description>The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you.
+
+GitLab shows each user this address behind a button labeled &amp;quot;Email work item to this project.&amp;quot; Mail sent to it opens an issue in that project, authored</description>
+      <pubDate>Wed, 23 Sep 2026 22:23:10 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key</title>
+      <link>https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html</link>
+      <description>Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.
+
+The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection bug in the RouterOS login process (CVE-2026-86060). Attack logs date to at</description>
+      <pubDate>Wed, 23 Sep 2026 21:36:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks</title>
@@ -324,23 +402,6 @@ The attacks, detected on September 3 and 4, 2026, involved the chaining of two v
       <category>Zero-Day</category>
     </item>
     <item>
-      <title>ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report</title>
-      <link>https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/</link>
-      <description>&amp;lt;p&amp;gt;The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/&amp;quot;&amp;gt;ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 07:13:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Government</category>
-      <category>data breach</category>
-      <category>data leak</category>
-      <category>FBI</category>
-      <category>Featured</category>
-      <category>ShinyHunters</category>
-    </item>
-    <item>
       <title>What to Do When a Vendor Fails a Security Audit | UpGuard</title>
       <link>https://www.upguard.com/blog/failed-vendor-audits</link>
       <description>UpGuard&amp;apos;s playbook for failed security playbooks: dissect findings, assess exposure, request a written CAP, and remediate or terminate.</description>
@@ -358,21 +419,6 @@ The risk applies when an app puts values an attacker controls, such as text read
       <guid isPermaLink="true">https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Check Point Patches Exploited Management Server Zero-Day</title>
-      <link>https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/</link>
-      <description>&amp;lt;p&amp;gt;The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/&amp;quot;&amp;gt;Check Point Patches Exploited Management Server Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 06:14:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Check Point</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Best Dark Web Monitoring Services for Business | UpGuard</title>
@@ -968,63 +1014,6 @@ The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a stack-based 
       <pubDate>Mon, 21 Sep 2026 19:11:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR</title>
-      <link>https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html</link>
-      <description>A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.
-
-Microsoft&amp;apos;s own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers</description>
-      <pubDate>Mon, 21 Sep 2026 23:01:01 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto</title>
-      <link>https://thehackernews.com/2026/09/contagious-interview-campaign.html</link>
-      <description>The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory.
-
-The primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,</description>
-      <pubDate>Mon, 21 Sep 2026 22:49:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/contagious-interview-campaign.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Fined €403 Million Over GDPR Violations Tied to Location Data</title>
-      <link>https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html</link>
-      <description>Google has been&amp;amp;nbsp;fined €403 million&amp;amp;nbsp;for breaking the EU&amp;apos;s data protection law, the GDPR, in the way three of its features handled people&amp;apos;s location data from May 2018 to February 2020.
-
-Ireland&amp;apos;s Data Protection Commission (DPC), Google&amp;apos;s lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which</description>
-      <pubDate>Mon, 21 Sep 2026 22:27:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Hit with €403m GDPR Fine Over Location Data Practices</title>
-      <link>https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/</link>
-      <description>The Irish DPC found that Google users were unaware that their location was being used to influence them with ads</description>
-      <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>The AI Exchange: Innovators in Payment Security Featuring IBM</title>
-      <link>https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-ibm</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-ibm&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The AI Exchange: Innovators in Payment Security Featuring IBM&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/Sana-IBM-Blog-Graphic.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The AI Exchange: Innovators in Payment Security. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to exchange information about how they are adopting and implementing artificial intelligence (AI) into their organizations. &amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 21 Sep 2026 14:54:32 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-ai-exchange-innovators-in-payment-security-featuring-ibm</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Artificial Intelligence (AI)</category>
     </item>
   </channel>
 </rss>
