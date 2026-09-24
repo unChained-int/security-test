@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:10:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,59 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;Salesbleed&amp;apos; Exploits Salesforce Agents to Enable Slack Phishing</title>
+      <link>https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</link>
+      <description>Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.</description>
+      <pubDate>Thu, 24 Sep 2026 21:04:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</title>
+      <link>https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</link>
+      <description>&amp;lt;p&amp;gt;The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/&amp;quot;&amp;gt;Autonomous AI Hacks Raise Thorny Questions of Legal Accountability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 20:35:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>law enforcement</category>
+    </item>
+    <item>
+      <title>SectopRAT Returns, Hiding Inside a Legitimate Application</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</link>
+      <description>The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.</description>
+      <pubDate>Thu, 24 Sep 2026 20:32:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions</title>
+      <link>https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html</link>
+      <description>A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&amp;amp;nbsp;chained two flaws in OnePlus&amp;apos;s own software&amp;amp;nbsp;to gain root access, the highest level of control over an Android phone.
+
+OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not</description>
+      <pubDate>Thu, 24 Sep 2026 23:40:18 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories</title>
+      <link>https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html</link>
+      <description>This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.
+
+That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just</description>
+      <pubDate>Thu, 24 Sep 2026 23:22:43 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</title>
@@ -323,21 +376,6 @@ Read</description>
       <pubDate>Thu, 24 Sep 2026 08:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Critical WordPress Vulnerability Exploited Immediately After Disclosure</title>
-      <link>https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/</link>
-      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/&amp;quot;&amp;gt;Critical WordPress Vulnerability Exploited Immediately After Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 24 Sep 2026 07:12:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
-      <category>WordPress</category>
     </item>
     <item>
       <title>OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files</title>
@@ -1005,39 +1043,6 @@ The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription
       <pubDate>Tue, 22 Sep 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-breaks-down-divide-between-data-security-and-ai-security</guid>
       <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>Proofpoint Stops the Attacks Traditional Defenses Miss in the AI Era</title>
-      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era</link>
-      <description/>
-      <pubDate>Tue, 22 Sep 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-stops-attacks-traditional-defenses-miss-ai-era</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>AI Drives Surge in Bot and API Threats</title>
-      <link>https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/</link>
-      <description>Akamai report warns of increase in bot traffic, API threats, chatbot leaks and other AI-related threats</description>
-      <pubDate>Tue, 22 Sep 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Shai-Hulud Attack Nips Cyber-Firm CrowdSec&amp;apos;s GitHub Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</link>
-      <description>Threat actors stole the contents of 170 private repositories using an OAuth token stolen from a former employee&amp;apos;s computer through the TanStack npm supply chain attack.</description>
-      <pubDate>Tue, 22 Sep 2026 10:22:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>NIST AI RMF 1.0: The AI Risk Management Framework | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-nist-ai-risk-management-framework</link>
-      <description>Explore the NIST AI Risk Management Framework, its core functions, and learn how organizations can implement it to manage AI-related risks effectively.</description>
-      <pubDate>Tue, 22 Sep 2026 10:22:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-nist-ai-risk-management-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
