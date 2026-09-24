@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 03:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:09:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,185 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Malicious npm Packages That Evade Defenses</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html</link>
+      <description>&amp;lt;p&amp;gt;This is an impressive piece of &amp;lt;a href=&amp;quot;https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/&amp;quot;&amp;gt;malware&amp;lt;/a&amp;gt;. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 11:07:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>defense</category>
+      <category>malware</category>
+    </item>
+    <item>
+      <title>OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators</title>
+      <link>https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/</link>
+      <description>&amp;lt;p&amp;gt;Revision 4 of NIST’s operational technology security guide is open for public comments until November 30.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/&amp;quot;&amp;gt;OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 11:05:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>CISA</category>
+      <category>FBI</category>
+      <category>guidance</category>
+      <category>ICS</category>
+      <category>NIST</category>
+      <category>OT</category>
+    </item>
+    <item>
+      <title>UK Government Shifts to Service-Led Cyber Governance After Stinging Audit</title>
+      <link>https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/</link>
+      <description>Whitehall is shifting from mandatory cyber controls to service-led governance following a critical audit exposing failures of its 2022 cyber strategy</description>
+      <pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Begin at the End: How to Enable Agentic Remediation</title>
+      <link>https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/</link>
+      <description>&amp;lt;p&amp;gt;Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/&amp;quot;&amp;gt;Begin at the End: How to Enable Agentic Remediation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/</guid>
+      <dc:creator>Nadir Izrael</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Security Architecture</category>
+      <category>AI</category>
+      <category>SOC</category>
+    </item>
+    <item>
+      <title>SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted</title>
+      <link>https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/</link>
+      <description>&amp;lt;p&amp;gt;The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/&amp;quot;&amp;gt;SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 10:40:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>SolarWinds</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>OpenAI Agent Hacks Australian Medicare Portal</title>
+      <link>https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/</link>
+      <description>Australian PM Anthony Albanese criticized OpenAI’s response to the incident, which occurred in June 2026</description>
+      <pubDate>Thu, 24 Sep 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Astrana Health Data Breach Impacts Private, Confidential Information</title>
+      <link>https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/</link>
+      <description>&amp;lt;p&amp;gt;Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/&amp;quot;&amp;gt;Astrana Health Data Breach Impacts Private, Confidential Information&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 09:56:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Astrana Health</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+    </item>
+    <item>
+      <title>Over 75% of Organizations Experience Microsoft 365 Governance Issues</title>
+      <link>https://www.infosecurity-magazine.com/news/75-organizations-microsoft-365/</link>
+      <description>ShareGate study claims to reveal a governance ‘crisis’ as AI usage grows</description>
+      <pubDate>Thu, 24 Sep 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/75-organizations-microsoft-365/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360</title>
+      <link>https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html</link>
+      <description>ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense.
+
+Read</description>
+      <pubDate>Thu, 24 Sep 2026 14:44:21 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks</title>
+      <link>https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/</link>
+      <description>&amp;lt;p&amp;gt;Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/&amp;quot;&amp;gt;US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 08:38:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Ransomware</category>
+      <category>Ryuk</category>
+      <category>sentenced</category>
+    </item>
+    <item>
+      <title>Data Overtakes Skills as Top Threat Hunting Challenge, SANS Study Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/</link>
+      <description>SANS Institute report claims data rather than skills is now the main hurdle for threat hunters</description>
+      <pubDate>Thu, 24 Sep 2026 08:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical WordPress Vulnerability Exploited Immediately After Disclosure</title>
+      <link>https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/</link>
+      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/&amp;quot;&amp;gt;Critical WordPress Vulnerability Exploited Immediately After Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 24 Sep 2026 07:12:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>vulnerability</category>
+      <category>WordPress</category>
+    </item>
+    <item>
+      <title>OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files</title>
+      <link>https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html</link>
+      <description>An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&amp;amp;nbsp;Anthony Albanese said.
+
+The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal</description>
+      <pubDate>Thu, 24 Sep 2026 12:37:25 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords</title>
+      <link>https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html</link>
+      <description>Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.
+
+According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses.
+
+&amp;quot;The campaign compromised 7 accounts –</description>
+      <pubDate>Thu, 24 Sep 2026 12:02:03 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html</link>
+      <description>Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.
+
+The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE).
+
+&amp;quot;An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file</description>
+      <pubDate>Thu, 24 Sep 2026 11:06:18 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>EDR Evasion Stack Helps Process Injection Slip Past Defenses</title>
@@ -35,10 +214,10 @@
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin</title>
+      <title>IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder</title>
       <link>https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/</link>
       <description>&amp;lt;p&amp;gt;IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/&amp;quot;&amp;gt;IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/&amp;quot;&amp;gt;IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
       <pubDate>Wed, 23 Sep 2026 19:32:49 +0000</pubDate>
       <guid isPermaLink="true">https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/</guid>
       <dc:creator>Kevin Townsend</dc:creator>
@@ -163,6 +342,7 @@ According to reports from Aikido, SafeDep, Socket, and StepSecurity, the librari
       <dc:creator>Eduard Kovacs</dc:creator>
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>ICS/OT</category>
+      <category>Featured</category>
       <category>Honeywell</category>
       <category>ICS</category>
       <category>Report</category>
@@ -223,23 +403,6 @@ Opus 5.5, per Anthropic, is a &amp;quot;major step up from Opus 5,&amp;quot; and
       <category>vulnerability</category>
     </item>
     <item>
-      <title>AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</title>
-      <link>https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/</link>
-      <description>&amp;lt;p&amp;gt;The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/&amp;quot;&amp;gt;AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 11:23:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Phishing</category>
-      <category>cybercrime</category>
-      <category>EvilTokens</category>
-      <category>Microsoft</category>
-      <category>phishing</category>
-      <category>takedown</category>
-    </item>
-    <item>
       <title>Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape</title>
       <link>https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</link>
       <description>A use-after-free in the Linux kernel&amp;apos;s AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&amp;amp;nbsp;said in research published September 22.
@@ -281,71 +444,12 @@ The flaw, tracked as&amp;amp;nbsp;CVE-2026-80521&amp;amp;nbsp;(CVSS score: 7.8),
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Chrome 154 Patches 108 Vulnerabilities</title>
-      <link>https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;The browser update resolves several critical-severity memory safety and memory corruption flaws.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/&amp;quot;&amp;gt;Chrome 154 Patches 108 Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 10:36:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Chrome</category>
-      <category>patched</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk</title>
-      <link>https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/</link>
-      <description>&amp;lt;p&amp;gt;Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/&amp;quot;&amp;gt;A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 10:20:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>Humanity</category>
-      <category>Risks</category>
-    </item>
-    <item>
       <title>ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day</title>
       <link>https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/</link>
       <description>Infamous threat group ShinyHunters claims to have personal information on thousands of FBI employees</description>
       <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm</title>
-      <link>https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/</link>
-      <description>&amp;lt;p&amp;gt;Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/&amp;quot;&amp;gt;Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity Funding</category>
-      <category>agentic AI</category>
-      <category>funding</category>
-    </item>
-    <item>
-      <title>Arista Urges Immediate Patching of Exploited VCO Zero-Day</title>
-      <link>https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/</link>
-      <description>&amp;lt;p&amp;gt;Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/&amp;quot;&amp;gt;Arista Urges Immediate Patching of Exploited VCO Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 08:33:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Arista</category>
-      <category>CISA KEV</category>
-      <category>exploited</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
     </item>
     <item>
       <title>EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response</title>
@@ -384,22 +488,6 @@ The attacks, detected on September 3 and 4, 2026, involved the chaining of two v
       <pubDate>Wed, 23 Sep 2026 07:38:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/vendor-due-diligence</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Critical F5 BIG-IP Vulnerability Exploited as Zero-Day</title>
-      <link>https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/</link>
-      <description>&amp;lt;p&amp;gt;Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/&amp;quot;&amp;gt;Critical F5 BIG-IP Vulnerability Exploited as Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 07:34:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>BIG-IP</category>
-      <category>exploited</category>
-      <category>F5</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
     </item>
     <item>
       <title>What to Do When a Vendor Fails a Security Audit | UpGuard</title>
@@ -923,97 +1011,6 @@ WordPress fixed the flaw, tracked as&amp;amp;nbsp;CVE-2026-93485&amp;amp;nbsp;an
       <pubDate>Tue, 22 Sep 2026 05:38:03 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/ai-evidence-analysis-tools-for-tprm</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access</title>
-      <link>https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a stack-based buffer overflow vulnerability that could result in arbitrary operating</description>
-      <pubDate>Tue, 22 Sep 2026 11:01:59 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Your First Dark Web Scan Report, Explained  | UpGuard</title>
-      <link>https://www.upguard.com/blog/your-first-dark-web-scan-report-explained</link>
-      <description>You scanned your domain. What do the results mean?</description>
-      <pubDate>Tue, 22 Sep 2026 01:28:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/your-first-dark-web-scan-report-explained</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>AI Assurance: The Third Head of Your AI Governance Watchdog | UpGuard</title>
-      <link>https://www.upguard.com/blog/ai-governance-to-ai-assurance</link>
-      <description>AI governance needs three things: policy, enforcement, and assurance. Most organizations have built the first two. Here&amp;apos;s why the third one matters now.</description>
-      <pubDate>Tue, 22 Sep 2026 01:28:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ai-governance-to-ai-assurance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Create an Incident Response Plan (Detailed Guide) | UpGuard</title>
-      <link>https://www.upguard.com/blog/creating-a-cyber-security-incident-response-plan</link>
-      <description>A well-written Incident Cybersecurity Response Plan could be the difference between a minor incident. Learn how to create one in 2022.</description>
-      <pubDate>Tue, 22 Sep 2026 01:28:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/creating-a-cyber-security-incident-response-plan</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A Vendor Management Policy: What to Include and How to Create One | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-management-policy</link>
-      <description>A step-by-step guide to writing a vendor management policy: What sections to include, how to classify vendors by risk tier, and a policy framework.</description>
-      <pubDate>Tue, 22 Sep 2026 01:28:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-management-policy</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How AI Agents Can Trigger Runaway Costs for Enterprises</title>
-      <link>https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs</link>
-      <description>Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.</description>
-      <pubDate>Mon, 21 Sep 2026 21:39:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ShinyHunters Hacked Cl0p. Now What About Cl0p&amp;apos;s Victims?</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims</link>
-      <description>ShinyHunters defaced Cl0p&amp;apos;s Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.</description>
-      <pubDate>Mon, 21 Sep 2026 20:07:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>OpenAI’s Agent Findings: Why AI Guardrails Need Data Boundaries</title>
-      <link>https://www.techrepublic.com/article/news-openai-agent-findings-ai-data-boundaries/</link>
-      <description>&amp;lt;p&amp;gt;OpenAI’s agent findings show why enterprises need scoped credentials, per-request authorization, audit logs, and data controls alongside AI guardrails.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-openai-agent-findings-ai-data-boundaries/&amp;quot;&amp;gt;OpenAI’s Agent Findings: Why AI Guardrails Need Data Boundaries&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 21 Sep 2026 20:01:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openai-agent-findings-ai-data-boundaries/</guid>
-      <dc:creator>Tim Freestone</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>ChatGPT</category>
-      <category>Cybersecurity</category>
-      <category>OpenAI</category>
-      <category>access control</category>
-      <category>agentic ai</category>
-      <category>ai agents</category>
-      <category>AI guardrails</category>
-      <category>ai security</category>
-      <category>cybersecurity</category>
-      <category>data governance</category>
-      <category>openai</category>
-    </item>
-    <item>
-      <title>Cybercriminals Are Hiding New Malware in Torrents for Popular Films</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films</link>
-      <description>Victims have been identified in Africa, including in Kenya and Uganda.</description>
-      <pubDate>Mon, 21 Sep 2026 19:11:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
