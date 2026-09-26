@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 15:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:40:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,34 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</title>
+      <link>https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html</link>
+      <description>The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.
+
+The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users.
+
+&amp;quot;The attack chain begins with a fake CAPTCHA page and</description>
+      <pubDate>Sat, 26 Sep 2026 23:52:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks</title>
+      <link>https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/</link>
+      <description>&amp;lt;p&amp;gt;The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/&amp;quot;&amp;gt;China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 26 Sep 2026 18:09:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Government</category>
+      <category>AI</category>
+      <category>China</category>
+      <category>Featured</category>
     </item>
     <item>
       <title>New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</title>
@@ -239,6 +267,7 @@ Visiting either of the repositories now shows the message: &amp;quot;Access to t
       <category>Bitget</category>
       <category>cryptocurrency</category>
       <category>cryptocurrency heist</category>
+      <category>Featured</category>
       <category>heist</category>
       <category>North Korea</category>
     </item>
@@ -563,19 +592,6 @@ The vulnerabilities are listed below -
       <guid isPermaLink="true">https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</title>
-      <link>https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</link>
-      <description>&amp;lt;p&amp;gt;The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/&amp;quot;&amp;gt;Autonomous AI Hacks Raise Thorny Questions of Legal Accountability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 24 Sep 2026 20:35:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>law enforcement</category>
     </item>
     <item>
       <title>SectopRAT Returns, Hiding Inside a Legitimate Application</title>
@@ -1157,14 +1173,6 @@ The risk applies when an app puts values an attacker controls, such as text read
       <description>Discover leading cybersecurity risk assessment tools that help organizations identify vulnerabilities, manage threats, and enhance their security posture.​</description>
       <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-risk-assessment-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Choosing Cyber Risk Remediation Software (Key Features) | UpGuard</title>
-      <link>https://www.upguard.com/blog/choosing-cyber-risk-remediation-software</link>
-      <description>Learn the features to look for in a cyber risk remediation tool for effectively addressing internal and external security risks.</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-cyber-risk-remediation-software</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
