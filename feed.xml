@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:50:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,43 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</title>
+      <link>https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</link>
+      <description>&amp;lt;p&amp;gt;The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/&amp;quot;&amp;gt;New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>AI</category>
+      <category>botnet</category>
+      <category>malware</category>
+      <category>X47.c</category>
+    </item>
+    <item>
+      <title>Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells</title>
+      <link>https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html</link>
+      <description>Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.
+
+The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution.
+
+The vulnerability was first exploited as a zero-day</description>
+      <pubDate>Sat, 26 Sep 2026 17:16:40 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Zero Trust for AI Agents Starts With Fixing Zero Visibility</title>
+      <link>https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html</link>
+      <description>The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to</description>
+      <pubDate>Sat, 26 Sep 2026 16:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</title>
@@ -451,6 +488,15 @@ The issue stems from a preg_replace() backslash</description>
       <category>vulnerability</category>
     </item>
     <item>
+      <title>Is that vibe coded app safe? 5 checks before you download</title>
+      <link>https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/</link>
+      <description>As AI lets anyone build software, here’s how to vet that shiny new app before it exposes your data</description>
+      <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Mobile Security</category>
+    </item>
+    <item>
       <title>Researchers Identify AliExpress Phishing Domains Before Registration</title>
       <link>https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/</link>
       <description>EfficientIP says it flagged AliExpress phishing domains before they were registered</description>
@@ -561,21 +607,6 @@ That is the thread running through the pile. Trusted paths get poisoned. Old bug
       <guid isPermaLink="true">https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</title>
-      <link>https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/</link>
-      <description>&amp;lt;p&amp;gt;The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/&amp;quot;&amp;gt;Kontext Security Emerges With $4 Million for AI Agent Runtime Controls&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 24 Sep 2026 15:52:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity Funding</category>
-      <category>AI</category>
-      <category>funding</category>
-      <category>Kontext</category>
     </item>
     <item>
       <title>Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content</title>
@@ -1134,30 +1165,6 @@ The risk applies when an app puts values an attacker controls, such as text read
       <description>Learn the features to look for in a cyber risk remediation tool for effectively addressing internal and external security risks.</description>
       <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/choosing-cyber-risk-remediation-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Vendor Risk Management Software for 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-vendor-risk-management-software-solutions</link>
-      <description>Compare top vendor risk management software solutions and learn how to choose, implement, and integrate the right tool for your organization’s needs.</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-vendor-risk-management-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Choosing Automated Risk Remediation Software in 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/choosing-automated-risk-remediation-software</link>
-      <description>Automation technology, when correctly applied to cyber risk remediation software could have a profoundly positve impact on your cybersecurity program.</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-automated-risk-remediation-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The 12 Best Third-Party Risk Management Software Solutions (2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</link>
-      <description>Compare the 12 best TPRM tools of 2026, including UpGuard, SecurityScorecard, Bitsight, OneTrust and Panorays.</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
