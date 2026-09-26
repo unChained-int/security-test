@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 03:40:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:51:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,55 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</title>
+      <link>https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</link>
+      <description>&amp;lt;p&amp;gt;OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.”&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/&amp;quot;&amp;gt;OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 26 Sep 2026 10:15:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Uncategorized</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link</title>
+      <link>https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html</link>
+      <description>Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.
+
+The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions</description>
+      <pubDate>Sat, 26 Sep 2026 15:25:22 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild</title>
+      <link>https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities in question are as follows -
+
+
+  CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint</description>
+      <pubDate>Sat, 26 Sep 2026 14:19:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack</title>
+      <link>https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html</link>
+      <description>Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.
+
+&amp;quot;Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,&amp;quot; said Frank Balonis, Chief</description>
+      <pubDate>Sat, 26 Sep 2026 13:18:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>U.S. Soldier Gets 70 Months in Prison for AT&amp;amp;T, Verizon Extortions</title>
@@ -555,22 +604,6 @@ That is the thread running through the pile. Trusted paths get poisoned. Old bug
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026</guid>
       <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data</title>
-      <link>https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/</link>
-      <description>&amp;lt;p&amp;gt;Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/&amp;quot;&amp;gt;OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 24 Sep 2026 14:43:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Australia</category>
-      <category>Featured</category>
-      <category>OpenAI</category>
-      <category>rogue AI</category>
     </item>
     <item>
       <title>Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer</title>
@@ -1126,31 +1159,6 @@ The risk applies when an app puts values an attacker controls, such as text read
       <pubDate>Wed, 23 Sep 2026 03:06:09 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Cyber Risk Governance? Implementing Cyber Strategy | UpGuard</title>
-      <link>https://www.upguard.com/blog/cyber-risk-governance</link>
-      <description>Find out what cyber risk governance is and how it affects businesses.</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cyber-risk-governance</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Cybersecurity Risk? A Thorough Definition | UpGuard</title>
-      <link>https://www.upguard.com/blog/cybersecurity-risk</link>
-      <description>Cybersecurity risk is the risk of a cyber attack or data breach on your organization.</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Relays Are Masking Chinese Access to Frontier AI Models in the US</title>
-      <link>https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models</link>
-      <description>More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.</description>
-      <pubDate>Tue, 22 Sep 2026 21:12:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
