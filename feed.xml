@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 03:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:27:24 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,34 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</title>
+      <link>https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/</link>
+      <description>&amp;lt;p&amp;gt;CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/&amp;quot;&amp;gt;Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sun, 27 Sep 2026 09:23:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>SharePoint</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation</title>
+      <link>https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</link>
+      <description>Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.
+
+Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available.
+
+NetScaler ADC and</description>
+      <pubDate>Sun, 27 Sep 2026 13:17:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</title>
@@ -541,23 +569,6 @@ The issue stems from a preg_replace() backslash</description>
       <guid isPermaLink="true">https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Roundcube Webmail Vulnerability in Attackers’ Crosshairs</title>
-      <link>https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</link>
-      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/&amp;quot;&amp;gt;Roundcube Webmail Vulnerability in Attackers’ Crosshairs&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:57:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Email Security</category>
-      <category>Vulnerabilities</category>
-      <category>email security</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Roundcube</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>Cloudflare Fixes Flaw That Let One Container Read Another Customer&amp;apos;s Leftover Disk Data</title>
@@ -1165,14 +1176,6 @@ The risk applies when an app puts values an attacker controls, such as text read
       <description>This is a complete overview of cybersecurity risk management. Learn about the 15 top considerations for cybersecurity risk management in this in post.</description>
       <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-risk-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Cybersecurity Risk Assessment Platforms Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/cybersecurity-risk-assessment-tools</link>
-      <description>Discover leading cybersecurity risk assessment tools that help organizations identify vulnerabilities, manage threats, and enhance their security posture.​</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-risk-assessment-tools</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
