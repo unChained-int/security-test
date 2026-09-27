@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:55:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -34,11 +34,9 @@
     <item>
       <title>Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation</title>
       <link>https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</link>
-      <description>Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.
+      <description>Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration.
 
-Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available.
-
-NetScaler ADC and</description>
+The bulletin came a day after security firm watchTowr</description>
       <pubDate>Sun, 27 Sep 2026 13:17:57 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -194,6 +192,15 @@ The vulnerabilities in question are as follows -
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>squid</category>
+    </item>
+    <item>
+      <title>How the CISO CFO Relationship is a Key to Cybersecurity Success</title>
+      <link>https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success</link>
+      <description>Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today&amp;apos;s threat landscape.</description>
+      <pubDate>Fri, 25 Sep 2026 20:28:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success</guid>
+      <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment</title>
@@ -1168,14 +1175,6 @@ The risk applies when an app puts values an attacker controls, such as text read
       <description>IT risk management and cybersecurity both define the effectiveness and security structure of modern organizations. Learn how they differ.</description>
       <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/it-risk-management-vs-cybersecurity</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Cybersecurity Risk Management? Preventing Cyber Attacks | UpGuard</title>
-      <link>https://www.upguard.com/blog/cybersecurity-risk-management</link>
-      <description>This is a complete overview of cybersecurity risk management. Learn about the 15 top considerations for cybersecurity risk management in this in post.</description>
-      <pubDate>Wed, 23 Sep 2026 03:06:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-risk-management</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
