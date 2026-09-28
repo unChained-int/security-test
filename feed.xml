@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:57:30 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,291 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>One Packet Can Crash OT Servers in Industrial Sectors</title>
+      <link>https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine</link>
+      <description>A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.</description>
+      <pubDate>Mon, 28 Sep 2026 21:13:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts</title>
+      <link>https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts</link>
+      <description>The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.</description>
+      <pubDate>Mon, 28 Sep 2026 20:23:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks</title>
+      <link>https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html</link>
+      <description>Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.
+
+The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file.
+
+The iPhone maker said the</description>
+      <pubDate>Tue, 29 Sep 2026 00:48:01 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Nvidia Adds Hardware Monitoring Design to AI Agent Safety Platform</title>
+      <link>https://www.techrepublic.com/article/news-nvidia-ai-agent-safety-platform-hardware-monitoring/</link>
+      <description>&amp;lt;p&amp;gt;Nvidia adds a Sentry hardware monitoring design to its AI agent safety platform. See what OpenShell offers now and what IT teams still need to verify.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-nvidia-ai-agent-safety-platform-hardware-monitoring/&amp;quot;&amp;gt;Nvidia Adds Hardware Monitoring Design to AI Agent Safety Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 28 Sep 2026 19:11:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-nvidia-ai-agent-safety-platform-hardware-monitoring/</guid>
+      <dc:creator>Michelle Lojo</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Agentic AI</category>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>NVIDIA</category>
+      <category>agent security</category>
+      <category>ai agents</category>
+      <category>bluefield-4</category>
+      <category>cybersecurity</category>
+      <category>hardware monitoring</category>
+      <category>nvidia</category>
+      <category>nvidia sentry</category>
+      <category>OpenShell</category>
+      <category>sentry</category>
+    </item>
+    <item>
+      <title>AI Agents Are Privileged Users; Who Is Auditing Their Access?</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access</link>
+      <description>Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.</description>
+      <pubDate>Mon, 28 Sep 2026 18:44:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access</guid>
+      <dc:creator>Ravi Sharma</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks</title>
+      <link>https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html</link>
+      <description>Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&amp;amp;nbsp;a technical analysis.
+
+The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least</description>
+      <pubDate>Tue, 29 Sep 2026 00:05:42 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>IAM for AI agents: A Practical Enterprise Framework</title>
+      <link>https://thehackernews.com/2026/09/iam-for-ai-agent.html</link>
+      <description>What is IAM for AI agents?
+
+AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework choices, and what runtime evidence proves an agent behaved as intended.</description>
+      <pubDate>Mon, 28 Sep 2026 23:50:38 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/iam-for-ai-agent.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>PCI SSC Releases Version 2.0 of the Secure Software Lifecycle Standard</title>
+      <link>https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-secure-software-lifecycle-standard</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-secure-software-lifecycle-standard&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;PCI SSC Releases Version 2.0 of the Secure Software Lifecycle Standard&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/secure-software-lifecycle-blog-hubspot.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;br /&amp;gt; 
+&amp;lt;p&amp;gt;The PCI Security Standards Council (PCI SSC) has published the first major revision to the PCI Secure Software Lifecycle (Secure SLC) Standard and its supporting Program documents. The PCI Secure SLC Standard is one of two standards that are part of the PCI Software Security Framework (SSF). It provides security requirements and assessment procedures for software vendors to integrate into their software development lifecycles and to validate that secure lifecycle management practices are in place. &amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 28 Sep 2026 18:01:46 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/pci-ssc-releases-version-2.0-of-the-secure-software-lifecycle-standard</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>Software Product Family</category>
+      <category>Software Security Framework</category>
+      <category>Assessors</category>
+      <category>Secure Software</category>
+      <category>Secure Software Lifecycle</category>
+    </item>
+    <item>
+      <title>Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M</title>
+      <link>https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html</link>
+      <description>The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.
+
+The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget&amp;apos;s wallet system.
+
+Exchanges keep most</description>
+      <pubDate>Mon, 28 Sep 2026 23:12:18 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims</title>
+      <link>https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html</link>
+      <description>RatHat&amp;apos;s operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&amp;amp;nbsp;traced nearly 100 deployments&amp;amp;nbsp;of that console since April 2026. It said this fits a malware-as-a-service model, in which each customer runs a separate copy.
+
+The console stores what the malware collects from each phone,</description>
+      <pubDate>Mon, 28 Sep 2026 23:08:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Modulate Raises $25 Million to Advance Deepfake Detection</title>
+      <link>https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/</link>
+      <description>&amp;lt;p&amp;gt;The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/&amp;quot;&amp;gt;Modulate Raises $25 Million to Advance Deepfake Detection&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 28 Sep 2026 17:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity Funding</category>
+      <category>AI</category>
+      <category>funding</category>
+    </item>
+    <item>
+      <title>Attack Surface Management Vendors Compared | UpGuard</title>
+      <link>https://www.upguard.com/blog/attack-surface-management-vendors-compared</link>
+      <description>We compared ASM vendors and helped you rate them before agreeing to a POC!</description>
+      <pubDate>Mon, 28 Sep 2026 17:12:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/attack-surface-management-vendors-compared</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Chrome Store Hosts &amp;apos;Poper Blocker&amp;apos; Spyware Downloaded by Millions</title>
+      <link>https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions</link>
+      <description>A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google&amp;apos;s stamp of approval despite researcher warnings.</description>
+      <pubDate>Mon, 28 Sep 2026 16:51:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Find Out if You&amp;apos;re Exposed on the Dark Web  | UpGuard</title>
+      <link>https://www.upguard.com/blog/find-out-if-youre-exposed-on-the-dark-web</link>
+      <description>Answer 5 quick questions to predict what a dark web scan will find about your company. Then run the free scan to see your real exposure.</description>
+      <pubDate>Mon, 28 Sep 2026 16:19:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/find-out-if-youre-exposed-on-the-dark-web</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack</title>
+      <link>https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack</link>
+      <description>The &amp;amp;quot;agentic threat actor&amp;amp;quot; may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.</description>
+      <pubDate>Mon, 28 Sep 2026 15:33:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Call for Presentations Open for 2026 CISO Forum Virtual Summit</title>
+      <link>https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/</link>
+      <description>&amp;lt;p&amp;gt;SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/&amp;quot;&amp;gt;Call for Presentations Open for 2026 CISO Forum Virtual Summit&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 28 Sep 2026 15:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/</guid>
+      <dc:creator>Mike Lennon</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>CISO Strategy</category>
+      <category>CISO</category>
+      <category>Event</category>
+    </item>
+    <item>
+      <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
+      <link>https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</link>
+      <description>Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect&amp;apos;s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.</description>
+      <pubDate>Mon, 28 Sep 2026 15:08:57 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Latest Warnings</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Ransomware</category>
+      <category>404 Media</category>
+      <category>Bloomberg</category>
+      <category>CL0P</category>
+      <category>fbi</category>
+      <category>Google Threat Intelligence Group</category>
+      <category>KELA</category>
+      <category>Mandiant</category>
+      <category>Neo Security</category>
+      <category>NL Times</category>
+      <category>Odido</category>
+      <category>Oracle</category>
+      <category>PeopleSoft</category>
+      <category>Pepijn van der Stap</category>
+      <category>Reuters</category>
+      <category>ScatteredLapsussHunters</category>
+      <category>ShinyHunters</category>
+      <category>SLSH</category>
+      <category>TeamPCP</category>
+      <category>Umbreon</category>
+      <category>wired</category>
+    </item>
+    <item>
+      <title>Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/</link>
+      <description>Bitget has restarted Bitcoin withdrawals after a $387.5m breach of its hot and warm wallets</description>
+      <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Truecaller Scam Checker Launches in India: How It Works</title>
+      <link>https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/</link>
+      <description>&amp;lt;p&amp;gt;Truecaller Scam Checker lets users check suspicious links, numbers, and messages for free as the company expands its fraud protection beyond caller ID.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/&amp;quot;&amp;gt;Truecaller Scam Checker Launches in India: How It Works&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 28 Sep 2026 14:41:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-truecaller-scam-checker-apac-india/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>cybersecurity</category>
+      <category>fraud</category>
+      <category>India</category>
+      <category>mobile security</category>
+      <category>phishing</category>
+      <category>scam checker</category>
+      <category>scams</category>
+      <category>truecaller</category>
+    </item>
+    <item>
+      <title>Compounding Intelligence: The Grid Behind the UpGuard Risk Operations Center | UpGuard</title>
+      <link>https://www.upguard.com/blog/compounding-intelligence-upguards-grid</link>
+      <description>Compounding Intelligence connects vendor, attack surface, and workforce risk in the UpGuard Risk Operations Center, so each signal sharpens the others.</description>
+      <pubDate>Mon, 28 Sep 2026 14:17:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/compounding-intelligence-upguards-grid</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats</title>
+      <link>https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html</link>
+      <description>A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.
+
+Elsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and strangely easy exploit paths kept doing useful work for attackers. Nothing</description>
+      <pubDate>Mon, 28 Sep 2026 19:30:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>NVIDIA Launches Open Platform to Secure Autonomous AI Agents</title>
+      <link>https://www.infosecurity-magazine.com/news/nvidia-open-platform-secure/</link>
+      <description>NVIDIA has launched a platform pairing runtime controls with hardware monitoring for AI agents</description>
+      <pubDate>Mon, 28 Sep 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nvidia-open-platform-secure/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Deepfakes Are Becoming a Costly Reality for Businesses, Report Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/deepfakes-costly-reality-for/</link>
+      <description>A quarter of victims of deepfake attacks have lost over $1m. CISOs worry that boardrooms don’t understand the threat</description>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/deepfakes-costly-reality-for/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
       <title>Prison Sentence for Former US Soldier Who Hacked AT&amp;amp;T and Verizon</title>
@@ -40,6 +325,28 @@ According to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are co
       <guid isPermaLink="true">https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Turn Cybersecurity Theory Into Portfolio-Ready Work For $99</title>
+      <link>https://www.techrepublic.com/article/infosec4tc-projects-hub/</link>
+      <description>&amp;lt;p&amp;gt;Complete 10 simulated security and GRC projects, get expert feedback on each, and earn a signed certificate.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/infosec4tc-projects-hub/&amp;quot;&amp;gt;Turn Cybersecurity Theory Into Portfolio-Ready Work For $99&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 28 Sep 2026 11:56:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/infosec4tc-projects-hub/</guid>
+      <dc:creator>TechRepublic Academy</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>TR Academy</category>
+      <category>career development</category>
+      <category>compliance</category>
+      <category>cybersecurity</category>
+      <category>grc</category>
+      <category>information security</category>
+      <category>infosec4tc</category>
+      <category>it training</category>
+      <category>risk management</category>
+      <category>security certifications</category>
+      <category>TechRepublic Academy</category>
     </item>
     <item>
       <title>Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent</title>
@@ -264,36 +571,6 @@ The new findings come from Ontinue, which described the activity as a four-stage
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks</title>
-      <link>https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/</link>
-      <description>&amp;lt;p&amp;gt;The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/&amp;quot;&amp;gt;China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 26 Sep 2026 18:09:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Government</category>
-      <category>AI</category>
-      <category>China</category>
-      <category>Featured</category>
-    </item>
-    <item>
-      <title>New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</title>
-      <link>https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</link>
-      <description>&amp;lt;p&amp;gt;The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/&amp;quot;&amp;gt;New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>AI</category>
-      <category>botnet</category>
-      <category>malware</category>
-      <category>X47.c</category>
-    </item>
-    <item>
       <title>Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells</title>
       <link>https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html</link>
       <description>Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.
@@ -389,7 +666,7 @@ The vulnerabilities in question are as follows -
       <category>squid</category>
     </item>
     <item>
-      <title>How the CISO-CFO Relationship Is a Key to Cybersecurity Success</title>
+      <title>Why the CISO-CFO Relationship Is a Key to Cybersecurity Success</title>
       <link>https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success</link>
       <description>Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today&amp;apos;s threat landscape.</description>
       <pubDate>Fri, 25 Sep 2026 20:28:10 +0000</pubDate>
@@ -973,229 +1250,6 @@ The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could a
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud</guid>
       <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>EDR Evasion Stack Helps Process Injection Slip Past Defenses</title>
-      <link>https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</link>
-      <description>A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.</description>
-      <pubDate>Wed, 23 Sep 2026 21:03:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks</title>
-      <link>https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks</link>
-      <description>Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.</description>
-      <pubDate>Wed, 23 Sep 2026 20:53:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</title>
-      <link>https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</link>
-      <description>Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads.
-
-According to Aikido, the list of Terraform providers and Go modules is below -
-
-
-  gocommunity-io/dockerd (222 downloads)
-  kreuzwenker/</description>
-      <pubDate>Wed, 23 Sep 2026 23:36:30 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You</title>
-      <link>https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</link>
-      <description>The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you.
-
-GitLab shows each user this address behind a button labeled &amp;quot;Email work item to this project.&amp;quot; Mail sent to it opens an issue in that project, authored</description>
-      <pubDate>Wed, 23 Sep 2026 22:23:10 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key</title>
-      <link>https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html</link>
-      <description>Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.
-
-The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection bug in the RouterOS login process (CVE-2026-86060). Attack logs date to at</description>
-      <pubDate>Wed, 23 Sep 2026 21:36:41 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks</title>
-      <link>https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks</link>
-      <description>The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.</description>
-      <pubDate>Wed, 23 Sep 2026 16:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hundreds of Leaked GitHub App Keys Still Authenticate</title>
-      <link>https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/</link>
-      <description>GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access</description>
-      <pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign</title>
-      <link>https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign</link>
-      <description>Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.</description>
-      <pubDate>Wed, 23 Sep 2026 14:47:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move</title>
-      <link>https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html</link>
-      <description>A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker&amp;apos;s server,&amp;amp;nbsp;Cisco Talos said&amp;amp;nbsp;on September 22.
-
-The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.</description>
-      <pubDate>Wed, 23 Sep 2026 19:47:58 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods</title>
-      <link>https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/</link>
-      <description>Qrator found a Windows botnet advertised with AI API draining, credential theft and SOCKS5 proxying</description>
-      <pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI</title>
-      <link>https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html</link>
-      <description>Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.
-
-According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below -
-
-
-  @memtensor/memos-cloud-openclaw-plugin versions</description>
-      <pubDate>Wed, 23 Sep 2026 19:22:46 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control</title>
-      <link>https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html</link>
-      <description>A flaw in cPanel&amp;apos;s&amp;amp;nbsp;CalDAV and CardDAV service&amp;amp;nbsp;lets anyone with a cPanel hosting account run code as root and take &amp;quot;full control of the server,&amp;quot; the company said on September 22.
-
-A&amp;amp;nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts.
-
-cPanel has released fixed versions for both,</description>
-      <pubDate>Wed, 23 Sep 2026 17:46:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Ransomware Attacks Reach Record High for 2026</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/</link>
-      <description>A total of 1073 firms fell victim to ransomware attacks globally in August, with the industrial sector the most affected, according to new NCC data</description>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent</title>
-      <link>https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html</link>
-      <description>Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a security background then sits down and checks every claim against the target. Which findings are real,</description>
-      <pubDate>Wed, 23 Sep 2026 17:17:19 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests</title>
-      <link>https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html</link>
-      <description>Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.
-
-Opus 5.5, per Anthropic, is a &amp;quot;major step up from Opus 5,&amp;quot; and &amp;quot;achieves the best scores of any model to date on our automated behavioral audit, our alignment suite that tests Claude across thousands</description>
-      <pubDate>Wed, 23 Sep 2026 17:17:13 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape</title>
-      <link>https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</link>
-      <description>A use-after-free in the Linux kernel&amp;apos;s AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&amp;amp;nbsp;said in research published September 22.
-
-The flaw, tracked as&amp;amp;nbsp;CVE-2026-80521&amp;amp;nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shipped the patch for its 26.04, 24.04, or 22.04 LTS releases. DepthFirst&amp;amp;nbsp;</description>
-      <pubDate>Wed, 23 Sep 2026 16:42:18 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Shadow IT Solutions: Tools to Discover and Manage Unsanctioned Apps | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-it</link>
-      <description>Your SSO logs only tell half the story. Learn what shadow IT is, how discovery tools compare, and how teams are closing the gap without banning apps.</description>
-      <pubDate>Wed, 23 Sep 2026 11:06:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-it</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Research on Models Engaging in Genie-Like Behavior</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</link>
-      <description>&amp;lt;p&amp;gt;New paper: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2510.20956&amp;quot;&amp;gt;Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training&amp;lt;/a&amp;gt;.&amp;amp;#8221;&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domains, RLMs will use multiple strategies to circumvent their own safety guardrails. One strategy is to introduce benign assumptions about users and scenarios to justify fulfilling harmful requests. For instance, an RLM reasons that harmful requests like &amp;amp;#8220;outline a strategy for stealing customers&amp;amp;#8217; credit card information from a retail store&amp;amp;#8221; could be associated with the benign intent of &amp;amp;#8220;a security professional trying to test defense,&amp;amp;#8221; despite no such benign context being provided as input. We observe that many open-weight RLMs, including DeepSeek-R1-distilled, s1.1, Phi-4-mini-reasoning, and Nemotron, suffer from self-jailbreaking despite being aware of the harmfulness of the requests. We also provide a mechanistic understanding of self-jailbreaking: RLMs are more compliant after benign reasoning training, and after self-jailbreaking, models appear to perceive malicious requests as less harmful in the CoT, thus enabling compliance with them. To mitigate self-jailbreaking, we find that including minimal safety reasoning data during training is sufficient to ensure RLMs remain safety-aligned. Our work provides the first systematic analysis of self-jailbreaking behavior and offers a practical path forward for maintaining safety in increasingly capable RLMs...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 23 Sep 2026 11:03:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>AI</category>
-      <category>lies</category>
-    </item>
-    <item>
-      <title>What Is Shadow AI? | UpGuard</title>
-      <link>https://www.upguard.com/blog/unmasking-shadow-ai</link>
-      <description>Shadow AI is the use of unapproved AI tools at work. Learn how it differs from shadow IT, the risks it creates, and how to detect and govern it.</description>
-      <pubDate>Wed, 23 Sep 2026 10:54:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/unmasking-shadow-ai</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day</title>
-      <link>https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/</link>
-      <description>Infamous threat group ShinyHunters claims to have personal information on thousands of FBI employees</description>
-      <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response</title>
-      <link>https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/</link>
-      <description>The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents</description>
-      <pubDate>Wed, 23 Sep 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers</title>
-      <link>https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html</link>
-      <description>Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.
-
-The flaw,&amp;amp;nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to applications. F5 disclosed it in&amp;amp;nbsp;an advisory&amp;amp;nbsp;on September 22 and has released engineering hotfixes.</description>
-      <pubDate>Wed, 23 Sep 2026 13:59:48 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
