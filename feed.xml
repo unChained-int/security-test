@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:54:19 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,238 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Apple Zero-Day Vulnerability Weaponized in Targeted Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks</link>
+      <description>Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.</description>
+      <pubDate>Tue, 29 Sep 2026 21:31:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution</title>
+      <link>https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution</link>
+      <description>A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.</description>
+      <pubDate>Tue, 29 Sep 2026 21:08:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</title>
+      <link>https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/</link>
+      <description>&amp;lt;p&amp;gt;Altman made a slew of product announcements and updates, including the company’s new agents, called Dots.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/&amp;quot;&amp;gt;OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 29 Sep 2026 20:14:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks</title>
+      <link>https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html</link>
+      <description>An attacker used stolen passwords of staff at France&amp;apos;s tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.
+
+Neither the tax administration nor France&amp;apos;s national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a&amp;amp;nbsp;report&amp;amp;nbsp;(in French) published on Tuesday: it worked because of weak</description>
+      <pubDate>Tue, 29 Sep 2026 23:17:01 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>DARPA Selects Xint to Use AI in Securing Military Messaging Apps</title>
+      <link>https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/</link>
+      <description>&amp;lt;p&amp;gt;The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/&amp;quot;&amp;gt;DARPA Selects Xint to Use AI in Securing Military Messaging Apps&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 29 Sep 2026 17:24:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Government</category>
+      <category>AI</category>
+      <category>darpa</category>
+    </item>
+    <item>
+      <title>New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses</title>
+      <link>https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html</link>
+      <description>A group of academics from VUSec and Scuola Superiore Sant&amp;apos;Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.
+
+The new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR).
+
+&amp;quot;The key insight is that, while modern CPUs</description>
+      <pubDate>Tue, 29 Sep 2026 22:50:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Russia&amp;apos;s Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor</title>
+      <link>https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html</link>
+      <description>Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&amp;amp;nbsp;according to Microsoft.
+
+The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached</description>
+      <pubDate>Tue, 29 Sep 2026 22:50:08 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cloudflare Announces Public Certificate Authority for the Post-Quantum Web</title>
+      <link>https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web</link>
+      <description>Automated certificates for everyone, built for today, and hardened for the era of quantum computing.</description>
+      <pubDate>Tue, 29 Sep 2026 17:02:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks</title>
+      <link>https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/</link>
+      <description>&amp;lt;p&amp;gt;Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/&amp;quot;&amp;gt;New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Endpoint Security</category>
+      <category>Vulnerabilities</category>
+      <category>Amd</category>
+      <category>Arm</category>
+      <category>CPU</category>
+      <category>CPU attack</category>
+      <category>CPU vulnerability</category>
+      <category>data leak</category>
+      <category>Intel</category>
+      <category>Spectre</category>
+    </item>
+    <item>
+      <title>&amp;apos;NeedyMantis&amp;apos; Provides Long-Term Access to Compromised Networks</title>
+      <link>https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks</link>
+      <description>Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.</description>
+      <pubDate>Tue, 29 Sep 2026 15:12:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>RemoteThreat Launches With $7 Million for Offensive Operations Platform</title>
+      <link>https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/</link>
+      <description>&amp;lt;p&amp;gt;The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/&amp;quot;&amp;gt;RemoteThreat Launches With $7 Million for Offensive Operations Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 29 Sep 2026 14:38:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>funding</category>
+      <category>Offensive Security</category>
+      <category>RemoteThreat</category>
+    </item>
+    <item>
+      <title>RatHat&amp;apos;s Evolving C2 Panel Points to Malware-as-a-Service Model</title>
+      <link>https://www.infosecurity-magazine.com/news/rathat-c2-panel-malware-as-a/</link>
+      <description>RatHat&amp;apos;s C2 panel now builds malware and ranks victims with AI across nearly 100 deployments</description>
+      <pubDate>Tue, 29 Sep 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rathat-c2-panel-malware-as-a/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix</link>
+      <description>The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers&amp;apos; networks.</description>
+      <pubDate>Tue, 29 Sep 2026 14:19:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown</title>
+      <link>https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html</link>
+      <description>Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.
+
+&amp;quot;During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,&amp;quot; the company</description>
+      <pubDate>Tue, 29 Sep 2026 19:43:20 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Amazon Bedrock AgentCore Flaws Could Expose AWS Credentials</title>
+      <link>https://www.infosecurity-magazine.com/news/aws-agentcore-sdk-flaws-ai/</link>
+      <description>AWS AgentCore SDK flaws could let attackers run commands in AI sandboxes and reach AWS credentials</description>
+      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/aws-agentcore-sdk-flaws-ai/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>101 Malicious npm Packages Add Developers&amp;apos; WhatsApp Accounts to Groups Without Consent</title>
+      <link>https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html</link>
+      <description>Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.
+
+&amp;quot;The malicious packages abuse the &amp;apos;Baileys&amp;apos; WhatsApp open source project to add the victims to groups without their consent,&amp;quot; OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical</description>
+      <pubDate>Tue, 29 Sep 2026 19:15:10 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Microsoft Warns NeedyMantis Malware Enables Persistent Network Access</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/</link>
+      <description>Microsoft Threat Intelligence warns that NeedyMantis threat actor from China has targeted organizations across a range of industries</description>
+      <pubDate>Tue, 29 Sep 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Reco Raises $55 Million for Agentic Security</title>
+      <link>https://www.securityweek.com/reco-raises-55-million-for-agentic-security/</link>
+      <description>&amp;lt;p&amp;gt;The company will use the funds to expand its sales, partnerships, channels, and customer support teams.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/reco-raises-55-million-for-agentic-security/&amp;quot;&amp;gt;Reco Raises $55 Million for Agentic Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 29 Sep 2026 13:20:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/reco-raises-55-million-for-agentic-security/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity Funding</category>
+      <category>agentic AI</category>
+      <category>AI</category>
+      <category>funding</category>
+      <category>Reco</category>
+    </item>
+    <item>
+      <title>Hackers Use ChatGPT Custom GPTs in ClickFix Attacks</title>
+      <link>https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/</link>
+      <description>&amp;lt;p&amp;gt;The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/&amp;quot;&amp;gt;Hackers Use ChatGPT Custom GPTs in ClickFix Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 29 Sep 2026 13:03:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Malware &amp;amp; Threats</category>
+      <category>ChatGPT</category>
+      <category>ClickFix</category>
+      <category>malware</category>
+    </item>
+    <item>
+      <title>Pentagon Personnel Agency Data Breach Impacts 3 Million People</title>
+      <link>https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/</link>
+      <description>&amp;lt;p&amp;gt;The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/&amp;quot;&amp;gt;Pentagon Personnel Agency Data Breach Impacts 3 Million People&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 29 Sep 2026 12:25:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Government</category>
+      <category>data breach</category>
+      <category>DMDC</category>
+      <category>Featured</category>
+      <category>Pentagon</category>
     </item>
     <item>
       <title>Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</title>
@@ -29,6 +261,70 @@
       <category>Cybersecurity Funding</category>
       <category>AI</category>
       <category>funding</category>
+    </item>
+    <item>
+      <title>Ongoing TPRM Success: Continuous Security Monitoring with AI | UpGuard</title>
+      <link>https://www.upguard.com/blog/continuous-security-monitoring-with-ai</link>
+      <description>Is manual work weighing down your security team and limiting your ability to scale? Learn how UpGuard and its AI features can help.</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/continuous-security-monitoring-with-ai</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Evidence Analysis: Unlocking Insights for Stronger Security Posture | UpGuard</title>
+      <link>https://www.upguard.com/blog/evidence-analysis-solved</link>
+      <description>Is sorting through mountains of vendor information weighing your team down? Learn how UpGuard&amp;apos;s AI can help you solve this and other inefficiencies.</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/evidence-analysis-solved</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is an Impersonation Attack? | UpGuard</title>
+      <link>https://www.upguard.com/blog/impersonation-attack</link>
+      <description>Find out what an impersonation attack is and how businesses can detect and prevent it.</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/impersonation-attack</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The 12 Best Third-Party Risk Management Software Solutions (2026) | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</link>
+      <description>Compare the 12 best TPRM tools of 2026, including UpGuard, SecurityScorecard, Bitsight, OneTrust and Panorays.</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The Future of Cybersecurity: ChatGPT For Risk Management?  | UpGuard</title>
+      <link>https://www.upguard.com/blog/chatgpt-and-tprm</link>
+      <description>Discover how ChatGPT is being utilized for third-party risk management, and learn how the chatbot stacks up against a proven TPRM solution</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/chatgpt-and-tprm</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Digital Brand Protection in the Age of Impersonation | UpGuard</title>
+      <link>https://www.upguard.com/blog/digital-brand-protection</link>
+      <description>Fight brand impersonation and online fraud. Learn key strategies to protect your digital presence &amp;amp; reputation in today&amp;apos;s cyber threat landscape.</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/digital-brand-protection</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>We Researched Four AI Evidence Analysis Tools for TPRM. Here’s What We Found. | UpGuard</title>
+      <link>https://www.upguard.com/blog/ai-evidence-analysis-tools-for-tprm</link>
+      <description>We researched four AI evidence-parsing tools against four criteria that security teams often overlook. None nailed all four.</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/ai-evidence-analysis-tools-for-tprm</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Introducing App Store Threat Detection: Visibility Where Brand Monitoring Couldn&amp;apos;t Reach | UpGuard</title>
+      <link>https://www.upguard.com/blog/introducing-app-store-threat-detection-visibility-where-brand-monitoring-couldnt-reach</link>
+      <description>Breach Risk now includes App Store Threat Detection!</description>
+      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/introducing-app-store-threat-detection-visibility-where-brand-monitoring-couldnt-reach</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Four Cyber Threats Harboring Big Plans for the Future</title>
@@ -80,36 +376,6 @@
       <category>WhatsApp</category>
     </item>
     <item>
-      <title>Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</title>
-      <link>https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/</link>
-      <description>&amp;lt;p&amp;gt;Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/&amp;quot;&amp;gt;Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 11:01:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>arrested</category>
-      <category>hacker</category>
-      <category>ShinyHunters</category>
-    </item>
-    <item>
-      <title>Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft</title>
-      <link>https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/</link>
-      <description>&amp;lt;p&amp;gt;The malware framework uses a modular architecture and a custom executable file format for long-term persistence.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/&amp;quot;&amp;gt;Daemon Tools Hackers&amp;amp;#8217; NeedyMantis Malware Dissected by Microsoft&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 09:46:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Supply Chain Security</category>
-      <category>China</category>
-      <category>Daemon Tools</category>
-      <category>malware</category>
-      <category>NeedyMantis</category>
-    </item>
-    <item>
       <title>Japanese Railway Operators Hit with Weekend Cyber Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/</link>
       <description>Tokyo Metro and Keio have revealed separate cyber-attacks</description>
@@ -155,25 +421,6 @@ Police said the individual is expected to appear before the</description>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’</title>
-      <link>https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/</link>
-      <description>&amp;lt;p&amp;gt;Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/&amp;quot;&amp;gt;Apple Patches Zero-Day Linked to &amp;amp;#8216;Extremely Sophisticated Attack&amp;amp;#8217; &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 06:18:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Mobile &amp;amp; Wireless</category>
-      <category>Vulnerabilities</category>
-      <category>Apple</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>iOS</category>
-      <category>macOS</category>
-      <category>Meta</category>
-      <category>Zero-Day</category>
-    </item>
-    <item>
       <title>Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials</title>
       <link>https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html</link>
       <description>A malicious MCP server could trick an application built on the official&amp;amp;nbsp;MCP Python SDK&amp;amp;nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK&amp;apos;s maintainers said in a security advisory.
@@ -205,6 +452,15 @@ The development was first reported by The Wall Street Journal. The move &amp;quo
       <guid isPermaLink="true">https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities</title>
+      <link>https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities</link>
+      <description>The Open Agent Safety Platform relies on both hardware and software components to monitor agent activities and quarantine unruly agents before they cause harm.</description>
+      <pubDate>Mon, 28 Sep 2026 22:02:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities</guid>
+      <dc:creator>Agam Shah</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>One Packet Can Crash OT Servers in Industrial Sectors</title>
@@ -334,20 +590,6 @@ The console stores what the malware collects from each phone,</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Modulate Raises $25 Million to Advance Deepfake Detection</title>
-      <link>https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/</link>
-      <description>&amp;lt;p&amp;gt;The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/&amp;quot;&amp;gt;Modulate Raises $25 Million to Advance Deepfake Detection&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 28 Sep 2026 17:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity Funding</category>
-      <category>AI</category>
-      <category>funding</category>
-    </item>
-    <item>
       <title>Attack Surface Management Vendors Compared | UpGuard</title>
       <link>https://www.upguard.com/blog/attack-surface-management-vendors-compared</link>
       <description>We compared ASM vendors and helped you rate them before agreeing to a POC!</description>
@@ -380,19 +622,6 @@ The console stores what the malware collects from each phone,</description>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Call for Presentations Open for 2026 CISO Forum Virtual Summit</title>
-      <link>https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/</link>
-      <description>&amp;lt;p&amp;gt;SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/&amp;quot;&amp;gt;Call for Presentations Open for 2026 CISO Forum Virtual Summit&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 28 Sep 2026 15:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/</guid>
-      <dc:creator>Mike Lennon</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>CISO Strategy</category>
-      <category>CISO</category>
-      <category>Event</category>
     </item>
     <item>
       <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
@@ -492,20 +721,6 @@ Elsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and 
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Prison Sentence for Former US Soldier Who Hacked AT&amp;amp;T and Verizon</title>
-      <link>https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/</link>
-      <description>&amp;lt;p&amp;gt;Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/&amp;quot;&amp;gt;Prison Sentence for Former US Soldier Who Hacked AT&amp;amp;#038;T and Verizon&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 28 Sep 2026 12:36:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Cameron John Wagenius</category>
-      <category>hacker</category>
-      <category>sentenced</category>
-    </item>
-    <item>
       <title>Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI</title>
       <link>https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html</link>
       <description>AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users.
@@ -548,20 +763,6 @@ According to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are co
       <guid isPermaLink="true">https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>DC Health Agency Exposes 400,000 Beneficiary Records</title>
-      <link>https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/</link>
-      <description>&amp;lt;p&amp;gt;The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/&amp;quot;&amp;gt;DC Health Agency Exposes 400,000 Beneficiary Records&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 28 Sep 2026 11:29:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>DHCF</category>
-      <category>healthcare</category>
     </item>
     <item>
       <title>Introducing the UpGuard Risk Operations Center | UpGuard</title>
@@ -1022,221 +1223,6 @@ The issue stems from a preg_replace() backslash</description>
       <description>The newly-discovered trojan abuses the Android Accessibility Service to gain control over victim devices and collect sensitive banking credentials</description>
       <pubDate>Fri, 25 Sep 2026 09:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Is that vibe coded app safe? 5 checks before you download</title>
-      <link>https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/</link>
-      <description>As AI lets anyone build software, here’s how to vet that shiny new app before it exposes your data</description>
-      <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Mobile Security</category>
-    </item>
-    <item>
-      <title>Researchers Identify AliExpress Phishing Domains Before Registration</title>
-      <link>https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/</link>
-      <description>EfficientIP says it flagged AliExpress phishing domains before they were registered</description>
-      <pubDate>Fri, 25 Sep 2026 08:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Russia&amp;apos;s Hybrid Cyber-Physical War in Europe Heats Up</title>
-      <link>https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe</link>
-      <description>A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.</description>
-      <pubDate>Fri, 25 Sep 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Cloudflare Fixes Flaw That Let One Container Read Another Customer&amp;apos;s Leftover Disk Data</title>
-      <link>https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html</link>
-      <description>A flaw in Cloudflare Containers let a paying customer read data that other customers&amp;apos; containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.
-
-The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got,&amp;amp;nbsp;according to Cloudflare. The company</description>
-      <pubDate>Fri, 25 Sep 2026 10:19:22 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV</title>
-      <link>https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-
-The vulnerabilities are listed below -
-
-
-  CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in&amp;amp;nbsp; WSO2 API Control Plane,</description>
-      <pubDate>Fri, 25 Sep 2026 10:16:34 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>&amp;apos;Salesbleed&amp;apos; Exploits Salesforce Agents to Enable Slack Phishing</title>
-      <link>https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</link>
-      <description>Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.</description>
-      <pubDate>Thu, 24 Sep 2026 21:04:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>SectopRAT Returns, Hiding Inside a Legitimate Application</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</link>
-      <description>The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.</description>
-      <pubDate>Thu, 24 Sep 2026 20:32:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions</title>
-      <link>https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html</link>
-      <description>A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&amp;amp;nbsp;chained two flaws in OnePlus&amp;apos;s own software&amp;amp;nbsp;to gain root access, the highest level of control over an Android phone.
-
-OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not</description>
-      <pubDate>Thu, 24 Sep 2026 23:40:18 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories</title>
-      <link>https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html</link>
-      <description>This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.
-
-That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just</description>
-      <pubDate>Thu, 24 Sep 2026 23:22:43 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content</title>
-      <link>https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html</link>
-      <description>The &amp;quot;third-party[.]com&amp;quot; domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.
-
-&amp;quot;third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,&amp;quot; Manifold Security&amp;apos;s Head of Research, Ax Sharma, said. &amp;quot;Unlike &amp;apos;example[.]com,&amp;apos; third-party[.]com</description>
-      <pubDate>Thu, 24 Sep 2026 20:57:32 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/</link>
-      <description>Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims</description>
-      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>3 Cyber Threats That Defined the Summer of 2026</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026</link>
-      <description>This installment of the Reporters&amp;apos; Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife&amp;apos;s ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer.</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026</guid>
-      <dc:creator>Arielle Waldman</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer</title>
-      <link>https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html</link>
-      <description>An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.
-
-&amp;quot;When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instructs the visitor to paste it into the</description>
-      <pubDate>Thu, 24 Sep 2026 19:59:06 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How to Build a SASE Framework for Modern Cybersecurity</title>
-      <link>https://www.darkreading.com/cloud-security/how-to-build-sase-framework</link>
-      <description>Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)</description>
-      <pubDate>Thu, 24 Sep 2026 14:02:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/how-to-build-sase-framework</guid>
-      <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Ghost Service Accounts Enable M365 Data Theft in Chile</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile</link>
-      <description>Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization&amp;apos;s entire M365 environment.</description>
-      <pubDate>Thu, 24 Sep 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Prompt-Injection Bug Hits $4B Agentic AI App &amp;apos;Manus&amp;apos;</title>
-      <link>https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus</link>
-      <description>AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.</description>
-      <pubDate>Thu, 24 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>CISA Charts New &amp;quot;Quality Era&amp;quot; for Global CVE Program</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-quality-era-global-cve-program/</link>
-      <description>CISA has set out a new framework to improve CVE data quality as vulnerability volumes rise</description>
-      <pubDate>Thu, 24 Sep 2026 12:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-quality-era-global-cve-program/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls</title>
-      <link>https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html</link>
-      <description>The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.
-
-According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that&amp;apos;s dressed up as a system service. The delivered app has the package name &amp;quot;com.corp.mdm&amp;quot;
-
-Corp MDM</description>
-      <pubDate>Thu, 24 Sep 2026 17:35:27 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Malicious npm Packages That Evade Defenses</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html</link>
-      <description>&amp;lt;p&amp;gt;This is an impressive piece of &amp;lt;a href=&amp;quot;https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/&amp;quot;&amp;gt;malware&amp;lt;/a&amp;gt;. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 24 Sep 2026 11:07:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>defense</category>
-      <category>malware</category>
-    </item>
-    <item>
-      <title>Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore</title>
-      <link>https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html</link>
-      <description>AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI</description>
-      <pubDate>Thu, 24 Sep 2026 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UK Government Shifts to Service-Led Cyber Governance After Stinging Audit</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/</link>
-      <description>Whitehall is shifting from mandatory cyber controls to service-led governance following a critical audit exposing failures of its 2022 cyber strategy</description>
-      <pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>OpenAI Agent Hacks Australian Medicare Portal</title>
-      <link>https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/</link>
-      <description>Australian PM Anthony Albanese criticized OpenAI’s response to the incident, which occurred in June 2026</description>
-      <pubDate>Thu, 24 Sep 2026 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
