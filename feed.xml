@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 11:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:51:01 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,135 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager</title>
+      <link>https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html</link>
+      <description>Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&amp;amp;nbsp;advisory&amp;amp;nbsp;on September 30.
+
+The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager&amp;apos;s API as the admin user. Fixed releases are available, and there is no workaround. It carries a</description>
+      <pubDate>Wed, 30 Sep 2026 20:54:54 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Russia&amp;apos;s Star Blizzard Ditches ClickFix to Widen Phishing Net</title>
+      <link>https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net</link>
+      <description>The APT actor is using a new tactic, dubbed &amp;amp;quot;RedFlick,&amp;amp;quot; against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.</description>
+      <pubDate>Wed, 30 Sep 2026 15:02:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures</title>
+      <link>https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html</link>
+      <description>Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.
+
+Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared</description>
+      <pubDate>Wed, 30 Sep 2026 20:30:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google: AI Is Changing the Pace and Profile of Vulnerability Discovery</title>
+      <link>https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/</link>
+      <description>&amp;lt;p&amp;gt;Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/&amp;quot;&amp;gt;Google: AI Is Changing the Pace and Profile of Vulnerability Discovery&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 14:05:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>analysis</category>
+      <category>google</category>
+      <category>Report</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>AI-Found Vulnerabilities More Likely to Enable RCE, Google Says</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-found-vulnerabilities-rce/</link>
+      <description>AI-discovered vulnerabilities are more likely to enable RCE, as disclosures and exploitation rise</description>
+      <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-found-vulnerabilities-rce/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>WatchGuard Patches Critical Fireware OS Code Injection Vulnerability</title>
+      <link>https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/</link>
+      <description>&amp;lt;p&amp;gt;WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/&amp;quot;&amp;gt;WatchGuard Patches Critical Fireware OS Code Injection Vulnerability&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 13:16:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>vulnerability</category>
+      <category>WatchGuard</category>
+    </item>
+    <item>
+      <title>Trump, Six AI Giants Sign &amp;apos;Super Intelligence&amp;apos; Safety Accord</title>
+      <link>https://www.infosecurity-magazine.com/news/trump-ai-giants-super-intelligence/</link>
+      <description>Trump and six AI firms sign a voluntary accord on internal controls, audits and board oversight</description>
+      <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/trump-ai-giants-super-intelligence/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks</title>
+      <link>https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/</link>
+      <description>&amp;lt;p&amp;gt;Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/&amp;quot;&amp;gt;Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 12:48:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Citrix</category>
+      <category>exploited</category>
+      <category>NetScaler</category>
+      <category>vulnerability</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Chrome, Firefox Updates Patch Over 100 Vulnerabilities</title>
+      <link>https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/&amp;quot;&amp;gt;Chrome, Firefox Updates Patch Over 100 Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 12:16:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Chrome</category>
+      <category>Firefox</category>
+      <category>patches</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>AI Boosts SOC Analyst Capacity but Limits Skill Development</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/</link>
+      <description>Swimlane finds that AI is reducing repetitive work for SOC teams but some feel their careers may suffer</description>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Know Your Enemy: Browser-Based Attack Techniques in 2026</title>
+      <link>https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html</link>
+      <description>Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser.
+
+Here are the six most dangerous techniques that should be on every security team&amp;apos;s radar in 2026.
+
+1.</description>
+      <pubDate>Wed, 30 Sep 2026 17:28:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub</title>
@@ -244,20 +373,6 @@ Neither the tax administration nor France&amp;apos;s national cybersecurity agen
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>DARPA Selects Xint to Use AI in Securing Military Messaging Apps</title>
-      <link>https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/</link>
-      <description>&amp;lt;p&amp;gt;The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/&amp;quot;&amp;gt;DARPA Selects Xint to Use AI in Securing Military Messaging Apps&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:24:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Government</category>
-      <category>AI</category>
-      <category>darpa</category>
-    </item>
-    <item>
       <title>New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses</title>
       <link>https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html</link>
       <description>A group of academics from VUSec and Scuola Superiore Sant&amp;apos;Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.
@@ -290,26 +405,6 @@ The campaigns, aimed at people and organizations tied to Ukraine, have affected 
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks</title>
-      <link>https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/</link>
-      <description>&amp;lt;p&amp;gt;Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/&amp;quot;&amp;gt;New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Endpoint Security</category>
-      <category>Vulnerabilities</category>
-      <category>Amd</category>
-      <category>Arm</category>
-      <category>CPU</category>
-      <category>CPU attack</category>
-      <category>CPU vulnerability</category>
-      <category>data leak</category>
-      <category>Intel</category>
-      <category>Spectre</category>
-    </item>
-    <item>
       <title>&amp;apos;NeedyMantis&amp;apos; Provides Long-Term Access to Compromised Networks</title>
       <link>https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks</link>
       <description>Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.</description>
@@ -317,20 +412,6 @@ The campaigns, aimed at people and organizations tied to Ukraine, have affected 
       <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks</guid>
       <dc:creator>Elizabeth Montalbano</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>RemoteThreat Launches With $7 Million for Offensive Operations Platform</title>
-      <link>https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/</link>
-      <description>&amp;lt;p&amp;gt;The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/&amp;quot;&amp;gt;RemoteThreat Launches With $7 Million for Offensive Operations Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 14:38:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybersecurity Funding</category>
-      <category>funding</category>
-      <category>Offensive Security</category>
-      <category>RemoteThreat</category>
     </item>
     <item>
       <title>RatHat&amp;apos;s Evolving C2 Panel Points to Malware-as-a-Service Model</title>
@@ -386,22 +467,6 @@ The campaigns, aimed at people and organizations tied to Ukraine, have affected 
       <pubDate>Tue, 29 Sep 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Reco Raises $55 Million for Agentic Security</title>
-      <link>https://www.securityweek.com/reco-raises-55-million-for-agentic-security/</link>
-      <description>&amp;lt;p&amp;gt;The company will use the funds to expand its sales, partnerships, channels, and customer support teams.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/reco-raises-55-million-for-agentic-security/&amp;quot;&amp;gt;Reco Raises $55 Million for Agentic Security&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 13:20:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/reco-raises-55-million-for-agentic-security/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity Funding</category>
-      <category>agentic AI</category>
-      <category>AI</category>
-      <category>funding</category>
-      <category>Reco</category>
     </item>
     <item>
       <title>Ongoing TPRM Success: Continuous Security Monitoring with AI | UpGuard</title>
@@ -503,6 +568,15 @@ The campaigns, aimed at people and organizations tied to Ukraine, have affected 
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
+      <title>Timeshare exit scams: From fake buyers to recovery fraud</title>
+      <link>https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams/</link>
+      <description>Con artists are targeting timeshare owners who want out – and some victims are hit twice</description>
+      <pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Scams</category>
+    </item>
+    <item>
       <title>Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation</title>
       <link>https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html</link>
       <description>Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.
@@ -559,7 +633,7 @@ The development was first reported by The Wall Street Journal. The move &amp;quo
     <item>
       <title>Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities</title>
       <link>https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities</link>
-      <description>The Open Agent Safety Platform relies on both hardware and software components to monitor agent activities and quarantine unruly agents before they cause harm.</description>
+      <description>The Open Agent Safety Platform relies on hardware and software components to monitor agent activities and quarantine unruly agents before they can cause harm.</description>
       <pubDate>Mon, 28 Sep 2026 22:02:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities</guid>
       <dc:creator>Agam Shah</dc:creator>
@@ -568,7 +642,7 @@ The development was first reported by The Wall Street Journal. The move &amp;quo
     <item>
       <title>One Packet Can Crash OT Servers in Industrial Sectors</title>
       <link>https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine</link>
-      <description>A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.</description>
+      <description>A high-severity vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments, and orgs should patch right away.</description>
       <pubDate>Mon, 28 Sep 2026 21:13:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine</guid>
       <dc:creator>Jai Vijayan</dc:creator>
@@ -915,7 +989,7 @@ Microsoft, which is tracking the activity under the name Storm-3168, has called 
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>The devil is still in the email – but wearing a new mask</title>
+      <title>The devil is still in the email – but wears a new mask</title>
       <link>https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/</link>
       <description>When phishing can increasingly pass familiar checks, avoiding or limiting the damage depends on how quickly your company can detect and contain the attack</description>
       <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
@@ -1063,136 +1137,6 @@ The vulnerabilities in question are as follows -
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>squid</category>
-    </item>
-    <item>
-      <title>Why the CISO-CFO Relationship Is a Key to Cybersecurity Success</title>
-      <link>https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success</link>
-      <description>Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today&amp;apos;s threat landscape.</description>
-      <pubDate>Fri, 25 Sep 2026 20:28:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success</guid>
-      <dc:creator>George V. Hulme, Contributing Writer</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness</link>
-      <description>When autonomous AI agents &amp;amp;quot;escape the sandbox,&amp;amp;quot; the real story isn&amp;apos;t rogue machines — it&amp;apos;s the same access-control failures we&amp;apos;ve seen for decades.</description>
-      <pubDate>Fri, 25 Sep 2026 18:39:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness</guid>
-      <dc:creator>Jerry Bui</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>What We Missed: Google Gemini Joins the AI Escape Party</title>
-      <link>https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party</link>
-      <description>In this video conversation, Dark Reading editors discuss some of the news they didn&amp;apos;t get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.</description>
-      <pubDate>Fri, 25 Sep 2026 17:56:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party</guid>
-      <dc:creator>Rob Wright, Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Attackers Target Unpatched Roundcube Servers With CVE-2026-48842</title>
-      <link>https://www.techrepublic.com/article/attackers-target-unpatched-roundcube-servers-with-cve-2026-48842/</link>
-      <description>&amp;lt;p&amp;gt;Attackers are exploiting CVE-2026-48842 against unpatched Roundcube servers months after a fix was released, raising urgency for organizations to update.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/attackers-target-unpatched-roundcube-servers-with-cve-2026-48842/&amp;quot;&amp;gt;Attackers Target Unpatched Roundcube Servers With CVE-2026-48842&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 25 Sep 2026 17:54:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/attackers-target-unpatched-roundcube-servers-with-cve-2026-48842/</guid>
-      <dc:creator>Joseph Ofonagoro</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>News</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>active exploitation</category>
-      <category>cve-2026-48842</category>
-      <category>cybersecurity</category>
-      <category>patch management</category>
-      <category>roundcube</category>
-      <category>sql injection</category>
-      <category>vulnerability</category>
-      <category>webmail</category>
-    </item>
-    <item>
-      <title>Everything Everywhere: Systemic Data Exposure in Supabase Apps | UpGuard</title>
-      <link>https://www.upguard.com/blog/everything-everywhere-systemic-data-exposure-in-supabase-apps</link>
-      <description>Supabase is a favorite of AI coding agents. It&amp;apos;s also prone to misconfiguration. We studied more than 16,000 open databases to see what&amp;apos;s leaking.</description>
-      <pubDate>Fri, 25 Sep 2026 16:13:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/everything-everywhere-systemic-data-exposure-in-supabase-apps</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Stopping IT Worker Scams Requires Revamped HR Process</title>
-      <link>https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process</link>
-      <description>Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.</description>
-      <pubDate>Fri, 25 Sep 2026 14:46:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware</title>
-      <link>https://thehackernews.com/2026/09/compromised-github-actions-came-back.html</link>
-      <description>Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign.
-
-The affected GitHub Actions are listed below -
-
-
-  actions-cool/issues-helper
-  actions-cool/maintain-one-comment
-
-Visiting either of the repositories now shows the message: &amp;quot;Access to this</description>
-      <pubDate>Fri, 25 Sep 2026 20:14:41 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/compromised-github-actions-came-back.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI’s Compute Race Reaches Orbit as Security Risks Multiply in This Week in Tech</title>
-      <link>https://www.techrepublic.com/article/ais-compute-race-reaches-orbit-as-security-risks-multiply-in-this-week-in-tech/</link>
-      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from Sept. 21–25.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ais-compute-race-reaches-orbit-as-security-risks-multiply-in-this-week-in-tech/&amp;quot;&amp;gt;AI&amp;amp;#8217;s Compute Race Reaches Orbit as Security Risks Multiply in This Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 25 Sep 2026 14:03:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/ais-compute-race-reaches-orbit-as-security-risks-multiply-in-this-week-in-tech/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI</category>
-      <category>ai infrastructure</category>
-      <category>Amazon</category>
-      <category>Android</category>
-      <category>Anthropic</category>
-      <category>Apple</category>
-      <category>ChatGPT</category>
-      <category>Claude</category>
-      <category>Cloud Infrastructure</category>
-      <category>Cybersecurity</category>
-      <category>Data Centers</category>
-      <category>Dell</category>
-      <category>Enterprise Technology</category>
-      <category>Google</category>
-      <category>Hardware</category>
-      <category>iOS</category>
-      <category>Meta</category>
-      <category>Microsoft</category>
-      <category>Mobile</category>
-      <category>NVIDIA</category>
-      <category>OpenAI</category>
-      <category>Robotics</category>
-      <category>Tech Industry</category>
-      <category>Weekly Roundup</category>
-      <category>Windows</category>
-      <category>ai agent security</category>
-      <category>apple m5 ultra</category>
-      <category>claude opus 5.5</category>
-      <category>Daily Tech Insider</category>
-      <category>data center constraints</category>
-      <category>gpt-6 sol and luna</category>
-      <category>humanoid robotics</category>
-      <category>meta muse</category>
-      <category>Newsletter Roundup</category>
-      <category>openai cash burn</category>
-      <category>orbital AI compute</category>
-      <category>Project Suncatcher</category>
     </item>
   </channel>
 </rss>
