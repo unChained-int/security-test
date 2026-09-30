@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:57:59 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -15,6 +15,178 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub</title>
+      <link>https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html</link>
+      <description>AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.
+
+Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released. In most cases, they sat under developers&amp;apos; personal accounts</description>
+      <pubDate>Wed, 30 Sep 2026 17:00:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Attackers Combine ChatGPT Feature Abuse With ClickFix to Deliver Trojan Malware</title>
+      <link>https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/</link>
+      <description>Cybersecurity researchers at Huntress identify campaign to deliver potent trojan which targets users searching for ChatGPT via Google</description>
+      <pubDate>Wed, 30 Sep 2026 11:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit</title>
+      <link>https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/</link>
+      <description>&amp;lt;p&amp;gt;Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/&amp;quot;&amp;gt;Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 11:19:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Featured</category>
+      <category>law</category>
+      <category>legislation</category>
+    </item>
+    <item>
+      <title>I Want Better Reporting on AI Genie Behavior</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html</link>
+      <description>&amp;lt;p&amp;gt;AI systems are regularly completing tasks in ways that their prompters don&amp;amp;#8217;t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I&amp;amp;#8217;ve been calling &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://www.lawfaremedia.org/article/ais-as-modern-genies&amp;quot;&amp;gt;genie&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions&amp;quot;&amp;gt;behavior&amp;lt;/a&amp;gt;,&amp;amp;#8221; because I think that really gets at the core of what&amp;amp;#8217;s happening.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;I wish the popular press would report on this better. I don&amp;amp;#8217;t like the &amp;amp;#8220;going rogue&amp;amp;#8221; framing because it deflects the responsibility from the prompters&amp;amp;#8212;often the AI companies themselves. And now, pretty much anything off-script is being called &amp;amp;#8220;hacking.&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Take, for example, the recent stories of one of OpenAI&amp;amp;#8217;s models hacking into government systems. First, ...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 11:05:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cyberattack</category>
+    </item>
+    <item>
+      <title>Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks</title>
+      <link>https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/</link>
+      <description>&amp;lt;p&amp;gt;The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/&amp;quot;&amp;gt;Russian APT Star Blizzard Uses &amp;amp;#8216;RedFlick&amp;amp;#8217; Infection Chain in Recent Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 10:59:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>APT</category>
+      <category>RedFlick</category>
+      <category>Russia</category>
+      <category>Star Blizzard</category>
+    </item>
+    <item>
+      <title>US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access</title>
+      <link>https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html</link>
+      <description>ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure.
+
+By combining Microsoft 365 session theft with remote-access tool deployment, CSuite can turn a phishing incident into broader account compromise, fraud</description>
+      <pubDate>Wed, 30 Sep 2026 16:15:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ShinyHunters Defiant After FBI Calls on Members to Come Forward</title>
+      <link>https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/</link>
+      <description>&amp;lt;p&amp;gt;In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/&amp;quot;&amp;gt;ShinyHunters Defiant After FBI Calls on Members to Come Forward&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 10:20:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Government</category>
+      <category>cybercrime</category>
+      <category>data leak</category>
+      <category>FBI</category>
+      <category>Featured</category>
+      <category>ShinyHunters</category>
+    </item>
+    <item>
+      <title>Apple Patches CoreGraphics Zero Day Exploited in Attacks</title>
+      <link>https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/</link>
+      <description>Apple has patched CVE-2026-86950, a zero-day bug in the iOS CoreGraphics engine</description>
+      <pubDate>Wed, 30 Sep 2026 08:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html</link>
+      <description>Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.
+
+The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional</description>
+      <pubDate>Wed, 30 Sep 2026 13:54:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted</title>
+      <link>https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html</link>
+      <description>A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&amp;amp;nbsp;OpenSSL said&amp;amp;nbsp;on September 29 as it released fixes.
+
+DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way</description>
+      <pubDate>Wed, 30 Sep 2026 13:39:28 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>How Vendor Risk Teams Track Remediation and Prove Closure | UpGuard</title>
+      <link>https://www.upguard.com/blog/vendor-remediation-solved</link>
+      <description>Vendor risk teams prove closure with one system of record: owner, due date, vendor commitment, evidence, and an audit trail that examiners can sample.</description>
+      <pubDate>Wed, 30 Sep 2026 07:54:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-remediation-solved</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>11 Vendor Security Questionnaires for IT Vendor Assessment (2026) | UpGuard</title>
+      <link>https://www.upguard.com/blog/top-vendor-assessment-questionnaires</link>
+      <description>Compare SIG, CAIQ, VSA, NIST, and HIPAA vendor security questionnaires: when to use each, and a side-by-side table.</description>
+      <pubDate>Wed, 30 Sep 2026 07:46:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/top-vendor-assessment-questionnaires</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>South Africa Seeks Help After Cyberattack Targets Air Traffic Control</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control</link>
+      <description>As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.</description>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL</title>
+      <link>https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/</link>
+      <description>&amp;lt;p&amp;gt;Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/&amp;quot;&amp;gt;High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 30 Sep 2026 06:55:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>OpenSSL</category>
+      <category>patches</category>
+      <category>vulnerability</category>
+      <category>WolfSSL</category>
+    </item>
+    <item>
+      <title>Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution</title>
+      <link>https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html</link>
+      <description>Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that&amp;apos;s rooted in the NetScaler</description>
+      <pubDate>Wed, 30 Sep 2026 11:00:30 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development</title>
@@ -90,7 +262,7 @@ Neither the tax administration nor France&amp;apos;s national cybersecurity agen
       <link>https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html</link>
       <description>A group of academics from VUSec and Scuola Superiore Sant&amp;apos;Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.
 
-The new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR).
+The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR).
 
 &amp;quot;The key insight is that, while modern CPUs</description>
       <pubDate>Tue, 29 Sep 2026 22:50:17 +0530</pubDate>
@@ -232,51 +404,6 @@ The campaigns, aimed at people and organizations tied to Ukraine, have affected 
       <category>Reco</category>
     </item>
     <item>
-      <title>Hackers Use ChatGPT Custom GPTs in ClickFix Attacks</title>
-      <link>https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/</link>
-      <description>&amp;lt;p&amp;gt;The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/&amp;quot;&amp;gt;Hackers Use ChatGPT Custom GPTs in ClickFix Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 13:03:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Malware &amp;amp; Threats</category>
-      <category>ChatGPT</category>
-      <category>ClickFix</category>
-      <category>malware</category>
-    </item>
-    <item>
-      <title>Pentagon Personnel Agency Data Breach Impacts 3 Million People</title>
-      <link>https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/</link>
-      <description>&amp;lt;p&amp;gt;The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/&amp;quot;&amp;gt;Pentagon Personnel Agency Data Breach Impacts 3 Million People&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 12:25:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Government</category>
-      <category>data breach</category>
-      <category>DMDC</category>
-      <category>Featured</category>
-      <category>Pentagon</category>
-    </item>
-    <item>
-      <title>Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</title>
-      <link>https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/</link>
-      <description>&amp;lt;p&amp;gt;Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/&amp;quot;&amp;gt;Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity Funding</category>
-      <category>AI</category>
-      <category>funding</category>
-    </item>
-    <item>
       <title>Ongoing TPRM Success: Continuous Security Monitoring with AI | UpGuard</title>
       <link>https://www.upguard.com/blog/continuous-security-monitoring-with-ai</link>
       <description>Is manual work weighing down your security team and limiting your ability to scale? Learn how UpGuard and its AI features can help.</description>
@@ -341,21 +468,6 @@ The campaigns, aimed at people and organizations tied to Ukraine, have affected 
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Four Cyber Threats Harboring Big Plans for the Future</title>
-      <link>https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/</link>
-      <description>&amp;lt;p&amp;gt;- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/&amp;quot;&amp;gt;Four Cyber Threats Harboring Big Plans for the Future&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 11:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/</guid>
-      <dc:creator>Steve Durbin</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Risk Management</category>
-      <category>AI</category>
-      <category>Quantum</category>
-      <category>Resilience</category>
-      <category>Risk</category>
-    </item>
-    <item>
       <title>Using Device Linking to Eavesdrop on WhatsApp and Signal</title>
       <link>https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</link>
       <description>&amp;lt;p&amp;gt;Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are &amp;lt;a href=&amp;quot;https://cybernews.com/privacy/police-telegram-whatsapp-signal-surveillance-linked-devices/&amp;quot;&amp;gt;taking advantage&amp;lt;/a&amp;gt; of this capability:&amp;lt;/p&amp;gt;
@@ -402,14 +514,6 @@ Police said the individual is expected to appear before the</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How Vendor Risk Teams Track Remediation and Prove Closure | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-remediation-solved</link>
-      <description>Vendor risk teams prove closure with one system of record: owner, due date, vendor commitment, evidence, and an audit trail that examiners can sample.</description>
-      <pubDate>Tue, 29 Sep 2026 08:02:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-remediation-solved</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>12 Cybersecurity Horror Stories of 2026 (No Costume Required) | UpGuard</title>
@@ -1089,140 +1193,6 @@ Visiting either of the repositories now shows the message: &amp;quot;Access to t
       <category>openai cash burn</category>
       <category>orbital AI compute</category>
       <category>Project Suncatcher</category>
-    </item>
-    <item>
-      <title>Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk</title>
-      <link>https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/</link>
-      <description>The ‘SalesBleed’ set of weaknesses in Salesforce’s Agentforce agents exposed CRM data to attackers via prompt injection and DNS exfiltration</description>
-      <pubDate>Fri, 25 Sep 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence</title>
-      <link>https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html</link>
-      <description>Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.
-
-The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the lure and the delivery method.
-
-&amp;quot;Where earlier variants embedded their payload key material</description>
-      <pubDate>Fri, 25 Sep 2026 18:48:06 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Google Chrome 154 Fixes 108 Security Flaws: 11 Are Rated Critical</title>
-      <link>https://www.techrepublic.com/article/news-google-chrome-154-108-security-flaws/</link>
-      <description>&amp;lt;p&amp;gt;Google Chrome 154 fixes 108 security vulnerabilities, including 11 Critical flaws. Here’s what users and IT teams should do now.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-chrome-154-108-security-flaws/&amp;quot;&amp;gt;Google Chrome 154 Fixes 108 Security Flaws: 11 Are Rated Critical&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 25 Sep 2026 12:30:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-chrome-154-108-security-flaws/</guid>
-      <dc:creator>Matt Gonzales</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Browsers</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>browser security</category>
-      <category>chrome 154</category>
-      <category>chrome security</category>
-      <category>cybersecurity</category>
-      <category>google chrome</category>
-      <category>security updates</category>
-      <category>vulnerabilities</category>
-    </item>
-    <item>
-      <title>CISA Unveils Election Security Plan Ahead of 2026 Midterms</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/</link>
-      <description>The CISA plan provides guidance and resources for election officials to secure systems such as voter registration databases and voting machines</description>
-      <pubDate>Fri, 25 Sep 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution</title>
-      <link>https://www.techrepublic.com/article/news-wordpress-cve-2026-87902-active-exploitation/</link>
-      <description>&amp;lt;p&amp;gt;Hackers are actively exploiting CVE-2026-87902, a critical WordPress flaw that can lead to remote code execution. Here’s what admins should do.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-wordpress-cve-2026-87902-active-exploitation/&amp;quot;&amp;gt;WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 25 Sep 2026 12:04:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-wordpress-cve-2026-87902-active-exploitation/</guid>
-      <dc:creator>Ken Underhill</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Developer</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>active exploitation</category>
-      <category>CVE-2026-87902</category>
-      <category>cybersecurity</category>
-      <category>patch management</category>
-      <category>remote code execution</category>
-      <category>vulnerabilities</category>
-      <category>wordpress</category>
-      <category>wordpress security</category>
-    </item>
-    <item>
-      <title>The SOC Doesn&amp;apos;t Need to Start Over with Every Alert</title>
-      <link>https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html</link>
-      <description>Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.
-
-The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere. That dead end used to cost hours of documentation reading,</description>
-      <pubDate>Fri, 25 Sep 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>On Anthropic’s AI Misuse Report</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html</link>
-      <description>&amp;lt;p&amp;gt;Earlier this month, Anthropic &amp;lt;a href=&amp;quot;https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf&amp;quot;&amp;gt;published&amp;lt;/a&amp;gt; a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully &amp;lt;a href=&amp;quot;https://danielmiessler.com/blog/anthropic-misuse-report-september-2026&amp;quot;&amp;gt;summarized&amp;lt;/a&amp;gt; the report into 117 findings.&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;A few of the highlights:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda production, surveillance workflows, and research while humans selected targets, set goals, and reviewed important outputs.
-&amp;lt;li&amp;gt;The report describes attackers using AI to industrialize credential theft, cloud compromise, phishing, vulnerability research, and the extraction of sensitive data from downstream organizations.
-...&amp;lt;/li&amp;gt;&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Fri, 25 Sep 2026 11:07:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>reports</category>
-    </item>
-    <item>
-      <title>Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise</title>
-      <link>https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html</link>
-      <description>Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&amp;amp;nbsp;
-
-&amp;quot;At 18:31 UTC on September 24, 2026, Bitget&amp;apos;s security systems identified unauthorized transfers involving a limited number of hot wallets,&amp;quot; Bitget said in a post shared on X. &amp;quot;Bitget&amp;apos;s cold wallets and the overwhelming majority of platform assets remain</description>
-      <pubDate>Fri, 25 Sep 2026 16:05:55 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild</title>
-      <link>https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html</link>
-      <description>The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.
-
-The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1.
-
-The issue stems from a preg_replace() backslash</description>
-      <pubDate>Fri, 25 Sep 2026 15:44:02 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>RemControl Banking Trojan Gives Attackers Remote Control of Android Devices</title>
-      <link>https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/</link>
-      <description>The newly-discovered trojan abuses the Android Accessibility Service to gain control over victim devices and collect sensitive banking credentials</description>
-      <pubDate>Fri, 25 Sep 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
