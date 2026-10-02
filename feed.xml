@@ -5,9 +5,69 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 17:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:51:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html</link>
+      <description>&amp;lt;p&amp;gt;The EU is &amp;lt;a href=&amp;quot;https://thefishingdaily.com/latest-news/eu-outlines-measures-to-tackle-unregulated-squid-fishing/&amp;quot;&amp;gt;recommending&amp;lt;/a&amp;gt; import controls to combat unregulated squid fishing in the Southwest Atlantic. I&amp;amp;#8217;m not optimistic.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 02 Oct 2026 21:02:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail</link>
+      <description>The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers&amp;apos; increasingly advanced capabilities.</description>
+      <pubDate>Fri, 02 Oct 2026 20:18:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers</title>
+      <link>https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html</link>
+      <description>A critical flaw in GitLab&amp;apos;s AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&amp;amp;nbsp;said in an advisory.
+
+The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1.
+
+The flaw</description>
+      <pubDate>Fri, 02 Oct 2026 23:03:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign</title>
+      <link>https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html</link>
+      <description>Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.
+
+The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster</description>
+      <pubDate>Fri, 02 Oct 2026 23:03:16 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes</title>
+      <link>https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html</link>
+      <description>Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an</description>
+      <pubDate>Fri, 02 Oct 2026 22:32:12 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Kiteworks &amp;amp;amp; Citrix Incidents Show Challenges of Zero-Day Response</title>
       <link>https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response</link>
@@ -1051,57 +1111,6 @@ The campaigns, aimed at people and organizations tied to Ukraine, have affected 
       <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/chatgpt-and-tprm</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Digital Brand Protection in the Age of Impersonation | UpGuard</title>
-      <link>https://www.upguard.com/blog/digital-brand-protection</link>
-      <description>Fight brand impersonation and online fraud. Learn key strategies to protect your digital presence &amp;amp; reputation in today&amp;apos;s cyber threat landscape.</description>
-      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/digital-brand-protection</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>We Researched Four AI Evidence Analysis Tools for TPRM. Here’s What We Found. | UpGuard</title>
-      <link>https://www.upguard.com/blog/ai-evidence-analysis-tools-for-tprm</link>
-      <description>We researched four AI evidence-parsing tools against four criteria that security teams often overlook. None nailed all four.</description>
-      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ai-evidence-analysis-tools-for-tprm</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Introducing App Store Threat Detection: Visibility Where Brand Monitoring Couldn&amp;apos;t Reach | UpGuard</title>
-      <link>https://www.upguard.com/blog/introducing-app-store-threat-detection-visibility-where-brand-monitoring-couldnt-reach</link>
-      <description>Breach Risk now includes App Store Threat Detection!</description>
-      <pubDate>Tue, 29 Sep 2026 11:51:35 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/introducing-app-store-threat-detection-visibility-where-brand-monitoring-couldnt-reach</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Using Device Linking to Eavesdrop on WhatsApp and Signal</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</link>
-      <description>&amp;lt;p&amp;gt;Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are &amp;lt;a href=&amp;quot;https://cybernews.com/privacy/police-telegram-whatsapp-signal-surveillance-linked-devices/&amp;quot;&amp;gt;taking advantage&amp;lt;/a&amp;gt; of this capability:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop computers.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Germany&amp;amp;#8217;s Customs Office has been using these features to connect a police-controlled computer to a suspect&amp;amp;#8217;s account.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Once connected, messages can be delivered to that computer without the police having to crack the encryption protecting them.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://netzpolitik.org/2026/messenger-ueberwachung-immer-mehr-polizei-ueberwacht-messenger-wie-whatsapp/#2026-02-20_ZKA_Messenger-Ueberwachung&amp;quot;&amp;gt;Netzpoltik details&amp;lt;/a&amp;gt; that police are able to gain access in this way either through physical access to someone&amp;amp;#8217;s phone or by intercepting verification codes via a state-sanctioned phishing attack or intercepting SMS messages via telephone surveillance...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 29 Sep 2026 11:02:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>eavesdropping</category>
-      <category>law enforcement</category>
-      <category>police</category>
-      <category>Signal</category>
-      <category>WhatsApp</category>
-    </item>
-    <item>
-      <title>Japanese Railway Operators Hit with Weekend Cyber Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/</link>
-      <description>Tokyo Metro and Keio have revealed separate cyber-attacks</description>
-      <pubDate>Tue, 29 Sep 2026 09:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
