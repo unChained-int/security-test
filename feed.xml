@@ -5,9 +5,131 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:21:50 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ClickFix Attacks Evolve to Better Hide Malicious Payloads</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads</link>
+      <description>Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.</description>
+      <pubDate>Tue, 06 Oct 2026 20:32:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Critical Healthcare Systems Aren&amp;apos;t Quantum-Ready</title>
+      <link>https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready</link>
+      <description>A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.</description>
+      <pubDate>Tue, 06 Oct 2026 20:30:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes</title>
+      <link>https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html</link>
+      <description>Cybersecurity researchers have disclosed details of a &amp;quot;human-operated phishing platform&amp;quot; that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.
+
+The products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in</description>
+      <pubDate>Wed, 07 Oct 2026 00:08:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan</title>
+      <link>https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html</link>
+      <description>Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.
+
+Threat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may</description>
+      <pubDate>Tue, 06 Oct 2026 23:54:25 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google&amp;apos;s PageBreak AI Agent Finds 500 Flaws in Its Web Apps</title>
+      <link>https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps</link>
+      <description>The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.</description>
+      <pubDate>Tue, 06 Oct 2026 17:56:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>IANS&amp;apos; Kakolowski: How AI Is Reshaping CISO Budgets &amp;amp;amp; Security Teams</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams</link>
+      <description>In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.</description>
+      <pubDate>Tue, 06 Oct 2026 17:15:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams</guid>
+      <dc:creator>Kristina Beek</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;BigDiskBuster&amp;apos; Leaves Microsoft Defender Running While Blocking Updates</title>
+      <link>https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates</link>
+      <description>Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.</description>
+      <pubDate>Tue, 06 Oct 2026 16:59:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>ClickFix Attack Hides VBScript Payload in Browser Cache</title>
+      <link>https://www.infosecurity-magazine.com/news/clickfix-vbscript-browser-cache/</link>
+      <description>ClickFix sites stage a VBScript payload in the browser cache to bypass the Run dialog&amp;apos;s length limit</description>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/clickfix-vbscript-browser-cache/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>FBI Blames Contractor’s Missed Patch for ShinyHunters Breach</title>
+      <link>https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
+      <description>&amp;lt;p&amp;gt;The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/&amp;quot;&amp;gt;FBI Blames Contractor&amp;amp;#8217;s Missed Patch for ShinyHunters Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 06 Oct 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>FBI</category>
+      <category>Oracle PeopleSoft</category>
+      <category>Patch</category>
+      <category>ShinyHunters</category>
+    </item>
+    <item>
+      <title>Nikkei Discloses Two Employee Cloud Account Compromises</title>
+      <link>https://www.infosecurity-magazine.com/news/nikkei-employee-cloud-account/</link>
+      <description>Nikkei says two employee cloud accounts were accessed, with one used to send 9,000 phishing emails</description>
+      <pubDate>Tue, 06 Oct 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/nikkei-employee-cloud-account/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Red Hat’s Lightwell Project Remediates 400 Open-Source Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/red-hat-lightwell-remediates-400/</link>
+      <description>The IBM subsidiary has also announced its Lightwell Clearinghouse is now available to all customers</description>
+      <pubDate>Tue, 06 Oct 2026 13:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/red-hat-lightwell-remediates-400/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware</title>
+      <link>https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/</link>
+      <description>&amp;lt;p&amp;gt;An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/&amp;quot;&amp;gt;FBI Arrests &amp;amp;#8216;Most Wanted&amp;amp;#8217; Developer of Ploutus ATM Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 06 Oct 2026 12:47:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Tracking &amp;amp; Law Enforcement</category>
+      <category>arrested</category>
+      <category>ATM jackpotting</category>
+      <category>malware</category>
+      <category>Ploutus</category>
+    </item>
     <item>
       <title>Introducing the UpGuard Risk Operations Center | UpGuard</title>
       <link>https://www.upguard.com/blog/introducing-upguards-risk-operations-center</link>
@@ -124,6 +246,7 @@ The ecosystem around it fell short. Earlier this year, our team at OX Security,&
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>M&amp;amp;A Tracker</category>
       <category>Acquisitions</category>
+      <category>Featured</category>
       <category>M&amp;amp;A</category>
     </item>
     <item>
@@ -425,35 +548,6 @@ There are actively exploited bugs in the mix, cleaner intrusion paths, smarter a
       <category>AI</category>
       <category>cryptography</category>
       <category>history of cryptography</category>
-    </item>
-    <item>
-      <title>Exploitation Hits Rejetto HFS Vulnerability Discovered by AI</title>
-      <link>https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/</link>
-      <description>&amp;lt;p&amp;gt;CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/&amp;quot;&amp;gt;Exploitation Hits Rejetto HFS Vulnerability Discovered by AI &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 05 Oct 2026 11:00:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Rejetto</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity</title>
-      <link>https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/</link>
-      <description>&amp;lt;p&amp;gt;More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/&amp;quot;&amp;gt;Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 05 Oct 2026 10:42:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>bill</category>
-      <category>Featured</category>
-      <category>healthcare</category>
-      <category>legislation</category>
     </item>
     <item>
       <title>Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access</title>
@@ -1032,105 +1126,6 @@ The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an u
       <guid isPermaLink="true">https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Threats Top Cybersecurity Preparedness Gap, PwC Finds</title>
-      <link>https://www.infosecurity-magazine.com/news/mitigating-adversarial-ai-top/</link>
-      <description>PwC finds global security leaders are most concerned about attacks on AI systems</description>
-      <pubDate>Thu, 01 Oct 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mitigating-adversarial-ai-top/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Top Vendor Risk Monitoring Solutions for Continuous Oversight (2026) | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-vendor-risk-monitoring-solutions</link>
-      <description>Compare UpGuard, BitSight, SecurityScorecard, Panorays, Vanta, and five more for continuous vendor and TPRM monitoring.</description>
-      <pubDate>Thu, 01 Oct 2026 07:55:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-vendor-risk-monitoring-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version</title>
-      <link>https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html</link>
-      <description>Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.
-
-&amp;quot;It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,&amp;quot; Koray Kavukcuoglu,</description>
-      <pubDate>Thu, 01 Oct 2026 13:19:36 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>MI5 Warns Over 100 Academics Helped China&amp;apos;s Espionage Plans</title>
-      <link>https://www.infosecurity-magazine.com/news/mi5-alerts-academics-chinese/</link>
-      <description>MI5 has issued a rare warning to UK academics contributing to the China General Technology Research Institute</description>
-      <pubDate>Thu, 01 Oct 2026 07:37:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mi5-alerts-academics-chinese/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path</title>
-      <link>https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html</link>
-      <description>Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.
-
-The trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. The code causes a crash, not an execution error. Turning the memory corruption into a working</description>
-      <pubDate>Thu, 01 Oct 2026 11:24:41 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft</title>
-      <link>https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html</link>
-      <description>Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.
-
-&amp;quot;Their investigation identified malicious activity involving third-party security products, including a zero-day vulnerability, and recovered a customized tool used by the attacker</description>
-      <pubDate>Thu, 01 Oct 2026 10:51:10 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>MetaMask Security Incident Prompts Exit of Affected Ethereum Validators</title>
-      <link>https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html</link>
-      <description>MetaMask on Thursday said it&amp;apos;s responding to what it described as an &amp;quot;ongoing security incident&amp;quot; impacting part of its infrastructure.
-
-&amp;quot;We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,&amp;quot; the software cryptocurrency wallet maker said. &amp;quot;At this time, we have identified no immediate threat to MetaMask wallets.&amp;quot;
-
-MetaMask</description>
-      <pubDate>Thu, 01 Oct 2026 10:40:09 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs</title>
-      <link>https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</link>
-      <description>Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.
-
-LevelBlue&amp;apos;s Threat Hunt Operations &amp;amp;amp; Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler</description>
-      <pubDate>Thu, 01 Oct 2026 10:05:34 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure</link>
-      <description>In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.</description>
-      <pubDate>Wed, 30 Sep 2026 21:25:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Trump, Tech Giants Strike Voluntary AI Safety Accord</title>
-      <link>https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord</link>
-      <description>The new White House Accord on so-called &amp;amp;quot;Super Intelligence&amp;amp;quot; calls on companies to implement greater controls and oversight over AI safety.</description>
-      <pubDate>Wed, 30 Sep 2026 20:51:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
