@@ -5,9 +5,218 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:41:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:45:29 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australian Gov&amp;apos;t Weighs Mandatory AI Incident Reporting</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting</link>
+      <description>In the wake of an agentic attack against its own Medicare systems, Australia&amp;apos;s government is feeling out what regulations might look like for frontier AI companies.</description>
+      <pubDate>Wed, 07 Oct 2026 21:42:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Citizen Lab Slams Trump Administration, &amp;apos;Techno-Fascist&amp;apos; Executives</title>
+      <link>https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives</link>
+      <description>The Citizen Lab&amp;apos;s Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.</description>
+      <pubDate>Wed, 07 Oct 2026 21:25:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Anthropic Gives Vetted Defenders Fewer Claude Guardrails</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails</link>
+      <description>Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.</description>
+      <pubDate>Wed, 07 Oct 2026 20:51:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>OpenAI Agent Escape Causes Wikimedia Service Outage</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage</link>
+      <description>Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.</description>
+      <pubDate>Wed, 07 Oct 2026 19:34:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains</title>
+      <link>https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html</link>
+      <description>Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&amp;amp;nbsp;said on October 6.
+
+Google&amp;apos;s own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted</description>
+      <pubDate>Thu, 08 Oct 2026 00:18:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer</title>
+      <link>https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html</link>
+      <description>Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.
+
+The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have</description>
+      <pubDate>Wed, 07 Oct 2026 23:13:20 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances</title>
+      <link>https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html</link>
+      <description>SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company&amp;apos;s network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.
+
+SonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being</description>
+      <pubDate>Wed, 07 Oct 2026 21:47:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Coffee with the Council Podcast: PCI SSC Introduces Key Management and Operations (KMO) Standard v1.0</title>
+      <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-introduces-key-management-and-operations-kmo-standard-v1.0</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-introduces-key-management-and-operations-kmo-standard-v1.0&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Coffee with the Council Podcast: PCI SSC Introduces Key Management and Operations (KMO) Standard v1.0&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/Andrew-Jamieson-Blog-Header.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome to our podcast series, &amp;lt;em&amp;gt;Coffee with the Council&amp;lt;/em&amp;gt;. I&amp;apos;m Alicia Malone, Director of Communications and Public Relations for the PCI Security Standards Council. Recently, the Council published its newest standard, the Key Management and Operations, or KMO Standard. But what exactly is KMO, and how does it fit into the Council&amp;apos;s portfolio of standards? Here to answer all of my questions is the Council&amp;apos;s VP Distinguished Standards Architect, Mr. Andrew Jamieson. Welcome, Andrew.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 07 Oct 2026 15:37:56 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-introduces-key-management-and-operations-kmo-standard-v1.0</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>P2PE Product Family</category>
+      <category>Awareness</category>
+      <category>Interview</category>
+      <category>PIN Security Standard</category>
+      <category>PIN Assessments</category>
+      <category>PTS HSM</category>
+      <category>Coffee with the Council podcasts</category>
+      <category>Key Management Operations KMO</category>
+      <category>Key Management Product Family</category>
+    </item>
+    <item>
+      <title>Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely</title>
+      <link>https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html</link>
+      <description>A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.
+
+The flaw is in LMCache&amp;apos;s&amp;amp;nbsp;multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network</description>
+      <pubDate>Wed, 07 Oct 2026 21:04:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet</title>
+      <link>https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html</link>
+      <description>Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet.
+
+The financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including</description>
+      <pubDate>Wed, 07 Oct 2026 21:03:51 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts</title>
+      <link>https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/</link>
+      <description>&amp;lt;p&amp;gt;Southern Company is notifying customers that their utility account information was accessed by hackers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/&amp;quot;&amp;gt;Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 07 Oct 2026 14:15:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>electric</category>
+      <category>energy</category>
+      <category>Georgia Power</category>
+      <category>utility</category>
+    </item>
+    <item>
+      <title>OT Coalition Urges CISA to Mandate Federal OT Security</title>
+      <link>https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/</link>
+      <description>OTCC urged CISA to mandate baseline security requirements for federal operational technology</description>
+      <pubDate>Wed, 07 Oct 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>ShinyHunters Extorted Boeing Spin-off Prior to Arrests</title>
+      <link>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</link>
+      <description>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle &amp;quot;Rey,&amp;quot; was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey&amp;apos;s father -- Royal Jordanian Airlines.</description>
+      <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Data Breaches</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>Ransomware</category>
+      <category>The Coming Storm</category>
+      <category>Accenture</category>
+      <category>Benjamin Korper</category>
+      <category>Boeing</category>
+      <category>CL0P</category>
+      <category>CVE-2026-35273</category>
+      <category>fbi</category>
+      <category>Google Threat Intelligence Group</category>
+      <category>Jeppesen ForeFlight</category>
+      <category>Mandiant</category>
+      <category>Neo Security</category>
+      <category>Oracle</category>
+      <category>PeopleSoft</category>
+      <category>Pepijn van der Stap</category>
+      <category>Reuters</category>
+      <category>Royal Jordanian Airlines</category>
+      <category>Saif Al-Din Khader</category>
+      <category>ShinyHunters</category>
+      <category>Umbreon</category>
+    </item>
+    <item>
+      <title>Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany</title>
+      <link>https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/</link>
+      <description>&amp;lt;p&amp;gt;The individual was detained in May and has been extradited to Germany to face hacking charges.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/&amp;quot;&amp;gt;Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 07 Oct 2026 13:47:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Ransomware</category>
+      <category>Tracking &amp;amp; Law Enforcement</category>
+      <category>extradited</category>
+      <category>Germany</category>
+      <category>hacker</category>
+      <category>Japan</category>
+      <category>Qilin</category>
+    </item>
+    <item>
+      <title>Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform</title>
+      <link>https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/</link>
+      <description>&amp;lt;p&amp;gt;Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/&amp;quot;&amp;gt;Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 07 Oct 2026 13:06:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybersecurity Funding</category>
+      <category>funding</category>
+      <category>Hadrian</category>
+      <category>Offensive Security</category>
+    </item>
+    <item>
+      <title>Attackers Hide AI Prompt Injections Inside Phishing Emails</title>
+      <link>https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/</link>
+      <description>Barracuda finds phishing emails designed to manipulate both human users and AI assistants</description>
+      <pubDate>Wed, 07 Oct 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
     <item>
       <title>Advantest Discloses Data Breach Months After Ransomware Attack</title>
       <link>https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/</link>
@@ -105,6 +314,29 @@ That promise is worth taking seriously. It’s also worth pressure testing, and 
       <category>vulnerability</category>
     </item>
     <item>
+      <title>South Korean President Orders Probe After Financial Data Breaches</title>
+      <link>https://www.techrepublic.com/article/news-south-korean-president-financial-data-breach-probe-apac/</link>
+      <description>&amp;lt;p&amp;gt;South Korea’s president ordered a financial-sector probe after breaches hit major banks and lenders, exposing customer data and raising questions about AI-assisted attacks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-south-korean-president-financial-data-breach-probe-apac/&amp;quot;&amp;gt;South Korean President Orders Probe After Financial Data Breaches&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 07 Oct 2026 10:48:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-south-korean-president-financial-data-breach-probe-apac/</guid>
+      <dc:creator>Kezia Jungco</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>APAC</category>
+      <category>Cybersecurity</category>
+      <category>News</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>ai security</category>
+      <category>APAC cybersecurity</category>
+      <category>banking security</category>
+      <category>data breach</category>
+      <category>financial cybersecurity</category>
+      <category>Financial Services Commission</category>
+      <category>Shinhan Bank</category>
+      <category>south korea</category>
+    </item>
+    <item>
       <title>Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns</title>
       <link>https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/</link>
       <description>A Yubico survey identified a significant gap between awareness and adoption of secure methods of authentication in enterprises</description>
@@ -141,6 +373,7 @@ That promise is worth taking seriously. It’s also worth pressure testing, and 
       <category>Asos</category>
       <category>cyberattack</category>
       <category>data breach</category>
+      <category>Featured</category>
       <category>Snowflake</category>
       <category>UK</category>
     </item>
@@ -246,18 +479,6 @@ The activity, which was observed by the agency in September 2026, has been attri
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
-      <title>Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System</title>
-      <link>https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/</link>
-      <description>&amp;lt;p&amp;gt;The Arizona Supreme Court said the information was copied for people dating back as far as 30 years.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/&amp;quot;&amp;gt;Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 07 Oct 2026 01:32:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-    </item>
-    <item>
       <title>ClickFix Attacks Evolve to Better Hide Malicious Payloads</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads</link>
       <description>Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.</description>
@@ -269,7 +490,7 @@ The activity, which was observed by the agency in September 2026, has been attri
     <item>
       <title>Critical Healthcare Systems Aren&amp;apos;t Quantum-Ready</title>
       <link>https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready</link>
-      <description>A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.</description>
+      <description>A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.</description>
       <pubDate>Tue, 06 Oct 2026 20:30:27 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready</guid>
       <dc:creator>Jai Vijayan</dc:creator>
@@ -358,22 +579,6 @@ Threat actors are known to name their malicious software after a legitimate oper
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>FBI Blames Contractor’s Missed Patch for ShinyHunters Breach</title>
-      <link>https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
-      <description>&amp;lt;p&amp;gt;The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/&amp;quot;&amp;gt;FBI Blames Contractor&amp;amp;#8217;s Missed Patch for ShinyHunters Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 06 Oct 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>FBI</category>
-      <category>Featured</category>
-      <category>Oracle PeopleSoft</category>
-      <category>Patch</category>
-      <category>ShinyHunters</category>
-    </item>
-    <item>
       <title>Nikkei Discloses Two Employee Cloud Account Compromises</title>
       <link>https://www.infosecurity-magazine.com/news/nikkei-employee-cloud-account/</link>
       <description>Nikkei says two employee cloud accounts were accessed, with one used to send 9,000 phishing emails</description>
@@ -388,22 +593,6 @@ Threat actors are known to name their malicious software after a legitimate oper
       <pubDate>Tue, 06 Oct 2026 13:01:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/red-hat-lightwell-remediates-400/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware</title>
-      <link>https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/</link>
-      <description>&amp;lt;p&amp;gt;An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/&amp;quot;&amp;gt;FBI Arrests &amp;amp;#8216;Most Wanted&amp;amp;#8217; Developer of Ploutus ATM Malware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 06 Oct 2026 12:47:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>arrested</category>
-      <category>ATM jackpotting</category>
-      <category>malware</category>
-      <category>Ploutus</category>
     </item>
     <item>
       <title>Introducing the UpGuard Risk Operations Center | UpGuard</title>
@@ -947,190 +1136,6 @@ The vulnerabilities are listed below -
       <category>infrastructure</category>
       <category>privacy</category>
       <category>surveillance</category>
-    </item>
-    <item>
-      <title>Microsoft: AI Cuts Post-Compromise Attack Time to Minutes</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/</link>
-      <description>Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks</description>
-      <pubDate>Fri, 02 Oct 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech</title>
-      <link>https://www.techrepublic.com/article/ai-agents-security-crises-and-workforce-upheaval-define-this-week-in-tech/</link>
-      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from Sept. 28–Oct. 2.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/ai-agents-security-crises-and-workforce-upheaval-define-this-week-in-tech/&amp;quot;&amp;gt;AI Agents, Security Crises, and Workforce Upheaval Define This Week in Tech&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 02 Oct 2026 14:02:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/ai-agents-security-crises-and-workforce-upheaval-define-this-week-in-tech/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI</category>
-      <category>AI Governance &amp;amp; Policy</category>
-      <category>ai infrastructure</category>
-      <category>Amazon</category>
-      <category>Android</category>
-      <category>Anthropic</category>
-      <category>Apple</category>
-      <category>ChatGPT</category>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>Enterprise Technology</category>
-      <category>Google</category>
-      <category>iOS</category>
-      <category>Linux</category>
-      <category>Meta</category>
-      <category>Microsoft</category>
-      <category>NVIDIA</category>
-      <category>OpenAI</category>
-      <category>Privacy</category>
-      <category>Robotics</category>
-      <category>Tech Regulation</category>
-      <category>Weekly Roundup</category>
-      <category>Workforce</category>
-      <category>ai agents</category>
-      <category>ai security</category>
-      <category>amd world labs</category>
-      <category>california ai law</category>
-      <category>Daily Tech Insider</category>
-      <category>data breaches</category>
-      <category>gemini 4 argon</category>
-      <category>Newsletter Roundup</category>
-      <category>openai dots</category>
-      <category>tesla optimus</category>
-      <category>workforce automation</category>
-      <category>zero day exploits</category>
-    </item>
-    <item>
-      <title>Vulnerability Backlogs Are an Ownership Problem</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem</link>
-      <description>Organizations don&amp;apos;t need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them.</description>
-      <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem</guid>
-      <dc:creator>Nishant Sharma</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Malicious Linux Implants Mimic Asian Mail Security Products</title>
-      <link>https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security</link>
-      <description>A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it&amp;apos;s hard to tell they&amp;apos;re not.</description>
-      <pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>How to Choose Automated Vendor Risk Remediation Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/choosing-automated-vendor-risk-remediation-software</link>
-      <description>See our pick for automated vendor risk remediation software, the capabilities that make prioritization work, and three checks to run before you automate.</description>
-      <pubDate>Fri, 02 Oct 2026 12:41:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-automated-vendor-risk-remediation-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Complete Guide to Vendor Risk Assessment | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-risk-assessment</link>
-      <description>Vendor risk assessment in 2026: a 3-step process for teams comparing UpGuard, BitSight, and SecurityScorecard. Scope, evidence, and continuous monitoring.</description>
-      <pubDate>Fri, 02 Oct 2026 12:39:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-assessment</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling</title>
-      <link>https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html</link>
-      <description>OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.
-
-&amp;quot;We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,&amp;quot; a spokesperson for the company was quoted as saying. &amp;quot;Our investigation confirmed that these</description>
-      <pubDate>Fri, 02 Oct 2026 17:53:15 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How to Detect Data Leakage: A Full Guide to Data Leak Detection | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-detect-and-prevent-data-leakage</link>
-      <description>Data leaks are an increasingly critical cybersecurity problem. Learn how to detect and prevent data leakage and compare vendor solutions.</description>
-      <pubDate>Fri, 02 Oct 2026 11:41:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-detect-and-prevent-data-leakage</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Why CISOs Struggle to Answer the Board&amp;apos;s Three Hardest Questions, and How to Fix the Report</title>
-      <link>https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html</link>
-      <description>The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides.
-
-Then a board member asks three questions:
-
-
-  How secure is the organization, overall?
-  What is</description>
-      <pubDate>Fri, 02 Oct 2026 17:00:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>How American Political Campaigns Are Using AI—and What They’re Spending on the Tools</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;This essay was written with Nathan E. Sanders, and originally appeared in &amp;lt;a href=&amp;quot;https://www.theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending&amp;quot;&amp;gt;The Guardian&amp;lt;/a&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Candidates&amp;amp;#8217;, parties&amp;amp;#8217; and committees&amp;amp;#8217; &amp;lt;a href=&amp;quot;https://github.com/nesanders/federal-campaign-disclosure-ai/tree/claude/campaign-ai-usage-dashboard-0pzili/data/processed&amp;quot;&amp;gt;spending&amp;lt;/a&amp;gt; reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns&amp;lt;em&amp;gt;.&amp;lt;/em&amp;gt; It&amp;amp;#8217;s a sensitive issue that we have been tracking closely since we started writing our book, &amp;lt;a href=&amp;quot;https://mitpress.mit.edu/9780262049948/rewiring-democracy/&amp;quot;&amp;gt;Rewiring Democracy...&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 02 Oct 2026 11:02:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>democracy</category>
-      <category>LLM</category>
-    </item>
-    <item>
-      <title>Police Target KillSec Ransomware Group with Arrests and Seizures</title>
-      <link>https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/</link>
-      <description>Investigators have disrupted the operations of ransomware group KillSec and arrested several key suspects</description>
-      <pubDate>Fri, 02 Oct 2026 09:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Google Launches Gemini 4 Argon, Gives Cyber Defenders First Access</title>
-      <link>https://www.techrepublic.com/article/news-google-gemini-4-argon-cyber-defenders/</link>
-      <description>&amp;lt;p&amp;gt;Google launched Gemini 4 Argon with trusted cyber defenders first in line as it tests vulnerability hunting, patching, and new AI safeguards.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-google-gemini-4-argon-cyber-defenders/&amp;quot;&amp;gt;Google Launches Gemini 4 Argon, Gives Cyber Defenders First Access&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 02 Oct 2026 08:41:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-gemini-4-argon-cyber-defenders/</guid>
-      <dc:creator>Kezia Jungco</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>Google</category>
-      <category>News</category>
-      <category>ai security</category>
-      <category>artificial intelligence</category>
-      <category>cybersecurity</category>
-      <category>fairwind program</category>
-      <category>gemini 4 argon</category>
-      <category>google deepmind</category>
-      <category>wiz</category>
-    </item>
-    <item>
-      <title>Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure</title>
-      <link>https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/</link>
-      <description>The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days</description>
-      <pubDate>Fri, 02 Oct 2026 08:25:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools</title>
-      <link>https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html</link>
-      <description>Google has announced a new security measure that limits access to Android&amp;apos;s accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.
-
-With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a</description>
-      <pubDate>Fri, 02 Oct 2026 13:31:30 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
