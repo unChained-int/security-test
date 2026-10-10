@@ -5,9 +5,28 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 09 Oct 2026 22:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 04:27:43 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FBI Arrests Founder of Ransomware Negotiation Firm</title>
+      <link>https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</link>
+      <description>Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.</description>
+      <pubDate>Sat, 10 Oct 2026 00:17:42 +0000</pubDate>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</guid>
+      <dc:creator>BrianKrebs</dc:creator>
+      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
+      <category>A Little Sunshine</category>
+      <category>Breadcrumbs</category>
+      <category>Ne&amp;apos;er-Do-Well News</category>
+      <category>The Coming Storm</category>
+      <category>Cyber Extortion Strategic Response</category>
+      <category>CyberSteward</category>
+      <category>Cypfer</category>
+      <category>Edward Dubrovsky</category>
+      <category>FBI Director Kash Patel</category>
+      <category>ShinyHunters</category>
+    </item>
     <item>
       <title>OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</title>
       <link>https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/</link>
@@ -879,6 +898,28 @@ SonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any o
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Coffee with the Council Podcast: PCI SSC Introduces Key Management and Operations (KMO) Standard v1.0</title>
+      <link>https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-introduces-key-management-and-operations-kmo-standard-v1.0</link>
+      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
+ &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-introduces-key-management-and-operations-kmo-standard-v1.0&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;Coffee with the Council Podcast: PCI SSC Introduces Key Management and Operations (KMO) Standard v1.0&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/Andrew-Jamieson-Blog-Header.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
+&amp;lt;/div&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt; 
+&amp;lt;p style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;Welcome to our podcast series, &amp;lt;em&amp;gt;Coffee with the Council&amp;lt;/em&amp;gt;. I&amp;apos;m Alicia Malone, Director of Communications and Public Relations for the PCI Security Standards Council. Recently, the Council published its newest standard, the Key Management and Operations, or KMO Standard. But what exactly is KMO, and how does it fit into the Council&amp;apos;s portfolio of standards? Here to answer all of my questions is the Council&amp;apos;s VP Distinguished Standards Architect, Mr. Andrew Jamieson. Welcome, Andrew.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 07 Oct 2026 15:37:56 +0000</pubDate>
+      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/coffee-with-the-council-podcast-pci-ssc-introduces-key-management-and-operations-kmo-standard-v1.0</guid>
+      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
+      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
+      <category>P2PE Product Family</category>
+      <category>Awareness</category>
+      <category>Interview</category>
+      <category>PIN Security Standard</category>
+      <category>PIN Assessments</category>
+      <category>PTS HSM</category>
+      <category>Coffee with the Council podcasts</category>
+      <category>Key Management Operations KMO</category>
+      <category>Key Management Product Family</category>
+    </item>
+    <item>
       <title>Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely</title>
       <link>https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html</link>
       <description>A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.
@@ -1081,28 +1122,6 @@ That promise is worth taking seriously. It’s also worth pressure testing, and 
       <pubDate>Wed, 07 Oct 2026 08:20:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws</title>
-      <link>https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html</link>
-      <description>Anthropic on Tuesday said it&amp;apos;s expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026.
-
-The company said it also found an additional</description>
-      <pubDate>Wed, 07 Oct 2026 13:37:38 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer</title>
-      <link>https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html</link>
-      <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).
-
-The activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the</description>
-      <pubDate>Wed, 07 Oct 2026 12:27:54 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
