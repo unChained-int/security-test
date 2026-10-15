@@ -5,9 +5,27 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 14 Oct 2026 21:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:19:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</link>
+      <description>CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.</description>
+      <pubDate>Wed, 14 Oct 2026 21:20:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Yam Store: The Phishing Network Behind a Billion Messages</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages</link>
+      <description>A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.</description>
+      <pubDate>Wed, 14 Oct 2026 20:57:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Anthropic &amp;apos;SneakPeek&amp;apos; Flaw Is a Silent Zero-Click Threat</title>
       <link>https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat</link>
@@ -161,6 +179,9 @@ The indictment charges a mix of U.S. citizens and Chinese nationals for their ro
       <dc:creator>Bruce Schneier</dc:creator>
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cryptanalysis</category>
+      <category>cryptography</category>
     </item>
     <item>
       <title>U.K. Sanctions Cryptomus for RU Money Laundering</title>
@@ -1003,22 +1024,6 @@ Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an el
       <description>The deep web makes up 95-99% of the entire internet. The dark web makes up less than 1%. UpGuard explores how deep web assets can lead to data exposure.</description>
       <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/deep-web-data-exposure</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What Is a Man-in-the-Middle Attack? Prevention Tips and Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/man-in-the-middle-attack</link>
-      <description>A man-in-the-middle attack (MITM attack) is a cyber attack where an attacker relays and possibly alters communication between two parties.</description>
-      <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/man-in-the-middle-attack</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Deep Web vs Dark Web: What&amp;apos;s the Difference? | UpGuard</title>
-      <link>https://www.upguard.com/blog/dark-web-vs-deep-web</link>
-      <description>Learn about the difference between the surface web, deep web, and the dark web in this in-depth post.</description>
-      <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/dark-web-vs-deep-web</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
