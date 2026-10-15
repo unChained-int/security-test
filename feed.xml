@@ -5,9 +5,69 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:57:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory</title>
+      <link>https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html</link>
+      <description>A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel&amp;apos;s live cloud sandboxes, and Vercel confirmed it.
+
+The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel&amp;apos;s networking code, not in any one cloud&amp;apos;s setup, so it reaches the shared</description>
+      <pubDate>Fri, 16 Oct 2026 01:54:36 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
+      <link>https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</link>
+      <description>Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week&amp;apos;s security stories.
+
+The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and</description>
+      <pubDate>Fri, 16 Oct 2026 00:19:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Context Is King in the Fight Against Modern Cyberattacks</title>
+      <link>https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/</link>
+      <description>&amp;lt;p&amp;gt;Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/&amp;quot;&amp;gt;Context Is King in the Fight Against Modern Cyberattacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 15 Oct 2026 17:42:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/</guid>
+      <dc:creator>Etay Maor</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Incident Response</category>
+    </item>
+    <item>
+      <title>Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand</title>
+      <link>https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/</link>
+      <description>&amp;lt;p&amp;gt;This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/&amp;quot;&amp;gt;Watch Now: Zero Trust Strategies Summit &amp;amp;#8211; All Sessions Available on Demand&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 15 Oct 2026 16:51:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Network Security</category>
+      <category>Zero Trust</category>
+    </item>
+    <item>
+      <title>Measuring Human Cryptanalysis Effort</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</link>
+      <description>&amp;lt;p&amp;gt;Matthew Green has a &amp;lt;a href=&amp;quot;https://bitsofwork.org/&amp;quot;&amp;gt;new site&amp;lt;/a&amp;gt; that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand candidate papers we classify cryptanalytic work on ECDLP, structured and plain lattices, syndrome decoding and their comparators, then convert papers into estimated research-allocation years through a person-level author map. These publication-based estimates may substantially overstate actual time spent. Lattices have overtaken elliptic curves in this cumulative measure only recently; we express that history as inference budgets under stated productivity assumptions. The study was conducted by AI models: Claude Fable 5.1 and Claude Opus 5.5 built the pipeline, ran the analysis and wrote this page, with contributions from GPT-6 Astra. Matthew Green set the questions, made the key methodological decisions and oversaw the work...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 15 Oct 2026 16:24:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>algorithms</category>
+      <category>cost-benefit analysis</category>
+      <category>cryptanalysis</category>
+    </item>
     <item>
       <title>Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</title>
       <link>https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html</link>
@@ -89,6 +149,14 @@ Help TDS is assessed to be active since at least 2017, offering PHP code templat
       <pubDate>Thu, 15 Oct 2026 13:45:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/france-expose-danfoss-controllers/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Proofpoint to Acquire Varonis in a $6.3 Billion Transaction</title>
+      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security</link>
+      <description/>
+      <pubDate>Thu, 15 Oct 2026 13:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-acquire-varonis-creating-global-leader-data-and-ai-security</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
       <title>New Aoki Infostealer Targets AI Coding Assistant Credentials</title>
@@ -339,7 +407,7 @@ The vulnerability in question is CVE-2026-105740 (CVSS score: 9.9), a case of</d
     <item>
       <title>EU Grocers Pay a Steep Price for Unpatched Fridge Firmware</title>
       <link>https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware</link>
-      <description>Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.</description>
+      <description>Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.</description>
       <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware</guid>
       <dc:creator>Nate Nelson</dc:creator>
@@ -631,22 +699,6 @@ The indictment charges a mix of U.S. citizens and Chinese nationals for their ro
       <category>Schneier news</category>
     </item>
     <item>
-      <title>AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds</title>
-      <link>https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/</link>
-      <description>&amp;lt;p&amp;gt;In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/&amp;quot;&amp;gt;AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/</guid>
-      <dc:creator>Kevin Townsend</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>ICS/OT</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>ICS</category>
-      <category>OT</category>
-    </item>
-    <item>
       <title>Microsoft Patch Tuesday Fixes 1,413 Flaws: Windows Zero-Day Already Under Attack</title>
       <link>https://www.techrepublic.com/article/news-microsoft-october-2026-patch-tuesday/</link>
       <description>&amp;lt;p&amp;gt;Microsoft&amp;apos;s October 2026 Patch Tuesday fixes 1,413 vulnerabilities, including an exploited Windows zero-day and critical Outlook security flaws.&amp;lt;/p&amp;gt;
@@ -670,23 +722,6 @@ The indictment charges a mix of U.S. citizens and Chinese nationals for their ro
       <category>vulnerability management</category>
       <category>Windows 11</category>
       <category>Windows Zero-Day</category>
-    </item>
-    <item>
-      <title>ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw</title>
-      <link>https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/</link>
-      <description>&amp;lt;p&amp;gt;ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/&amp;quot;&amp;gt;ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 14 Oct 2026 15:15:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>ICS</category>
-      <category>ICS Patch Tuesday</category>
-      <category>Patch Tuesday</category>
-      <category>Rockwell Automation</category>
-      <category>Schneider Electric</category>
-      <category>Siemens</category>
     </item>
     <item>
       <title>The Future of AI Cryptanalysis</title>
@@ -1068,38 +1103,6 @@ Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an el
       <description>Get one step ahead of the next big shock. Four security predictions for 2026—likely, uncomfortable, and easy to miss.</description>
       <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-predictions-2026-human-risk-ai-data-leaks</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Downstream Data: Investigating AI Data Leaks in Flowise | UpGuard</title>
-      <link>https://www.upguard.com/blog/downstream-data-investigating-ai-data-leaks-in-flowise</link>
-      <description>A thousand Flowise instances are exposed to the internet, many of them leaking confidential business data, passwords, and more.</description>
-      <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/downstream-data-investigating-ai-data-leaks-in-flowise</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Salesforce Extortion Accelerates With New Leak Site | UpGuard</title>
-      <link>https://www.upguard.com/blog/salesforce-leak-extortion-scatterered-lapsus-hunters</link>
-      <description>The hacker collective Scattered Lapsus$ Hunters has launched a new leak site threatening to release data stolen from Salesforce instances.</description>
-      <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/salesforce-leak-extortion-scatterered-lapsus-hunters</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Solving CISOs’ Toughest Security Challenges With UpGuard’s Risk Operations Center | UpGuard</title>
-      <link>https://www.upguard.com/blog/solving-security-challenges-with-upguards-risk-operations-center</link>
-      <description>Feeling the pressure of leading a security team? Learn how the Risk Operations Center reduces risk and automates compliance to prove your security posture.</description>
-      <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/solving-security-challenges-with-upguards-risk-operations-center</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Compounding Intelligence: The Grid Behind the UpGuard Risk Operations Center | UpGuard</title>
-      <link>https://www.upguard.com/blog/compounding-intelligence-upguards-grid</link>
-      <description>Compounding Intelligence connects vendor, attack surface, and workforce risk in the UpGuard Risk Operations Center, so each signal sharpens the others.</description>
-      <pubDate>Wed, 14 Oct 2026 00:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/compounding-intelligence-upguards-grid</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
