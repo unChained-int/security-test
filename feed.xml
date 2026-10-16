@@ -5,9 +5,74 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:32:16 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk</title>
+      <link>https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk</link>
+      <description>Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.</description>
+      <pubDate>Fri, 16 Oct 2026 19:49:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk</guid>
+      <dc:creator>Rob Wright</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform</title>
+      <link>https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield</link>
+      <description>The launch follows the acquisition of catalog&amp;apos;s assets and the appointment of Laurent Guengant as CEO earlier this year.</description>
+      <pubDate>Fri, 16 Oct 2026 19:22:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Enterprise AI Enters Risk Management Phase as Security Concerns Rise</title>
+      <link>https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise</link>
+      <description>Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.</description>
+      <pubDate>Fri, 16 Oct 2026 19:13:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Takes Control of Robotic Arm in 16 Minutes Flat</title>
+      <link>https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes</link>
+      <description>Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.</description>
+      <pubDate>Fri, 16 Oct 2026 18:37:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug</title>
+      <link>https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</link>
+      <description>A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD&amp;apos;s KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped</description>
+      <pubDate>Fri, 16 Oct 2026 23:18:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Attackers Tampered with AOMEI Backupper&amp;apos;s Update Servers for Minutes to Deliver a Backdoor</title>
+      <link>https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html</link>
+      <description>Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor&amp;apos;s own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor.
+
+Google Threat Intelligence Group, Mandiant, and&amp;amp;nbsp;ManageEngine&amp;apos;s Threat Analysis</description>
+      <pubDate>Fri, 16 Oct 2026 22:13:39 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing</title>
+      <link>https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html</link>
+      <description>Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes.
+
+The activity is being tracked by</description>
+      <pubDate>Fri, 16 Oct 2026 21:46:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit</title>
       <link>https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/</link>
@@ -30,6 +95,50 @@ The incident, the AI company said, involved an internal research model part</des
       <guid isPermaLink="true">https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>This Week in Tech: AI Gets Bigger, Gadgets Get Smarter, and Security Risks Mount</title>
+      <link>https://www.techrepublic.com/article/this-week-in-tech-ai-gets-bigger-gadgets-get-smarter-and-security-risks-mount/</link>
+      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from Oct. 12–16.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/this-week-in-tech-ai-gets-bigger-gadgets-get-smarter-and-security-risks-mount/&amp;quot;&amp;gt;This Week in Tech: AI Gets Bigger, Gadgets Get Smarter, and Security Risks Mount&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 16 Oct 2026 14:01:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/this-week-in-tech-ai-gets-bigger-gadgets-get-smarter-and-security-risks-mount/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI</category>
+      <category>AI Governance &amp;amp; Policy</category>
+      <category>ai infrastructure</category>
+      <category>Amazon</category>
+      <category>Android</category>
+      <category>Anthropic</category>
+      <category>Apple</category>
+      <category>ChatGPT</category>
+      <category>Cybersecurity</category>
+      <category>Data Security</category>
+      <category>Google</category>
+      <category>Hardware</category>
+      <category>Internet of Things</category>
+      <category>iOS</category>
+      <category>Meta</category>
+      <category>Microsoft</category>
+      <category>Open source</category>
+      <category>OpenAI</category>
+      <category>Tech Regulation</category>
+      <category>Tech Wearables</category>
+      <category>Weekly Roundup</category>
+      <category>Windows</category>
+      <category>ai-powered wearables</category>
+      <category>apple homeview</category>
+      <category>character.ai bankruptcy</category>
+      <category>Daily Tech Insider</category>
+      <category>french supermarket cyberattack</category>
+      <category>gemini 4 argon</category>
+      <category>meta muse spark open</category>
+      <category>microsoft maia 300</category>
+      <category>netflix layoffs</category>
+      <category>Newsletter Roundup</category>
+      <category>october 2026 patch tuesday</category>
+      <category>zero-click spyware</category>
     </item>
     <item>
       <title>When Your Ransomware Negotiator Works for the Other Side</title>
@@ -1030,87 +1139,6 @@ Its researchers built the attack in six days by directing AI agents running Open
 Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking</description>
       <pubDate>Wed, 14 Oct 2026 16:38:22 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.</title>
-      <link>https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html</link>
-      <description>The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.
-
-TL;DR
-
-
-  During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer&amp;apos;s production website, on its own.
-  One login request let the user choose where the one-time passcode went.
-  The attack was the easy part. Proving it</description>
-      <pubDate>Wed, 14 Oct 2026 16:30:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Passkey Authentications Double but Adoption Remains Slow</title>
-      <link>https://www.infosecurity-magazine.com/news/passkey-authentications-double/</link>
-      <description>Dashlane data finds that passkey adoption is growing but not quickly enough</description>
-      <pubDate>Wed, 14 Oct 2026 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/passkey-authentications-double/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>French Supermarket Cyber-Attack Impacts More Refrigeration Controllers</title>
-      <link>https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/</link>
-      <description>At least two French supermarkets using temperature regulation devices from Dixell Electronics also experienced food stock disruptions</description>
-      <pubDate>Wed, 14 Oct 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Medicare scam calls, texts and ads: What to watch for this Open Enrollment</title>
-      <link>https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/</link>
-      <description>Open Enrollment is peak season for Medicare fraud – here’s how to tell real outreach from fakes and keep your details safe</description>
-      <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/</guid>
-      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
-      <category>Scams</category>
-    </item>
-    <item>
-      <title>Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/</link>
-      <description>Microsoft issued its largest ever round of security updates in the October Patch Tuesday</description>
-      <pubDate>Wed, 14 Oct 2026 08:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched</title>
-      <link>https://www.infosecurity-magazine.com/news/companies-leave-critical/</link>
-      <description>New Chainguard research reveals larger companies struggle to patch vulnerabilities due to business priorities and operational disruption</description>
-      <pubDate>Wed, 14 Oct 2026 07:55:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/companies-leave-critical/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host</title>
-      <link>https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html</link>
-      <description>A flaw in Linux&amp;apos;s vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host&amp;apos;s memory and hijack the program that runs the virtual machine.
-
-The bug is tracked as&amp;amp;nbsp;CVE-2026-74580&amp;amp;nbsp;and named Vghost. Tencent Zhuque Lab, which found the</description>
-      <pubDate>Wed, 14 Oct 2026 13:16:57 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave</title>
-      <link>https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html</link>
-      <description>Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.
-
-The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature.
-
-The work was done in a lab as a proof of</description>
-      <pubDate>Wed, 14 Oct 2026 11:22:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
