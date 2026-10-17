@@ -5,9 +5,32 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:06:06 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://eos.org/articles/squid-were-on-the-move-before-the-chicxulub-impact&amp;quot;&amp;gt;New&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://pubs.geoscienceworld.org/gsa/geology/article/54/9/938/732212/Squids-radiated-globally-prior-to-the-Cretaceous&amp;quot;&amp;gt;research&amp;lt;/a&amp;gt; shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 16 Oct 2026 21:06:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs</title>
+      <link>https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs</link>
+      <description>Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.</description>
+      <pubDate>Fri, 16 Oct 2026 20:34:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk</title>
       <link>https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk</link>
@@ -72,6 +95,14 @@ The activity is being tracked by</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Proofpoint CEO Sumit Dhawan On ‘Market-Changing’ $6.3B Varonis Deal, IPO Goal</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal</link>
+      <description/>
+      <pubDate>Fri, 16 Oct 2026 15:46:15 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-sumit-dhawan-market-changing-63b-varonis-deal-ipo-goal</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
       <title>In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit</title>
@@ -148,6 +179,14 @@ The incident, the AI company said, involved an internal research model part</des
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side</guid>
       <dc:creator>Terry J. Maxwell</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Proofpoint CEO on acquiring Varonis for $6.3B: ‘Opportunities like this don’t come every day’</title>
+      <link>https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-acquiring-varonis-63b-opportunities-dont-come-every-day</link>
+      <description/>
+      <pubDate>Fri, 16 Oct 2026 13:50:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/proofpoint-ceo-acquiring-varonis-63b-opportunities-dont-come-every-day</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
     <item>
       <title>When AI Agents Commit Breaches, Humans May Not Be Held Liable</title>
@@ -1097,48 +1136,6 @@ The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of au
 The curl project fixed it on October 14 in&amp;amp;nbsp;curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash</description>
       <pubDate>Wed, 14 Oct 2026 17:43:36 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Kicking off Cybersecurity Career Week with NIST!</title>
-      <link>https://www.nist.gov/blogs/cybersecurity-insights/kicking-cybersecurity-career-week-nist</link>
-      <description>Considering a career in cybersecurity? Cybersecurity Career Week (CCW), a campaign led by the NICE Program at NIST from October 19-24, 2026, aims to raise public awareness and help people find their path to #ChooseCyber. During this week, academia, industry, non-profit organizations, and government agencies host events, share resources, provide trainings, and engage community to build awareness about the cybersecurity job opportunities, educate people on how to develop capabilities to qualify for cybersecurity roles, and showcase how building a cybersecurity workforce enhances the Nation’s</description>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nist.gov/blogs/cybersecurity-insights/kicking-cybersecurity-career-week-nist</guid>
-      <dc:creator>Susana Barraza</dc:creator>
-      <source url="https://www.nist.gov/blogs/cybersecurity-insights/rss.xml">Cybersecurity Insights</source>
-    </item>
-    <item>
-      <title>How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team</title>
-      <link>https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html</link>
-      <description>Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake.
-
-The call comes in at 4:40 on a Friday. It&amp;apos;s the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes</description>
-      <pubDate>Wed, 14 Oct 2026 17:20:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days</title>
-      <link>https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html</link>
-      <description>A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.
-
-Its researchers built the attack in six days by directing AI agents running OpenAI&amp;apos;s publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs,&amp;amp;nbsp;fixed them, and paid XBOW its top $</description>
-      <pubDate>Wed, 14 Oct 2026 16:49:02 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks</title>
-      <link>https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</link>
-      <description>Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud.&amp;amp;nbsp;
-
-Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking</description>
-      <pubDate>Wed, 14 Oct 2026 16:38:22 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
