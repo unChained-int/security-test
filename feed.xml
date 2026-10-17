@@ -5,9 +5,20 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 17 Oct 2026 03:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:11:17 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants</title>
+      <link>https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</link>
+      <description>Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers&amp;apos; M365 environments.
+
+ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs</description>
+      <pubDate>Sat, 17 Oct 2026 11:46:46 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact</title>
       <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html</link>
@@ -305,6 +316,15 @@ The incident, the AI company said, involved an internal research model part</des
       <pubDate>Fri, 16 Oct 2026 09:05:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cyber-incident-bae-us-bankruptcy/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Inbox flooded with sign-up messages? Email bombing explained</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/</link>
+      <description>If you’re suddenly being overwhelmed with sign-up emails, it could very well be a sign of something more serious</description>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Digital Security</category>
     </item>
     <item>
       <title>Microsoft Patches Two Dozen RCE Flaws in Office</title>
@@ -1116,28 +1136,6 @@ The indictment charges a mix of U.S. citizens and Chinese nationals for their ro
       <category>generative ai</category>
       <category>identity and access management</category>
       <category>prompt injection</category>
-    </item>
-    <item>
-      <title>CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</title>
-      <link>https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability.
-
-The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS</description>
-      <pubDate>Wed, 14 Oct 2026 18:00:42 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution</title>
-      <link>https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html</link>
-      <description>A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client&amp;apos;s memory, and the researcher who reported it turned that into code execution on the uploading machine.
-
-The curl project fixed it on October 14 in&amp;amp;nbsp;curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash</description>
-      <pubDate>Wed, 14 Oct 2026 17:43:36 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
