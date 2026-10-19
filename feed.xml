@@ -5,9 +5,266 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 19 Oct 2026 03:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:12:46 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>One Compromised Login Exposed Millions of California Students’ Records</title>
+      <link>https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/</link>
+      <description>&amp;lt;p&amp;gt;Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/&amp;quot;&amp;gt;One Compromised Login Exposed Millions of California Students&amp;amp;#8217; Records&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 19 Oct 2026 11:55:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>California</category>
+      <category>data breach</category>
+      <category>education</category>
+      <category>Featured</category>
+      <category>school</category>
+    </item>
+    <item>
+      <title>Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack</title>
+      <link>https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/</link>
+      <description>&amp;lt;p&amp;gt;The persistent, stealthy FortiGate implant was deployed against a telecommunications organization.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/&amp;quot;&amp;gt;Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 19 Oct 2026 11:13:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Fortinet</category>
+      <category>PeerStitch</category>
+      <category>telecom</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Training AIs to Solve CAPTCHAs</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html</link>
+      <description>&amp;lt;p&amp;gt;Interesting &amp;lt;a href=&amp;quot;https://arxiv.org/abs/2609.02393&amp;quot;&amp;gt;research&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract&amp;lt;/b&amp;gt;: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither improves with exposure. We study what changes when a solver improves with use. Our system pairs a fine-tuned YOLOv8 detector with an open-weight VLM behind a confidence-based router, and runs entirely from screenshots and operating-system input events, with no browser automation or DOM access. It reaches 85.4% overall and 84.2% macro accuracy across 16 classes, exceeding either component alone. Every answer VLM produces also serves as a training label, so the detector absorbs categories it was never trained for, typically after one or two encounters and without human annotation. The same loop also repairs it. A CAPTCHA operator can perturb images against the publicly released detector and drive its accuracy to 0%, but the perturbations leave VLM untouched, and its labels let the detector recover. Under a year-long simulated arms race in which the CAPTCHA operator re-crafts its perturbations each month, the solver recovers every round, and a cheap ~70%-accurate open-weight teacher hardens it as effectively as a perfect oracle. Visual CAPTCHA defenses that assume a failing bot stays failing therefore understate how quickly an adaptive solver returns...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 19 Oct 2026 11:07:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>captchas</category>
+    </item>
+    <item>
+      <title>ConnectWise Shuts Off Cloud Services After ‘Unauthorized Access’ to Microsoft 365 Tenants</title>
+      <link>https://www.infosecurity-magazine.com/news/connectwise-shuts-off-cloud/</link>
+      <description>Cloud Backup, SaaS Security, and Cloud Management services offline as IT service provider investigates possibility that unknown attackers have full access to client environments via stolen tokens</description>
+      <pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/connectwise-shuts-off-cloud/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic</title>
+      <link>https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html</link>
+      <description>A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits.
+
+&amp;quot;The tools delivered information-stealing malware and backdoors for macOS and Windows machines,&amp;quot; Elastic</description>
+      <pubDate>Mon, 19 Oct 2026 15:36:40 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>US Cybersecurity Job Postings Fall 26%, Hitting Four Year Low</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-job-postings-fall/</link>
+      <description>CyberSN observed a particularly big dip in cybersecurity leadership positions such as CISO and Cybersecurity Director in 2026 compared to 2025</description>
+      <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cybersecurity-job-postings-fall/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>MITRE ATT&amp;amp;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks</title>
+      <link>https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/</link>
+      <description>&amp;lt;p&amp;gt;Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/&amp;quot;&amp;gt;MITRE ATT&amp;amp;#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 19 Oct 2026 09:37:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Uncategorized</category>
+      <category>ATT&amp;amp;CK</category>
+      <category>Featured</category>
+      <category>MITRE</category>
+    </item>
+    <item>
+      <title>Anthropic Acquires Confidential AI Startup Opaque Systems</title>
+      <link>https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/</link>
+      <description>&amp;lt;p&amp;gt;Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/&amp;quot;&amp;gt;Anthropic Acquires Confidential AI Startup Opaque Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 19 Oct 2026 07:45:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Funding/M&amp;amp;A</category>
+      <category>M&amp;amp;A Tracker</category>
+      <category>Acquisition</category>
+      <category>AI</category>
+      <category>Anthropic</category>
+      <category>confidential computing</category>
+      <category>M&amp;amp;A</category>
+      <category>Opaque Systems</category>
+    </item>
+    <item>
+      <title>Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers</title>
+      <link>https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html</link>
+      <description>A flaw in Broadcom&amp;apos;s Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&amp;amp;nbsp;disclosed&amp;amp;nbsp;on October 16.
+
+He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device</description>
+      <pubDate>Mon, 19 Oct 2026 11:59:44 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>The Complete Guide to Vendor Risk Assessment | UpGuard</title>
+      <link>https://www.upguard.com/blog/vendor-risk-assessment</link>
+      <description>Vendor risk assessment in 2026: a 3-step process for teams comparing UpGuard, BitSight, and SecurityScorecard. Scope, evidence, and continuous monitoring.</description>
+      <pubDate>Mon, 19 Oct 2026 06:18:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-risk-assessment</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What Is a Third-Party Risk Assessment? Definition, Process, and Examples | UpGuard</title>
+      <link>https://www.upguard.com/blog/what-is-a-third-party-risk-assessment</link>
+      <description>What is a third-party risk assessment? A definition, what it includes, and how it differs from a vendor risk assessment. From UpGuard Vendor Risk.</description>
+      <pubDate>Mon, 19 Oct 2026 06:08:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/what-is-a-third-party-risk-assessment</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys</title>
+      <link>https://thehackernews.com/2026/10/opencode-console-breach-may-have.html</link>
+      <description>An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.
+
+Console is OpenCode&amp;apos;s optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without</description>
+      <pubDate>Mon, 19 Oct 2026 11:37:08 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/opencode-console-breach-may-have.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Brand Impersonation is moving into the App Store | UpGuard</title>
+      <link>https://www.upguard.com/blog/brand-impersonation-is-moving-into-the-app-store</link>
+      <description>Fake apps in the Apple App Store and Google Play Store. Breach Risk now spots them.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/brand-impersonation-is-moving-into-the-app-store</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Introducing App Store Threat Detection: Visibility Where Brand Monitoring Couldn&amp;apos;t Reach | UpGuard</title>
+      <link>https://www.upguard.com/blog/introducing-app-store-threat-detection-visibility-where-brand-monitoring-couldnt-reach</link>
+      <description>Breach Risk now includes App Store Threat Detection!</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/introducing-app-store-threat-detection-visibility-where-brand-monitoring-couldnt-reach</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is a Cyber Threat? | UpGuard</title>
+      <link>https://www.upguard.com/blog/cyber-threat</link>
+      <description>A cyber threat (or cybersecurity threat) is the possibility of a successful cyber attack that aims to gain unauthorized access, damage, disrupt, or more.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/cyber-threat</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is Cybersecurity Risk? A Thorough Definition | UpGuard</title>
+      <link>https://www.upguard.com/blog/cybersecurity-risk</link>
+      <description>Cybersecurity risk is the risk of a cyber attack or data breach on your organization.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-risk</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Digital Brand Protection in the Age of Impersonation | UpGuard</title>
+      <link>https://www.upguard.com/blog/digital-brand-protection</link>
+      <description>Fight brand impersonation and online fraud. Learn key strategies to protect your digital presence &amp;amp; reputation in today&amp;apos;s cyber threat landscape.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/digital-brand-protection</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Cybersecurity and Social Responsibility: Ethical Considerations | UpGuard</title>
+      <link>https://www.upguard.com/blog/cybersecurity-ethics</link>
+      <description>Learn how ethics plays a part in the cybersecurity industry and other social responsibility considerations.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-ethics</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Cybersecurity Vs. Information Security: What&amp;apos;s the Difference? | UpGuard</title>
+      <link>https://www.upguard.com/blog/cyber-security-information-security</link>
+      <description>Learn about the key differences between cybersecurity and information security in this in-depth post.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/cyber-security-information-security</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>11 Third-Party Risk Management Best Practices in 2026 | UpGuard</title>
+      <link>https://www.upguard.com/blog/11-tprm-best-practices-2024</link>
+      <description>Discover 11 third-party risk management practices your organization should implement in 2026.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/11-tprm-best-practices-2024</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Best Cyber Risk Posture Management (CRPM) Platforms | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-cyber-risk-posture-management-crpm-platforms</link>
+      <description>Learn what Cyber Risk Posture Management (CRPM) is, what it isn&amp;apos;t, and explore the top CRPM platforms built for lean security teams in 2026.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-cyber-risk-posture-management-crpm-platforms</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Compounding Intelligence: The Grid Behind the UpGuard Risk Operations Center | UpGuard</title>
+      <link>https://www.upguard.com/blog/compounding-intelligence-upguards-grid</link>
+      <description>Compounding Intelligence connects vendor, attack surface, and workforce risk in the UpGuard Risk Operations Center, so each signal sharpens the others.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/compounding-intelligence-upguards-grid</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The Evidence Is In: UpGuard Named a Leader in the IDC MarketScape for Worldwide Third-Party Risk Management | UpGuard</title>
+      <link>https://www.upguard.com/blog/upguard-named-leader-in-idc-marketscape</link>
+      <description>UpGuard has been named a Leader in the IDC MarketScape: Worldwide Third-Party Risk Management Services 2026 Vendor Assessment. Find out why.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/upguard-named-leader-in-idc-marketscape</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>The 12 Best Third-Party Risk Management Software Solutions (2026) | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</link>
+      <description>Compare the 12 best TPRM tools of 2026, including UpGuard, SecurityScorecard, Bitsight, OneTrust and Panorays.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-third-party-risk-management-software-solutions</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>What is a Cyber Attack? Common Attack Techniques and Targets | UpGuard</title>
+      <link>https://www.upguard.com/blog/cyber-attack</link>
+      <description>A cyber attack (or cyberattack) is any attempt to expose, alter, disable, destroy, steal or gain unauthorized access to a computer system.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/cyber-attack</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>How to Identify and Strengthen Weak SSL | UpGuard</title>
+      <link>https://www.upguard.com/blog/weak-ssl</link>
+      <description>If your server uses a weak SSL algorithm or an insecure SSL/TLS version, you&amp;apos;ll need to update the system to protect your customers and your assets.</description>
+      <pubDate>Mon, 19 Oct 2026 04:51:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/weak-ssl</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
     <item>
       <title>US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</title>
       <link>https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/</link>
@@ -347,22 +604,6 @@ The incident, the AI company said, involved an internal research model part</des
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>F5, Juniper Networks Patch Critical Vulnerabilities</title>
-      <link>https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Successful exploitation of some of these issues could lead to remote code execution and full device takeover.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/&amp;quot;&amp;gt;F5, Juniper Networks Patch Critical Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 16 Oct 2026 09:54:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>F5</category>
-      <category>Juniper Networks</category>
-      <category>Nginx</category>
-      <category>patches</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Cyber Incident at BAE Systems Disrupts US Federal Bankruptcy Noticing</title>
       <link>https://www.infosecurity-magazine.com/news/cyber-incident-bae-us-bankruptcy/</link>
       <description>Several services of the US Bankruptcy Noticing Center are unavailable due to a cyber incident affecting defense contractor BAE Systems</description>
@@ -380,46 +621,12 @@ The incident, the AI company said, involved an internal research model part</des
       <category>Digital Security</category>
     </item>
     <item>
-      <title>Microsoft Patches Two Dozen RCE Flaws in Office</title>
-      <link>https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/</link>
-      <description>&amp;lt;p&amp;gt;In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/&amp;quot;&amp;gt;Microsoft Patches Two Dozen RCE Flaws in Office&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 16 Oct 2026 07:55:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Microsoft</category>
-      <category>Office</category>
-      <category>patches</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>How to Create a Vendor Risk Summary Report | UpGuard</title>
       <link>https://www.upguard.com/blog/creating-a-vendor-risk-summary-cybersecurity-report</link>
       <description>Learn which sections to include in a vendor risk summary report, what to leave out, and how to create board-ready reports with UpGuard Vendor Risk.</description>
       <pubDate>Fri, 16 Oct 2026 07:18:03 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/creating-a-vendor-risk-summary-cybersecurity-report</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis</title>
-      <link>https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/</link>
-      <description>&amp;lt;p&amp;gt;The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/&amp;quot;&amp;gt;Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 16 Oct 2026 07:12:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Protection</category>
-      <category>Funding/M&amp;amp;A</category>
-      <category>M&amp;amp;A Tracker</category>
-      <category>Acquisition</category>
-      <category>Data Security</category>
-      <category>Featured</category>
-      <category>M&amp;amp;A</category>
-      <category>Proofpoint</category>
-      <category>Varonis</category>
     </item>
     <item>
       <title>China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers</title>
@@ -500,17 +707,6 @@ The rest gets interesting in different ways. A small permission can lead to a bi
       <guid isPermaLink="true">https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Context Is King in the Fight Against Modern Cyberattacks</title>
-      <link>https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/</link>
-      <description>&amp;lt;p&amp;gt;Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/&amp;quot;&amp;gt;Context Is King in the Fight Against Modern Cyberattacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 15 Oct 2026 17:42:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/</guid>
-      <dc:creator>Etay Maor</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Incident Response</category>
     </item>
     <item>
       <title>Measuring Human Cryptanalysis Effort</title>
@@ -877,262 +1073,6 @@ In a report published earlier</description>
       <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/writing-a-cybersecurity-executive-summary</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>12 Cybersecurity Horror Stories of 2026 (No Costume Required) | UpGuard</title>
-      <link>https://www.upguard.com/blog/cybersecurity-horror-stories-2026</link>
-      <description>A warning ignored once becomes a headline. Read more about these 12 real 2026 cybersecurity incidents, and the sign each one gave before it made the news.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cybersecurity-horror-stories-2026</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Top 10 Security Events of 2025 | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-security-events-of-2025</link>
-      <description>Recap the ten most impactful events that reshaped the cybersecurity industry this year and the critical lessons each had to teach us. Read more here.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-security-events-of-2025</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Cache Explained: How It Works, Types, and When to Clear It | UpGuard</title>
-      <link>https://www.upguard.com/blog/cache</link>
-      <description>A cache is a temporary data storage location that stores copies of frequently accessed data or files. Learn more about its types and uses.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cache</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Detect Data Leakage: A Full Guide to Data Leak Detection | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-detect-and-prevent-data-leakage</link>
-      <description>Data leaks are an increasingly critical cybersecurity problem. Learn how to detect and prevent data leakage and compare vendor solutions.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-detect-and-prevent-data-leakage</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Your Password Was Exposed in a Non-Google Data Breach: How to Respond | UpGuard</title>
-      <link>https://www.upguard.com/blog/your-password-was-exposed-in-a-non-google-data-breach</link>
-      <description>Learn how to respond to the Google Chrome alert: “Your password was exposed in a non-Google data breach”.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/your-password-was-exposed-in-a-non-google-data-breach</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>This Password Has Appeared in a Data Leak: How to Respond | UpGuard</title>
-      <link>https://www.upguard.com/blog/this-password-has-appeared-in-a-data-leak</link>
-      <description>Received a data leak alert on your iPhone or iPad? Learn more about what it means and what to do next.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/this-password-has-appeared-in-a-data-leak</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>6 Most Common Causes of Data Leaks | UpGuard</title>
-      <link>https://www.upguard.com/blog/common-data-leak-causes</link>
-      <description>Learn about the common cause of data leaks and how to prevent these critical data breach risks.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/common-data-leak-causes</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is the NIST Cybersecurity Framework (NIST CSF)?  | UpGuard</title>
-      <link>https://www.upguard.com/blog/nist-cybersecurity-framework</link>
-      <description>What is the NIST CSF? Learn its phases, compare tools, and see how UpGuard helps your business improve security posture and streamline compliance.</description>
-      <pubDate>Thu, 15 Oct 2026 01:20:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/nist-cybersecurity-framework</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</link>
-      <description>CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.</description>
-      <pubDate>Wed, 14 Oct 2026 21:20:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Yam Store: The Phishing Network Behind a Billion Messages</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages</link>
-      <description>A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.</description>
-      <pubDate>Wed, 14 Oct 2026 20:57:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Anthropic &amp;apos;SneakPeek&amp;apos; Flaw Is a Silent Zero-Click Threat</title>
-      <link>https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat</link>
-      <description>A bug in Claude Code Desktop&amp;apos;s preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.</description>
-      <pubDate>Wed, 14 Oct 2026 20:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</title>
-      <link>https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html</link>
-      <description>Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance&amp;apos;s operating system, Cisco&amp;amp;nbsp;said in an advisory&amp;amp;nbsp;on Wednesday.
-
-The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization&amp;apos;s email for spam, malware,</description>
-      <pubDate>Thu, 15 Oct 2026 00:08:56 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App</title>
-      <link>https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html</link>
-      <description>Attackers exploited a flaw in an optional Nextcloud app,&amp;amp;nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&amp;amp;nbsp;reported the issue on GitHub, with the first logged attack on September 10.
-
-A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw</description>
-      <pubDate>Wed, 14 Oct 2026 23:08:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages</title>
-      <link>https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html</link>
-      <description>Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.
-
-&amp;quot;Since January 2026, the threat actors behind these kits have been responsible for</description>
-      <pubDate>Wed, 14 Oct 2026 22:39:15 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PCI SSC Celebrates World Standards Day and 20 Years of Securing Payment Data</title>
-      <link>https://blog.pcisecuritystandards.org/pci-ssc-celebrates-world-standards-day-and-20-years-of-securing-payment-data</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/pci-ssc-celebrates-world-standards-day-and-20-years-of-securing-payment-data&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;PCI SSC Celebrates World Standards Day and 20 Years of Securing Payment Data&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/standards-blog.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Every year on 14 October, &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.worldstandardsday.org/home.html&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;World Standards Day&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; recognizes the people and organizations working together to develop standards that make our world safer, more connected, and more resilient. For the PCI Security Standards Council, this year’s celebration carries special significance: for 20 years, we have been setting payment &amp;lt;span style=&amp;quot;color: #0a5d66;&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;https://www.pcisecuritystandards.org/standards/&amp;quot; style=&amp;quot;font-weight: bold; color: #0a5d66;&amp;quot;&amp;gt;security standards&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt; that help protect payment data around the globe.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 14 Oct 2026 16:47:55 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/pci-ssc-celebrates-world-standards-day-and-20-years-of-securing-payment-data</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>PCI SSC</category>
-      <category>Participation</category>
-    </item>
-    <item>
-      <title>U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud</title>
-      <link>https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html</link>
-      <description>The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea&amp;apos;s fraudulent remote IT worker (ITW) scheme.
-
-The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud</description>
-      <pubDate>Wed, 14 Oct 2026 22:04:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html</link>
-      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://www.attentionconferences.com/conferences/2026-forum&amp;quot;&amp;gt;ATTENTION: Democracy, Rebuilt&amp;lt;/a&amp;gt; in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://www.eventbrite.ca/e/conversations-in-computing-bruce-schneier-on-hacking-ai-tickets-1998780074007&amp;quot;&amp;gt;University of Toronto&amp;lt;/a&amp;gt; in Toronto, Ontario, Canada, at 5 PM ET on October 22, 2026.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://unpromptedcon.org/&amp;quot;&amp;gt;[un]prompted&amp;lt;/a&amp;gt; in San Francisco, California. The event runs October 27–29, 2026, and my talk is at 11:35 AM PT on Thursday, October 29.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://luma.com/a3pk9zbg&amp;quot;&amp;gt;Catalyst Summit&amp;lt;/a&amp;gt; in Brampton, Ontario, Canada, on Wednesday, November 18, 2026...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
-      <pubDate>Wed, 14 Oct 2026 16:02:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>Schneier news</category>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday Fixes 1,413 Flaws: Windows Zero-Day Already Under Attack</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-october-2026-patch-tuesday/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft&amp;apos;s October 2026 Patch Tuesday fixes 1,413 vulnerabilities, including an exploited Windows zero-day and critical Outlook security flaws.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-october-2026-patch-tuesday/&amp;quot;&amp;gt;Microsoft Patch Tuesday Fixes 1,413 Flaws: Windows Zero-Day Already Under Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 14 Oct 2026 15:45:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-october-2026-patch-tuesday/</guid>
-      <dc:creator>Matt Gonzales</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Data Management</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>Software</category>
-      <category>Windows</category>
-      <category>cybersecurity</category>
-      <category>it security</category>
-      <category>microsoft outlook</category>
-      <category>Microsoft Patch Tuesday</category>
-      <category>Microsoft Security Updates</category>
-      <category>vulnerability management</category>
-      <category>Windows 11</category>
-      <category>Windows Zero-Day</category>
-    </item>
-    <item>
-      <title>The Future of AI Cryptanalysis</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html</link>
-      <description>&amp;lt;p&amp;gt;Matthew Green &amp;lt;a href=&amp;quot;https://x.com/matthew_d_green/status/2107992246360649879&amp;quot;&amp;gt;has&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://x.com/matthew_d_green/status/2108278850555674975?s=46&amp;quot;&amp;gt;been&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://x.com/matthew_d_green/status/2108552414978564418&amp;quot;&amp;gt;writing&amp;lt;/a&amp;gt; a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 14 Oct 2026 14:24:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>AI</category>
-      <category>cryptanalysis</category>
-      <category>cryptography</category>
-    </item>
-    <item>
-      <title>U.K. Sanctions Cryptomus for RU Money Laundering</title>
-      <link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</link>
-      <description>The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.</description>
-      <pubDate>Wed, 14 Oct 2026 14:22:49 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>A Little Sunshine</category>
-      <category>Ne&amp;apos;er-Do-Well News</category>
-      <category>Russia&amp;apos;s War on Ukraine</category>
-      <category>Web Fraud 2.0</category>
-      <category>Certa Payments</category>
-      <category>Chainalysis</category>
-      <category>Cryptomus</category>
-      <category>Heleket</category>
-      <category>Richard Sanders</category>
-      <category>TokenSpot</category>
-      <category>TRM Labs</category>
-      <category>Tsunami Payments</category>
-      <category>VexPay</category>
-      <category>WS Management and Advisory Corporation</category>
-      <category>Xeltox Enterprises</category>
-    </item>
-    <item>
-      <title>Cyberattack on Connected Fridges in France</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html</link>
-      <description>&amp;lt;p&amp;gt;Another IoT &amp;lt;a href=&amp;quot;https://www.bbc.com/news/articles/crq5nzxv9q4yo&amp;quot;&amp;gt;cyberattack&amp;lt;/a&amp;gt;, this one in France:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;[&amp;amp;#8230;]&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise slightly. But the hackers ordered the units to heat up and stay hot, although Danfoss did not confirm any reports about just how warm the fridges and freezers could become in that process.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Danfoss said the affected cold units were older models whose security software could not be updated to ward off a risk they had identified...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Wed, 14 Oct 2026 14:10:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>cyberattack</category>
-      <category>cybercrime</category>
-      <category>France</category>
-      <category>Internet of Things</category>
-    </item>
-    <item>
-      <title>ROMULUS Malware Server Leverages ClickFix to Deliver Multiple Payloads</title>
-      <link>https://www.infosecurity-magazine.com/news/romulus-malware-clickfix-deliver/</link>
-      <description>Researchers at Forescout said the discovery shows how ClickFix is evolving from a delivery technique into full-blown cyber-criminal infrastructure</description>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/romulus-malware-clickfix-deliver/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
