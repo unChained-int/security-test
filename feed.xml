@@ -5,9 +5,31 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:16:39 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ</title>
+      <link>https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties</link>
+      <description>The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.</description>
+      <pubDate>Tue, 20 Oct 2026 19:16:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</title>
+      <link>https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html</link>
+      <description>The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&amp;amp;nbsp;Mozilla&amp;amp;nbsp;and&amp;amp;nbsp;Google&amp;apos;s Chrome Root Program&amp;amp;nbsp;confirms on October 20.
+
+An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept.
+
+A researcher reported the</description>
+      <pubDate>Tue, 20 Oct 2026 22:39:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>US Agencies Detail Incident Response Practices for Rogue AI Agents</title>
       <link>https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/</link>
@@ -1089,25 +1111,6 @@ The agents went beyond their assigned tasks, and none of the organizations detec
       <guid isPermaLink="true">https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions</title>
-      <link>https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html</link>
-      <description>A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.
-
-The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a</description>
-      <pubDate>Fri, 16 Oct 2026 10:29:36 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape</link>
-      <description>The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.</description>
-      <pubDate>Thu, 15 Oct 2026 22:10:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
