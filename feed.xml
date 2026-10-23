@@ -5,9 +5,75 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:01:18 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Friday Squid Blogging: Increasing Squid Populations</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html</link>
+      <description>&amp;lt;p&amp;gt;This &amp;lt;a href=&amp;quot;https://www.sciencealert.com/squid-are-taking-over-the-ocean-and-not-for-the-reason-you-might-think&amp;quot;&amp;gt;article&amp;lt;/a&amp;gt; in &amp;lt;i&amp;gt;Nature&amp;lt;/i&amp;gt; argues that it&amp;amp;#8217;s due to an overfishing of predators and warming sea temperatures.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 21:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
+    </item>
+    <item>
+      <title>Exposed to PHP2Shell? Cyber Experts Weigh in With Advice</title>
+      <link>https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice</link>
+      <description>Fixing the critical PHP flaws is not as simple as clicking &amp;amp;quot;Update.&amp;amp;quot; Here&amp;apos;s how to assess your risk, and what you can do to protect yourself.</description>
+      <pubDate>Fri, 23 Oct 2026 19:41:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
+      <link>https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</link>
+      <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.
+
+The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report</description>
+      <pubDate>Sat, 24 Oct 2026 00:20:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
+      <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
+      <description>Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month.
+
+GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers.
+
+Ruby says any</description>
+      <pubDate>Fri, 23 Oct 2026 23:24:08 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
+      <link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
+      <description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.
+
+Central to the operation is an &amp;quot;Autonomous Red Team Kill Chain Framework&amp;quot; referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an</description>
+      <pubDate>Fri, 23 Oct 2026 23:20:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Tools Are Generating Massive Attacks for Little Cost</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost</link>
+      <description>One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.</description>
+      <pubDate>Fri, 23 Oct 2026 17:26:59 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</title>
       <link>https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</link>
@@ -76,7 +142,7 @@
     <item>
       <title>AI Agents as Insider Threats: Inside Microsoft&amp;apos;s Bet on a Unified Security Stack</title>
       <link>https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack</link>
-      <description>Microsoft&amp;apos;s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.</description>
+      <description>Microsoft&amp;apos;s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.</description>
       <pubDate>Fri, 23 Oct 2026 11:38:28 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack</guid>
       <dc:creator>Jeffrey Schwartz</dc:creator>
@@ -94,7 +160,7 @@ The new issue, assigned CVE-2026-115560, affects only web applications configure
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+      <title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
       <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
       <description>The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.
 
@@ -447,7 +513,7 @@ According to multiple reports from the Associated Press, the New York Times, Reu
     <item>
       <title>As AI Risks Grow, Insurers Split on Covering the Damage</title>
       <link>https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage</link>
-      <description>Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.</description>
+      <description>Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.</description>
       <pubDate>Thu, 22 Oct 2026 14:21:22 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage</guid>
       <dc:creator>Stephen Lawton</dc:creator>
@@ -951,81 +1017,6 @@ During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration te
       <pubDate>Wed, 21 Oct 2026 20:03:14 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>EU Website Outages Follow Critical PHP Flaws: What IT Teams Should Know</title>
-      <link>https://www.techrepublic.com/article/news-critical-php-flaws-government-websites-patches-europe-emea/</link>
-      <description>&amp;lt;p&amp;gt;Critical PHP flaws forced European government websites offline. Learn which PHP versions need patches and what IT teams should do.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-critical-php-flaws-government-websites-patches-europe-emea/&amp;quot;&amp;gt;EU Website Outages Follow Critical PHP Flaws: What IT Teams Should Know&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 21 Oct 2026 19:30:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-critical-php-flaws-government-websites-patches-europe-emea/</guid>
-      <dc:creator>AI Cerrudo</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>EMEA</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>cve-2026-109618</category>
-      <category>cve-2026-109619</category>
-      <category>patch management</category>
-      <category>php</category>
-      <category>php security</category>
-      <category>remote code execution</category>
-      <category>vulnerability management</category>
-      <category>web security</category>
-    </item>
-    <item>
-      <title>&amp;apos;PHP2Shell&amp;apos; Bugs Signal Red Alert for Security Industry</title>
-      <link>https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry</link>
-      <description>Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.</description>
-      <pubDate>Wed, 21 Oct 2026 19:19:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
-      <link>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</link>
-      <description>GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.
-
-The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an</description>
-      <pubDate>Thu, 22 Oct 2026 00:27:34 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</title>
-      <link>https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</link>
-      <description>The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.
-
-The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the</description>
-      <pubDate>Wed, 21 Oct 2026 23:31:57 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors</link>
-      <description>A developer&amp;apos;s GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.</description>
-      <pubDate>Wed, 21 Oct 2026 16:50:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>OpenAI&amp;apos;s GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
-      <link>https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</link>
-      <description>OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.
-
-The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment.
-
-&amp;quot;A GPT-6.1 Sol agent repairing an evaluation</description>
-      <pubDate>Wed, 21 Oct 2026 22:03:47 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
