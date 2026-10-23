@@ -5,9 +5,192 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:29:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:03:20 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</title>
+      <link>https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/</link>
+      <description>&amp;lt;p&amp;gt;The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/&amp;quot;&amp;gt;China APT Uses AI Pentest Tool Artex in ConnectWise Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 10:31:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Malware &amp;amp; Threats</category>
+      <category>AI</category>
+      <category>China</category>
+      <category>China APT</category>
+      <category>ConnectWise</category>
+      <category>Microsoft</category>
+    </item>
+    <item>
+      <title>Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise</title>
+      <link>https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/</link>
+      <description>Security researchers identified attempts to access corporate networks which have been linked to a major Microsoft 365-targeted BEC campaign using phishing, stolen session tokens and social engineering</description>
+      <pubDate>Fri, 23 Oct 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Attacks on Tech Firms Behind Most Third-Party Data Breach Victims</title>
+      <link>https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/</link>
+      <description>Kroll found that 69% of data breach victims in the past year were affected by a third-party breach, with attacks on tech companies the most common cause</description>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months</title>
+      <link>https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</link>
+      <description>&amp;lt;p&amp;gt;The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/&amp;quot;&amp;gt;Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 09:58:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Arista</category>
+      <category>exploited</category>
+      <category>vulnerability</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
+      <link>https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html</link>
+      <description>Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.
+
+The flaw,&amp;amp;nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file&amp;apos;s name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.</description>
+      <pubDate>Fri, 23 Oct 2026 15:06:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data</title>
+      <link>https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html</link>
+      <description>Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&amp;amp;nbsp;demonstrated.
+
+Their &amp;quot;Node2Shell&amp;quot; proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw</description>
+      <pubDate>Fri, 23 Oct 2026 14:10:43 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances</title>
+      <link>https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</link>
+      <description>AI agents paying for API calls with the&amp;amp;nbsp;x402 SDKs&amp;amp;nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&amp;amp;nbsp;security firm V12 said&amp;amp;nbsp;on October 22.
+
+The cause was the SDKs&amp;apos; default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set</description>
+      <pubDate>Fri, 23 Oct 2026 14:05:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>11 Million Impacted by Capcom Data Breach</title>
+      <link>https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</link>
+      <description>&amp;lt;p&amp;gt;The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/&amp;quot;&amp;gt;11 Million Impacted by Capcom Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 08:34:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Capcom</category>
+      <category>data breach</category>
+    </item>
+    <item>
+      <title>Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’</title>
+      <link>https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</link>
+      <description>&amp;lt;p&amp;gt;In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/&amp;quot;&amp;gt;Quest Diagnostics Reports Cyber Breach Affecting &amp;amp;#8216;Certain Patient Records&amp;amp;#8217;&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 08:25:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+      <category>Quest Diagnostics</category>
+    </item>
+    <item>
+      <title>LiteLLM Compromised in Fresh Supply Chain Attack</title>
+      <link>https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</link>
+      <description>&amp;lt;p&amp;gt;Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/&amp;quot;&amp;gt;LiteLLM Compromised in Fresh Supply Chain Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 08:10:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Supply Chain Security</category>
+      <category>AI</category>
+      <category>Featured</category>
+      <category>LiteLLM</category>
+      <category>supply chain attack</category>
+    </item>
+    <item>
+      <title>Atlassian Patches 75 Flaws in Data Center and Server Products</title>
+      <link>https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/</link>
+      <description>&amp;lt;p&amp;gt;Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/&amp;quot;&amp;gt;Atlassian Patches 75 Flaws in Data Center and Server Products&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 07:54:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Atlassian</category>
+      <category>Patch</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
+      <link>https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</link>
+      <description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought.
+
+The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote</description>
+      <pubDate>Fri, 23 Oct 2026 13:10:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Iran’s Prince of Persia APT Hosts C&amp;amp;C in US for First Time Since 2016</title>
+      <link>https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/</link>
+      <description>&amp;lt;p&amp;gt;After a three-month lull, Prince of Persia hid a Tornado C&amp;amp;#038;C server on US shared hosting, its first US-based server since 2016.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/&amp;quot;&amp;gt;Iran&amp;amp;#8217;s Prince of Persia APT Hosts C&amp;amp;#038;C in US for First Time Since 2016&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 06:39:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Nation-State</category>
+      <category>APT</category>
+      <category>Featured</category>
+      <category>Infy</category>
+      <category>Iran</category>
+      <category>Prince of Persia</category>
+    </item>
+    <item>
+      <title>The Best Supplier Risk Management Software in 2026 | UpGuard</title>
+      <link>https://www.upguard.com/blog/best-supplier-risk-management-software</link>
+      <description>Discover the best supplier risk management software in 2026, including UpGuard Vendor Risk, Bitsight, and Riskconect.</description>
+      <pubDate>Fri, 23 Oct 2026 06:03:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/best-supplier-risk-management-software</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>State Bank of India Suffers a Customer PII Data Leak</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak</link>
+      <description>Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.</description>
+      <pubDate>Fri, 23 Oct 2026 03:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Zoomtopia 2026: Zoom Introduces AI Agents, New Security Controls</title>
       <link>https://www.techrepublic.com/article/news-zoom-ai-agents-conversation-to-completion/</link>
@@ -147,6 +330,7 @@ According to multiple reports from the Associated Press, the New York Times, Reu
       <dc:creator>Kevin Townsend</dc:creator>
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Hacker Conversations</category>
+      <category>Featured</category>
       <category>hacker</category>
     </item>
     <item>
@@ -229,23 +413,6 @@ In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,46
       <category>vulnerability</category>
     </item>
     <item>
-      <title>Tech and Security Companies Respond to PHP2Shell Vulnerabilities</title>
-      <link>https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/&amp;quot;&amp;gt;Tech and Security Companies Respond to PHP2Shell Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Oct 2026 12:20:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Incident Response</category>
-      <category>Vulnerabilities</category>
-      <category>Incident response</category>
-      <category>PHP</category>
-      <category>PHP2Shell</category>
-      <category>security product vulnerability</category>
-      <category>security products</category>
-    </item>
-    <item>
       <title>Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</title>
       <link>https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html</link>
       <description>Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed &amp;quot;anomalous activity&amp;quot; related to systems that store customer environment variables.
@@ -265,21 +432,6 @@ Upon further investigation, the company found that an unauthorized third party m
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Splunk, SolarWinds Release Fresh Security Updates</title>
-      <link>https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/</link>
-      <description>&amp;lt;p&amp;gt;Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/&amp;quot;&amp;gt;Splunk, SolarWinds Release Fresh Security Updates&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Oct 2026 10:45:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>patches</category>
-      <category>SolarWinds</category>
-      <category>Splunk</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL</title>
       <link>https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html</link>
       <description>A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer&amp;apos;s Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer&amp;apos;s own access.
@@ -297,35 +449,6 @@ Anomaly, the company behind OpenCode, fixed the flaw in&amp;amp;nbsp;version 1.1
       <pubDate>Thu, 22 Oct 2026 10:10:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Cisco Patches 34 Vulnerabilities Across Multiple Products</title>
-      <link>https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/</link>
-      <description>&amp;lt;p&amp;gt;Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/&amp;quot;&amp;gt;Cisco Patches 34 Vulnerabilities Across Multiple Products&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Oct 2026 10:05:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Cisco</category>
-      <category>Patch</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>PHP2Shell Exploitation Started Days Before Patches</title>
-      <link>https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/</link>
-      <description>&amp;lt;p&amp;gt;Initial attempts were observed on October 17, and mass activity began shortly after patches were released.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/&amp;quot;&amp;gt;PHP2Shell Exploitation Started Days Before Patches&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Oct 2026 09:48:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>PHP</category>
-      <category>PHP2Shell</category>
     </item>
     <item>
       <title>Chrome Adds Suspicious Site Warnings and ClickFix Protection</title>
@@ -380,38 +503,6 @@ Each supported line has one fixed version:&amp;amp;nbsp;</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU</title>
-      <link>https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/</link>
-      <description>&amp;lt;p&amp;gt;Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/&amp;quot;&amp;gt;Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:38:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Featured</category>
-      <category>Oracle</category>
-      <category>Oracle CPU</category>
-      <category>patches</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook</title>
-      <link>https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/</link>
-      <description>&amp;lt;p&amp;gt;The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/&amp;quot;&amp;gt;Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:26:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Protection</category>
-      <category>Privacy &amp;amp; Compliance</category>
-      <category>fine</category>
-      <category>Meta</category>
-      <category>New Mexico</category>
-      <category>privacy</category>
     </item>
     <item>
       <title>New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification</title>
@@ -814,22 +905,6 @@ The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Dock
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections</title>
-      <link>https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/</link>
-      <description>&amp;lt;p&amp;gt;Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/&amp;quot;&amp;gt;Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Protection</category>
-      <category>Risk Management</category>
-      <category>Chrome</category>
-      <category>ClickFix</category>
-      <category>HTTP</category>
-      <category>security feature</category>
-    </item>
-    <item>
       <title>OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors</link>
       <description>A developer&amp;apos;s GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.</description>
@@ -956,90 +1031,6 @@ As part of</description>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports</title>
-      <link>https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html</link>
-      <description>Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result.
-
-Proofpoint shared several examples of the shift at its Protect 2026 conference.</description>
-      <pubDate>Wed, 21 Oct 2026 17:23:34 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Workshop on Economics and Information Security (WEIS) Archive</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html</link>
-      <description>&amp;lt;p&amp;gt;There&amp;amp;#8217;s a new &amp;lt;a href=&amp;quot;https://papers.econinfosec.org&amp;quot;&amp;gt;archive&amp;lt;/a&amp;gt; of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS).&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Really nice resource. It&amp;amp;#8217;s fun to reread my &amp;lt;a href=&amp;quot;https://papers.econinfosec.org/papers/weis2002/weis2002_02_computer-security-its-the-economics-stupid-position-paper.doc&amp;quot;&amp;gt;2002&amp;lt;/a&amp;gt; essay on the economics of information security.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 21 Oct 2026 11:02:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>conferences</category>
-      <category>economics of security</category>
-    </item>
-    <item>
-      <title>SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/safepay-compromised-critical/</link>
-      <description>A new CISA advisory warns of the threat posed by SafePay to businesses and critical infrastructure, and urges defenders to take action to mitigate the group’s tactics</description>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/safepay-compromised-critical/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn&amp;apos;t</title>
-      <link>https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html</link>
-      <description>You cannot fully block the two critical PHP flaws called PHP2Shell before today&amp;apos;s fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says.
-
-PHP will release the fix at&amp;amp;nbsp;14:00 UTC on October 21&amp;amp;nbsp;for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your</description>
-      <pubDate>Wed, 21 Oct 2026 16:06:53 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The Harness Is the Hard Part of Agentic Pentesting</title>
-      <link>https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html</link>
-      <description>An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness is where the engineering in AI pentesting sits. The Hugging Face intrusion OpenAI disclosed in July</description>
-      <pubDate>Wed, 21 Oct 2026 16:02:40 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections</title>
-      <link>https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html</link>
-      <description>Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.
-
-Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to an SSH server made through Tor between October 1 and 5, after accepting the interception</description>
-      <pubDate>Wed, 21 Oct 2026 16:00:27 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/</link>
-      <description>Two critical vulnerabilities in PHP were leaked one day before their scheduled disclosure and security patches</description>
-      <pubDate>Wed, 21 Oct 2026 10:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
-      <link>https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</link>
-      <description>This story is developing and was written before PHP&amp;apos;s scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.
-
-PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.
-
-⚡</description>
-      <pubDate>Wed, 21 Oct 2026 14:35:17 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
