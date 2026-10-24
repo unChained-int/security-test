@@ -5,9 +5,42 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:25:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
+      <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
+      <description>A memory-corruption flaw in Google&amp;apos;s Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&amp;amp;nbsp;Brotli&amp;amp;nbsp;and&amp;amp;nbsp;brotlicffi&amp;amp;nbsp;packages, and Envoy proxies set up to decompress Brotli.
+
+Tracked as&amp;amp;nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program&amp;apos;s memory, potentially</description>
+      <pubDate>Sat, 24 Oct 2026 16:39:29 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline</title>
+      <link>https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html</link>
+      <description>LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.
+
+&amp;quot;On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of</description>
+      <pubDate>Sat, 24 Oct 2026 16:33:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads</title>
+      <link>https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html</link>
+      <description>Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.
+
+&amp;quot;You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,</description>
+      <pubDate>Sat, 24 Oct 2026 16:06:33 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet</title>
       <link>https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html</link>
@@ -18,17 +51,6 @@ The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free a
 Popcorn Time was</description>
       <pubDate>Sat, 24 Oct 2026 14:34:24 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
-      <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
-      <description>A memory-corruption flaw in Google&amp;apos;s Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&amp;amp;nbsp;Brotli&amp;amp;nbsp;and&amp;amp;nbsp;brotlicffi&amp;amp;nbsp;packages, and Envoy proxies set up to decompress Brotli.
-
-Tracked as&amp;amp;nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program&amp;apos;s memory, potentially</description>
-      <pubDate>Sat, 24 Oct 2026 14:15:56 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
@@ -1047,22 +1069,6 @@ During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration te
       <description>Learn the differences between data leaks and data breaches and how to apply this understanding to your cybersecurity program in 2022</description>
       <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/data-breach-vs-data-leak</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is a Data Leak? Stop Giving Cybercriminals Free Access | UpGuard</title>
-      <link>https://www.upguard.com/blog/data-leak</link>
-      <description>Data leaks are an overlooked attack vector that increase your risk of suffering a data breach. Learn what they are and how to shut them down quickly.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/data-leak</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Data Loss Prevention (DLP)? | UpGuard</title>
-      <link>https://www.upguard.com/blog/data-loss-prevention</link>
-      <description>This is a complete overview of data loss prevention (DLP). Learn about DLP best practices in this in-depth post.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/data-loss-prevention</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
