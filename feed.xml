@@ -5,9 +5,47 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:19:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet</title>
+      <link>https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html</link>
+      <description>Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.
+
+The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent.
+
+Popcorn Time was</description>
+      <pubDate>Sat, 24 Oct 2026 14:34:24 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
+      <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
+      <description>A memory-corruption flaw in Google&amp;apos;s Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&amp;amp;nbsp;Brotli&amp;amp;nbsp;and&amp;amp;nbsp;brotlicffi&amp;amp;nbsp;packages, and Envoy proxies set up to decompress Brotli.
+
+Tracked as&amp;amp;nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program&amp;apos;s memory, potentially</description>
+      <pubDate>Sat, 24 Oct 2026 14:15:56 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud</title>
+      <link>https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.
+
+The critical-severity vulnerabilities are listed below -
+
+
+  CVE-2026-110447 (CVSS score: 9.2) - An operating</description>
+      <pubDate>Sat, 24 Oct 2026 11:55:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Increasing Squid Populations</title>
       <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html</link>
@@ -94,6 +132,47 @@ Central to the operation is an &amp;quot;Autonomous Red Team Kill Chain Framewor
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Malware &amp;amp; Threats</category>
       <category>In Other News</category>
+    </item>
+    <item>
+      <title>This Week in Tech: AI Agents Clock In as Apple Buyers Wait and IT Scrambles</title>
+      <link>https://www.techrepublic.com/article/this-week-in-tech-ai-agents-clock-in-as-apple-buyers-wait-and-it-scrambles/</link>
+      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from Oct. 19–23.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/this-week-in-tech-ai-agents-clock-in-as-apple-buyers-wait-and-it-scrambles/&amp;quot;&amp;gt;This Week in Tech: AI Agents Clock In as Apple Buyers Wait and IT Scrambles&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 23 Oct 2026 14:02:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/this-week-in-tech-ai-agents-clock-in-as-apple-buyers-wait-and-it-scrambles/</guid>
+      <dc:creator>TechRepublic Staff</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>AI Governance &amp;amp; Policy</category>
+      <category>Anthropic</category>
+      <category>Apple</category>
+      <category>Artificial Intelligence</category>
+      <category>Claude</category>
+      <category>Cybersecurity</category>
+      <category>Data Security</category>
+      <category>E-Commerce</category>
+      <category>Ecommerce</category>
+      <category>Google</category>
+      <category>Hardware</category>
+      <category>Meta</category>
+      <category>Microsoft</category>
+      <category>Networking</category>
+      <category>OpenAI</category>
+      <category>Privacy</category>
+      <category>Smartphones</category>
+      <category>Tech Regulation</category>
+      <category>Weekly Roundup</category>
+      <category>agentic ai</category>
+      <category>ai agent security</category>
+      <category>claude duet</category>
+      <category>Daily Tech Insider</category>
+      <category>deepseek federal ban</category>
+      <category>gitlab vulnerability</category>
+      <category>iphone duo</category>
+      <category>meta privacy penalty</category>
+      <category>Newsletter Roundup</category>
+      <category>perplexity computer</category>
+      <category>php2shell</category>
+      <category>safepay ransomware</category>
     </item>
     <item>
       <title>Why Caribbean Threats Cascade Into Global Cyber-Risk</title>
@@ -985,39 +1064,6 @@ During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration te
       <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/data-loss-prevention</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>DNS Security Extensions (DNSSEC) and Cybersecurity Risk | UpGuard</title>
-      <link>https://www.upguard.com/blog/dnssec-risk</link>
-      <description>DNSSEC creates additional security for your domain, protecting against a variety of DNS-related attacks.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/dnssec-risk</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Data Loss vs. Data Leaks: What&amp;apos;s the Difference? | UpGuard</title>
-      <link>https://www.upguard.com/blog/data-loss-vs-data-leaks</link>
-      <description>Data loss and data leaks are two different events that place your sensitive at risk. Learn what the differences are and how to mitigate each incident.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/data-loss-vs-data-leaks</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>TiDB Breach Exposes Flawed Cloud Security Assumptions</title>
-      <link>https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security</link>
-      <description>Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.</description>
-      <pubDate>Wed, 21 Oct 2026 21:15:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Marvell, Microsoft &amp;amp;amp; Oracle Work to Standardize Data Center Hardware Security</title>
-      <link>https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security</link>
-      <description>The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.</description>
-      <pubDate>Wed, 21 Oct 2026 20:14:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
