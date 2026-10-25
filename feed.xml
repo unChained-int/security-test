@@ -5,9 +5,33 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 25 Oct 2026 15:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:24:37 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</title>
+      <link>https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html</link>
+      <description>A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.
+
+The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network&amp;apos;s access rules permit to connect to the target.
+
+The findings were</description>
+      <pubDate>Sun, 25 Oct 2026 23:14:09 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking</title>
+      <link>https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</link>
+      <description>Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.
+
+&amp;quot;In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor</description>
+      <pubDate>Sun, 25 Oct 2026 22:49:46 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</title>
       <link>https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/</link>
@@ -1059,22 +1083,6 @@ During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration te
       <description>Learn about the common cause of data leaks and how to prevent these critical data breach risks.</description>
       <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/common-data-leak-causes</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Attack Surface Management Tools and Vendors for 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-attack-surface-management-software-solutions</link>
-      <description>Explore the 12 best attack surface management (ASM) tools for 2026. Compare top vendors on pricing transparency, fit for lean, and a 2-week POC test plan.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-attack-surface-management-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Create a Secure Password in 2026: The Password Security Checklist | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-password-security-checklist</link>
-      <description>Learn how to create a secure password and keep your passwords secure with this in-depth guide.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-password-security-checklist</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
