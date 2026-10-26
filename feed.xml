@@ -5,9 +5,156 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 03:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:18:15 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Proofpoint Joins Microsoft Integrated Cloud Email Security (ICES) Ecosystem</title>
+      <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem</link>
+      <description/>
+      <pubDate>Mon, 26 Oct 2026 16:14:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem</guid>
+      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
+      <title>Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</title>
+      <link>https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</link>
+      <description>&amp;lt;p&amp;gt;The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/&amp;quot;&amp;gt;Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 11:47:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Mobile &amp;amp; Wireless</category>
+      <category>arrested</category>
+      <category>hacker</category>
+      <category>Netherlands</category>
+      <category>NFC</category>
+      <category>relay attack</category>
+    </item>
+    <item>
+      <title>Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses</title>
+      <link>https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html</link>
+      <description>Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view.
+
+SOC teams often first see the shape of an intrusion</description>
+      <pubDate>Mon, 26 Oct 2026 16:53:56 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Bias in Qwen3-Coder Model</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html</link>
+      <description>&amp;lt;p&amp;gt;Interesting &amp;lt;a href=&amp;quot;https://www.hirundo.io/blog/qwen3-coder-vulnerabilities&amp;quot;&amp;gt;research&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&amp;amp;#8217;s weights, and that removing the model&amp;amp;#8217;s CCP alignment removes it.&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;One word tilts the code against Americans. Ask for the app &amp;amp;#8220;for a US defense contractor&amp;amp;#8221; instead of &amp;amp;#8220;for a Chinese defense contractor&amp;amp;#8221;, and Qwen3-Coder is 19% more likely to hand back an app that can be hacked.
+...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 11:03:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>bias</category>
+      <category>China</category>
+      <category>hacking</category>
+    </item>
+    <item>
+      <title>Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages</title>
+      <link>https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</link>
+      <description>&amp;lt;p&amp;gt;An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/&amp;quot;&amp;gt;Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 10:21:57 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Broccoli2Shell</category>
+      <category>Brotli</category>
+      <category>Featured</category>
+      <category>HTTP2Shell</category>
+      <category>Node2Shell</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database</title>
+      <link>https://www.infosecurity-magazine.com/news/blue-initiative-maritime/</link>
+      <description>Blue Initiative launches a new vulnerability database for IT and OT CVEs relevant to the maritime industry</description>
+      <pubDate>Mon, 26 Oct 2026 10:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/blue-initiative-maritime/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
+      <link>https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html</link>
+      <description>A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers&amp;apos; own container app.
+
+The kit&amp;apos;s Telegram part matches Baohuo, a backdoor that Doctor</description>
+      <pubDate>Mon, 26 Oct 2026 15:24:02 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>PHP Publishes Mitigation Advice for New RCE Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/</link>
+      <description>PHP warns of critical RCE vulnerability CVE-2026-115560, but says limited exploit conditions mean most deployments are unlikely to be affected</description>
+      <pubDate>Mon, 26 Oct 2026 09:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Mythos 5 Ignored Real-World Harm in July Attack</title>
+      <link>https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</link>
+      <description>&amp;lt;p&amp;gt;The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/&amp;quot;&amp;gt;Mythos 5 Ignored Real-World Harm in July Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 09:10:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Featured</category>
+      <category>Mythos</category>
+      <category>rogue AI</category>
+    </item>
+    <item>
+      <title>Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations</title>
+      <link>https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html</link>
+      <description>Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations.
+
+Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across</description>
+      <pubDate>Mon, 26 Oct 2026 14:05:51 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs</title>
+      <link>https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html</link>
+      <description>An automated campaign is using stolen GitHub tokens to plant workflows that print a repository&amp;apos;s secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to&amp;amp;nbsp;an analysis&amp;amp;nbsp;by cloud security company Wiz.
+
+A&amp;amp;nbsp;GitHub safeguard&amp;amp;nbsp;that pauses</description>
+      <pubDate>Mon, 26 Oct 2026 13:19:46 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware</title>
+      <link>https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html</link>
+      <description>A malicious instruction file sitting in a developer&amp;apos;s Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&amp;amp;nbsp;Forever Security said&amp;amp;nbsp;in a report published last week.
+
+The company caught the attempt on a real customer&amp;apos;s machine and stopped the agent before any code ran. It could not determine how the file got into the folder.
+
+The file</description>
+      <pubDate>Mon, 26 Oct 2026 11:33:48 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</title>
       <link>https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html</link>
@@ -22,11 +169,11 @@ The findings were</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking</title>
+      <title>PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity</title>
       <link>https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</link>
-      <description>Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.
+      <description>In an update, Palo Alto Networks Unit 42 said it&amp;apos;s retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.
 
-&amp;quot;In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor</description>
+&amp;quot;What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,&amp;quot; a spokesperson for the company told The Hacker News via</description>
       <pubDate>Sun, 25 Oct 2026 22:49:46 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -61,9 +208,9 @@ The findings were</description>
     <item>
       <title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
       <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
-      <description>A memory-corruption flaw in Google&amp;apos;s Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&amp;amp;nbsp;Brotli&amp;amp;nbsp;and&amp;amp;nbsp;brotlicffi&amp;amp;nbsp;packages, and Envoy proxies set up to decompress Brotli.
+      <description>A memory-corruption flaw in Google&amp;apos;s Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft&amp;apos;s .NET, the Python&amp;amp;nbsp;Brotli&amp;amp;nbsp;and&amp;amp;nbsp;brotlicffi&amp;amp;nbsp;packages, and Envoy proxies set up to decompress Brotli.
 
-Tracked as&amp;amp;nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program&amp;apos;s memory, potentially</description>
+Tracked as&amp;amp;nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program&amp;apos;s memory,</description>
       <pubDate>Sat, 24 Oct 2026 16:39:29 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -455,36 +602,6 @@ The cause was the SDKs&amp;apos; default client, which set no spending limit unt
       <category>Quest Diagnostics</category>
     </item>
     <item>
-      <title>LiteLLM Compromised in Fresh Supply Chain Attack</title>
-      <link>https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</link>
-      <description>&amp;lt;p&amp;gt;Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/&amp;quot;&amp;gt;LiteLLM Compromised in Fresh Supply Chain Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 08:10:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Supply Chain Security</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>LiteLLM</category>
-      <category>supply chain attack</category>
-    </item>
-    <item>
-      <title>Atlassian Patches 75 Flaws in Data Center and Server Products</title>
-      <link>https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/</link>
-      <description>&amp;lt;p&amp;gt;Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/&amp;quot;&amp;gt;Atlassian Patches 75 Flaws in Data Center and Server Products&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 07:54:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Atlassian</category>
-      <category>Patch</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
       <link>https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</link>
       <description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought.
@@ -494,23 +611,6 @@ The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2
       <guid isPermaLink="true">https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Iran’s Prince of Persia APT Hosts C&amp;amp;C in US for First Time Since 2016</title>
-      <link>https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/</link>
-      <description>&amp;lt;p&amp;gt;After a three-month lull, Prince of Persia hid a Tornado C&amp;amp;#038;C server on US shared hosting, its first US-based server since 2016.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/&amp;quot;&amp;gt;Iran&amp;amp;#8217;s Prince of Persia APT Hosts C&amp;amp;#038;C in US for First Time Since 2016&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 06:39:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Nation-State</category>
-      <category>APT</category>
-      <category>Featured</category>
-      <category>Infy</category>
-      <category>Iran</category>
-      <category>Prince of Persia</category>
     </item>
     <item>
       <title>The Best Supplier Risk Management Software in 2026 | UpGuard</title>
@@ -1011,78 +1111,6 @@ During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration te
       <description>The deep web makes up 95-99% of the entire internet. The dark web makes up less than 1%. UpGuard explores how deep web assets can lead to data exposure.</description>
       <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/deep-web-data-exposure</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Reduce False Positives in Data Leak Detection | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-reduce-false-positives-in-data-leak-detection</link>
-      <description>False positives are an inevitability in every data leak detection solution, but there are strategies you can implement to reduce them significantly.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-reduce-false-positives-in-data-leak-detection</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Prevent Data Leaks | UpGuard</title>
-      <link>https://www.upguard.com/blog/data-leak-prevention-tips</link>
-      <description>Protect your organization from data leaks with UpGuard’s best practices and tools. Learn how to prevent sensitive information from being exposed or stolen.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/data-leak-prevention-tips</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Personally Identifiable Information? Definition + Examples | UpGuard</title>
-      <link>https://www.upguard.com/blog/personally-identifiable-information-pii</link>
-      <description>Personally identifiable information (PII) is data that could identify a specific individual. Learn how to protect this critical category of data.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/personally-identifiable-information-pii</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Detect Data Exfiltration (Before It&amp;apos;s Too Late) | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-detect-data-exfiltration</link>
-      <description>Data exfiltration is a critical cyber threat that needs to be intercepted quickly. Learn how to detect and prevent data exfiltration before it&amp;apos;s too late.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-detect-data-exfiltration</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Shadow AI Data Leak Problem No One&amp;apos;s Talking About | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-ai-data-leak</link>
-      <description>Is your team unknowingly leaking sensitive data through its AI usage? Discover the dangers of Shadow AI and strategies for secure AI adoption at work.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-ai-data-leak</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Downstream Data: Investigating AI Data Leaks in Flowise | UpGuard</title>
-      <link>https://www.upguard.com/blog/downstream-data-investigating-ai-data-leaks-in-flowise</link>
-      <description>A thousand Flowise instances are exposed to the internet, many of them leaking confidential business data, passwords, and more.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/downstream-data-investigating-ai-data-leaks-in-flowise</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A Data Leak Detection Guide for the Tech Industry in 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-tech-companies-can-detect-data-leaks</link>
-      <description>A critical data leak detection guide for companies in the tech industry in 2026.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-tech-companies-can-detect-data-leaks</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>GDPR Compliance: A 10-Step Checklist for Businesses | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-be-gdpr-compliant</link>
-      <description>GDPR compliance is mandatory but few organizations know how to align with its tenants. In this post, we break down the framework in 10 steps.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-be-gdpr-compliant</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>6 Most Common Causes of Data Leaks | UpGuard</title>
-      <link>https://www.upguard.com/blog/common-data-leak-causes</link>
-      <description>Learn about the common cause of data leaks and how to prevent these critical data breach risks.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/common-data-leak-causes</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
