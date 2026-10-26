@@ -5,9 +5,72 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:19:13 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Risks &amp;amp;amp; Rewards: How AI Is Redefining the CISO&amp;apos;s Role</title>
+      <link>https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role</link>
+      <description>Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI&amp;apos;s pros and cons, and ensure those deploying it own the risks.</description>
+      <pubDate>Mon, 26 Oct 2026 21:44:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>In-the-Wild Attack Abuses AI Agents&amp;apos; Trust in Markdown</title>
+      <link>https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown</link>
+      <description>A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.</description>
+      <pubDate>Mon, 26 Oct 2026 20:59:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI</title>
+      <link>https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/</link>
+      <description>&amp;lt;p&amp;gt;A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/&amp;quot;&amp;gt;Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 20:20:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Featured</category>
+    </item>
+    <item>
+      <title>Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento</title>
+      <link>https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html</link>
+      <description>An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.
+
+According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store&amp;apos;s pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks.
+
+&amp;quot;When you</description>
+      <pubDate>Mon, 26 Oct 2026 23:42:22 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>&amp;apos;Gheist&amp;apos; Weaponizes GitHub Tokens to Steal Cloud Secrets</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets</link>
+      <description>An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.</description>
+      <pubDate>Mon, 26 Oct 2026 18:01:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw</title>
+      <link>https://thehackernews.com/2026/10/php-issues-second-windows-security.html</link>
+      <description>PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.
+
+PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but</description>
+      <pubDate>Mon, 26 Oct 2026 23:15:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/php-issues-second-windows-security.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Proofpoint Joins Microsoft Integrated Cloud Email Security (ICES) Ecosystem</title>
       <link>https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem</link>
@@ -15,6 +78,159 @@
       <pubDate>Mon, 26 Oct 2026 16:14:47 +0000</pubDate>
       <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-joins-microsoft-integrated-cloud-email-security-ices-ecosystem</guid>
       <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
+    </item>
+    <item>
+      <title>CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/</link>
+      <description>CISA’s new strategy, CISA 2030, will focus on rapid detection and response and resiliency of critical services ahead of “passive defense”</description>
+      <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware</title>
+      <link>https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html</link>
+      <description>Cybersecurity researchers are calling attention to what they say is a &amp;quot;recurring social engineering pattern&amp;quot; across hundreds of cases in which threat actors use Microsoft Teams&amp;apos; external chat creation feature to conduct impersonation scams or to deliver malware.
+
+&amp;quot;A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same &amp;apos;IT</description>
+      <pubDate>Mon, 26 Oct 2026 21:22:40 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Gheist Attackers Stumble in Attempt to Abuse GitHub Tokens</title>
+      <link>https://www.infosecurity-magazine.com/news/gheist-attackers-abuse-stolen/</link>
+      <description>A large-scale GitHub campaign abused stolen access tokens to target 13,500+ branches and repositories with secret-stealing workflows</description>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/gheist-attackers-abuse-stolen/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Industrial Vendors Check Products for PHP2Shell Vulnerabilities</title>
+      <link>https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/</link>
+      <description>&amp;lt;p&amp;gt;Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/&amp;quot;&amp;gt;Industrial Vendors Check Products for PHP2Shell Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 14:52:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>ICS</category>
+      <category>OT</category>
+      <category>PHP2Shell</category>
+    </item>
+    <item>
+      <title>Genesys Hack Exposes Customer Data From Internal Systems</title>
+      <link>https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/</link>
+      <description>&amp;lt;p&amp;gt;The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/&amp;quot;&amp;gt;Genesys Hack Exposes Customer Data From Internal Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 14:40:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>cyberattack</category>
+      <category>data breach</category>
+      <category>Genesys</category>
+    </item>
+    <item>
+      <title>Stolen AI Reasoning Could Help China Build Cheaper Rivals</title>
+      <link>https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/</link>
+      <description>&amp;lt;p&amp;gt;Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/&amp;quot;&amp;gt;Stolen AI Reasoning Could Help China Build Cheaper Rivals&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 14:30:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>China</category>
+      <category>OpenAI</category>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: This2Shell, That2Shell, Everything&amp;apos;s an RCE? Rogue AI, Supply Chain Chaos and More</title>
+      <link>https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html</link>
+      <description>This2Shell, That2Shell, Everything2Shell. That&amp;apos;s pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with.
+
+And that&amp;apos;s not even the full story. A leaked key led to a software supply-chain</description>
+      <pubDate>Mon, 26 Oct 2026 19:36:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>10 Software Security Practices Built for the Next 250 Years</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years</link>
+      <description>This Cybersecurity Awareness Month&amp;apos;s theme, &amp;amp;quot;Securing the Next 250,&amp;amp;quot; asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.</description>
+      <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years</guid>
+      <dc:creator>Christopher Walcutt</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Linux Flaws Exposed Before Fixes as Root Exploit Goes Public</title>
+      <link>https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/</link>
+      <description>Six Linux flaws were made public, including one with a working root exploit and no merged fix</description>
+      <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>PHP2Shell Exploitation Moves From Probes to Working Shells</title>
+      <link>https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/</link>
+      <description>&amp;lt;p&amp;gt;Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/&amp;quot;&amp;gt;PHP2Shell Exploitation Moves From Probes to Working Shells &amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 13:30:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>PHP</category>
+      <category>PHP2Shell</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>953 Online Stores Infected in Long-Lasting Malware Campaign</title>
+      <link>https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/</link>
+      <description>&amp;lt;p&amp;gt;Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/&amp;quot;&amp;gt;953 Online Stores Infected in Long-Lasting Malware Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 26 Oct 2026 12:46:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>magento</category>
+      <category>malware</category>
+    </item>
+    <item>
+      <title>Microsoft Issues Emergency Patch Update for Critical .NET Buffer Overflow Flaw</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/</link>
+      <description>Microsoft’s updates address two newly disclosed vulnerabilities in the .NET developer platform, as well as flaws not fully addressed in an earlier release</description>
+      <pubDate>Mon, 26 Oct 2026 12:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>10 Black Friday Cybersecurity Incidents That Prove Attackers Use Peak Retail Traffic to Hide | UpGuard</title>
+      <link>https://www.upguard.com/blog/10-black-friday-cybersecurity-incidents-prove-attackers-hide</link>
+      <description>Before ASOS, there was Target. And IKEA. See 10 Black Friday cybersecurity incidents, from a stolen vendor login to 33 million exposed accounts.</description>
+      <pubDate>Mon, 26 Oct 2026 12:19:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/10-black-friday-cybersecurity-incidents-prove-attackers-hide</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</title>
+      <link>https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html</link>
+      <description>Two critical flaws in&amp;amp;nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project&amp;apos;s maintainers say.
+
+An attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the flaws affects only ARM64 systems. Fixed versions were released on</description>
+      <pubDate>Mon, 26 Oct 2026 17:22:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</title>
@@ -279,7 +495,7 @@ The critical-severity vulnerabilities are listed below -
       <category>squid</category>
     </item>
     <item>
-      <title>Trust Is Not What It Seems — And Fraudsters Are Counting on It</title>
+      <title>Trust Is Not What It Seems — and Fraudsters Are Counting on It</title>
       <link>https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it</link>
       <description>Threat actors don&amp;apos;t need to rely on malware to breach organizations anymore. They&amp;apos;re simply calling help desks and politely asking for access, with a little help from artificial intelligence.</description>
       <pubDate>Fri, 23 Oct 2026 20:57:56 +0000</pubDate>
@@ -339,18 +555,6 @@ Central to the operation is an &amp;quot;Autonomous Red Team Kill Chain Framewor
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost</guid>
       <dc:creator>Robert Lemos</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</title>
-      <link>https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</link>
-      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/&amp;quot;&amp;gt;In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 14:23:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>In Other News</category>
     </item>
     <item>
       <title>This Week in Tech: AI Agents Clock In as Apple Buyers Wait and IT Scrambles</title>
@@ -423,23 +627,6 @@ Central to the operation is an &amp;quot;Autonomous Red Team Kill Chain Framewor
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge</title>
-      <link>https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/</link>
-      <description>&amp;lt;p&amp;gt;Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/&amp;quot;&amp;gt;Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 12:45:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Mirai</category>
-      <category>PHP</category>
-      <category>PHP2Shell</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Gaming Giant Capcom Confirms Data Breach Exposed Users’ Personal Information</title>
       <link>https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/</link>
       <description>Japanese video games giant Capcom confirmed unauthorized access to its online account system</description>
@@ -493,23 +680,6 @@ According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining in
       <category>TLS</category>
     </item>
     <item>
-      <title>China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</title>
-      <link>https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/</link>
-      <description>&amp;lt;p&amp;gt;The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/&amp;quot;&amp;gt;China APT Uses AI Pentest Tool Artex in ConnectWise Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 10:31:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Malware &amp;amp; Threats</category>
-      <category>AI</category>
-      <category>China</category>
-      <category>China APT</category>
-      <category>ConnectWise</category>
-      <category>Microsoft</category>
-    </item>
-    <item>
       <title>Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise</title>
       <link>https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/</link>
       <description>Security researchers identified attempts to access corporate networks which have been linked to a major Microsoft 365-targeted BEC campaign using phishing, stolen session tokens and social engineering</description>
@@ -524,22 +694,6 @@ According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining in
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attackers Exploit Third Arista VCO Zero-Day in Four Months</title>
-      <link>https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</link>
-      <description>&amp;lt;p&amp;gt;The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/&amp;quot;&amp;gt;Attackers Exploit Third Arista VCO Zero-Day in Four Months&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 09:58:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Arista</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
-      <category>Zero-Day</category>
     </item>
     <item>
       <title>Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
@@ -573,33 +727,6 @@ The cause was the SDKs&amp;apos; default client, which set no spending limit unt
       <guid isPermaLink="true">https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>11 Million Impacted by Capcom Data Breach</title>
-      <link>https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</link>
-      <description>&amp;lt;p&amp;gt;The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/&amp;quot;&amp;gt;11 Million Impacted by Capcom Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 08:34:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Capcom</category>
-      <category>data breach</category>
-    </item>
-    <item>
-      <title>Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’</title>
-      <link>https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</link>
-      <description>&amp;lt;p&amp;gt;In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/&amp;quot;&amp;gt;Quest Diagnostics Data Breach Exposed &amp;amp;#8216;Certain Patient Records&amp;amp;#8217;&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 23 Oct 2026 08:25:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>data breach</category>
-      <category>healthcare</category>
-      <category>Quest Diagnostics</category>
     </item>
     <item>
       <title>PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
@@ -999,118 +1126,6 @@ During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration te
       <description>Cloud leaks are a unique risk facing businesses that store data in the cloud or use vendors who do. And they&amp;apos;re caused by misconfigurations, not hackers.</description>
       <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/what-are-cloud-leaks</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>MongoDB vs MySQL | UpGuard</title>
-      <link>https://www.upguard.com/blog/mysql-vs-mongodb</link>
-      <description>The MySQL vs MongoDB argument is in many ways a relational vs. NoSQL argument. Each one excels in certain scenarios and is ill-suited for others.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/mysql-vs-mongodb</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Cyber Threat Detection Tools &amp;amp; Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/top-cyber-threat-detection-tools</link>
-      <description>The best cyber threat detection tools and software in 2026. Learn how to protect your endpoints, logs, and external digital surfaces from a breach.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/top-cyber-threat-detection-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is a Brute Force Attack? | UpGuard</title>
-      <link>https://www.upguard.com/blog/brute-force-attack</link>
-      <description>Brute force attacks are a common and costly form of cyberattack that can be prevented. Learn about brute force attacks and how to prevent them in this post</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/brute-force-attack</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Prevent Data Breaches in 2026 (Highly Effective Strategy) | UpGuard</title>
-      <link>https://www.upguard.com/blog/prevent-data-breaches</link>
-      <description>Learn how to implement an effective security control strategy for defending against data breaches in 2026.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/prevent-data-breaches</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What are the Main Differences Between Proxy Servers &amp;amp; VPNs? | UpGuard</title>
-      <link>https://www.upguard.com/blog/proxy-servers-vs-vpns</link>
-      <description>Learn the differences between VPNs and Proxy Servers to help you make the right cybersecurity decisions for your requirements.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/proxy-servers-vs-vpns</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>8 Ways Finance Companies Can Prevent Data Leaks | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-finance-companies-can-prevent-data-leaks</link>
-      <description>Learn how data leaks are a high-risk cyber threat and eight ways your organizations can prevent data leaks in the finance industry.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-finance-companies-can-prevent-data-leaks</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How to Detect Identity Breaches (Before It’s Too Late) | UpGuard</title>
-      <link>https://www.upguard.com/blog/how-to-detect-identity-breaches</link>
-      <description>Find out how your organization can detect identity breaches and how UpGuard can help.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/how-to-detect-identity-breaches</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Apache vs Nginx | UpGuard</title>
-      <link>https://www.upguard.com/blog/apache-vs-nginx</link>
-      <description>Apache is an established player in the web server market but Nginx has some strong advantages. Find out which works for you.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/apache-vs-nginx</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Defense in Depth? | UpGuard</title>
-      <link>https://www.upguard.com/blog/defense-in-depth</link>
-      <description>Defense in depth is a cyber security strategy that uses a series of layered, redundant defensive measures to protect sensitive data, PII and other assets.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/defense-in-depth</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Threat Exposure Management Framework Explained | UpGuard</title>
-      <link>https://www.upguard.com/blog/adopting-a-cyber-threat-exposure-management-approach</link>
-      <description>Learn how threat exposure management (TEM) and CTEM work, how to implement them, and align these strategies with cybersecurity frameworks and tools.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/adopting-a-cyber-threat-exposure-management-approach</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Best Data Breach &amp;amp; Data Leak Detection Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/best-data-leak-detection-software-solutions</link>
-      <description>Stopping an intrusion is half the battle. This guide ranks the top breach and leak detection tools to neutralize exposed credentials before attackers do.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/best-data-leak-detection-software-solutions</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>CPRA (California Privacy Rights Act) Compliance Guide | UpGuard</title>
-      <link>https://www.upguard.com/blog/cpra</link>
-      <description>Learn about the provisions of the California Privacy Rights Act (CPRA) and how to comply.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/cpra</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Choosing the Right Attack Surface Visibility Software | UpGuard</title>
-      <link>https://www.upguard.com/blog/choosing-attack-surface-visibility-software</link>
-      <description>Explore the top features of attack surface visibility software, why it matters for cybersecurity, and how to choose the right tool for your organization.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-attack-surface-visibility-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Data Leaks and the Deep Web: Swimming in the Deep End | UpGuard</title>
-      <link>https://www.upguard.com/blog/deep-web-data-exposure</link>
-      <description>The deep web makes up 95-99% of the entire internet. The dark web makes up less than 1%. UpGuard explores how deep web assets can lead to data exposure.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/deep-web-data-exposure</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
