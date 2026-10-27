@@ -5,9 +5,163 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:38:26 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hiding Capabilities in AI Models</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</link>
+      <description>&amp;lt;p&amp;gt;Interesting research: &amp;amp;#8220;&amp;lt;a href=&amp;quot;https://arxiv.org/abs/2610.13928&amp;quot;&amp;gt;AI Models Can Provably Hide Arbitrary Capabilities&amp;lt;/a&amp;gt;&amp;amp;#8221;&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Abstract:&amp;lt;/b&amp;gt; Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. Using digital lockers, these hidden circuits remain provably hard to elicit and interpret under cryptographic assumptions, even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. We implement our proof of concept constructions in PyTorch and evaluate elicitation through fine-tuning, weight noising, gradient-based trigger search, and latent adversarial training, using a small chemical reaction prediction task as a proxy for CBRN-relevant capabilities. Our results demonstrate resistance to these methods and, together with our cryptographic guarantees, reveal a limit of elicitation-based capability audits. We release our models to support the improvement of defenses...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Tue, 27 Oct 2026 11:01:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>academic papers</category>
+      <category>AI</category>
+      <category>encryption</category>
+    </item>
+    <item>
+      <title>Copenhagen University Breach Compromises Data on Half a Million People</title>
+      <link>https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/</link>
+      <description>Hackers have stolen personal information on over 520,000 people from the University of Copenhagen</description>
+      <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI</title>
+      <link>https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/</link>
+      <description>&amp;lt;p&amp;gt;Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/&amp;quot;&amp;gt;Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 27 Oct 2026 10:44:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>AI</category>
+      <category>Anthropic</category>
+      <category>Risks</category>
+    </item>
+    <item>
+      <title>10 Black Friday Cyber Incidents Where Retailers and Shoppers Paid the Price | UpGuard</title>
+      <link>https://www.upguard.com/blog/10-black-friday-cyber-incidents</link>
+      <description>Before ASOS, there was Target. And IKEA. See 10 Black Friday cybersecurity incidents, from a stolen vendor login to 33 million exposed accounts.</description>
+      <pubDate>Tue, 27 Oct 2026 10:40:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/10-black-friday-cyber-incidents</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
+      <title>First ISC2 AI Security Certification Expected for Early 2027</title>
+      <link>https://www.infosecurity-magazine.com/news/first-isc2-ai-security/</link>
+      <description>ISC2 is seeking 3000 volunteers to enrol to a pilot exam phase for its upcoming AI security certification</description>
+      <pubDate>Tue, 27 Oct 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/first-isc2-ai-security/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>This is Fine: What NetScaler Zero-Days Tell Us About the New Normal</title>
+      <link>https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/</link>
+      <description>&amp;lt;p&amp;gt;Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/&amp;quot;&amp;gt;This is Fine: What NetScaler Zero-Days Tell Us About the New Normal&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 27 Oct 2026 10:02:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/</guid>
+      <dc:creator>Tod Beardsley</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Incident Response</category>
+      <category>Vulnerabilities</category>
+      <category>Citrix</category>
+      <category>NetScaler</category>
+      <category>vulnerabilities</category>
+    </item>
+    <item>
+      <title>Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover</title>
+      <link>https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</link>
+      <description>&amp;lt;p&amp;gt;Running at system boot, it periodically polled the update domain to execute any code served, with full privileges.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/&amp;quot;&amp;gt;Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 27 Oct 2026 09:44:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Popcorn Time</category>
+    </item>
+    <item>
+      <title>Watchdog Urges Police and Fire Service to Improve Cybersecurity</title>
+      <link>https://www.infosecurity-magazine.com/news/watchdog-police-fire-service/</link>
+      <description>UK police forces and fire and rescue services have been urged to strengthen cybersecurity as rising cyber threats outpace current defenses</description>
+      <pubDate>Tue, 27 Oct 2026 09:39:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/watchdog-police-fire-service/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers</title>
+      <link>https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html</link>
+      <description>A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency&amp;apos;s operators gained access to the criminal&amp;apos;s operation&amp;apos;s backend and cut it off from those computers.
+
+&amp;quot;The next steps that we took were to disconnect that Amadey controller from all those</description>
+      <pubDate>Tue, 27 Oct 2026 15:03:06 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections</title>
+      <link>https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html</link>
+      <description>OpenAI&amp;apos;s compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model&amp;apos;s hidden reasoning out in plain text,&amp;amp;nbsp;security firm Xint&amp;amp;nbsp;has shown.
+
+OpenAI&amp;apos;s reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as&amp;amp;nbsp;an encrypted item&amp;amp;nbsp;the user cannot read. The method got past</description>
+      <pubDate>Tue, 27 Oct 2026 13:52:43 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems</title>
+      <link>https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/</link>
+      <description>&amp;lt;p&amp;gt;Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/&amp;quot;&amp;gt;Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 27 Oct 2026 07:14:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>Vulnerabilities</category>
+      <category>Blue Initiative</category>
+      <category>Featured</category>
+      <category>ICS</category>
+      <category>OT</category>
+      <category>port</category>
+      <category>ship</category>
+      <category>vulnerability</category>
+      <category>vulnerability index</category>
+    </item>
+    <item>
+      <title>Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses</title>
+      <link>https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html</link>
+      <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.
+
+&amp;quot;Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,&amp;quot; the State Special Communications Service of Ukraine (SSSCIP)</description>
+      <pubDate>Tue, 27 Oct 2026 12:04:47 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.
+
+The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments -
+
+
+  CVE-2026-109618 - An out-of-memory</description>
+      <pubDate>Tue, 27 Oct 2026 10:07:59 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics</title>
       <link>https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/</link>
@@ -213,17 +367,13 @@ And that&amp;apos;s not even the full story. A leaked key led to a software supp
       <category>vulnerability</category>
     </item>
     <item>
-      <title>953 Online Stores Infected in Long-Lasting Malware Campaign</title>
-      <link>https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/</link>
-      <description>&amp;lt;p&amp;gt;Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/&amp;quot;&amp;gt;953 Online Stores Infected in Long-Lasting Malware Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 26 Oct 2026 12:46:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>magento</category>
-      <category>malware</category>
+      <title>PHP2Shell: What to know about two critical PHP flaws</title>
+      <link>https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/</link>
+      <description>Here&amp;apos;s the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more than two minutes</description>
+      <pubDate>Mon, 26 Oct 2026 13:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
     </item>
     <item>
       <title>Microsoft Issues Emergency Patch Update for Critical .NET Buffer Overflow Flaw</title>
@@ -232,14 +382,6 @@ And that&amp;apos;s not even the full story. A leaked key led to a software supp
       <pubDate>Mon, 26 Oct 2026 12:45:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>10 Black Friday Cybersecurity Incidents That Prove Attackers Use Peak Retail Traffic to Hide | UpGuard</title>
-      <link>https://www.upguard.com/blog/10-black-friday-cybersecurity-incidents-prove-attackers-hide</link>
-      <description>Before ASOS, there was Target. And IKEA. See 10 Black Friday cybersecurity incidents, from a stolen vendor login to 33 million exposed accounts.</description>
-      <pubDate>Mon, 26 Oct 2026 12:19:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/10-black-friday-cybersecurity-incidents-prove-attackers-hide</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</title>
@@ -251,23 +393,6 @@ An attacker would first need a vulnerable Wasmtime build to compile a module the
       <guid isPermaLink="true">https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</title>
-      <link>https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</link>
-      <description>&amp;lt;p&amp;gt;The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/&amp;quot;&amp;gt;Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 26 Oct 2026 11:47:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Mobile &amp;amp; Wireless</category>
-      <category>arrested</category>
-      <category>hacker</category>
-      <category>Netherlands</category>
-      <category>NFC</category>
-      <category>relay attack</category>
     </item>
     <item>
       <title>Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses</title>
@@ -298,23 +423,6 @@ SOC teams often first see the shape of an intrusion</description>
       <category>hacking</category>
     </item>
     <item>
-      <title>Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages</title>
-      <link>https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</link>
-      <description>&amp;lt;p&amp;gt;An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/&amp;quot;&amp;gt;Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 26 Oct 2026 10:21:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Broccoli2Shell</category>
-      <category>Brotli</category>
-      <category>Featured</category>
-      <category>HTTP2Shell</category>
-      <category>Node2Shell</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database</title>
       <link>https://www.infosecurity-magazine.com/news/blue-initiative-maritime/</link>
       <description>Blue Initiative launches a new vulnerability database for IT and OT CVEs relevant to the maritime industry</description>
@@ -340,21 +448,6 @@ The kit&amp;apos;s Telegram part matches Baohuo, a backdoor that Doctor</descrip
       <pubDate>Mon, 26 Oct 2026 09:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Mythos 5 Ignored Real-World Harm in July Attack</title>
-      <link>https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</link>
-      <description>&amp;lt;p&amp;gt;The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/&amp;quot;&amp;gt;Mythos 5 Ignored Real-World Harm in July Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 26 Oct 2026 09:10:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>Featured</category>
-      <category>Mythos</category>
-      <category>rogue AI</category>
     </item>
     <item>
       <title>Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations</title>
@@ -1039,91 +1132,6 @@ On October 21, 2026, LiteLLM&amp;apos;s release pipeline was compromised to push
       <pubDate>Thu, 22 Oct 2026 08:20:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions</title>
-      <link>https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</link>
-      <description>Node.js released&amp;amp;nbsp;security updates&amp;amp;nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system.
-
-Each supported line has one fixed version:&amp;amp;nbsp;</description>
-      <pubDate>Thu, 22 Oct 2026 13:17:22 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification</title>
-      <link>https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html</link>
-      <description>A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&amp;amp;nbsp;disclosed, releasing working proof-of-concept code.
-
-By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server</description>
-      <pubDate>Thu, 22 Oct 2026 12:08:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed</title>
-      <link>https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html</link>
-      <description>Amazon&amp;apos;s Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.
-
-&amp;quot;The exploit attempt originated from an IP address associated with a commercial anonymization network,</description>
-      <pubDate>Thu, 22 Oct 2026 12:04:10 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>UAE Transitions 50% of Government Services to Agentic AI</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai</link>
-      <description>The United Arab Emirates says it&amp;apos;s creating a foundation of security and safety as it transforms its public service footprint.</description>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack</title>
-      <link>https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</link>
-      <description>Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.
-
-During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed</description>
-      <pubDate>Thu, 22 Oct 2026 09:51:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Choosing a Tech Attack Surface Management Product in 2026 | UpGuard</title>
-      <link>https://www.upguard.com/blog/choosing-a-tech-attack-surface-management-product</link>
-      <description>Learn the features to look for in an ideal Attack Surface Management product optimized for the tech industry&amp;apos;s unique cybersecurity risk profile.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/choosing-a-tech-attack-surface-management-product</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Exposed Server Headers and Cybersecurity Risk | UpGuard</title>
-      <link>https://www.upguard.com/blog/exposed-headers</link>
-      <description>Your HTTP response header carries server information. If exposed, that server information can increase your attack surface.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/exposed-headers</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>What is Exposure Management in Cybersecurity? | UpGuard</title>
-      <link>https://www.upguard.com/blog/exposure-management</link>
-      <description>Learn what exposure management is and how it could help your business.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/exposure-management</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>IIS vs Apache: Which is the Best Web Server? | UpGuard</title>
-      <link>https://www.upguard.com/blog/iis-apache</link>
-      <description>If you host a website, chances are good that you are running either Apache or Internet Information Services (IIS). Learn more about the two providers.</description>
-      <pubDate>Thu, 22 Oct 2026 02:53:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/iis-apache</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
