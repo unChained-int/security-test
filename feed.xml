@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 22:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:30:14 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -491,6 +491,15 @@ The malware, called KeyDrift, is designed to copy the keys that encrypt traffic 
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Amatera: How the prolific infostealer works and spreads</title>
+      <link>https://www.welivesecurity.com/en/malware/amatera-how-prolific-infostealer-works-spreads/</link>
+      <description>The malware that topped ESET’s infostealer detections in Latin America in the first half of 2026 is an example of how cybercrime has professionalized</description>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/malware/amatera-how-prolific-infostealer-works-spreads/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Malware</category>
     </item>
     <item>
       <title>China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility</title>
@@ -1046,17 +1055,6 @@ According to Russian cybersecurity company Kaspersky, the campaign has been acti
       <pubDate>Tue, 27 Oct 2026 09:39:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/watchdog-police-fire-service/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers</title>
-      <link>https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html</link>
-      <description>A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency&amp;apos;s operators gained access to the criminal&amp;apos;s operation&amp;apos;s backend and cut it off from those computers.
-
-&amp;quot;The next steps that we took were to disconnect that Amadey controller from all those</description>
-      <pubDate>Tue, 27 Oct 2026 15:03:06 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
