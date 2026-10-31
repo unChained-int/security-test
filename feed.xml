@@ -5,9 +5,60 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 04:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:43:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Syrian Hacker Gets Prison Time in US After Over a Decade on the Run</title>
+      <link>https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/</link>
+      <description>&amp;lt;p&amp;gt;A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/&amp;quot;&amp;gt;Syrian Hacker Gets Prison Time in US After Over a Decade on the Run&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Tracking &amp;amp; Law Enforcement</category>
+      <category>hacker</category>
+      <category>sentenced</category>
+      <category>Syrian Electronic Army</category>
+    </item>
+    <item>
+      <title>Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access</title>
+      <link>https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a</description>
+      <pubDate>Sat, 31 Oct 2026 13:57:43 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</title>
+      <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
+      <description>A malicious ChatGPT share link could run an attacker&amp;apos;s code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&amp;amp;nbsp;the security firm Parameter&amp;amp;nbsp;showed.
+
+The researchers reported the flaw through&amp;amp;nbsp;OpenAI&amp;apos;s bug bounty program&amp;amp;nbsp;on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.</description>
+      <pubDate>Sat, 31 Oct 2026 11:03:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</title>
+      <link>https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</link>
+      <description>Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.
+
+The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44</description>
+      <pubDate>Sat, 31 Oct 2026 10:26:12 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: Bigfin Squid Off California Coast</title>
       <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html</link>
@@ -406,24 +457,6 @@ The malicious update, version 2.1.313, was distributed under the extension&amp;a
       <category>Vulnerabilities</category>
       <category>Teamviewer</category>
       <category>vulnerability</category>
-    </item>
-    <item>
-      <title>$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor</title>
-      <link>https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/</link>
-      <description>&amp;lt;p&amp;gt;Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/&amp;quot;&amp;gt;$6 Billion Binance Hack Bears Hallmarks of North Korea&amp;amp;#8217;s TraderTraitor&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 30 Oct 2026 08:16:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Binance</category>
-      <category>crypto heist</category>
-      <category>cryptocurrency</category>
-      <category>Featured</category>
-      <category>Lazarus</category>
-      <category>North Korea</category>
-      <category>TraderTraitor</category>
     </item>
     <item>
       <title>As Russia&amp;apos;s Cyberwar Evolves, Belarus Steps Forward</title>
@@ -1084,39 +1117,6 @@ The exploits were built in the lab after the model was prompted, not seen in any
 The move was in response to the service being used to commit and facilitate prolific criminal activity, including &amp;quot;the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions</description>
       <pubDate>Wed, 28 Oct 2026 13:07:50 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Japan&amp;apos;s GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach</title>
-      <link>https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html</link>
-      <description>Japan&amp;apos;s GMO Internet Group is&amp;amp;nbsp;offering up to $1 million in total&amp;amp;nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.
-
-The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service&amp;amp;nbsp;hosts Windows desktops&amp;amp;nbsp;used for FX trading,</description>
-      <pubDate>Wed, 28 Oct 2026 12:43:21 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers</title>
-      <link>https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html</link>
-      <description>Tailscale has released&amp;amp;nbsp;version 1.104.4&amp;amp;nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&amp;amp;nbsp;root&amp;amp;nbsp;user should be able to touch.
-
-The flaws are in how&amp;amp;nbsp;Tailscale SSH&amp;amp;nbsp;forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must</description>
-      <pubDate>Wed, 28 Oct 2026 11:50:37 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws</title>
-      <link>https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html</link>
-      <description>The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.
-
-Oracle patched all three under a single identifier,&amp;amp;nbsp;CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address</description>
-      <pubDate>Wed, 28 Oct 2026 11:34:58 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
