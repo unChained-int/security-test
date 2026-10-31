@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:12:05 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -30,6 +30,15 @@
       <pubDate>Fri, 30 Oct 2026 20:05:58 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor</guid>
       <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Behind the Scenes of How Operation Blackout Went Down</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down</link>
+      <description>A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.</description>
+      <pubDate>Fri, 30 Oct 2026 19:46:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -127,6 +136,15 @@ A malicious or compromised host can exploit the flaw to crash the viewer&amp;apo
       <category>PHP2Shell</category>
       <category>vulnerability</category>
       <category>WordPress</category>
+    </item>
+    <item>
+      <title>This month in security with Tony Anscombe – October 2026 edition</title>
+      <link>https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/</link>
+      <description>The PHP2Shell disclosure and other major cybersecurity news this month brought into relief the need for well-thought-out cyber-readiness plans</description>
+      <pubDate>Fri, 30 Oct 2026 15:03:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Video</category>
     </item>
     <item>
       <title>In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak</title>
@@ -1099,29 +1117,6 @@ The flaws are in how&amp;amp;nbsp;Tailscale SSH&amp;amp;nbsp;forwards network co
 Oracle patched all three under a single identifier,&amp;amp;nbsp;CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address</description>
       <pubDate>Wed, 28 Oct 2026 11:34:58 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature</link>
-      <description>Interpol&amp;apos;s annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.</description>
-      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges</title>
-      <link>https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google&amp;apos;s Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerabilities are listed below -
-
-
-  CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in</description>
-      <pubDate>Wed, 28 Oct 2026 11:12:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
