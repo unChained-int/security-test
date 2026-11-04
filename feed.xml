@@ -5,9 +5,18 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:56:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach</link>
+      <description>An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.</description>
+      <pubDate>Wed, 04 Nov 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach</guid>
+      <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
     <item>
       <title>Fresh European Fridge Attacks Put Cold-Chain Security in Focus</title>
       <link>https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security</link>
@@ -335,6 +344,15 @@ The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated
       <pubDate>Tue, 03 Nov 2026 10:45:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/llmjacking-cost-business-1m-warns/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Gorbag: Orcs at the border harvesting intelligence from Ukraine</title>
+      <link>https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/</link>
+      <description>ESET researchers uncover Gorbag, a Russia-aligned group using simple infostealers to harvest data from Ukrainian organizations near the front line</description>
+      <pubDate>Tue, 03 Nov 2026 09:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>ESET research</category>
     </item>
     <item>
       <title>UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028</title>
@@ -1203,25 +1221,6 @@ Anthropic said&amp;amp;nbsp;on October 27 that its AI model wrote an exploit tha
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions</guid>
       <dc:creator>Becky Bracken</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners</title>
-      <link>https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html</link>
-      <description>Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.
-
-The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called</description>
-      <pubDate>Thu, 29 Oct 2026 20:50:29 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Just Rewrote the Rules of BEC: Are Your Defenses Ready? | UpGuard</title>
-      <link>https://www.upguard.com/blog/ai-powered-phishing</link>
-      <description>Context-aware emails, deepfake voice impersonation—AI is rapidly evolving phishing. Discover these new threats and the critical defenses you need now.</description>
-      <pubDate>Thu, 29 Oct 2026 15:01:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ai-powered-phishing</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
