@@ -5,9 +5,234 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:48:56 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>France Blood Service Cyber-Attack Sends Blood Storage Temperatures to 110°C</title>
+      <link>https://www.infosecurity-magazine.com/news/france-blood-service-cyberattack/</link>
+      <description>A supplier of the French National Blood Service was hit by a cyber-attack in which hackers turned cold rooms hosting blood samples up to 110°C (230°F)</description>
+      <pubDate>Wed, 04 Nov 2026 12:52:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/france-blood-service-cyberattack/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks</title>
+      <link>https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/</link>
+      <description>&amp;lt;p&amp;gt;Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/&amp;quot;&amp;gt;AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Nov 2026 12:43:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Malware &amp;amp; Threats</category>
+      <category>AI</category>
+      <category>Northflank</category>
+      <category>Trigger.dev</category>
+      <category>WorkOS</category>
+    </item>
+    <item>
+      <title>Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers</title>
+      <link>https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/</link>
+      <description>&amp;lt;p&amp;gt;A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/&amp;quot;&amp;gt;Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Nov 2026 12:27:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Canada</category>
+      <category>charged</category>
+      <category>hacker</category>
+      <category>university</category>
+    </item>
+    <item>
+      <title>Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</title>
+      <link>https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html</link>
+      <description>A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app&amp;apos;s server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&amp;amp;nbsp;an advisory&amp;amp;nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2.
+
+The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store</description>
+      <pubDate>Wed, 04 Nov 2026 17:37:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise</title>
+      <link>https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/</link>
+      <description>Bitdefender highlighted a unique human-AI approach during a September attack on a UK school estate, which resulted in financial data being exfiltrated</description>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM&amp;apos;s Memory</title>
+      <link>https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html</link>
+      <description>Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.
+
+Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an&amp;amp;nbsp;advisory&amp;amp;nbsp;on November 3.
+
+All Xen versions from 4.6 onward are vulnerable,</description>
+      <pubDate>Wed, 04 Nov 2026 17:16:27 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It</title>
+      <link>https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html</link>
+      <description>Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one.
+
+One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation</description>
+      <pubDate>Wed, 04 Nov 2026 17:04:20 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor</title>
+      <link>https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html</link>
+      <description>A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP).
+
+The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and</description>
+      <pubDate>Wed, 04 Nov 2026 16:54:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Police Seize 100+ Servers After Four-Year Investment Fraud Probe</title>
+      <link>https://www.infosecurity-magazine.com/news/police-100-servers-fouryear/</link>
+      <description>A German-led coalition of law enforcers has intensified efforts to strike at a €4m investment fraud scheme</description>
+      <pubDate>Wed, 04 Nov 2026 11:02:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/police-100-servers-fouryear/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Malicious cPGuard Updates Served in OpsShield Supply Chain Attack</title>
+      <link>https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/</link>
+      <description>&amp;lt;p&amp;gt;Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/&amp;quot;&amp;gt;Malicious cPGuard Updates Served in OpsShield Supply Chain Attack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Nov 2026 10:54:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Supply Chain Security</category>
+      <category>data breach</category>
+      <category>OpsShield</category>
+      <category>supply chain attack</category>
+    </item>
+    <item>
+      <title>Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical</title>
+      <link>https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/</link>
+      <description>&amp;lt;p&amp;gt;The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/&amp;quot;&amp;gt;Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Nov 2026 10:38:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Chrome</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist</title>
+      <link>https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/</link>
+      <description>&amp;lt;p&amp;gt;Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/&amp;quot;&amp;gt;Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Nov 2026 10:36:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Cybercrime</category>
+      <category>Incident Response</category>
+      <category>Nation-State</category>
+      <category>Binance</category>
+      <category>Binance hack</category>
+      <category>Featured</category>
+      <category>Incident response</category>
+      <category>North Korea</category>
+    </item>
+    <item>
+      <title>Fake Interview of Software Engineer Led to Binance Mega-Heist</title>
+      <link>https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/</link>
+      <description>Binance has revealed details of how North Korean hackers stole $6.4bn theft of crypto assets</description>
+      <pubDate>Wed, 04 Nov 2026 09:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack</title>
+      <link>https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/</link>
+      <description>&amp;lt;p&amp;gt;In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/&amp;quot;&amp;gt;North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Nov 2026 09:23:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Government</category>
+      <category>Binance</category>
+      <category>Binance hack</category>
+      <category>North Korea</category>
+      <category>weapons</category>
+    </item>
+    <item>
+      <title>Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million</title>
+      <link>https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/</link>
+      <description>&amp;lt;p&amp;gt;A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/&amp;quot;&amp;gt;Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 04 Nov 2026 08:27:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>bug bounty program</category>
+      <category>Featured</category>
+      <category>Meta</category>
+      <category>Muse</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure</title>
+      <link>https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html</link>
+      <description>Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.
+
+Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016.
+
+The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are &amp;quot;suspected of embezzling funds from the</description>
+      <pubDate>Wed, 04 Nov 2026 13:47:11 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction</title>
+      <link>https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html</link>
+      <description>A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&amp;amp;nbsp;November security bulletin.
+
+The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules.
+
+As of November 4, Google&amp;apos;s bulletin did not report</description>
+      <pubDate>Wed, 04 Nov 2026 13:16:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades</title>
+      <link>https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code</description>
+      <pubDate>Wed, 04 Nov 2026 11:13:11 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach</link>
@@ -15,6 +240,15 @@
       <pubDate>Wed, 04 Nov 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach</guid>
       <dc:creator>Robert Lemos</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Phishing-Resistant Isn&amp;apos;t Enough; Yubico Takes Aim at Identity-Verification Gap</title>
+      <link>https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap</link>
+      <description>The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.</description>
+      <pubDate>Wed, 04 Nov 2026 01:05:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
@@ -29,7 +263,7 @@
     <item>
       <title>Germany Busts &amp;apos;Crime-as-a-Service&amp;apos; Investment Fraud Outfit</title>
       <link>https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud</link>
-      <description>German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers.</description>
+      <description>Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.</description>
       <pubDate>Tue, 03 Nov 2026 21:57:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud</guid>
       <dc:creator>Alexander Culafi</dc:creator>
@@ -95,7 +329,7 @@ The tactic is called LLMjacking, a form of resource hijacking adapted for the LL
     <item>
       <title>9 Cyber Awareness Tips That Actually Match Today&amp;apos;s Maze of Threats</title>
       <link>https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats</link>
-      <description>Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.</description>
+      <description>Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.</description>
       <pubDate>Tue, 03 Nov 2026 15:38:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats</guid>
       <dc:creator>Tara Seals</dc:creator>
@@ -220,23 +454,6 @@ cPGuard 5.88.25 and later versions</description>
       <category>vulnerability</category>
     </item>
     <item>
-      <title>Critical Node-RED Flaw Exploited in Attacks</title>
-      <link>https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/</link>
-      <description>&amp;lt;p&amp;gt;Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/&amp;quot;&amp;gt;Critical Node-RED Flaw Exploited in Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 03 Nov 2026 12:10:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>ICS</category>
-      <category>Node-RED</category>
-      <category>Siemens</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>AIs Hacking the Law</title>
       <link>https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html</link>
       <description>&amp;lt;p&amp;gt;In both a 2021 &amp;lt;a href=&amp;quot;https://www.belfercenter.org/publication/coming-ai-hackers&amp;quot;&amp;gt;essay&amp;lt;/a&amp;gt; and my 2022 book, &amp;lt;i&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/books/a-hackers-mind/&amp;quot;&amp;gt;A Hacker&amp;amp;#8217;s Mind&amp;lt;/a&amp;gt;&amp;lt;/i&amp;gt;, I talk about AIs finding vulnerabilities and exploits&amp;amp;#8212;hacking&amp;amp;#8212;the legal system.&amp;lt;/p&amp;gt;
@@ -355,62 +572,12 @@ The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated
       <category>ESET research</category>
     </item>
     <item>
-      <title>UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028</title>
-      <link>https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/</link>
-      <description>&amp;lt;p&amp;gt;The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/&amp;quot;&amp;gt;UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 03 Nov 2026 09:49:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Government</category>
-      <category>AI</category>
-      <category>NCSC</category>
-      <category>Report</category>
-      <category>UK</category>
-      <category>UK government</category>
-    </item>
-    <item>
       <title>Police and Tech Firms Team Up to Dismantle XCPE Botnet</title>
       <link>https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/</link>
       <description>Google and partners have taken down the XCPE botnet attributed to Chinese device maker Videostrong</description>
       <pubDate>Tue, 03 Nov 2026 09:35:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Google Dismantles XCPE Botnet of 1.3 Million Android Devices</title>
-      <link>https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/</link>
-      <description>&amp;lt;p&amp;gt;The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/&amp;quot;&amp;gt;Google Dismantles XCPE Botnet of 1.3 Million Android Devices&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 03 Nov 2026 09:22:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>botnet</category>
-      <category>disrupted</category>
-      <category>Featured</category>
-      <category>google</category>
-      <category>takedown</category>
-      <category>XCPE</category>
-    </item>
-    <item>
-      <title>NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training</title>
-      <link>https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/</link>
-      <description>&amp;lt;p&amp;gt;The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/&amp;quot;&amp;gt;NATO&amp;amp;#8217;s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 03 Nov 2026 08:49:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>Training &amp;amp; Awareness</category>
-      <category>CCDCOE</category>
-      <category>Crossed Swords</category>
-      <category>NATO</category>
-      <category>Training</category>
     </item>
     <item>
       <title>Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets</title>
@@ -430,25 +597,6 @@ The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated
       <pubDate>Tue, 03 Nov 2026 07:43:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/php2shell-third-party-exposure</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Over 100 European Stores Hit as Supermarket Fridge Attacks Return</title>
-      <link>https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/</link>
-      <description>&amp;lt;p&amp;gt;Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/&amp;quot;&amp;gt;Over 100 European Stores Hit as Supermarket Fridge Attacks Return&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 03 Nov 2026 07:43:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>ICS/OT</category>
-      <category>controller</category>
-      <category>cyberattack</category>
-      <category>Danfoss</category>
-      <category>Europe</category>
-      <category>Featured</category>
-      <category>ICS</category>
-      <category>refrigeration</category>
-      <category>supermarket</category>
     </item>
     <item>
       <title>Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw</title>
@@ -566,21 +714,6 @@ They used the boxes for ad fraud and to pass other people&amp;apos;s internet tr
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Cybersecurity M&amp;amp;A Roundup: 37 Deals Announced in October 2026</title>
-      <link>https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/</link>
-      <description>&amp;lt;p&amp;gt;Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/&amp;quot;&amp;gt;Cybersecurity M&amp;amp;#038;A Roundup: 37 Deals Announced in October 2026&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 02 Nov 2026 15:01:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Funding/M&amp;amp;A</category>
-      <category>M&amp;amp;A Tracker</category>
-      <category>Acquisitions</category>
-      <category>Featured</category>
-      <category>M&amp;amp;A</category>
-    </item>
-    <item>
       <title>Microsoft&amp;apos;s AI Risk Report Misses This Key Detail</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss</link>
       <description>The latest &amp;amp;quot;Digital Defense Report&amp;amp;quot; identifies government agencies as prime targets for AI attacks but doesn&amp;apos;t mention that they are broadly being targeted through Microsoft bugs.</description>
@@ -607,21 +740,6 @@ According to a report published by Dream Research Labs, the campaign has led to 
       <pubDate>Mon, 02 Nov 2026 14:45:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/armadin-severe-exposures-missed/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk</title>
-      <link>https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/</link>
-      <description>&amp;lt;p&amp;gt;The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/&amp;quot;&amp;gt;Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 02 Nov 2026 14:44:18 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Government</category>
-      <category>data breach</category>
-      <category>education</category>
-      <category>Florida</category>
     </item>
     <item>
       <title>PapRAT Cyber-Espionage Campaign Leaves a &amp;apos;Bitter&amp;apos; Taste in South Asia</title>
@@ -1094,133 +1212,6 @@ The conspiracy was organized and led by members of former Syrian President Basha
       <guid isPermaLink="true">https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor</title>
-      <link>https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html</link>
-      <description>Cybersecurity researchers have disclosed that a trojanized version of Anthropic&amp;apos;s official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems.
-
-The malicious update, version 2.1.313, was distributed under the extension&amp;apos;s legitimate publisher identity, prompting Cursor to temporarily shut</description>
-      <pubDate>Fri, 30 Oct 2026 14:25:47 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>As Russia&amp;apos;s Cyberwar Evolves, Belarus Steps Forward</title>
-      <link>https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward</link>
-      <description>The &amp;amp;quot;FrostyNeighbor&amp;amp;quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.</description>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw</title>
-      <link>https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</link>
-      <description>Drupal has warned that threat actors are exploiting a &amp;quot;highly critical&amp;quot; security flaw in its Commerce Core component.
-
-The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.
-
-&amp;quot;This module enables you to sell goods and services to customers through an included shopping cart</description>
-      <pubDate>Fri, 30 Oct 2026 13:15:30 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV</title>
-      <link>https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.
-
-The vulnerabilities are listed below -
-
-
-  CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise</description>
-      <pubDate>Fri, 30 Oct 2026 12:57:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen</title>
-      <link>https://thehackernews.com/2026/10/binance-suffers-security-breach.html</link>
-      <description>Cryptocurrency giant Binance said on Thursday that a &amp;quot;security incident&amp;quot; on its platform has impacted about $6.3 billion worth of assets.
-
-The world&amp;apos;s biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far.&amp;amp;nbsp;
-
-Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The</description>
-      <pubDate>Fri, 30 Oct 2026 09:44:59 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/binance-suffers-security-breach.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Anthropic-Themed Phishing Emails Bypass Top Security Tools</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools</link>
-      <description>Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.</description>
-      <pubDate>Thu, 29 Oct 2026 21:21:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Rethinking Cybersecurity Awareness in the AI Era</title>
-      <link>https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era</link>
-      <description>This installment of the Reporters&amp;apos; Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging threats.</description>
-      <pubDate>Thu, 29 Oct 2026 20:15:37 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era</guid>
-      <dc:creator>Rob Wright</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Why CTF Competitions May Be More Important Than Ever</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever</link>
-      <description>As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack.</description>
-      <pubDate>Thu, 29 Oct 2026 19:56:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever</guid>
-      <dc:creator>Ericka Chickowski</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories</title>
-      <link>https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html</link>
-      <description>Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn&amp;apos;t.
-
-There&amp;apos;s a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed things up. Others are leaving their</description>
-      <pubDate>Fri, 30 Oct 2026 00:41:58 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Claude Model Builds Exploits Across Major Browsers &amp;amp;amp; OSes</title>
-      <link>https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses</link>
-      <description>An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.</description>
-      <pubDate>Thu, 29 Oct 2026 18:15:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses</guid>
-      <dc:creator>Jai Vijayan</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions</title>
-      <link>https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html</link>
-      <description>A flaw in the Linux kernel&amp;apos;s TCP code, tracked as&amp;amp;nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel&amp;apos;s own CVE team rates it 9.8 out of 10 on the CVSS scale.
-
-Anthropic said&amp;amp;nbsp;on October 27 that its AI model wrote an exploit that uses the flaw to let a remote attacker with no credentials run commands as root on Linux servers with a</description>
-      <pubDate>Thu, 29 Oct 2026 21:27:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Threat Modeling With 4 Simple Questions on a White Board</title>
-      <link>https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions</link>
-      <description>A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.</description>
-      <pubDate>Thu, 29 Oct 2026 15:44:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
