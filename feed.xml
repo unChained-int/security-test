@@ -5,9 +5,39 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 07 Nov 2026 04:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:30:07 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins</title>
+      <link>https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/</link>
+      <description>&amp;lt;p&amp;gt;CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/&amp;quot;&amp;gt;SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 07 Nov 2026 10:16:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>SonicOS</category>
+      <category>SonicWall</category>
+      <category>VPN</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Claude Code&amp;apos;s “Don&amp;apos;t Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</title>
+      <link>https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html</link>
+      <description>Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.
+
+When a user selects &amp;quot;Yes, and don&amp;apos;t ask again,&amp;quot; Anthropic&amp;apos;s AI coding assistant can save the command, word-for-word, including the secret, in a project settings file.
+
+Software security company Apiiro said yesterday that 1,122 public</description>
+      <pubDate>Sat, 07 Nov 2026 12:14:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Friday Squid Blogging: New Jurassic Squid Predecessors</title>
       <link>https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html</link>
@@ -211,6 +241,7 @@ The new model is &amp;quot;more capable at finding and fixing vulnerabilities, a
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Artificial Intelligence</category>
       <category>AI</category>
+      <category>Featured</category>
       <category>GPT-6</category>
       <category>GPT-6 Cyber</category>
       <category>OpenAI</category>
@@ -422,20 +453,6 @@ One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attack
       <guid isPermaLink="true">https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million</title>
-      <link>https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/</link>
-      <description>&amp;lt;p&amp;gt;The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/&amp;quot;&amp;gt;3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 06 Nov 2026 03:03:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>charged</category>
-      <category>fraud</category>
     </item>
     <item>
       <title>Operação de influência russa tem como alvo generalizado a América Latina</title>
@@ -1137,15 +1154,6 @@ The script installed a backdoor and collected password hashes and other sensitiv
 The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can</description>
       <pubDate>Tue, 03 Nov 2026 16:53:53 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The 4 Elements of Exposure Prioritization and How to Operationalize Them</title>
-      <link>https://thehackernews.com/2026/11/the-4-elements-of-exposure.html</link>
-      <description>Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues</description>
-      <pubDate>Tue, 03 Nov 2026 16:48:20 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/the-4-elements-of-exposure.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
