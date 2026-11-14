@@ -5,9 +5,54 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:59:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection</title>
+      <link>https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+
+The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters</description>
+      <pubDate>Sat, 14 Nov 2026 18:08:35 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Apple Reveals How Secure Exclaves Shield Camera and Microphone Data</title>
+      <link>https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/</link>
+      <description>&amp;lt;p&amp;gt;The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/&amp;quot;&amp;gt;Apple Reveals How Secure Exclaves Shield Camera and Microphone Data&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Protection</category>
+      <category>Endpoint Security</category>
+      <category>Apple</category>
+      <category>Data Security</category>
+      <category>Secure Exclaves</category>
+    </item>
+    <item>
+      <title>No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update</title>
+      <link>https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</link>
+      <description>&amp;lt;p&amp;gt;Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/&amp;quot;&amp;gt;No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 14 Nov 2026 08:40:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Government</category>
+      <category>ICS/OT</category>
+      <category>Incident Response</category>
+      <category>airplanes</category>
+      <category>Aviation</category>
+      <category>cyberattack</category>
+      <category>FAA</category>
+      <category>Featured</category>
+      <category>ground stop</category>
+    </item>
     <item>
       <title>FAA Grounds US Flights Nationwide, Citing ‘Extraordinary’ Safety Concerns</title>
       <link>https://www.techrepublic.com/article/news-faa-nationwide-ground-stop-flight-delays-2026/</link>
@@ -56,7 +101,6 @@
       <source url="https://www.securityweek.com/feed">SecurityWeek</source>
       <category>Government</category>
       <category>FAA</category>
-      <category>Featured</category>
     </item>
     <item>
       <title>ArcticRAT Cybercrime Gang Profiles Victim Finances With AI</title>
@@ -231,6 +275,7 @@ The implant reads the phrase from the wallet&amp;apos;s screen and sends it over
       <category>Nation-State</category>
       <category>China</category>
       <category>China APT</category>
+      <category>Featured</category>
       <category>malware</category>
       <category>SilentAir</category>
     </item>
@@ -361,25 +406,6 @@ Gootloader is a loader:</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’</title>
-      <link>https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/</link>
-      <description>&amp;lt;p&amp;gt;It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/&amp;quot;&amp;gt;Nightmare Eclipse Drops Windows Zero-Day Exploit &amp;amp;#8216;SignDrop&amp;amp;#8217;&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 08:50:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Chaotic Eclipse</category>
-      <category>Featured</category>
-      <category>Nighmare Eclipse</category>
-      <category>PoC exploit</category>
-      <category>SignDrop</category>
-      <category>vulnerability</category>
-      <category>Windows</category>
-      <category>Zero-Day</category>
-    </item>
-    <item>
       <title>Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files</title>
       <link>https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html</link>
       <description>An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&amp;amp;nbsp; to deploy a backdoor called TSGA.
@@ -389,22 +415,6 @@ The activity, detailed by Check Point, began on October 30, 2026, and targeted I
       <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PHP2Shell Exploited in Destructive Check Point Gateway Attacks</title>
-      <link>https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/</link>
-      <description>&amp;lt;p&amp;gt;PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/&amp;quot;&amp;gt;PHP2Shell Exploited in Destructive Check Point Gateway Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 07:39:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Vulnerabilities</category>
-      <category>Check Point</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>PHP2Shell</category>
     </item>
     <item>
       <title>Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2</title>
@@ -1172,17 +1182,6 @@ Details of the vulnerabilities are below -
       <pubDate>Tue, 10 Nov 2026 20:18:43 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones</title>
-      <link>https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html</link>
-      <description>A flaw in Git can let a malicious repository run an attacker&amp;apos;s code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.
-
-The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An</description>
-      <pubDate>Wed, 11 Nov 2026 00:53:10 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
