@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Nov 2026 23:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:01:33 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -313,6 +313,15 @@ Gootloader is a loader:</description>
       <category>malware</category>
       <category>seized</category>
       <category>StealC</category>
+    </item>
+    <item>
+      <title>GTA VI isn’t out yet – and the scams are already in full swing</title>
+      <link>https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/</link>
+      <description>Cybercriminals attempt to cash in on the hype around the game, luring fans with malware-laced downloads and ‘early access’ that doesn’t exist</description>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Digital Security</category>
     </item>
     <item>
       <title>Citrix Patches 10 Critical NetScaler Vulnerabilities</title>
@@ -1172,17 +1181,6 @@ Details of the vulnerabilities are below -
 The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An</description>
       <pubDate>Wed, 11 Nov 2026 00:53:10 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users</title>
-      <link>https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html</link>
-      <description>An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI&amp;apos;s inference servers last Sunday.
-
-The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE</description>
-      <pubDate>Wed, 11 Nov 2026 00:49:39 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
