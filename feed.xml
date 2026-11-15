@@ -5,9 +5,25 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 21:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:56:02 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Upcoming Speaking Engagements</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html</link>
+      <description>&amp;lt;p&amp;gt;This is a current list of where and when I am scheduled to speak:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking at the &amp;lt;a href=&amp;quot;https://luma.com/a3pk9zbg&amp;quot;&amp;gt;Catalyst Summit&amp;lt;/a&amp;gt; in Brampton, Ontario, Canada, on Wednesday, November 18, 2026.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I’m speaking at &amp;lt;a href=&amp;quot;https://queertech.org/en/events/qonference/qtq-2026&amp;quot;&amp;gt;QT Qonference 2026&amp;lt;/a&amp;gt; in Toronto, Ontario, Canada, on Thursday, November 19, 2026.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;The list is maintained on &amp;lt;a href=&amp;quot;https://www.schneier.com/events/&amp;quot;&amp;gt;this page&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 14 Nov 2026 17:02:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>Schneier news</category>
+    </item>
     <item>
       <title>Is AI Making Us Worse at Cybersecurity?</title>
       <link>https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/</link>
@@ -88,6 +104,19 @@ The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of im
       <category>FAA Outage</category>
       <category>federal aviation administration</category>
       <category>US Flight Delays</category>
+    </item>
+    <item>
+      <title>Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html</link>
+      <description>&amp;lt;p&amp;gt;Climate change is the &amp;lt;a href=&amp;quot;https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/&amp;quot;&amp;gt;issue&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;amp;#8217;t covered.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html&amp;quot;&amp;gt;Blog moderation policy.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 13 Nov 2026 22:00:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>squid</category>
     </item>
     <item>
       <title>FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’</title>
@@ -277,6 +306,22 @@ The implant reads the phrase from the wallet&amp;apos;s screen and sends it over
       <category>Featured</category>
       <category>malware</category>
       <category>SilentAir</category>
+    </item>
+    <item>
+      <title>AI Doesn’t Have to Go Rogue to Break the World</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html</link>
+      <description>&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;This essay is adapted from &amp;lt;a href=&amp;quot;https://www.youtube.com/watch?v=eEBv0STiYhI&amp;quot;&amp;gt;a keynote speech&amp;lt;/a&amp;gt; delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in &amp;lt;a href=&amp;quot;https://www.schneier.com/essays/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html&amp;quot;&amp;gt;CyberScoop&amp;lt;/a&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;I started writing about this in 2021 and in my 2022 book, &amp;lt;em&amp;gt;A Hacker&amp;amp;#8217;s Mind&amp;lt;/em&amp;gt;. Back then I said it was mostly still science fiction, but not stupid science fiction. We&amp;amp;#8217;re seeing it more and more, especially in the past year. The trends I&amp;amp;#8217;m describing don&amp;amp;#8217;t require a major breakthrough in AI. They&amp;amp;#8217;re starting to happen now, and they&amp;amp;#8217;ll happen more often as AIs get better at autonomous problem-solving. And it will involve far more than computer code...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 13 Nov 2026 12:03:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>hacking</category>
+      <category>LLM</category>
+      <category>noncomputer hacks</category>
     </item>
     <item>
       <title>When an AI Agent Goes Wrong, Can You Stop It?</title>
@@ -549,6 +594,24 @@ The affected</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Another Way Police Are Locating People from Their Smartphones</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html</link>
+      <description>&amp;lt;p&amp;gt;Penlink&amp;amp;#8217;s Webloc is an application that &amp;lt;a href=&amp;quot;https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg4OTgyNSwiZXhwIjoxNzk0NDk0NjI1LCJhcnRpY2xlSWQiOiJUTzEyT0pUM0JaTUwwMCIsImJjb25uZWN0SWQiOiJCRkMyNTg1RUFENTA0RTM2OUU3MzBBNTBCNkVGRTk5RSJ9.uWvJBwAKCyQsXzSli3He-XStaEQCVyprRIKmrsheWZs&amp;amp;#38;utm_source=substack&amp;amp;#38;utm_medium=email&amp;amp;#38;leadSource=article-gifting&amp;quot;&amp;gt;locates&amp;lt;/a&amp;gt; people using information from the weather, gaming, email, and religious apps on their phone. It&amp;amp;#8217;s sold to the police.&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;The tool collects vast quantities of location data from smartphones via commonly used weather, gaming, email and religious apps. It can build a detailed picture of where a smartphone has been over the past 12 months, and update the data hourly, showing the movements of people on a near real-time basis. Law enforcement officers can use Webloc to zero in on a map and look at all phones that were present at a specific place and time, analyzing &amp;amp;#8220;billions of location data points,&amp;amp;#8221; according to company documents reviewed by Bloomberg...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Thu, 12 Nov 2026 12:02:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>data collection</category>
+      <category>geolocation</category>
+      <category>law enforcement</category>
+      <category>police</category>
+      <category>privacy</category>
+      <category>smartphones</category>
+      <category>surveillance</category>
     </item>
     <item>
       <title>New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access</title>
@@ -933,6 +996,23 @@ They included 24 apps built by staff at the social network X and at SpaceXSI, th
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Three People Arrested for AI-Enhanced Impersonation Fraud</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html</link>
+      <description>&amp;lt;p&amp;gt;It&amp;amp;#8217;s hard to believe how lucrative &amp;lt;a href=&amp;quot;https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft&amp;quot;&amp;gt;this crime&amp;lt;/a&amp;gt; can be:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;According to a &amp;lt;a href=&amp;quot;https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud#ref-ftn1&amp;quot;&amp;gt;press release&amp;lt;/a&amp;gt; from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
+      <pubDate>Wed, 11 Nov 2026 12:05:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>AI</category>
+      <category>cybercrime</category>
+      <category>identity theft</category>
+      <category>impersonation</category>
+      <category>law enforcement</category>
+      <category>scams</category>
+    </item>
+    <item>
       <title>We Built An Agent That Broke All of Our Security Rules. Here&amp;apos;s What We Learned.</title>
       <link>https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html</link>
       <description>We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default.
@@ -1108,58 +1188,6 @@ Details of the vulnerabilities are below -
       <pubDate>Tue, 10 Nov 2026 20:35:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer</guid>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>How to Assess OT Incident Response Preparedness</title>
-      <link>https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness</link>
-      <description>Cloud Range&amp;apos;s free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.</description>
-      <pubDate>Tue, 10 Nov 2026 20:18:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones</title>
-      <link>https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html</link>
-      <description>A flaw in Git can let a malicious repository run an attacker&amp;apos;s code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.
-
-The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An</description>
-      <pubDate>Wed, 11 Nov 2026 00:53:10 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users</title>
-      <link>https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html</link>
-      <description>An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI&amp;apos;s inference servers last Sunday.
-
-The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE</description>
-      <pubDate>Wed, 11 Nov 2026 00:49:39 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>AI Coding Agents Leak Thousands of Secrets to GitHub</title>
-      <link>https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github</link>
-      <description>A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.</description>
-      <pubDate>Tue, 10 Nov 2026 18:46:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html</link>
-      <description>French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.
-
-The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.
-
-&amp;quot;REST cookie parsing turns authenticationToken=j:%7B%7D into {},&amp;quot; Vates VMS said in an alert. &amp;quot;REST authentication passes that object to the</description>
-      <pubDate>Tue, 10 Nov 2026 23:42:21 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
