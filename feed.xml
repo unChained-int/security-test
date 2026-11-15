@@ -5,9 +5,61 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 04:56:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:28:28 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pentagon Renames CDAO ‘Super Intelligence Office’</title>
+      <link>https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/</link>
+      <description>&amp;lt;p&amp;gt;The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/&amp;quot;&amp;gt;Pentagon Renames CDAO ‘Super Intelligence Office’&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sun, 15 Nov 2026 12:51:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Featured</category>
+      <category>Super Intelligence</category>
+    </item>
+    <item>
+      <title>Italy Fines Meta €805 Million Over Facebook&amp;apos;s Android Gallery Access Without Explicit Consent</title>
+      <link>https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html</link>
+      <description>Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users&amp;apos; phone galleries for them to post.
+
+The Garante, Italy&amp;apos;s data protection authority, found that the feature was enabled by default and that the app accessed Italian users&amp;apos; photos, videos, and related metadata without their explicit consent.
+
+The company has 60 days to</description>
+      <pubDate>Sun, 15 Nov 2026 16:57:31 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident</title>
+      <link>https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html</link>
+      <description>The compromise of Anthropic&amp;apos;s official Claude Code extension on Cursor&amp;apos;s extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.
+
+&amp;quot;An attacker obtained an access key we had issued to Fireworks,&amp;quot; Cursor said in a Friday update. &amp;quot;The key was exposed by Fireworks, and the attacker used it to copy data from a read-only</description>
+      <pubDate>Sun, 15 Nov 2026 13:52:04 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook</title>
+      <link>https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/</link>
+      <description>&amp;lt;p&amp;gt;The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/&amp;quot;&amp;gt;Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 14 Nov 2026 19:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/</guid>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Privacy</category>
+      <category>Privacy &amp;amp; Compliance</category>
+      <category>Italy</category>
+      <category>Meta</category>
+      <category>privacy</category>
+    </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html</link>
@@ -367,27 +419,6 @@ Gootloader is a loader:</description>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure</title>
-      <link>https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/</link>
-      <description>&amp;lt;p&amp;gt;Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/&amp;quot;&amp;gt;Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:48:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybercrime</category>
-      <category>Malware &amp;amp; Threats</category>
-      <category>Tracking &amp;amp; Law Enforcement</category>
-      <category>CastleRAT</category>
-      <category>cybercrime</category>
-      <category>disrupted</category>
-      <category>GootLoader</category>
-      <category>law enforcement</category>
-      <category>malware</category>
-      <category>seized</category>
-      <category>StealC</category>
-    </item>
-    <item>
       <title>GTA VI isn’t out yet – and the scams are already in full swing</title>
       <link>https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/</link>
       <description>Cybercriminals attempt to cash in on the hype around the game, luring fans with malware-laced downloads and ‘early access’ that doesn’t exist</description>
@@ -395,21 +426,6 @@ Gootloader is a loader:</description>
       <guid isPermaLink="true">https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/</guid>
       <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
       <category>Digital Security</category>
-    </item>
-    <item>
-      <title>Citrix Patches 10 Critical NetScaler Vulnerabilities</title>
-      <link>https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/&amp;quot;&amp;gt;Citrix Patches 10 Critical NetScaler Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 09:36:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Citrix</category>
-      <category>NetScaler</category>
-      <category>Patch</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>AI Set to Revolutionize Ransomware Following “Stagnant” Few Years</title>
@@ -1172,22 +1188,6 @@ Details of the vulnerabilities are below -
       <pubDate>Tue, 10 Nov 2026 20:48:25 +0000</pubDate>
       <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire</guid>
       <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
-    </item>
-    <item>
-      <title>F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them</title>
-      <link>https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them</link>
-      <description>New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.</description>
-      <pubDate>Tue, 10 Nov 2026 20:41:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer</title>
-      <link>https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer</link>
-      <description>Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.</description>
-      <pubDate>Tue, 10 Nov 2026 20:35:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer</guid>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
   </channel>
 </rss>
