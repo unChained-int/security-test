@@ -5,9 +5,210 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 04:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:51:32 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch</title>
+      <link>https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/</link>
+      <description>&amp;lt;p&amp;gt;Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/&amp;quot;&amp;gt;Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Nov 2026 12:48:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Malware &amp;amp; Threats</category>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>malware</category>
+      <category>Telegram</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login</title>
+      <link>https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html</link>
+      <description>Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week.
+
+No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws.
+
+Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to</description>
+      <pubDate>Mon, 16 Nov 2026 18:04:21 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware</title>
+      <link>https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html</link>
+      <description>Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines.
+
+&amp;quot;On launch, the NSIS-based installer executable dropped a file named &amp;apos;7z.dll&amp;apos; into a temporary directory and ran it through rundll32.exe,&amp;quot; Kaspersky said in an analysis published today.
+
+&amp;quot;The &amp;apos;7z.dll&amp;apos; file was a patched version of the</description>
+      <pubDate>Mon, 16 Nov 2026 18:03:18 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Google Project Zero to Cut Disclosure Deadline to 30 Days by 2028</title>
+      <link>https://www.infosecurity-magazine.com/news/project-zero-disclosure-deadline/</link>
+      <description>Project Zero will publish bug details 30 days after reporting, fixed or not, by 2028</description>
+      <pubDate>Mon, 16 Nov 2026 12:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/project-zero-disclosure-deadline/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Usable Security at Luxury Hotels</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html</link>
+      <description>&amp;lt;p&amp;gt;Interesting &amp;lt;a href=&amp;quot;https://www.benthamsgaze.org/2026/11/11/phishing-at-the-front-desk-usable-security-in-luxury-hotels/&amp;quot;&amp;gt;case study&amp;lt;/a&amp;gt; from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This is a good illustration why &amp;amp;#8220;just don&amp;amp;#8217;t click on links&amp;amp;#8221; is bad advice. It can&amp;amp;#8217;t work when answering strangers&amp;amp;#8217; emails is the job. Even worse, in this case the guest-first culture punishes hesitation. More interesting, the case study shows that splitting security between owner, operator, and brand leaves nobody accountable. And this is exactly the setting where blaming staff becomes the convenient answer...&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Nov 2026 12:04:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>cybersecurity</category>
+      <category>fraud</category>
+      <category>hotels</category>
+      <category>phishing</category>
+    </item>
+    <item>
+      <title>FBI Highlights Growing Abuse of AI-Driven Pentesting Framework ARTEX</title>
+      <link>https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/</link>
+      <description>The FBI warns that threat actors are increasingly using open-source AI pentesting tool ARTEX to launch fast, large-scale intrusions worldwide</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Recent UnrealIRCd Vulnerability Exploited in Attacks</title>
+      <link>https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/</link>
+      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/&amp;quot;&amp;gt;Recent UnrealIRCd Vulnerability Exploited in Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Nov 2026 11:15:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CISA KEV</category>
+      <category>exploited</category>
+      <category>UnrealIRCd</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers</title>
+      <link>https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</link>
+      <description>&amp;lt;p&amp;gt;Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/&amp;quot;&amp;gt;Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Nov 2026 11:05:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>ICS/OT</category>
+      <category>Vulnerabilities</category>
+      <category>controller</category>
+      <category>Copeland</category>
+      <category>exploited</category>
+      <category>ICS</category>
+      <category>refrigeration</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Uber Data Breach Impacts 150,000 People</title>
+      <link>https://www.securityweek.com/uber-data-breach-impacts-150000-people/</link>
+      <description>&amp;lt;p&amp;gt;Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/uber-data-breach-impacts-150000-people/&amp;quot;&amp;gt;Uber Data Breach Impacts 150,000 People&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Nov 2026 11:02:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/uber-data-breach-impacts-150000-people/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>Featured</category>
+      <category>uber</category>
+    </item>
+    <item>
+      <title>Information Commissioner’s Office Receives 300+ Reports of Medical Snooping</title>
+      <link>https://www.infosecurity-magazine.com/news/ico-300-reports-of-medical-snooping/</link>
+      <description>UK privacy watchdog has received reports of hundreds of cases of unauthorized insider access to medical files this year</description>
+      <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ico-300-reports-of-medical-snooping/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity</title>
+      <link>https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html</link>
+      <description>A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads.
+
+Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives commands over the TOR anonymity network to manage CPU and GPU miners. The activity was observed in</description>
+      <pubDate>Mon, 16 Nov 2026 15:02:57 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>AI Cuts Vulnerability Discovery from Nine Months to 90 Hours</title>
+      <link>https://www.infosecurity-magazine.com/news/ai-cut-vulnerability-discover-nine/</link>
+      <description>Forescout report claims to have found 66 new flaws in just 90 hours using AI</description>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ai-cut-vulnerability-discover-nine/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Tor Updates DoS Defenses Again as Relay Attacks Continue</title>
+      <link>https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/</link>
+      <description>&amp;lt;p&amp;gt;Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/&amp;quot;&amp;gt;Tor Updates DoS Defenses Again as Relay Attacks Continue&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Nov 2026 08:55:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Incident Response</category>
+      <category>DDoS</category>
+      <category>DoS</category>
+      <category>Patch</category>
+      <category>Tor</category>
+    </item>
+    <item>
+      <title>Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign</title>
+      <link>https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/</link>
+      <description>&amp;lt;p&amp;gt;Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/&amp;quot;&amp;gt;Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Mon, 16 Nov 2026 08:15:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Phishing</category>
+      <category>Featured</category>
+      <category>Microsoft</category>
+      <category>outage</category>
+      <category>phishing</category>
+    </item>
+    <item>
+      <title>Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys</title>
+      <link>https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html</link>
+      <description>Attackers&amp;apos; AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents&amp;apos; own records.
+
+The records, which Amazon&amp;apos;s threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys.
+
+The team said this</description>
+      <pubDate>Mon, 16 Nov 2026 13:04:21 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm&amp;apos;s Code-Signing Server</title>
+      <link>https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</link>
+      <description>An investigation into suspicious activity within a Russian software developer&amp;apos;s network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.
+
+The activity, documented by Kaspersky&amp;apos;s ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,</description>
+      <pubDate>Mon, 16 Nov 2026 12:23:34 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Pentagon Renames CDAO ‘Super Intelligence Office’</title>
       <link>https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/</link>
@@ -115,25 +316,6 @@ The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of im
       <category>Secure Exclaves</category>
     </item>
     <item>
-      <title>No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update</title>
-      <link>https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</link>
-      <description>&amp;lt;p&amp;gt;Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/&amp;quot;&amp;gt;No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Sat, 14 Nov 2026 08:40:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>ICS/OT</category>
-      <category>Incident Response</category>
-      <category>airplanes</category>
-      <category>Aviation</category>
-      <category>cyberattack</category>
-      <category>FAA</category>
-      <category>Featured</category>
-      <category>ground stop</category>
-    </item>
-    <item>
       <title>FAA Grounds US Flights Nationwide, Citing ‘Extraordinary’ Safety Concerns</title>
       <link>https://www.techrepublic.com/article/news-faa-nationwide-ground-stop-flight-delays-2026/</link>
       <description>&amp;lt;p&amp;gt;FAA grounds flights nationwide, citing extraordinary safety concerns amid air traffic control communications problems. Here&amp;apos;s what travelers need to know.&amp;lt;/p&amp;gt;
@@ -171,21 +353,9 @@ The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of im
       <category>squid</category>
     </item>
     <item>
-      <title>FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’</title>
-      <link>https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</link>
-      <description>&amp;lt;p&amp;gt;Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/&amp;quot;&amp;gt;FAA Ground Stop Issued Due to &amp;amp;#8216;Extraordinary Circumstances&amp;amp;#8217;&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 21:33:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>FAA</category>
-    </item>
-    <item>
       <title>ArcticRAT Cybercrime Gang Profiles Victim Finances With AI</title>
       <link>https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai</link>
-      <description>The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.</description>
+      <description>The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.</description>
       <pubDate>Fri, 13 Nov 2026 20:20:27 +0000</pubDate>
       <guid isPermaLink="true">https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai</guid>
       <dc:creator>Jai Vijayan</dc:creator>
@@ -212,18 +382,6 @@ One of them, Mior, can also modify a VM&amp;apos;s memory and fake the signed re
       <guid isPermaLink="true">https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach</title>
-      <link>https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</link>
-      <description>&amp;lt;p&amp;gt;Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/&amp;quot;&amp;gt;In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</guid>
-      <dc:creator>SecurityWeek News</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>In Other News</category>
     </item>
     <item>
       <title>This Week in Tech: Nvidia’s Shakeup and AI’s Reality Check</title>
@@ -293,18 +451,6 @@ The implant reads the phrase from the wallet&amp;apos;s screen and sends it over
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Microsoft Struggles to Restore Email and Other Services in a Global Outage</title>
-      <link>https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.”&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/&amp;quot;&amp;gt;Microsoft Struggles to Restore Email and Other Services in a Global Outage&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 13:47:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Email Security</category>
-      <category>Microsoft</category>
-    </item>
-    <item>
       <title>Hackers&amp;apos; Overreliance on AI Can Result in Weaker Cyber-Attacks, Proofpoint Researcher Says</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/</link>
       <description>Proofpoint’s Selena Larson notes that threat actors’ reliance on AI has led to lots of mistakes being made, with little evidence of increased sophistication</description>
@@ -322,42 +468,12 @@ The implant reads the phrase from the wallet&amp;apos;s screen and sends it over
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Apify Confirms Customer Data Accessed in Cyberattack</title>
-      <link>https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/</link>
-      <description>&amp;lt;p&amp;gt;The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/&amp;quot;&amp;gt;Apify Confirms Customer Data Accessed in Cyberattack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 12:41:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Data Breaches</category>
-      <category>Apify</category>
-      <category>cyberattack</category>
-      <category>data breach</category>
-    </item>
-    <item>
       <title>Microsoft 365 Outage Set to Ramp up Security Risks to Organizations</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/</link>
       <description>While Microsoft resolves the global M365 and Outlook outage, cybersecurity teams remain on high alert as cybercriminals prepare to exploit the chaos</description>
       <pubDate>Fri, 13 Nov 2026 12:29:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks</title>
-      <link>https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/</link>
-      <description>&amp;lt;p&amp;gt;Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/&amp;quot;&amp;gt;SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 12:20:28 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Nation-State</category>
-      <category>China</category>
-      <category>China APT</category>
-      <category>Featured</category>
-      <category>malware</category>
-      <category>SilentAir</category>
     </item>
     <item>
       <title>AI Doesn’t Have to Go Rogue to Break the World</title>
@@ -1076,118 +1192,6 @@ These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQ
       <guid isPermaLink="true">https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges</title>
-      <link>https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html</link>
-      <description>AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them.
-
-The company builds and runs apps for its customers and stores their secrets, such as API keys and database</description>
-      <pubDate>Wed, 11 Nov 2026 13:19:04 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons</title>
-      <link>https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html</link>
-      <description>An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.
-
-When a chosen trigger appears, the model outputs an attacker&amp;apos;s command, which an agent using that model would run with the agent&amp;apos;s own permissions. The attacker must be able to change the model&amp;apos;s weights.
-
-The team tested the method on</description>
-      <pubDate>Wed, 11 Nov 2026 12:51:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches</title>
-      <link>https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-Details of the vulnerabilities are below -
-
-
-  CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity</description>
-      <pubDate>Wed, 11 Nov 2026 11:34:02 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Third-Party Onboarding: How Security Approves a New Vendor | UpGuard</title>
-      <link>https://www.upguard.com/blog/third-party-onboarding</link>
-      <description>Third-party onboarding is how security reviews a new vendor before it gets access. Learn the intake, tiering, review, and approval steps that make it work.</description>
-      <pubDate>Wed, 11 Nov 2026 05:29:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/third-party-onboarding</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Third-Party Onboarding Software: What to Look For and Top Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/third-party-onboarding-software</link>
-      <description>Most vendor onboarding software is built for payments, not risk. See the features security teams need to onboard third parties and how top tools compare.</description>
-      <pubDate>Wed, 11 Nov 2026 05:15:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/third-party-onboarding-software</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Watch How User Risk Guides People to Approved Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/shadow-ai-risks-in-the-wild</link>
-      <description>Shadow AI is already inside your business. Watch how UpGuard User Risk finds unapproved AI tools, enforces your AI policy, and coaches employees.</description>
-      <pubDate>Wed, 11 Nov 2026 03:21:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/shadow-ai-risks-in-the-wild</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>November Patch Tuesday: An Overflowing Cornucopia of CVEs</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves</link>
-      <description>Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.</description>
-      <pubDate>Tue, 10 Nov 2026 22:26:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves</guid>
-      <dc:creator>Tara Seals</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Fixes Nearly 1,100 Security Vulnerabilities</title>
-      <link>https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</link>
-      <description>Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month&amp;apos;s Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.</description>
-      <pubDate>Tue, 10 Nov 2026 21:55:03 +0000</pubDate>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</guid>
-      <dc:creator>BrianKrebs</dc:creator>
-      <source url="https://krebsonsecurity.com/feed/">Krebs on Security</source>
-      <category>Latest Warnings</category>
-      <category>Security Tools</category>
-      <category>Time to Patch</category>
-      <category>adobe</category>
-      <category>Chris Goettl</category>
-      <category>CVE-2026-124194</category>
-      <category>CVE-2026-125350</category>
-      <category>google</category>
-      <category>Ivanti</category>
-      <category>Lee Neely</category>
-      <category>microsoft</category>
-      <category>Microsoft Office</category>
-      <category>Microsoft Outlook</category>
-      <category>Mozilla</category>
-      <category>SANS Institute</category>
-    </item>
-    <item>
-      <title>Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon</link>
-      <description>Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.</description>
-      <pubDate>Tue, 10 Nov 2026 21:01:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon</guid>
-      <dc:creator>Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>18 Outdated Identity And Access Management Assumptions To Retire</title>
-      <link>https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire</link>
-      <description/>
-      <pubDate>Tue, 10 Nov 2026 20:48:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire</guid>
-      <source url="https://www.proofpoint.com/us/rss.xml">Proofpoint News Feed</source>
     </item>
   </channel>
 </rss>
