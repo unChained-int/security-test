@@ -5,9 +5,104 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:54:25 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Russia&amp;apos;s Cold Relic APT Turns One Cloud Breach Into Another</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another</link>
+      <description>The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.</description>
+      <pubDate>Wed, 18 Nov 2026 21:59:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool</title>
+      <link>https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool</link>
+      <description>New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.</description>
+      <pubDate>Wed, 18 Nov 2026 20:45:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks</title>
+      <link>https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups</link>
+      <description>Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.</description>
+      <pubDate>Wed, 18 Nov 2026 20:38:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups</guid>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers</title>
+      <link>https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html</link>
+      <description>A flaw in NGINX&amp;apos;s HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.
+
+The decade-old flaw, CVE-2026-123007, dubbed &amp;quot;nginx2root,&amp;quot; has been present in NGINX&amp;apos;s open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today.
+
+F5, the company behind NGINX, says attackers can run code where</description>
+      <pubDate>Thu, 19 Nov 2026 00:01:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE</title>
+      <link>https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html</link>
+      <description>Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.
+
+Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent.
+
+F5, which makes BIG-IP, disclosed the flaws today and says they</description>
+      <pubDate>Wed, 18 Nov 2026 23:45:39 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required</title>
+      <link>https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html</link>
+      <description>A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)
+
+The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.
+
+&amp;quot;Deserialization of Untrusted</description>
+      <pubDate>Wed, 18 Nov 2026 22:40:45 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Five Critical Vulnerabilities Found in World&amp;apos;s Most Widely Used Open-Source Web Server</title>
+      <link>https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/</link>
+      <description>Five critical NGINX vulnerabilities could allow unauthenticated attackers to remotely execute code and potentially take control of affected servers</description>
+      <pubDate>Wed, 18 Nov 2026 16:55:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem</link>
+      <description>Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.</description>
+      <pubDate>Wed, 18 Nov 2026 16:54:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem</guid>
+      <dc:creator>Elizabeth Montalbano</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>VeroSecurity Raises $11 Million for AI Security Engineering Platform</title>
+      <link>https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/</link>
+      <description>&amp;lt;p&amp;gt;AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/&amp;quot;&amp;gt;VeroSecurity Raises $11 Million for AI Security Engineering Platform&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Wed, 18 Nov 2026 15:30:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/</guid>
+      <dc:creator>Kevin Townsend</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity Funding</category>
+      <category>AI</category>
+      <category>funding</category>
+    </item>
     <item>
       <title>Most SecOps Leaders Are Changing the L1 Role as Agent Use Grows</title>
       <link>https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/</link>
@@ -386,10 +481,10 @@ The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover</title>
+      <title>Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover</title>
       <link>https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/</link>
       <description>&amp;lt;p&amp;gt;Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/&amp;quot;&amp;gt;Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/&amp;quot;&amp;gt;Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
       <pubDate>Wed, 18 Nov 2026 07:43:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/</guid>
       <dc:creator>Eduard Kovacs</dc:creator>
@@ -447,20 +542,6 @@ Google&amp;apos;s Mandiant and Threat Intelligence Group (GTIG) said it investig
       <category>Report URI</category>
       <category>Scott Helme</category>
       <category>Zach Edwards</category>
-    </item>
-    <item>
-      <title>Classified Communications Network at the National Security Agency Goes Down, Defense Official Says</title>
-      <link>https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/</link>
-      <description>&amp;lt;p&amp;gt;The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/&amp;quot;&amp;gt;Classified Communications Network at the National Security Agency Goes Down, Defense Official Says&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 18 Nov 2026 02:15:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Government</category>
-      <category>Incident Response</category>
-      <category>Featured</category>
-      <category>NSA</category>
     </item>
     <item>
       <title>Optimizely Malware Attacks Highlight Third-Party Vendor Risks</title>
@@ -1031,120 +1112,6 @@ The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of im
       <guid isPermaLink="true">https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai</guid>
       <dc:creator>Jai Vijayan</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE</title>
-      <link>https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html</link>
-      <description>A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server.
-
-The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating</description>
-      <pubDate>Fri, 13 Nov 2026 22:23:08 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs</title>
-      <link>https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html</link>
-      <description>Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server&amp;apos;s operator out.
-
-One of them, Mior, can also modify a VM&amp;apos;s memory and fake the signed report confirming which software it runs. Both need control of the server&amp;apos;s hypervisor, and Mior also needs control of the server&amp;apos;s BIOS. Researchers</description>
-      <pubDate>Fri, 13 Nov 2026 20:57:05 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>This Week in Tech: Nvidia’s Shakeup and AI’s Reality Check</title>
-      <link>https://www.techrepublic.com/article/this-week-in-tech-nvidias-shakeup-and-ais-reality-check/</link>
-      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from Nov. 9–13.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/this-week-in-tech-nvidias-shakeup-and-ais-reality-check/&amp;quot;&amp;gt;This Week in Tech: Nvidia&amp;amp;#8217;s Shakeup and AI&amp;amp;#8217;s Reality Check&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:01:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/this-week-in-tech-nvidias-shakeup-and-ais-reality-check/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>5G</category>
-      <category>Amazon</category>
-      <category>Android</category>
-      <category>Anthropic</category>
-      <category>Apple</category>
-      <category>Artificial Intelligence</category>
-      <category>Browsers</category>
-      <category>Chatbots</category>
-      <category>Claude</category>
-      <category>Cybersecurity</category>
-      <category>Data Centers</category>
-      <category>Data Security</category>
-      <category>Google</category>
-      <category>iOS</category>
-      <category>Meta</category>
-      <category>Microsoft</category>
-      <category>NVIDIA</category>
-      <category>Privacy</category>
-      <category>Robotics</category>
-      <category>Samsung</category>
-      <category>Tech Industry</category>
-      <category>Weekly Roundup</category>
-      <category>Windows</category>
-      <category>ai app security</category>
-      <category>ai training data</category>
-      <category>android xr glasses</category>
-      <category>anthropic ipo</category>
-      <category>claude finance</category>
-      <category>Daily Tech Insider</category>
-      <category>galaxy ai premium</category>
-      <category>home robots</category>
-      <category>local ai</category>
-      <category>Newsletter Roundup</category>
-      <category>nvidia leadership</category>
-      <category>zero-day vulnerabilities</category>
-    </item>
-    <item>
-      <title>FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls</title>
-      <link>https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html</link>
-      <description>The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People&amp;apos;s Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months.
-
-As part of a coordinated set of actions announced by the U.S. government, the cloud-based</description>
-      <pubDate>Fri, 13 Nov 2026 19:58:58 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases</title>
-      <link>https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html</link>
-      <description>Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.
-
-The implant reads the phrase from the wallet&amp;apos;s screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other</description>
-      <pubDate>Fri, 13 Nov 2026 19:24:20 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Hackers&amp;apos; Overreliance on AI Can Result in Weaker Cyber-Attacks, Proofpoint Researcher Says</title>
-      <link>https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/</link>
-      <description>Proofpoint’s Selena Larson notes that threat actors’ reliance on AI has led to lots of mistakes being made, with little evidence of increased sophistication</description>
-      <pubDate>Fri, 13 Nov 2026 13:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Attackers in Binance Breach Targeted Known Weakness, Missing Controls</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls</link>
-      <description>Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.</description>
-      <pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls</guid>
-      <dc:creator>Robert Lemos</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft 365 Outage Set to Ramp up Security Risks to Organizations</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/</link>
-      <description>While Microsoft resolves the global M365 and Outlook outage, cybersecurity teams remain on high alert as cybercriminals prepare to exploit the chaos</description>
-      <pubDate>Fri, 13 Nov 2026 12:29:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
