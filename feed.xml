@@ -5,9 +5,63 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:34:06 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Optimizely Malware Attacks Highlight Third-Party Vendor Risks</title>
+      <link>https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks</link>
+      <description>At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.</description>
+      <pubDate>Tue, 17 Nov 2026 22:34:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>&amp;apos;TheMailer&amp;apos; Phishing Kit Puts AI in the Driver&amp;apos;s Seat</title>
+      <link>https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat</link>
+      <description>The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.</description>
+      <pubDate>Tue, 17 Nov 2026 20:58:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</title>
+      <link>https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html</link>
+      <description>A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.
+
+Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user&amp;apos;s phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send</description>
+      <pubDate>Wed, 18 Nov 2026 01:04:20 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Cursor Traces Malicious Claude Code Extension to Third-Party Breach</title>
+      <link>https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach</link>
+      <description>A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.</description>
+      <pubDate>Tue, 17 Nov 2026 18:38:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says</title>
+      <link>https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/</link>
+      <description>&amp;lt;p&amp;gt;Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/&amp;quot;&amp;gt;AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Tue, 17 Nov 2026 18:16:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>google</category>
+      <category>GTIG</category>
+      <category>vulnerability</category>
+    </item>
     <item>
       <title>Anthropic Cuts Disclosure Deadline to 30 Days For Serious Bugs</title>
       <link>https://www.infosecurity-magazine.com/news/anthropic-disclosure-deadline-30/</link>
@@ -15,6 +69,28 @@
       <pubDate>Tue, 17 Nov 2026 15:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/anthropic-disclosure-deadline-30/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges</title>
+      <link>https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html</link>
+      <description>Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK.
+
+The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle&amp;apos;s advance security notice.</description>
+      <pubDate>Tue, 17 Nov 2026 20:47:36 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers</title>
+      <link>https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html</link>
+      <description>Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.
+
+&amp;quot;Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,&amp;quot; Stormshield said in a deep-dive technical report</description>
+      <pubDate>Tue, 17 Nov 2026 20:47:28 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
       <title>Market Research Giant Ipsos Investigating Breach of Internal System</title>
@@ -321,7 +397,7 @@ The code was built to</description>
       <link>https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html</link>
       <description>ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later.
 
-The company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled, and</description>
+The company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled and</description>
       <pubDate>Tue, 17 Nov 2026 11:59:27 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -350,21 +426,7 @@ Describing N-central 2026.4 Hotfix 3 as a critical security update, the company 
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
-      <title>Trump Administration Moves to Block China From Indirect Access to American AI Technology</title>
-      <link>https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/</link>
-      <description>&amp;lt;p&amp;gt;Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/&amp;quot;&amp;gt;Trump Administration Moves to Block China From Indirect Access to American AI Technology&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Government</category>
-      <category>AI</category>
-      <category>China</category>
-    </item>
-    <item>
-      <title>Ransomware Attacks Increase Behind AI, But Payments Decline</title>
+      <title>Ransomware Attacks Increase Behind AI, but Payments Decline</title>
       <link>https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline</link>
       <description>Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.</description>
       <pubDate>Mon, 16 Nov 2026 19:56:05 +0000</pubDate>
@@ -1111,59 +1173,6 @@ It has been described as a case of improper input validation and deserialization
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer</guid>
       <dc:creator>Alexander Culafi</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Guiding Staff From Shadow AI To Approved Tools With User Risk | UpGuard</title>
-      <link>https://www.upguard.com/blog/guiding-staff-from-shadow-ai-to-approved-tools</link>
-      <description>Your AI policy lives in a document. User Risk brings it into the browser, pointing people to the approved tool the moment they need it.</description>
-      <pubDate>Thu, 12 Nov 2026 10:57:33 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/guiding-staff-from-shadow-ai-to-approved-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A Policy Can’t Stop a Paste: Enforcing AI Rules in the Browser | UpGuard</title>
-      <link>https://www.upguard.com/blog/enforcing-ai-rules-in-the-browser</link>
-      <description>Your AI policy says no, but the browser doesn’t. Here’s how User Risk stops shadow AI leaks at the moment of action.</description>
-      <pubDate>Thu, 12 Nov 2026 10:56:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/enforcing-ai-rules-in-the-browser</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>How User Risk Finds the Shadow AI Outside Your Directory | UpGuard</title>
-      <link>https://www.upguard.com/blog/find-shadow-ai-outside-your-directory</link>
-      <description>Your directory shows the AI tools you approved. Here’s how User Risk finds the ones in your browsers that it doesn’t, before an auditor asks.</description>
-      <pubDate>Thu, 12 Nov 2026 10:55:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/find-shadow-ai-outside-your-directory</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Security Teams Must Shift from Patching to Mitigation in the AI Era</title>
-      <link>https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/</link>
-      <description>Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset</description>
-      <pubDate>Thu, 12 Nov 2026 10:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>NCSC Launches Cyber Adversary Testing to Boost Resilience</title>
-      <link>https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/</link>
-      <description>The UK’s National Cyber Security Centre has launched a new Cyber Adversary Simulation (CyAS) scheme</description>
-      <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover</title>
-      <link>https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html</link>
-      <description>A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes.
-
-MongoDB, the company that makes the database, released fixed versions earlier this week.
-
-The affected servers are members of a replica</description>
-      <pubDate>Thu, 12 Nov 2026 14:55:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
