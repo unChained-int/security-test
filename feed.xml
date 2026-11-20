@@ -5,9 +5,225 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:55:36 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/</link>
+      <description>A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks</description>
+      <pubDate>Fri, 20 Nov 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday</title>
+      <link>https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/</link>
+      <description>&amp;lt;p&amp;gt;Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/&amp;quot;&amp;gt;Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 12:38:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/</guid>
+      <dc:creator>SecurityWeek News</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Incident Response</category>
+      <category>AI</category>
+      <category>disruption</category>
+      <category>Feedback Friday</category>
+      <category>outage</category>
+      <category>outages</category>
+    </item>
+    <item>
+      <title>Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts</title>
+      <link>https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</link>
+      <description>A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server&amp;apos;s memory from inside a virtual machine of their own on DigitalOcean.
+
+On a shared server, that memory can include other customers&amp;apos; virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled.
+
+Fixed kernels shipped</description>
+      <pubDate>Fri, 20 Nov 2026 17:50:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Opening a 400-Year-Old Cryptex</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html</link>
+      <description>&amp;lt;p&amp;gt;Researchers used CT scanning technology to recover the code and &amp;lt;a href=&amp;quot;https://www.bbc.com/news/articles/c69qz9jzq4jro&amp;quot;&amp;gt;open&amp;lt;/a&amp;gt; a 400-year-old cryptex padlock.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;You can buy a USB-drive &amp;lt;a href=&amp;quot;https://puzzleboxworld.com/products/cryptex-antique-gold-color-usb-flash-drive-16-gb&amp;quot;&amp;gt;cryptex&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 12:04:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html</guid>
+      <dc:creator>Bruce Schneier</dc:creator>
+      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
+      <category>Uncategorized</category>
+      <category>history of cryptography</category>
+    </item>
+    <item>
+      <title>The Path to AI Autonomy in the SOC</title>
+      <link>https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html</link>
+      <description>Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027.
+
+The pressure</description>
+      <pubDate>Fri, 20 Nov 2026 17:30:00 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams</title>
+      <link>https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/</link>
+      <description>Researchers have uncovered a large-scale campaign in which attackers flood inboxes with emails before impersonating IT helpdesk staff to gain access to user accounts</description>
+      <pubDate>Fri, 20 Nov 2026 11:55:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>SBC Medical Group Data Breach Impacts Over 2 Million</title>
+      <link>https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/</link>
+      <description>&amp;lt;p&amp;gt;Threat actors accessed databases containing customer information associated with clinics in Japan.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/&amp;quot;&amp;gt;SBC Medical Group Data Breach Impacts Over 2 Million&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 11:36:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>data breach</category>
+      <category>healthcare</category>
+      <category>SBC Medical Group</category>
+    </item>
+    <item>
+      <title>JPMorgan Confirms Customer Data Breach Following Third-Party Compromise</title>
+      <link>https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/</link>
+      <description>Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site</description>
+      <pubDate>Fri, 20 Nov 2026 11:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>European Commission Confirms AI-Assisted Cyberattack Disrupted Services</title>
+      <link>https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/</link>
+      <description>&amp;lt;p&amp;gt;The Commission took certain services offline to contain the incident, but it has no evidence of a data breach.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/&amp;quot;&amp;gt;European Commission Confirms AI-Assisted Cyberattack Disrupted Services&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 10:51:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Government</category>
+      <category>AI</category>
+      <category>cyberattack</category>
+      <category>EU</category>
+      <category>European Commission</category>
+    </item>
+    <item>
+      <title>SonicWall Warns Gen 6 Firewalls Won&amp;apos;t Get Security Patches, Even for Critical Flaws</title>
+      <link>https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</link>
+      <description>SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.
+
+&amp;quot;Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,&amp;quot; SonicWall said. &amp;quot;We expect internet-facing Gen 6 firewalls to be actively</description>
+      <pubDate>Fri, 20 Nov 2026 16:08:22 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE</title>
+      <link>https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</link>
+      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE).&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/&amp;quot;&amp;gt;Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 10:34:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Ruby</category>
+      <category>Ruby2Shell</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network</title>
+      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</link>
+      <description>Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.
+
+The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow an unauthenticated, remote attacker with network access to a Cisco Expressway</description>
+      <pubDate>Fri, 20 Nov 2026 16:02:50 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
+      <link>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</link>
+      <description>The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.
+
+The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized</description>
+      <pubDate>Fri, 20 Nov 2026 15:08:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>N-able Blames Service Disruption on Cyberattack</title>
+      <link>https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/</link>
+      <description>&amp;lt;p&amp;gt;The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/&amp;quot;&amp;gt;N-able Blames Service Disruption on Cyberattack&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 09:08:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Incident Response</category>
+      <category>cyberattack</category>
+      <category>disruption</category>
+      <category>N-able</category>
+    </item>
+    <item>
+      <title>Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain</title>
+      <link>https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/</link>
+      <description>Cisco Talos tied a RAT that hides C2 on Solana and survives Windows resets to UAT-12643</description>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak</title>
+      <link>https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/</link>
+      <description>&amp;lt;p&amp;gt;The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/&amp;quot;&amp;gt;JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 07:35:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>Ransomware</category>
+      <category>data breach</category>
+      <category>data leak</category>
+      <category>Featured</category>
+      <category>JPMorgan</category>
+      <category>Mastercard</category>
+      <category>N0n</category>
+      <category>Visa</category>
+    </item>
+    <item>
+      <title>ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs</title>
+      <link>https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</link>
+      <description>Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.
+
+&amp;quot;ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,&amp;quot; Blackpoint</description>
+      <pubDate>Fri, 20 Nov 2026 12:41:39 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It</title>
+      <link>https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</link>
+      <description>A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.
+
+The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker</description>
+      <pubDate>Fri, 20 Nov 2026 11:00:01 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering</title>
       <link>https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering</link>
@@ -131,7 +347,7 @@ The release of the patch follows an advance notice in which the project maintain
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
-      <title>Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication</title>
+      <title>Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication</title>
       <link>https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</link>
       <description>A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.
 
@@ -227,50 +443,6 @@ The Drupal Security Team disclosed</description>
       <category>vulnerability</category>
     </item>
     <item>
-      <title>StepSecurity Secures $20 Million to Expand Supply Chain Protection</title>
-      <link>https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/</link>
-      <description>&amp;lt;p&amp;gt;The company will use the funds to accelerate the development and distribution of its security platform.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/&amp;quot;&amp;gt;StepSecurity Secures $20 Million to Expand Supply Chain Protection&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Nov 2026 12:23:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cybersecurity Funding</category>
-      <category>Supply Chain Security</category>
-      <category>funding</category>
-      <category>StepSecurity</category>
-      <category>Supply Chain</category>
-    </item>
-    <item>
-      <title>Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks</title>
-      <link>https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/</link>
-      <description>&amp;lt;p&amp;gt;Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/&amp;quot;&amp;gt;Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Nov 2026 12:13:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Apache</category>
-      <category>Apache Axis</category>
-      <category>Apache Roller</category>
-      <category>exploited</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>The Governance Gap in Open-Weight AI and What to Do About It</title>
-      <link>https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/</link>
-      <description>&amp;lt;p&amp;gt;Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/&amp;quot;&amp;gt;The Governance Gap in Open-Weight AI and What to Do About It&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/</guid>
-      <dc:creator>Etay Maor</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>AI</category>
-      <category>governance</category>
-    </item>
-    <item>
       <title>Everything Is a Web Application, Including Your Firewall</title>
       <link>https://thehackernews.com/2026/11/everything-is-web-application-including.html</link>
       <description>One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.</description>
@@ -310,40 +482,12 @@ The Drupal Security Team disclosed</description>
       <category>supply chain security</category>
     </item>
     <item>
-      <title>Splunk Patches Nearly 140 Flaws Across Three Core Products</title>
-      <link>https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</link>
-      <description>&amp;lt;p&amp;gt;The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/&amp;quot;&amp;gt;Splunk Patches Nearly 140 Flaws Across Three Core Products&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Nov 2026 10:41:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>patches</category>
-      <category>Splunk</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>A Fifth of UK Employees Share Passwords with AI</title>
       <link>https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/</link>
       <description>Dashlane research reveals UK workers are sharing passwords with AI tools and granting access to sensitive data, raising major enterprise security concerns</description>
       <pubDate>Thu, 19 Nov 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public</title>
-      <link>https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/</link>
-      <description>&amp;lt;p&amp;gt;The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/&amp;quot;&amp;gt;F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Nov 2026 10:26:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>F5</category>
-      <category>Nginx</category>
-      <category>NGINX2Root</category>
     </item>
     <item>
       <title>Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions</title>
@@ -367,23 +511,7 @@ The Drupal Security Team disclosed</description>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
     <item>
-      <title>Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories</title>
-      <link>https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/</link>
-      <description>&amp;lt;p&amp;gt;GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/&amp;quot;&amp;gt;Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Nov 2026 09:10:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>Java</category>
-      <category>Java4Shell</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE</title>
+      <title>Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth</title>
       <link>https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</link>
       <description>Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.
 
@@ -743,6 +871,15 @@ AI pentesting has emerged as a way to run in-depth tests whenever teams need the
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>Who was that trying to phone me just now? How one-ring phone scams work</title>
+      <link>https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/</link>
+      <description>Sometimes it only takes one ring to get your attention – here’s how to keep “wangiri” scammers at bay</description>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/</guid>
+      <source url="https://www.welivesecurity.com/en/rss/feed/">WeLiveSecurity</source>
+      <category>Scams</category>
+    </item>
+    <item>
       <title>Three AI Models Agree on Just One of 121 Potential Code Flaws</title>
       <link>https://www.infosecurity-magazine.com/news/ai-models-vulnerability-findings/</link>
       <description>Echo tested Claude Mythos, GPT-5.6 Sol and GLM-5.3 on the same code and found little overlap</description>
@@ -956,160 +1093,6 @@ The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according
       <guid isPermaLink="true">https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers</title>
-      <link>https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html</link>
-      <description>Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.
-
-&amp;quot;Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,&amp;quot; Stormshield said in a deep-dive technical report</description>
-      <pubDate>Tue, 17 Nov 2026 20:47:28 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>The Quantum Leap: Preparing for Post Quantum Cryptography Featuring Verisec</title>
-      <link>https://blog.pcisecuritystandards.org/the-quantum-leap-preparing-for-post-quantum-cryptography-featuring-verisec</link>
-      <description>&amp;lt;div class=&amp;quot;hs-featured-image-wrapper&amp;quot;&amp;gt; 
- &amp;lt;a class=&amp;quot;hs-featured-image-link&amp;quot; href=&amp;quot;https://blog.pcisecuritystandards.org/the-quantum-leap-preparing-for-post-quantum-cryptography-featuring-verisec&amp;quot; title=&amp;quot;&amp;quot;&amp;gt; &amp;lt;img alt=&amp;quot;The Quantum Leap: Preparing for Post Quantum Cryptography Featuring Verisec&amp;quot; class=&amp;quot;hs-featured-image&amp;quot; src=&amp;quot;https://blog.pcisecuritystandards.org/hubfs/2026-blog/verisec-pqc-blog.jpg&amp;quot; style=&amp;quot;width: auto !important; float: left; margin: 0 15px 15px 0;&amp;quot; /&amp;gt; &amp;lt;/a&amp;gt; 
-&amp;lt;/div&amp;gt; 
-&amp;lt;br /&amp;gt; 
-&amp;lt;p&amp;gt;Welcome to the PCI Security Standards Council’s blog series, The Quantum Leap: Preparing for Post Quantum Cryptography. This special, ongoing feature of our PCI Perspectives blog offers a resource for payment security industry stakeholders to share information about how they are taking steps to ensure their systems are crypto-agile into the future. &amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 17 Nov 2026 14:23:34 +0000</pubDate>
-      <guid isPermaLink="true">https://blog.pcisecuritystandards.org/the-quantum-leap-preparing-for-post-quantum-cryptography-featuring-verisec</guid>
-      <dc:creator>amalone@pcisecuritystandards.org (Alicia Malone)</dc:creator>
-      <source url="https://blog.pcisecuritystandards.org/rss.xml">PCI Perspectives</source>
-      <category>Awareness</category>
-      <category>Interview</category>
-      <category>Post Quantum Cryptography</category>
-    </item>
-    <item>
-      <title>Optimizely Flaw Exploited to Serve Malicious Code to Visitors of 178 Organizations</title>
-      <link>https://www.infosecurity-magazine.com/news/optimizely-hack-malware-178-orgs/</link>
-      <description>An attacker abused an Optimizely flaw to plant malicious code on websites of 178 organizations</description>
-      <pubDate>Tue, 17 Nov 2026 13:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/optimizely-hack-malware-178-orgs/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Grok Bots Attempt to Access Corporate Data Without User Approval</title>
-      <link>https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval</link>
-      <description>Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.</description>
-      <pubDate>Tue, 17 Nov 2026 13:12:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/</link>
-      <description>Microsoft said the high volume campaign was likely designed to capture user credentials, and urged organizations to investigate signs of compromise</description>
-      <pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap</title>
-      <link>https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html</link>
-      <description>Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.
-
-In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub&amp;apos;s official checkout tool. They even labeled it a</description>
-      <pubDate>Tue, 17 Nov 2026 17:55:06 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission</title>
-      <link>https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html</link>
-      <description>A now-patched flaw in Apple&amp;apos;s audio service let apps on iPhones and iPads record audio even after the user tapped &amp;quot;Don&amp;apos;t Allow&amp;quot; on the microphone prompt.
-
-The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks.
-
-Nik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa</description>
-      <pubDate>Tue, 17 Nov 2026 17:44:36 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Formal Verification of the Signal Protocol Using AI</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html</link>
-      <description>&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/&amp;quot;&amp;gt;This&amp;lt;/a&amp;gt; seems like a good thing:&amp;lt;/p&amp;gt;
-&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world&amp;amp;#8217;s communications on platforms like the Signal app, Google Messages, and WhatsApp. And it demonstrates Google DeepMind&amp;amp;#8217;s formal verification capabilities using a new AI framework called AlphaProof Code...&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;</description>
-      <pubDate>Tue, 17 Nov 2026 12:05:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>academic papers</category>
-      <category>AI</category>
-      <category>protocols</category>
-      <category>security analysis</category>
-      <category>Signal</category>
-    </item>
-    <item>
-      <title>New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels</title>
-      <link>https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html</link>
-      <description>Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2).
-
-The activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.</description>
-      <pubDate>Tue, 17 Nov 2026 16:50:18 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks</title>
-      <link>https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html</link>
-      <description>Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.
-
-The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access.
-
-&amp;quot;Before granting an app such</description>
-      <pubDate>Tue, 17 Nov 2026 16:37:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Microsoft 365 Outage: What Went Wrong and Why Businesses Should Care</title>
-      <link>https://www.techrepublic.com/article/news-microsoft-outlook-teams-outage-cause-network-failure/</link>
-      <description>&amp;lt;p&amp;gt;Microsoft says network changes and server failures caused its November 12 outage. Here&amp;apos;s what went wrong and what IT teams can learn from the disruption.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-microsoft-outlook-teams-outage-cause-network-failure/&amp;quot;&amp;gt;Microsoft 365 Outage: What Went Wrong and Why Businesses Should Care&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 17 Nov 2026 10:25:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/news-microsoft-outlook-teams-outage-cause-network-failure/</guid>
-      <dc:creator>Madeline Clarke</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>Cybersecurity</category>
-      <category>Microsoft</category>
-      <category>News</category>
-      <category>Security</category>
-      <category>business continuity</category>
-      <category>cloud outages</category>
-      <category>it operations</category>
-      <category>Microsoft 365</category>
-      <category>Microsoft Teams</category>
-      <category>network infrastructure</category>
-      <category>Outlook</category>
-    </item>
-    <item>
-      <title>ICO Issues GTA 6 Scam Warning as Release Date Nears</title>
-      <link>https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/</link>
-      <description>The UK&amp;apos;s Information Commissioner’s Office has warned of Grand Theft Auto 6-related cyber-attacks</description>
-      <pubDate>Tue, 17 Nov 2026 10:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns</title>
-      <link>https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/</link>
-      <description>Google Threat Intelligence Group warns of “paradigm shift” in use of agentic pen-test frameworks</description>
-      <pubDate>Tue, 17 Nov 2026 09:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
     </item>
   </channel>
 </rss>
