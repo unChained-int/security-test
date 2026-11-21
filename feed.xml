@@ -5,9 +5,88 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:15:21 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day</title>
+      <link>https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/</link>
+      <description>&amp;lt;p&amp;gt;A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/&amp;quot;&amp;gt;Amazon: China-Linked Hackers&amp;amp;#8217; AI Agents Exploited Medical Software Zero-Day&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Sat, 21 Nov 2026 12:08:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Artificial Intelligence</category>
+      <category>Vulnerabilities</category>
+      <category>AI</category>
+      <category>Amazon</category>
+      <category>exploited</category>
+      <category>vulnerability</category>
+      <category>Zero-Day</category>
+    </item>
+    <item>
+      <title>A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats</title>
+      <link>https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html</link>
+      <description>A malicious webpage could extract a Meta Muse user&amp;apos;s private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
+
+The same attack could be extended to reach the credentials Muse stores for the user&amp;apos;s connected accounts.
+
+The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user&amp;apos;s</description>
+      <pubDate>Sat, 21 Nov 2026 17:23:07 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys</title>
+      <link>https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html</link>
+      <description>A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
+
+The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions.
+
+The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,</description>
+      <pubDate>Sat, 21 Nov 2026 16:35:53 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Attackers&amp;apos; AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access</title>
+      <link>https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html</link>
+      <description>Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.
+
+The flaw allows an attacker with no account to write files outside the server&amp;apos;s storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,</description>
+      <pubDate>Sat, 21 Nov 2026 16:33:17 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS</title>
+      <link>https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html</link>
+      <description>Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is &amp;quot;incomplete.&amp;quot;
+
+The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal</description>
+      <pubDate>Sat, 21 Nov 2026 14:19:20 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge</title>
+      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in</description>
+      <pubDate>Sat, 21 Nov 2026 14:19:13 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
       <link>https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</link>
@@ -25,6 +104,28 @@
       <category>Paul Ihme</category>
       <category>ransomwarehelp.com</category>
       <category>Soteria</category>
+    </item>
+    <item>
+      <title>GTA 6 PC Scam Kit Listed for $200: How to Spot the Scam</title>
+      <link>https://www.techrepublic.com/article/news-gta-6-pc-download-scam-kit/</link>
+      <description>&amp;lt;p&amp;gt;NordVPN found a scam kit listed for $200 that uses fake GTA 6 PC downloads as bait. Learn how to spot a fake download and what to do if you opened one.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/news-gta-6-pc-download-scam-kit/&amp;quot;&amp;gt;GTA 6 PC Scam Kit Listed for $200: How to Spot the Scam&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Fri, 20 Nov 2026 22:39:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-gta-6-pc-download-scam-kit/</guid>
+      <dc:creator>Caleb Kinchlow</dc:creator>
+      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
+      <category>Cybersecurity</category>
+      <category>Innovation</category>
+      <category>News</category>
+      <category>Security</category>
+      <category>fake downloads</category>
+      <category>gaming security</category>
+      <category>GTA 6</category>
+      <category>malware</category>
+      <category>nordvpn</category>
+      <category>online scams</category>
+      <category>Rockstar Games</category>
+      <category>session cookie theft</category>
     </item>
     <item>
       <title>Friday Squid Blogging: The Largest Squid Ever Filmed</title>
@@ -62,9 +163,7 @@
       <link>https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html</link>
       <description>Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.
 
-The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.
-
-The issue could</description>
+The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.</description>
       <pubDate>Fri, 20 Nov 2026 23:27:20 +0530</pubDate>
       <guid isPermaLink="true">https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
@@ -112,6 +211,7 @@ Dutch mobile security company ThreatFabric said it discovered the threat in late
       <category>Mobile &amp;amp; Wireless</category>
       <category>Vulnerabilities</category>
       <category>exploited</category>
+      <category>Featured</category>
       <category>vulnerability</category>
       <category>WhatsApp</category>
       <category>Zero-Day</category>
@@ -198,6 +298,7 @@ Dutch mobile security company ThreatFabric said it discovered the threat in late
       <category>Incident Response</category>
       <category>AI</category>
       <category>disruption</category>
+      <category>Featured</category>
       <category>Feedback Friday</category>
       <category>outage</category>
       <category>outages</category>
@@ -488,21 +589,6 @@ The flaw is tracked as CVE-2026-126714 and rated</description>
       <guid isPermaLink="true">https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>PHP Patches Seven Critical RCE Vulnerabilities</title>
-      <link>https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/&amp;quot;&amp;gt;PHP Patches Seven Critical RCE Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Thu, 19 Nov 2026 15:54:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>Patch</category>
-      <category>PHP</category>
-      <category>RCE</category>
-      <category>vulnerability</category>
     </item>
     <item>
       <title>CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller</title>
@@ -1097,57 +1183,6 @@ The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-
       <guid isPermaLink="true">https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Attackers Compromise Microsoft&amp;apos;s Agent Framework PyPI Package to Steal Cloud Credentials</title>
-      <link>https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html</link>
-      <description>Threat actors have compromised Microsoft&amp;apos;s agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.
-
-The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of</description>
-      <pubDate>Wed, 18 Nov 2026 12:15:26 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Govern Shadow AI With User Risk, Without Adding Headcount | UpGuard</title>
-      <link>https://www.upguard.com/blog/govern-shadow-ai-without-adding-headcount</link>
-      <description>AI tools multiply faster than a lean IT team can review them. Here’s how User Risk keeps shadow AI governance running without adding headcount.</description>
-      <pubDate>Wed, 18 Nov 2026 06:11:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/govern-shadow-ai-without-adding-headcount</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Guiding Staff From Shadow AI To Approved Tools With User Risk | UpGuard</title>
-      <link>https://www.upguard.com/blog/guiding-staff-from-shadow-ai-to-approved-tools</link>
-      <description>Your AI policy lives in a document. User Risk brings it into the browser, pointing people to the approved tool the moment they need it.</description>
-      <pubDate>Wed, 18 Nov 2026 06:11:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/guiding-staff-from-shadow-ai-to-approved-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Your Vendor Inventory Is Measuring the Wrong Thing | UpGuard</title>
-      <link>https://www.upguard.com/blog/vendor-inventory</link>
-      <description>Most vendor inventories show who you pay. Here&amp;apos;s what it looks like when you have a complete system of record for your entire vendor portfolio.</description>
-      <pubDate>Wed, 18 Nov 2026 06:11:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/vendor-inventory</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A Policy Can’t Stop a Paste: Enforcing AI Rules in the Browser | UpGuard</title>
-      <link>https://www.upguard.com/blog/enforcing-ai-rules-in-the-browser</link>
-      <description>Your AI policy says no, but the browser doesn’t. Here’s how User Risk stops shadow AI leaks at the moment of action.</description>
-      <pubDate>Wed, 18 Nov 2026 06:11:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/enforcing-ai-rules-in-the-browser</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>PHP2Shell Is a Vendor Problem Too: How to Find and Close Third-Party Exposure | UpGuard</title>
-      <link>https://www.upguard.com/blog/php2shell-third-party-exposure</link>
-      <description>Your vendors run PHP too. Here’s how to find which ones are exposed to PHP2Shell and prove they’ve patched, using scanning and a vendor questionnaire.</description>
-      <pubDate>Wed, 18 Nov 2026 06:11:22 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/php2shell-third-party-exposure</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
