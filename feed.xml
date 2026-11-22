@@ -5,9 +5,35 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 05:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:05:09 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</title>
+      <link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
+      <description>Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
+
+Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.
+
+OpenRouter, a gateway that routes customers&amp;apos; AI requests to a pool of</description>
+      <pubDate>Sun, 22 Nov 2026 10:36:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</title>
+      <link>https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html</link>
+      <description>A now-patched flaw in Ghostscript allows a crafted file to escape the program&amp;apos;s security sandbox and run commands on the server that processes it.
+
+Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.
+
+Security firm pwn.ai showed this week that ordinary upload,</description>
+      <pubDate>Sun, 22 Nov 2026 10:33:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says</title>
       <link>https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/</link>
@@ -1145,30 +1171,6 @@ AI pentesting has emerged as a way to run in-depth tests whenever teams need the
       <pubDate>Wed, 18 Nov 2026 09:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/watchdog-government-risk/</guid>
       <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation.
-
-The vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of</description>
-      <pubDate>Wed, 18 Nov 2026 13:54:31 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html</link>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.
-
-The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-service (DoS) or remote code execution under certain conditions.
-
-&amp;quot;This critical memory-corruption</description>
-      <pubDate>Wed, 18 Nov 2026 13:54:23 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
   </channel>
 </rss>
