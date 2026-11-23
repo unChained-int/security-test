@@ -5,7 +5,7 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:53:11 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -137,6 +137,15 @@ The vulnerabilities are listed below -
       <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>How Security Vendors Are Tackling Access-Control Challenges for AI Agents</title>
+      <link>https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges</link>
+      <description>Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors&amp;apos; approaches vary, so CISOs face a choice.</description>
+      <pubDate>Sat, 21 Nov 2026 01:31:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
     </item>
     <item>
       <title>CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
@@ -1163,14 +1172,6 @@ AI pentesting has emerged as a way to run in-depth tests whenever teams need the
       <description>Your AI answers come from the data you give it. Point it at current, attributed vendor data, and keep the vendor risk record that your auditors rely on.</description>
       <pubDate>Wed, 18 Nov 2026 09:35:52 +0000</pubDate>
       <guid isPermaLink="true">https://www.upguard.com/blog/ai-vendor-data</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Can You Use ChatGPT or Claude for Vendor Risk Assessments? | UpGuard</title>
-      <link>https://www.upguard.com/blog/chatgpt-or-claude-for-vendor-risk-assessments</link>
-      <description>ChatGPT and Claude can read a SOC 2 report. But a vendor risk assessment also needs evidence from outside it and a record your auditor can trace.</description>
-      <pubDate>Wed, 18 Nov 2026 09:33:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/chatgpt-or-claude-for-vendor-risk-assessments</guid>
       <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
