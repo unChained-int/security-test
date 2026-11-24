@@ -5,9 +5,56 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:49:48 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Industrial Serial Gateways Broadcast That They&amp;apos;re Insecure</title>
+      <link>https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure</link>
+      <description>Critical OT access devices will often tell you, and anyone else, whether they&amp;apos;re protected by authentication — and many aren&amp;apos;t.</description>
+      <pubDate>Mon, 23 Nov 2026 22:02:46 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal</title>
+      <link>https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal</link>
+      <description>CrowdStrike&amp;apos;s $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.</description>
+      <pubDate>Mon, 23 Nov 2026 21:21:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal</guid>
+      <dc:creator>Jeffrey Schwartz</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>US Cyber Director Pick Signals Shift Toward Expertise</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise</link>
+      <description>Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.</description>
+      <pubDate>Mon, 23 Nov 2026 20:13:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise</guid>
+      <dc:creator>Alexander Culafi</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors</link>
+      <description>Ransomware isn&amp;apos;t slowing down. A new framework gives security teams the edge to trace attackers back to their source.</description>
+      <pubDate>Mon, 23 Nov 2026 17:45:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors</guid>
+      <dc:creator>Arielle Waldman</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access</title>
+      <link>https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html</link>
+      <description>The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks.
+
+The modified variant &amp;quot;implements various tricks to hide itself from security tools,&amp;quot;</description>
+      <pubDate>Mon, 23 Nov 2026 23:15:15 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes</link>
@@ -449,6 +496,14 @@ The vulnerabilities are listed below -
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
     </item>
     <item>
+      <title>3 Security Scores, 3 Stories: What Attackers See</title>
+      <link>https://www.upguard.com/blog/security-scores-what-attackers-see</link>
+      <description>Three security leaders ran the same scan and got very different scores. Here’s what each score revealed and what they did next.</description>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/security-scores-what-attackers-see</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
+    </item>
+    <item>
       <title>How Security Vendors Are Tackling Access-Control Challenges for AI Agents</title>
       <link>https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges</link>
       <description>Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors&amp;apos; approaches vary, so CISOs face a choice.</description>
@@ -518,6 +573,23 @@ The vulnerabilities are listed below -
       <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day</guid>
       <dc:creator>Nate Nelson</dc:creator>
       <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian</link>
+      <description>Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.</description>
+      <pubDate>Fri, 20 Nov 2026 20:43:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian</guid>
+      <dc:creator>Nate Nelson</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>2026 Unwrapped: Year in Breaches</title>
+      <link>https://www.upguard.com/blog/10-data-breaches-2026</link>
+      <description>Our 2026 Unwrapped replays 10 breaches that stayed long after the headlines, including four leaks UpGuard Research found firsthand. Read more here.</description>
+      <pubDate>Fri, 20 Nov 2026 20:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.upguard.com/blog/10-data-breaches-2026</guid>
+      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
     <item>
       <title>In Security, Words Matter as Much as Tools, Maybe More</title>
@@ -1039,14 +1111,6 @@ The vulnerabilities are listed below -</description>
       <category>Digital Security</category>
     </item>
     <item>
-      <title>Build, Buy, or Blend: Where AI Fits in Your Third-Party Risk Program | UpGuard</title>
-      <link>https://www.upguard.com/blog/ai-third-party-risk-program</link>
-      <description>Using AI to build third-party risk tools in-house? Build the workflow that’s yours, and buy the vendor data no single company can collect alone.</description>
-      <pubDate>Thu, 19 Nov 2026 04:40:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/ai-third-party-risk-program</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
       <title>PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19</title>
       <link>https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html</link>
       <description>The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.
@@ -1145,63 +1209,6 @@ The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of un
       <guid isPermaLink="true">https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Five Critical Vulnerabilities Found in World&amp;apos;s Most Widely Used Open-Source Web Server</title>
-      <link>https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/</link>
-      <description>Five critical NGINX vulnerabilities could allow unauthenticated attackers to remotely execute code and potentially take control of affected servers</description>
-      <pubDate>Wed, 18 Nov 2026 16:55:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem</link>
-      <description>Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.</description>
-      <pubDate>Wed, 18 Nov 2026 16:54:52 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem</guid>
-      <dc:creator>Elizabeth Montalbano</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Most SecOps Leaders Are Changing the L1 Role as Agent Use Grows</title>
-      <link>https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/</link>
-      <description>Security leaders are rapidly redesigning SOCs for the AI agent era, with 74% already deploying the technology</description>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Shadow AI: Managing the Security Risks of Unsanctioned AI Tools | UpGuard</title>
-      <link>https://www.upguard.com/blog/unsanctioned-ai-tools</link>
-      <description>Uncover the hidden risks of unapproved AI tools in your organization. Learn to detect, manage, and secure sensitive data from shadow AI threats.</description>
-      <pubDate>Wed, 18 Nov 2026 14:25:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/unsanctioned-ai-tools</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>Uncovering the Shadow AI Paradox | UpGuard</title>
-      <link>https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</link>
-      <description>Our research into the motives of shadow AI user led to surprising discoveries.</description>
-      <pubDate>Wed, 18 Nov 2026 14:21:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/uncovering-the-shadow-ai-paradox</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>A CISO&amp;apos;s Guide to the Business Risks of AI Development Platforms | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-vibe-coding-paradox</link>
-      <description>This guide provides a strategic framework for understanding and mitigating the new wave of threats emerging from this AI-driven ecosystem.</description>
-      <pubDate>Wed, 18 Nov 2026 14:13:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-vibe-coding-paradox</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>The Shadow Supply Chain: The SSO &amp;amp; AI Visibility Gap | UpGuard</title>
-      <link>https://www.upguard.com/blog/the-sso-visibility-gap</link>
-      <description>Is your SSO enough? 31.4% of vendor interactions bypass identity logs. Discover how Shadow AI and direct logins redefine vendor visibility.</description>
-      <pubDate>Wed, 18 Nov 2026 14:11:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/the-sso-visibility-gap</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
     </item>
   </channel>
 </rss>
