@@ -5,9 +5,197 @@
     <link>https://github.com/unChained-int/security-test</link>
     <description>Aggregierter RSS-Feed aus führenden IT-Security, Privacy und Cyber Policy Quellen</description>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:26:08 +0000</lastBuildDate>
     <generator>RSS-Aggregator Script</generator>
     <atom:link href="https://raw.githubusercontent.com/unChained-int/security-test/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware</title>
+      <link>https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html</link>
+      <description>The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.
+
+&amp;quot;The loader hides in a small utils package or in conftest.py,&amp;quot; SafeDep said in a report published this week. &amp;quot;When Python imports the file, the loader reads the newest transaction that an</description>
+      <pubDate>Thu, 26 Nov 2026 20:43:41 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>CISA Issues Alert After Danfoss Reveals Critical Flaw in Fridge Controllers</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-alert-danfoss-critical-flaw/</link>
+      <description>Food retailers are in the firing line again after manufacturer Danfoss issued an alert about a critical new flaw</description>
+      <pubDate>Thu, 26 Nov 2026 14:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-alert-danfoss-critical-flaw/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Google Cloud Requires AI Agents to Access Workspace Through Approved Methods</title>
+      <link>https://www.infosecurity-magazine.com/news/google-cloud-ai-agents-workspace/</link>
+      <description>Google Cloud users will soon be required to use Workspace MCP servers or command line interface to connect AI agents to tools like Gmail, Google Drive or Docs</description>
+      <pubDate>Thu, 26 Nov 2026 13:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/google-cloud-ai-agents-workspace/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Critical Juniper Session Smart Conductor Flaw Exploited in Attacks</title>
+      <link>https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/</link>
+      <description>&amp;lt;p&amp;gt;Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/&amp;quot;&amp;gt;Critical Juniper Session Smart Conductor Flaw Exploited in Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 26 Nov 2026 13:04:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/</guid>
+      <dc:creator>Ionut Arghire</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>exploited</category>
+      <category>Juniper</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Phishers Abuse Hugging Face&amp;apos;s AI Site Builder to Spoof Big Brands</title>
+      <link>https://www.infosecurity-magazine.com/news/hugging-face-ai-builder-phishing/</link>
+      <description>Aikido found 42 phishing pages on Hugging Face Spaces, two-thirds made with its AI site builder</description>
+      <pubDate>Thu, 26 Nov 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/hugging-face-ai-builder-phishing/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks</title>
+      <link>https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/</link>
+      <description>&amp;lt;p&amp;gt;Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/&amp;quot;&amp;gt;Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 26 Nov 2026 11:35:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>CISA KEV</category>
+      <category>exploited</category>
+      <category>Featured</category>
+      <category>MiCollab</category>
+      <category>Mitel</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>Chinese, North Korean Hackers Adopt ARTEX AI Offensive Framework</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-north-korea-artex/</link>
+      <description>Microsoft has confirmed nation-state actors’ deployment of the ARTEX in their tooling, while the CSA described the emergence of the tool as part of a “third wave” of AI-driven threats</description>
+      <pubDate>Thu, 26 Nov 2026 11:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/chinese-north-korea-artex/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls</title>
+      <link>https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html</link>
+      <description>Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.
+
+At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user.
+
+How an</description>
+      <pubDate>Thu, 26 Nov 2026 16:27:55 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach</title>
+      <link>https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html</link>
+      <description>Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed.
+
+&amp;quot;While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a</description>
+      <pubDate>Thu, 26 Nov 2026 16:27:25 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Home Office Reprimanded After GDPR Failure at the Border</title>
+      <link>https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/</link>
+      <description>The ICO has reprimanded the Home Office after data integrity failings caused distress at the border</description>
+      <pubDate>Thu, 26 Nov 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>1Password Hit by Backend Breach via Hijacked Employee GitHub Account</title>
+      <link>https://www.infosecurity-magazine.com/news/1password-github-account-backend/</link>
+      <description>An attacker used a 1Password employee&amp;apos;s GitHub account to take customer data, but not vaults</description>
+      <pubDate>Thu, 26 Nov 2026 09:32:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/1password-github-account-backend/</guid>
+      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
+    </item>
+    <item>
+      <title>Drupal Installer Patch Left a Gap Attackers Are Already Exploiting</title>
+      <link>https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/</link>
+      <description>&amp;lt;p&amp;gt;Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/&amp;quot;&amp;gt;Drupal Installer Patch Left a Gap Attackers Are Already Exploiting&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 26 Nov 2026 09:12:26 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Vulnerabilities</category>
+      <category>Drupal</category>
+      <category>exploited</category>
+      <category>vulnerability</category>
+    </item>
+    <item>
+      <title>1Password Breach Exposes Customer Data, Internal Source Code</title>
+      <link>https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/</link>
+      <description>&amp;lt;p&amp;gt;A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/&amp;quot;&amp;gt;1Password Breach Exposes Customer Data, Internal Source Code&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
+      <pubDate>Thu, 26 Nov 2026 08:32:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/</guid>
+      <dc:creator>Eduard Kovacs</dc:creator>
+      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
+      <category>Data Breaches</category>
+      <category>1Password</category>
+      <category>data breach</category>
+      <category>Featured</category>
+      <category>source code</category>
+    </item>
+    <item>
+      <title>Cyprus Becomes Espionage Target for Iranian Hackers</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers</link>
+      <description>A previously undocumented Iranian threat group called &amp;amp;quot;Volant Manticore&amp;amp;quot; is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.</description>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers</guid>
+      <dc:creator>Jai Vijayan</dc:creator>
+      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
+    </item>
+    <item>
+      <title>Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation</title>
+      <link>https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html</link>
+      <description>Drupal has warned of a new &amp;quot;highly critical&amp;quot; security flaw impacting Drupal core that it said has been exploited in the wild.
+
+The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states</description>
+      <pubDate>Thu, 26 Nov 2026 12:32:34 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products</title>
+      <link>https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html</link>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week.
+
+The Mitel MiCollab vulnerabilities are listed below -
+
+
+  CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and</description>
+      <pubDate>Thu, 26 Nov 2026 12:14:46 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
+    <item>
+      <title>13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps</title>
+      <link>https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html</link>
+      <description>Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.
+
+&amp;quot;Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,&amp;quot; Socket security researcher Kush Pandya said in a technical write-up. &amp;quot;In the versions we analyzed, building or running a</description>
+      <pubDate>Thu, 26 Nov 2026 09:18:52 +0530</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html</guid>
+      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
+      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
+    </item>
     <item>
       <title>US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds</title>
       <link>https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/</link>
@@ -268,39 +456,6 @@ Checks</description>
       <category>vulnerability</category>
     </item>
     <item>
-      <title>Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls</title>
-      <link>https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/</link>
-      <description>&amp;lt;p&amp;gt;A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/&amp;quot;&amp;gt;Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 25 Nov 2026 08:12:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>exploited</category>
-      <category>Fragnesia</category>
-      <category>Linux vulnerability</category>
-      <category>Palo Alto Networks</category>
-      <category>PAN-OS</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
-      <title>Drupal Flaw Found by Anthropic Scanner Exploited in Attacks</title>
-      <link>https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/</link>
-      <description>&amp;lt;p&amp;gt;CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. &amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/&amp;quot;&amp;gt;Drupal Flaw Found by Anthropic Scanner Exploited in Attacks&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Wed, 25 Nov 2026 08:01:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/</guid>
-      <dc:creator>Eduard Kovacs</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Artificial Intelligence</category>
-      <category>Vulnerabilities</category>
-      <category>Drupal</category>
-      <category>exploited</category>
-      <category>Featured</category>
-      <category>vulnerability</category>
-    </item>
-    <item>
       <title>Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign</title>
       <link>https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html</link>
       <description>An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.
@@ -332,20 +487,6 @@ The WordPress plugins team has proactively detected and blocked the threat befor
       <guid isPermaLink="true">https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says</title>
-      <link>https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/</link>
-      <description>&amp;lt;p&amp;gt;It was not clear what specific information was compromised or who was responsible.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/&amp;quot;&amp;gt;An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 24 Nov 2026 22:41:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/</guid>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Cyberwarfare</category>
-      <category>Incident Response</category>
-      <category>CIA</category>
-      <category>Featured</category>
     </item>
     <item>
       <title>Satellites Have a Ground-Level Cybersecurity Problem</title>
@@ -408,19 +549,6 @@ Central to the group&amp;apos;s operations is a backdoor called KuboShell that u
       <guid isPermaLink="true">https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</guid>
       <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
       <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>VMware Updates Patch Critical ESX, vCenter Vulnerabilities</title>
-      <link>https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/</link>
-      <description>&amp;lt;p&amp;gt;The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/&amp;quot;&amp;gt;VMware Updates Patch Critical ESX, vCenter Vulnerabilities&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.securityweek.com&amp;quot;&amp;gt;SecurityWeek&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Tue, 24 Nov 2026 16:32:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/</guid>
-      <dc:creator>Ionut Arghire</dc:creator>
-      <source url="https://www.securityweek.com/feed">SecurityWeek</source>
-      <category>Vulnerabilities</category>
-      <category>VMware</category>
-      <category>vulnerabilities</category>
     </item>
     <item>
       <title>New Inception Extortion Brand Tied to SSO Vishing Campaign</title>
@@ -1013,173 +1141,6 @@ The vulnerabilities are listed below -
       <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
       <category>Uncategorized</category>
       <category>squid</category>
-    </item>
-    <item>
-      <title>China&amp;apos;s &amp;apos;Armory Castle&amp;apos; Lays Siege to VMware vCenter Zero-Day</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day</link>
-      <description>During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.</description>
-      <pubDate>Fri, 20 Nov 2026 21:03:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian</link>
-      <description>Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.</description>
-      <pubDate>Fri, 20 Nov 2026 20:43:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian</guid>
-      <dc:creator>Nate Nelson</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>2026 Unwrapped: Year in Breaches</title>
-      <link>https://www.upguard.com/blog/10-data-breaches-2026</link>
-      <description>Our 2026 Unwrapped replays 10 breaches that stayed long after the headlines, including four leaks UpGuard Research found firsthand. Read more here.</description>
-      <pubDate>Fri, 20 Nov 2026 20:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.upguard.com/blog/10-data-breaches-2026</guid>
-      <source url="https://www.upguard.com/blog/rss.xml">UpGuard Blog</source>
-    </item>
-    <item>
-      <title>In Security, Words Matter as Much as Tools — Maybe More</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/security-words-matter</link>
-      <description>From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.</description>
-      <pubDate>Fri, 20 Nov 2026 18:35:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cybersecurity-operations/security-words-matter</guid>
-      <dc:creator>Becky Bracken</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams</title>
-      <link>https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html</link>
-      <description>Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.
-
-The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.</description>
-      <pubDate>Fri, 20 Nov 2026 23:27:20 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>What We Missed: Nvidia CEO Scandal Rocks AI Industry</title>
-      <link>https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry</link>
-      <description>In this video, Dark Reading editors discuss some of the news they didn&amp;apos;t get a chance to cover, from Jensen Huang&amp;apos;s resignation from Nvidia to Microsoft&amp;apos;s recent cloud outage.</description>
-      <pubDate>Fri, 20 Nov 2026 17:04:04 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry</guid>
-      <dc:creator>Rob Wright, Alexander Culafi</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control</title>
-      <link>https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html</link>
-      <description>Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.
-
-Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan.
-
-&amp;quot;Bazuka is a full malware framework,</description>
-      <pubDate>Fri, 20 Nov 2026 22:28:16 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>JPMorgan Confirms Customer Data Breach Following Third-Party Compromise</title>
-      <link>https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/</link>
-      <description>Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site</description>
-      <pubDate>Fri, 20 Nov 2026 16:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>This Week in Tech: AI Gets More Access, Anthropic Gets Its IPO</title>
-      <link>https://www.techrepublic.com/article/this-week-in-tech-ai-gets-more-access-anthropic-gets-its-ipo/</link>
-      <description>&amp;lt;p&amp;gt;See what you missed in Daily Tech Insider from Nov. 16–20.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;The post &amp;lt;a href=&amp;quot;https://www.techrepublic.com/article/this-week-in-tech-ai-gets-more-access-anthropic-gets-its-ipo/&amp;quot;&amp;gt;This Week in Tech: AI Gets More Access, Anthropic Gets Its IPO&amp;lt;/a&amp;gt; appeared first on &amp;lt;a href=&amp;quot;https://www.techrepublic.com&amp;quot;&amp;gt;TechRepublic&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 20 Nov 2026 15:01:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.techrepublic.com/article/this-week-in-tech-ai-gets-more-access-anthropic-gets-its-ipo/</guid>
-      <dc:creator>TechRepublic Staff</dc:creator>
-      <source url="https://www.techrepublic.com/rssfeeds/topic/cybersecurity/">Cybersecurity Archives - TechRepublic</source>
-      <category>AI</category>
-      <category>Amazon</category>
-      <category>Android</category>
-      <category>Anthropic</category>
-      <category>Apple</category>
-      <category>ChatGPT</category>
-      <category>Cybersecurity</category>
-      <category>Data Security</category>
-      <category>Digital Health and Wellness</category>
-      <category>E-Commerce</category>
-      <category>Ecommerce</category>
-      <category>Enterprise Software</category>
-      <category>Google</category>
-      <category>iOS</category>
-      <category>Java</category>
-      <category>Linux</category>
-      <category>Meta</category>
-      <category>Microsoft</category>
-      <category>OpenAI</category>
-      <category>Privacy</category>
-      <category>Python</category>
-      <category>Robotics</category>
-      <category>Samsung</category>
-      <category>Tech Regulation</category>
-      <category>Tech Wearables</category>
-      <category>Weekly Roundup</category>
-      <category>Windows</category>
-      <category>ai agents</category>
-      <category>anthropic ipo</category>
-      <category>apple smart glasses</category>
-      <category>chatgpt wallet</category>
-      <category>Daily Tech Insider</category>
-      <category>gpt-6.2</category>
-      <category>humanoid robots</category>
-      <category>java4shell</category>
-      <category>microsoft copilot</category>
-      <category>Newsletter Roundup</category>
-      <category>software supply chain</category>
-      <category>waymo freeway pause</category>
-    </item>
-    <item>
-      <title>Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/</link>
-      <description>A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks</description>
-      <pubDate>Fri, 20 Nov 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/</guid>
-      <source url="https://www.infosecurity-magazine.com/rss/news/">Unknown Source</source>
-    </item>
-    <item>
-      <title>Microsoft Debuts Offensive, Defensive Security Tools for the AI Era</title>
-      <link>https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools</link>
-      <description>At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.</description>
-      <pubDate>Fri, 20 Nov 2026 13:51:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools</guid>
-      <dc:creator>Agam Shah</dc:creator>
-      <source url="https://www.darkreading.com/rss.xml">darkreading</source>
-    </item>
-    <item>
-      <title>Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts</title>
-      <link>https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</link>
-      <description>A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server&amp;apos;s memory from inside a virtual machine of their own on DigitalOcean.
-
-On a shared server, that memory can include other customers&amp;apos; virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled.
-
-Fixed kernels shipped</description>
-      <pubDate>Fri, 20 Nov 2026 17:50:00 +0530</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</guid>
-      <dc:creator>info@thehackernews.com (The Hacker News)</dc:creator>
-      <source url="https://feeds.feedburner.com/TheHackersNews?format=xml">The Hacker News</source>
-    </item>
-    <item>
-      <title>Opening a 400-Year-Old Cryptex</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html</link>
-      <description>&amp;lt;p&amp;gt;Researchers used CT scanning technology to recover the code and &amp;lt;a href=&amp;quot;https://www.bbc.com/news/articles/c69qz9jzq4jro&amp;quot;&amp;gt;open&amp;lt;/a&amp;gt; a 400-year-old cryptex padlock.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;You can buy a USB-drive &amp;lt;a href=&amp;quot;https://puzzleboxworld.com/products/cryptex-antique-gold-color-usb-flash-drive-16-gb&amp;quot;&amp;gt;cryptex&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>
-      <pubDate>Fri, 20 Nov 2026 12:04:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html</guid>
-      <dc:creator>Bruce Schneier</dc:creator>
-      <source url="https://www.schneier.com/feed/atom/">Schneier on Security</source>
-      <category>Uncategorized</category>
-      <category>history of cryptography</category>
     </item>
   </channel>
 </rss>
